@@ -1,5 +1,5 @@
 # aXa-trees
-aXa stands for _arbustum_ ΧΡΙΣΤΙΑΝΩΝ _antiquorum_, "a forest of Christian ancients". Its symbol is a nominum sacrum evoking ancient scribal practices and a nod to the centrality of Christian scripture in historical corpus linguistics.
+aXa stands for _arbustum_ ΧΡΙΣΤΙΑΝΩΝ _antiquorum_, "a forest of Christian ancients". Its symbol is a _nomen sacrum_ evoking ancient scribal practices and a nod to the centrality of Christian scripture in historical corpus linguistics.
 
 ## The Problem
 While many other treebanks of New Testament texts exist, they do not conform to established international standards, and thus make parsing and comparison with broader Greek linguistic corpora difficult.
