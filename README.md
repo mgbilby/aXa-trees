@@ -1,4 +1,4 @@
-### aXa-trees
+# aXa-trees
 aXa stands for arbustum Χριστιανών antiquorum, "a forest of Christian ancients". Its symbol is a nominum sacrum evoking ancient scribal practices and a nod to the centrality of Christian scripture in historical corpus linguistics.
 
 ## The Problem
@@ -13,10 +13,10 @@ By adopting both formats, then aligning and combining them into a single represe
 ## The Credits
 These postclassical Greek syntactical trees (aka dependency treebanks) are (to varying degrees) typically based on earlier openly licensed treebanks and projects as detailed below.
 
-# PROIEL - Universal Dependencies format - CoNLL-U
+### PROIEL - Universal Dependencies format - CoNLL-U
 The PROIEL treebanks include most Greek New Testament texts based on the Editio Octava (Eighth Edition) of the Greek New Testament (GNT) by Constantin Tischendorf (1869/1872), a work now in the public domain. The latest version of the PROIEL xml and conllu files may be found in the Syntacticus repo [https://github.com/syntacticus/syntacticus-treebank-data/blob/main/proiel/greek-nt.conll]. The conllu data used in this repo are largely derived from the tripartite-split files used in the Universal Treebanks PROIEL model, described at and available from: [https://universaldependencies.org/treebanks/grc_proiel/index.html]. When specific verses, chapter, or books are missing, these are added from text processed using the UDpipe PROIEL model, with expert edits and corrections as needed.
 
-# Glaux - Ancient Greek and Latin Dependency format - XML
+### Glaux - Ancient Greek and Latin Dependency format - XML
 The Glaux treebanks of New Testament texts were produced based on the manual tagging of the PROIEL project, again following Tischendorf's GNT, with automated, semi-automated, and manual transformations applied. The Glaux treebanks follow the AGDT standard in most respects, and were produced under the expert direction of Toon van Haal and Alek Keersmaekers at KU-Leuven. They are licensed under a CC0 1.0 license [https://github.com/perseids-publications/glaux-trees/blob/master/TREEBANK_LICENSE].
 
 ## The Invitation
