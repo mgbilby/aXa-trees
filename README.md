@@ -2,7 +2,7 @@
 aXa stands for arbustum ΧΡΙΣΤΙΑΝΩΝ antiquorum, "a forest of Christian ancients". Its symbol is a nominum sacrum evoking ancient scribal practices and a nod to the centrality of Christian scripture in historical corpus linguistics.
 
 ## The Problem
-While many other treebanks of New Testament texts exist, they do not conform to any established international standard, and thus make parsing and comparison with broader Greek linguistic corpora difficult.
+While many other treebanks of New Testament texts exist, they do not conform to established international standards, and thus make parsing and comparison with broader Greek linguistic corpora difficult.
 
 ## The Background 
 These treebanks simultaneously follow and adopt both of the leading international standards for syntactical treebanks: Universal Dependencies (UD) and Ancient Greek and Latin Dependency (AGDT). The UD standard is itself a combination, specifically of the Stanford dependencies and Google universal tags, and now extends to test/train data and models in over 200 languages. The AGDT standard was developed among leading scholars of Classical Greek and Latin, and it boasts the greatest amount of gold-standard, expert-tagged syntactical data of Classical Greek in the world (over 500k tokens), with millions more tokens produced in a largely identical format by the Glaux project.
