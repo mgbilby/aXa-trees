@@ -1,2 +1,23 @@
-# aXa-trees
-arbustum Χριστιανών antiquorum
+### aXa-trees
+aXa stands for arbustum Χριστιανών antiquorum, "a forest of Christian ancients", and its symbol is a nominum sacrum evoking ancient scribal practices and a nod to the centrality of Christian scripture in historical corpus linguistics.
+
+## The Problem
+While many other treebanks of New Testament texts exist, they do not conform to any established international standard, and thus make parsing and comparison with broader Greek linguistic corpora difficult.
+
+## The Background 
+These treebanks simultaneously follow and adopt both of the leading international standards for syntactical treebanks: Universal Dependencies (UD) and Ancient Greek and Latin Dependency (AGDT). The former standard is itself a combination, specifically of the Stanford dependencies and Google universal tags, and now extends to test/train data and models in over 200 languages. The latter standard was developed among classicists specializing in ancient Greek and Latin, and has the greatest amount of gold-standard, expert-tagged syntactical data of Greek in the world (over 500k tokens).
+
+## The Purpose
+By adopting both formats, then aligning and combining them into a single representation, we maximize the potential for cross-validation, for the use of these treebanks as crosswalks between the two leading formats, and for broad accessibility and comparison within computational linguistic analyses and applications.
+
+## The Credits
+These postclassical Greek syntactical trees (aka dependency treebanks) are (to varying degrees) typically based on earlier openly licensed treebanks and projects as detailed below.
+
+# PROIEL - Universal Dependencies format - CoNLL-U
+The PROIEL treebanks include most Greek New Testament texts based on the Editio Octava (Eighth Edition) of the Greek New Testament (GNT) by Constantin Tischendorf (1869/1872), a work now in the public domain. The latest version of the PROIEL xml and conllu files may be found in the Syntacticus repo [https://github.com/syntacticus/syntacticus-treebank-data/blob/main/proiel/greek-nt.conll]. The conllu data used in this repo are largely derived from the tripartite-split files used in the Universal Treebanks PROIEL model, described at and available from: [https://universaldependencies.org/treebanks/grc_proiel/index.html]. When specific verses, chapter, or books are missing, these are added from text processed using the UDpipe PROIEL model, with expert edits and corrections as needed.
+
+# Glaux - Ancient Greek and Latin Dependency format - XML
+The Glaux treebanks of New Testament texts were produced based on the manual tagging of the PROIEL project, again following Tischendorf's GNT, with automated, semi-automated, and manual transformations applied. The Glaux treebanks follow the AGDT standard in most respects, and were produced under the expert direction of Toon van Haal and Alek Keersmaekers at KU-Leuven. They are licensed under a CC0 1.0 license [https://github.com/perseids-publications/glaux-trees/blob/master/TREEBANK_LICENSE].
+
+## The Invitation
+Collaborators are welcome to join in our efforts to curate gold-standard UD- and AGDT-treebanks of early Christian texts. The most effective way to contribute is to make pull requests and propose edits to the edited source files (xml and conllu), rather than the original files or the combined output, since the original files are needed for reference and the combined output is generated with a scripting pipeline.
