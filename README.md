@@ -8,7 +8,7 @@ While many other treebanks of New Testament texts exist, they do not conform to 
 These treebanks simultaneously follow and adopt both of the leading international standards for syntactical treebanks: Universal Dependencies (UD) and Ancient Greek and Latin Dependency (AGDT). The UD standard is itself a combination, specifically of the Stanford dependencies and Google universal tags, and now extends to test/train data and models in over 200 languages. The AGDT standard was developed among leading scholars of Classical Greek and Latin, and it boasts the greatest amount of gold-standard, expert-tagged syntactical data of Classical Greek in the world (over 500k tokens), with millions more tokens produced in a largely identical format by the Glaux project.
 
 ## The Purpose
-By adopting both formats, then aligning and combining them into a single representation, we maximize the potential for cross-validation, for the use of these treebanks as crosswalks between the two leading formats, and for broad accessibility and comparison within computational linguistic analyses and applications.
+By adopting both UD and AGDT formats, then aligning and combining them into a single representation, we maximize the potential for cross-validation, for the use of these treebanks as crosswalks between the two leading formats, and for broad accessibility and comparison within computational linguistic analyses and applications.
 
 ## The Credits
 These postclassical Greek syntactical trees (aka dependency treebanks) are (to varying degrees) typically based on earlier openly licensed treebanks and projects as detailed below.
