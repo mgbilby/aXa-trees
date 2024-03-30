@@ -1,8 +1,10 @@
 Base source treebanks from the Glaux (xml) and PROIEL (conllu) projects are made available under their licenses:
-> The PROIEL Treebanks are made freely available under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/).
-> The Glaux treebanks are made freely available under a [CC0 1.0 license](https://github.com/perseids-publications/glaux-trees/blob/master/TREEBANK_LICENSE). 
+___
+> The PROIEL Treebanks are made freely available under a [CC BY-NC-SA 3.0 license](http://creativecommons.org/licenses/by-nc-sa/3.0/us/).
+___
+> The GlauX treebanks are made freely available under a [CC0 1.0 license](https://github.com/perseids-publications/glaux-trees/blob/master/TREEBANK_LICENSE). 
 
-Corrections to--and combinations and derivatives of--these treebanks are made freely available under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/).
+Original treebanks, as well as corrections to and combinations of the PROIEL and GlauX treebanks are made freely available under a [CC BY-NC-SA 3.0 license](http://creativecommons.org/licenses/by-nc-sa/3.0/us/).
 
 This repo is only intended for datasets, not for code. Still, we append a general disclaimer:
 
