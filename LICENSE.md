@@ -3,6 +3,7 @@ ___
 > The PROIEL Treebanks are made freely available under a [CC BY-NC-SA 3.0 license](http://creativecommons.org/licenses/by-nc-sa/3.0/us/).
 ___
 > The GlauX treebanks are made freely available under a [CC0 1.0 license](https://github.com/perseids-publications/glaux-trees/blob/master/TREEBANK_LICENSE). 
+___
 
 Original treebanks, as well as corrections to and combinations of the PROIEL and GlauX treebanks are made freely available under a [CC BY-NC-SA 3.0 license](http://creativecommons.org/licenses/by-nc-sa/3.0/us/).
 
