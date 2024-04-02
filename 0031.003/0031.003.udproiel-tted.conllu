@@ -1782,24 +1782,24 @@
 11	εὐδοκίας	εὐδοκία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	ref=LUKE_2.14
 
 # source = The Greek New Testament, Luke 2
-# text = οὐ γάρ ἐστιν τι κρυπτὸν ἐὰν μὴ ἵνα φανερωθῇ
+# text = Καὶ ἐγένετο ὡς ἀπῆλθον ἀπ’ αὐτῶν εἰς τὸν οὐρανὸν οἱ ἄγγελοι οἱ ποιμένες ἐλάλουν πρὸς ἀλλήλους
 # sent_id = 20242
-1	καὶ	καί	CCONJ	C-	_	2	cc	_	Ref=LUKE_2.15|sub
-2	ἐγένετο	γίγνομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Ref=LUKE_2.15|sub
-3	ὡς	ὡς	SCONJ	G-	_	4	mark	_	Ref=LUKE_2.15|sub
-4	ἀπῆλθον	ἀπέρχομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	advcl	_	Ref=LUKE_2.15|sub
-5	ἀπ’	ἀπό	ADP	R-	_	6	case	_	Ref=LUKE_2.15|sub
-6	αὐτῶν	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	obl	_	Ref=LUKE_2.15|sub
-7	εἰς	εἰς	ADP	R-	_	9	case	_	Ref=LUKE_2.15|sub
-8	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	Ref=LUKE_2.15|sub
-9	οὐρανὸν	οὐρανός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	Ref=LUKE_2.15|sub
-10	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	11	det	_	Ref=LUKE_2.15|sub
-11	ἄγγελοι	ἄγγελος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	Ref=LUKE_2.15|sub
-12	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	13	det	_	Ref=LUKE_2.15|sub
-13	ποιμένες	ποιμήν	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	11	nmod	_	Ref=LUKE_2.15|sub
-14	ἐλάλουν	λαλέω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	Ref=LUKE_2.15|sub
-15	πρὸς	πρός	ADP	R-	_	16	case	_	Ref=LUKE_2.15|sub
-16	ἀλλήλους	ἀλλήλων	PRON	Pc	Case=Acc|Gender=Masc|Number=Plur|PronType=Rcp	14	obl	_	Ref=LUKE_2.15|sub
+ 1	Καὶ	καί	CCONJ	C-	_	 2	cc	_	LUKE_2.15|sub
+ 3	ἐγένετο	γίγνομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	 0	root	_	LUKE_2.15|sub
+ 4	ὡς	ὡς	SCONJ	Df	_	14	mark	_	LUKE_2.15|sub
+ 5	ἀπῆλθον	ἀπέρχομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	 3	advcl	_	LUKE_2.15|sub
+ 6	ἀπ’	ἀπό	ADP	R-	_	 4	case	_	LUKE_2.15|sub
+ 7	αὐτῶν	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	 5	obl	_	LUKE_2.15|sub
+ 8	εἰς	εἰς	ADP	R-	_	 4	case	_	LUKE_2.15|sub
+ 9	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	 9	det	_	LUKE_2.15|sub
+10	οὐρανὸν	οὐρανός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	 7	obl	_	LUKE_2.15|sub
+11	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	11	det	_	LUKE_2.15|sub
+12	ἄγγελοι	ἄγγελος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	 4	nsubj	_	LUKE_2.15|sub
+13	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	13	det	_	LUKE_2.15|sub
+14	ποιμένες	ποιμήν	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	14	nmod	_	LUKE_2.15|sub
+15	ἐλάλουν	λαλέω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	 2	ccomp	_	LUKE_2.15|sub
+16	πρὸς	πρός	ADP	R-	_	14	case	_	LUKE_2.15|sub
+17	ἀλλήλους	ἀλλήλων	PRON	Pc	Case=Acc|Gender=Masc|Number=Plur|PronType=Rcp	15	obl	_	LUKE_2.15|sub
 
 # source = The Greek New Testament, Luke 2
 # text = διέλθωμεν δὴ ἕως Βηθλεὲμ καὶ ἴδωμεν τὸ ῥήμα τοῦτο τὸ γεγονὸς ὃ ὁ κύριος ἐγνώρισεν ἡμῖν
@@ -17269,29 +17269,25 @@
 25	σιτευτόν	σιτευτός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	23	nmod	_	ref=LUKE_15.23
 
 # source = The Greek New Testament, Luke 15
+# text = θύσατε καὶ φαγόντες εὐφρανθῶμεν ὅτι οὗτος ὁ υἱός μου νεκρὸς ἦν καὶ ἀνέζησεν ἦν ἀπολωλὼς καὶ εὑρέθη
 # sent_id = 48498
-# text = θύσατε
-1	θύσατε	θύω	VERB	V-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=LUKE_15.23|sub
-
-# source = The Greek New Testament, Luke 15
-# sent_id = 48498
-# text = καὶ φαγόντες εὐφρανθῶμεν ὅτι οὗτος ὁ υἱός μου νεκρὸς ἦν καὶ ἀνέζησεν ἦν ἀπολωλὼς καὶ εὑρέθη
-1	καὶ	καί	CCONJ	C-	_	3	cc	_	Ref=LUKE_15.23|sub
-2	φαγόντες	φαγόντες	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	3	advcl	_	Ref=LUKE_15.23|sub
-3	εὐφρανθῶμεν	εὐφρανθάω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Ref=LUKE_15.24|sub
-4	ὅτι	ὅτι	SCONJ	G-	_	9	mark	_	Ref=LUKE_15.24|sub
-5	οὗτος	οὗτος	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	7	det	_	Ref=LUKE_15.24|sub
-6	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	Ref=LUKE_15.24|sub
-7	υἱός	υἱός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	Ref=LUKE_15.24|sub
-8	μου	ἐγώ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	det	_	Ref=LUKE_15.24|sub
-9	νεκρὸς	νεκρός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	ccomp	_	Ref=LUKE_15.24|sub
-10	ἦν	εἰμί	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	Ref=LUKE_15.24|sub
-11	καὶ	καί	CCONJ	C-	_	3	cc	_	Ref=LUKE_15.24|sub
-12	ἀνέζησεν	ἀναζάω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	Ref=LUKE_15.24|sub
-13	ἦν	εἰμί	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	cop	_	Ref=LUKE_15.24|sub
-14	ἀπολωλὼς	ἀπολωλῶς	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	12	advcl	_	Ref=LUKE_15.24|sub
-15	καὶ	καί	CCONJ	C-	_	14	cc	_	Ref=LUKE_15.24|sub
-16	εὑρέθη	εὑρίσκω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	14	conj	_	|Ref=|LUKE_15.24|sub
+ 2	θύσατε	θύω	VERB	V-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	 2	root	_	LUKE_15.23|sub
+ 4	καὶ	καί	CCONJ	C-	_	 0	cc	_	LUKE_15.23|sub
+ 5	φαγόντες	φαγόντες	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	 4	advcl	_	LUKE_15.23|sub
+ 8	εὐφρανθῶμεν	εὐφρανθάω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	 2	root	_	LUKE_15.23|sub
+ 9	ὅτι	ὅτι	SCONJ	G-	_	 4	mark	_	LUKE_15.24|sub
+10	οὗτος	οὗτος	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	 8	det	_	LUKE_15.24|sub
+11	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	 8	det	_	LUKE_15.24|sub
+12	υἱός	υἱός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	LUKE_15.24|sub
+13	μου	ἐγώ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	 8	det	_	LUKE_15.24|sub
+14	νεκρὸς	νεκρός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	ccomp	_	LUKE_15.24|sub
+15	ἦν	εἰμί	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	cop	_	LUKE_15.24|sub
+16	καὶ	καί	CCONJ	C-	_	 5	cc	_	LUKE_15.24|sub
+18	ἀνέζησεν	ἀναζάω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	LUKE_15.24|sub
+20	ἦν	εἰμί	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	cop	_	LUKE_15.24|sub
+21	ἀπολωλὼς	ἀπολωλῶς	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	14	advcl	_	LUKE_15.24|sub
+22	καὶ	καί	CCONJ	C-	_	 5	cc	_	LUKE_15.24|sub
+24	εὑρέθη	εὑρίσκω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	16	conj	_	LUKE_15.24|sub
 
 # source = The Greek New Testament, Luke 15
 # text = καὶ ἤρξαντο εὐφραίνεσθαι
@@ -22537,16 +22533,16 @@
 # source = The Greek New Testament, Luke 21
 # text = σεισμοί τε μεγάλοι καὶ κατὰ τόπους λιμοὶ καὶ λοιμοὶ ἔσονται
 # sent_id = 48571
-1	σεισμοί	σεισμός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	0	root	_	Ref=LUKE_21.11|sub
-2	τε	τε	CCONJ	C-	_	1	cc	_	Ref=LUKE_21.11|sub
-3	μεγάλοι	μέγας	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	1	amod	_	Ref=LUKE_21.11|sub
-4	καὶ	καί	CCONJ	C-	_	1	cc	_	Ref=LUKE_21.11|sub
-5	κατὰ	κατά	ADP	R-	_	6	case	_	Ref=LUKE_21.11|sub
-6	τόπους	τόπος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	10	obl	_	Ref=LUKE_21.11|sub
-7	λιμοὶ	λιμός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	Ref=LUKE_21.11|sub
-8	καὶ	καί	CCONJ	C-	_	7	cc	_	Ref=LUKE_21.11|sub
-9	λοιμοὶ	λοιμός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	7	conj	_	Ref=LUKE_21.11|sub
-10	ἔσονται	εἰμί	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	1	conj	_	|Ref=|LUKE_21.11|sub
+ 1	σεισμοί	σεισμός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	 0	root	_	LUKE_21.11|sub
+ 2	τε	τε	CCONJ	C-	_	 0	cc	_	LUKE_21.11|sub
+ 3	μεγάλοι	μέγας	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	 1	amod	_	LUKE_21.11|sub
+ 4	καὶ	καί	CCONJ	C-	_	 0	cc	_	LUKE_21.11|sub
+ 5	κατὰ	κατά	ADP	R-	_	10	case	_	LUKE_21.11|sub
+ 6	τόπους	τόπος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	 5	obl	_	LUKE_21.11|sub
+ 7	λιμοὶ	λιμός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	 8	nsubj	_	LUKE_21.11|sub
+ 8	καὶ	καί	CCONJ	C-	_	10	cc	_	LUKE_21.11|sub
+ 9	λοιμοὶ	λοιμός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	 8	conj	_	LUKE_21.11|sub
+10	ἔσονται	εἰμί	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	 4	conj	_	LUKE_21.11|sub
 
 # source = The Greek New Testament, Luke 21
 # text = φόβητρά τε καὶ σημεῖα ἀπ’ οὐρανοῦ μεγάλα ἔσται
