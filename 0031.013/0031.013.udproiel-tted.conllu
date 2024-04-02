@@ -1,0 +1,1805 @@
+# source = The Greek New Testament, 1 Thessalonians 1
+# text = Παῦλος καὶ Σιλουανὸς καὶ Τιμόθεος τῇ ἐκκλησίᾳ Θεσσαλονικέων ἐν θεῷ πατρὶ καὶ κυρίῳ Ἰησοῦ Χριστῷ
+# sent_id = 30261
+1	Παῦλος	Παῦλος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=1THESS_1.1
+2	καὶ	καί	CCONJ	C-	_	3	cc	_	ref=1THESS_1.1
+3	Σιλουανὸς	Σιλουανός	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	ref=1THESS_1.1
+4	καὶ	καί	CCONJ	C-	_	5	cc	_	ref=1THESS_1.1
+5	Τιμόθεος	Τιμόθεος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	ref=1THESS_1.1
+6	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	ref=1THESS_1.1
+7	ἐκκλησίᾳ	ἐκκλησία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	1	orphan	_	ref=1THESS_1.1
+8	Θεσσαλονικέων	Θεσσαλονικεύς	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	ref=1THESS_1.1
+9	ἐν	ἐν	ADP	R-	_	10	case	_	ref=1THESS_1.1
+10	θεῷ	θεός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	orphan	_	ref=1THESS_1.1
+11	πατρὶ	πατήρ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	10	appos	_	ref=1THESS_1.1
+12	καὶ	καί	CCONJ	C-	_	13	cc	_	ref=1THESS_1.1
+13	κυρίῳ	κύριος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	10	conj	_	ref=1THESS_1.1
+14	Ἰησοῦ	Ἰησοῦς	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	13	appos	_	ref=1THESS_1.1
+15	Χριστῷ	Χριστός	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	14	flat:name	_	ref=1THESS_1.1
+
+# source = The Greek New Testament, 1 Thessalonians 1
+# text = χάρις ὑμῖν καὶ εἰρήνη
+# sent_id = 30262
+1	χάρις	χάρις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	ref=1THESS_1.1
+2	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	1	orphan	_	ref=1THESS_1.1
+3	καὶ	καί	CCONJ	C-	_	4	cc	_	ref=1THESS_1.1
+4	εἰρήνη	εἰρήνη	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	ref=1THESS_1.1
+
+# source = The Greek New Testament, 1 Thessalonians 1
+# text = Εὐχαριστοῦμεν τῷ θεῷ πάντοτε περὶ πάντων ὑμῶν μνείαν ποιούμενοι ἐπὶ τῶν προσευχῶν ἡμῶν ἀδιαλείπτως μνημονεύοντες ὑμῶν τοῦ ἔργου τῆς πίστεως καὶ τοῦ κόπου τῆς ἀγάπης καὶ τῆς ὑπομονῆς τῆς ἐλπίδος τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ ἔμπροσθεν τοῦ θεοῦ καὶ πατρὸς ἡμῶν εἰδότες ἀδελφοὶ ἠγαπημένοι ὑπὸ τοῦ θεοῦ τὴν ἐκλογὴν ὑμῶν ὅτι τὸ εὐαγγέλιον ἡμῶν οὐκ ἐγενήθη εἰς ὑμᾶς ἐν λόγῳ μόνον ἀλλὰ καὶ ἐν δυνάμει καὶ ἐν πνεύματι ἁγίῳ καὶ πληροφορίᾳ πολλῇ καθὼς οἴδατε οἷοι ἐγενήθημεν ἐν ὑμῖν δι’ ὑμᾶς
+# sent_id = 30263
+1	Εὐχαριστοῦμεν	εὐχαριστέω	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_1.2
+2	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	3	det	_	ref=1THESS_1.2
+3	θεῷ	θεός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	obl:arg	_	ref=1THESS_1.2
+4	πάντοτε	πάντοτε	ADV	Df	_	1	advmod	_	ref=1THESS_1.2
+5	περὶ	περί	ADP	R-	_	7	case	_	ref=1THESS_1.2
+6	πάντων	πᾶς	DET	Px	Case=Gen|Gender=Masc,Neut|Number=Plur	7	det	_	ref=1THESS_1.2
+7	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	1	obl	_	ref=1THESS_1.2
+8	μνείαν	μνεία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	ref=1THESS_1.2
+9	ποιούμενοι	ποιέω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	1	advcl	_	ref=1THESS_1.2
+10	ἐπὶ	ἐπί	ADP	R-	_	12	case	_	ref=1THESS_1.2
+11	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	12	det	_	ref=1THESS_1.2
+12	προσευχῶν	προσευχή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	9	obl	_	ref=1THESS_1.2
+13	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	12	det	_	ref=1THESS_1.2
+14	ἀδιαλείπτως	ἀδιαλείπτως	ADV	Df	Degree=Pos	15	advmod	_	ref=1THESS_1.3
+15	μνημονεύοντες	μνημονεύω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1	advcl	_	ref=1THESS_1.3
+16	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	18	det	_	ref=1THESS_1.3
+17	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	18	det	_	ref=1THESS_1.3
+18	ἔργου	ἔργον	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	15	obl:arg	_	ref=1THESS_1.3
+19	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	20	det	_	ref=1THESS_1.3
+20	πίστεως	πίστις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	ref=1THESS_1.3
+21	καὶ	καί	CCONJ	C-	_	23	cc	_	ref=1THESS_1.3
+22	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	23	det	_	ref=1THESS_1.3
+23	κόπου	κόπος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	18	conj	_	ref=1THESS_1.3
+24	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	25	det	_	ref=1THESS_1.3
+25	ἀγάπης	ἀγάπη	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	ref=1THESS_1.3
+26	καὶ	καί	CCONJ	C-	_	28	cc	_	ref=1THESS_1.3
+27	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	28	det	_	ref=1THESS_1.3
+28	ὑπομονῆς	ὑπομονή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	18	conj	_	ref=1THESS_1.3
+29	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	30	det	_	ref=1THESS_1.3
+30	ἐλπίδος	ἐλπίς	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	28	nmod	_	ref=1THESS_1.3
+31	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	32	det	_	ref=1THESS_1.3
+32	κυρίου	κύριος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	30	nmod	_	ref=1THESS_1.3
+33	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	32	det	_	ref=1THESS_1.3
+34	Ἰησοῦ	Ἰησοῦς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	32	appos	_	ref=1THESS_1.3
+35	Χριστοῦ	Χριστός	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	34	flat:name	_	ref=1THESS_1.3
+36	ἔμπροσθεν	ἔμπροσθεν	ADP	R-	_	38	case	_	ref=1THESS_1.3
+37	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	38	det	_	ref=1THESS_1.3
+38	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	15	obl	_	ref=1THESS_1.3
+39	καὶ	καί	CCONJ	C-	_	40	cc	_	ref=1THESS_1.3
+40	πατρὸς	πατήρ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	38	conj	_	ref=1THESS_1.3
+41	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	40	det	_	ref=1THESS_1.3
+42	εἰδότες	οἶδα	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	15	advcl	_	ref=1THESS_1.4
+43	ἀδελφοὶ	ἀδελφός	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	ref=1THESS_1.4
+44	ἠγαπημένοι	ἀγαπάω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	43	acl	_	ref=1THESS_1.4
+45	ὑπὸ	ὑπό	ADP	R-	_	47	case	_	ref=1THESS_1.4
+46	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	47	det	_	ref=1THESS_1.4
+47	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	44	obl:agent	_	ref=1THESS_1.4
+48	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	49	det	_	ref=1THESS_1.4
+49	ἐκλογὴν	ἐκλογή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	42	obj	_	ref=1THESS_1.4
+50	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	49	nmod	_	ref=1THESS_1.4
+51	ὅτι	ὅτι	SCONJ	G-	_	56	mark	_	ref=1THESS_1.5
+52	τὸ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	53	det	_	ref=1THESS_1.5
+53	εὐαγγέλιον	εὐαγγέλιον	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	56	nsubj	_	ref=1THESS_1.5
+54	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	53	det	_	ref=1THESS_1.5
+55	οὐκ	οὐ	ADV	Df	Polarity=Neg	61	advmod	_	ref=1THESS_1.5
+56	ἐγενήθη	γίγνομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	42	advcl	_	ref=1THESS_1.5
+57	εἰς	εἰς	ADP	R-	_	58	case	_	ref=1THESS_1.5
+58	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	56	obl	_	ref=1THESS_1.5
+59	ἐν	ἐν	ADP	R-	_	60	case	_	ref=1THESS_1.5
+60	λόγῳ	λόγος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	56	xcomp	_	ref=1THESS_1.5
+61	μόνον	μόνος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	60	advmod	_	ref=1THESS_1.5
+62	ἀλλὰ	ἀλλά	CCONJ	C-	_	65	cc	_	ref=1THESS_1.5
+63	καὶ	καί	ADV	Df	_	65	advmod	_	ref=1THESS_1.5|LId=1
+64	ἐν	ἐν	ADP	R-	_	65	case	_	ref=1THESS_1.5
+65	δυνάμει	δύναμις	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	60	conj	_	ref=1THESS_1.5
+66	καὶ	καί	CCONJ	C-	_	68	cc	_	ref=1THESS_1.5
+67	ἐν	ἐν	ADP	R-	_	68	case	_	ref=1THESS_1.5
+68	πνεύματι	πνεῦμα	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	65	conj	_	ref=1THESS_1.5
+69	ἁγίῳ	ἅγιος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc,Neut|Number=Sing	68	amod	_	ref=1THESS_1.5
+70	καὶ	καί	CCONJ	C-	_	71	cc	_	ref=1THESS_1.5
+71	πληροφορίᾳ	πληροφορία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	68	conj	_	ref=1THESS_1.5
+72	πολλῇ	πολύς	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	71	amod	_	ref=1THESS_1.5
+73	καθὼς	καθώς	ADV	Dq	PronType=Rel	74	advcl	_	ref=1THESS_1.5
+74	οἴδατε	οἶδα	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	56	advcl	_	ref=1THESS_1.5
+75	οἷοι	οἷος	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	76	xcomp	_	ref=1THESS_1.5
+76	ἐγενήθημεν	γίγνομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	74	obj	_	ref=1THESS_1.5
+77	ἐν	ἐν	ADP	R-	_	78	case	_	ref=1THESS_1.5
+78	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	76	obl	_	ref=1THESS_1.5
+79	δι’	διά	ADP	R-	_	80	case	_	ref=1THESS_1.5
+80	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	76	obl	_	ref=1THESS_1.5
+
+# source = The Greek New Testament, 1 Thessalonians 1
+# text = καὶ ὑμεῖς μιμηταὶ ἡμῶν ἐγενήθητε καὶ τοῦ κυρίου δεξάμενοι τὸν λόγον ἐν θλίψει πολλῇ μετὰ χαρᾶς πνεύματος ἁγίου ὥστε γενέσθαι ὑμᾶς τύπον πᾶσιν τοῖς πιστεύουσιν ἐν τῇ Μακεδονίᾳ καὶ ἐν τῇ Ἀχαΐᾳ
+# sent_id = 30264
+1	καὶ	καί	CCONJ	C-	_	5	cc	_	ref=1THESS_1.6
+2	ὑμεῖς	ὑμεῖς	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	ref=1THESS_1.6
+3	μιμηταὶ	μιμητής	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	5	xcomp	_	ref=1THESS_1.6
+4	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	3	nmod	_	ref=1THESS_1.6
+5	ἐγενήθητε	γίγνομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	ref=1THESS_1.6
+6	καὶ	καί	CCONJ	C-	_	8	cc	_	ref=1THESS_1.6
+7	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	8	det	_	ref=1THESS_1.6
+8	κυρίου	κύριος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	conj	_	ref=1THESS_1.6
+9	δεξάμενοι	δέχομαι	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	5	advcl	_	ref=1THESS_1.6
+10	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	11	det	_	ref=1THESS_1.6
+11	λόγον	λόγος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	ref=1THESS_1.6
+12	ἐν	ἐν	ADP	R-	_	13	case	_	ref=1THESS_1.6
+13	θλίψει	θλῖψις	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	9	obl	_	ref=1THESS_1.6
+14	πολλῇ	πολύς	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	ref=1THESS_1.6
+15	μετὰ	μετά	ADP	R-	_	16	case	_	ref=1THESS_1.6
+16	χαρᾶς	χαρά	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	9	obl	_	ref=1THESS_1.6
+17	πνεύματος	πνεῦμα	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	ref=1THESS_1.6
+18	ἁγίου	ἅγιος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc,Neut|Number=Sing	17	amod	_	ref=1THESS_1.6
+19	ὥστε	ὥστε	SCONJ	G-	_	20	mark	_	ref=1THESS_1.7
+20	γενέσθαι	γίγνομαι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	5	advcl	_	ref=1THESS_1.7
+21	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	20	nsubj	_	ref=1THESS_1.7
+22	τύπον	τύπος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	20	xcomp	_	ref=1THESS_1.7
+23	πᾶσιν	πᾶς	DET	Px	Case=Dat|Gender=Masc,Neut|Number=Plur	25	det	_	ref=1THESS_1.7
+24	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	25	det	_	ref=1THESS_1.7
+25	πιστεύουσιν	πιστεύω	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	20	obl	_	ref=1THESS_1.7
+26	ἐν	ἐν	ADP	R-	_	28	case	_	ref=1THESS_1.7
+27	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	28	det	_	ref=1THESS_1.7
+28	Μακεδονίᾳ	Μακεδονία	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	25	nmod	_	ref=1THESS_1.7
+29	καὶ	καί	CCONJ	C-	_	32	cc	_	ref=1THESS_1.7
+30	ἐν	ἐν	ADP	R-	_	32	case	_	ref=1THESS_1.7
+31	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	32	det	_	ref=1THESS_1.7
+32	Ἀχαΐᾳ	Ἀχαΐα	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	28	conj	_	ref=1THESS_1.7
+
+# source = The Greek New Testament, 1 Thessalonians 1
+# text = ἀφ’ ὑμῶν γὰρ ἐξήχηται ὁ λόγος τοῦ κυρίου οὐ μόνον ἐν τῇ Μακεδονίᾳ καὶ ἐν τῇ Ἀχαΐᾳ ἀλλ’ ἐν παντὶ τόπῳ ἡ πίστις ὑμῶν ἡ πρὸς τὸν θεὸν ἐξελήλυθεν ὥστε μὴ χρείαν ἔχειν ἡμᾶς λαλεῖν τι
+# sent_id = 30265
+1	ἀφ’	ἀπό	ADP	R-	_	2	case	_	ref=1THESS_1.8
+2	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	4	obl	_	ref=1THESS_1.8
+3	γὰρ	γάρ	ADV	Df	_	4	discourse	_	ref=1THESS_1.8
+4	ἐξήχηται	ἐξηχέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	ref=1THESS_1.8
+5	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	ref=1THESS_1.8
+6	λόγος	λόγος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj:pass	_	ref=1THESS_1.8
+7	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	8	det	_	ref=1THESS_1.8
+8	κυρίου	κύριος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	ref=1THESS_1.8
+9	οὐ	οὐ	ADV	Df	Polarity=Neg	10	advmod	_	ref=1THESS_1.8
+10	μόνον	μόνος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	4	advmod	_	ref=1THESS_1.8
+11	ἐν	ἐν	ADP	R-	_	13	case	_	ref=1THESS_1.8
+12	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	13	det	_	ref=1THESS_1.8
+13	Μακεδονίᾳ	Μακεδονία	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	4	obl	_	ref=1THESS_1.8
+14	καὶ	καί	CCONJ	C-	_	17	cc	_	ref=1THESS_1.8
+15	ἐν	ἐν	ADP	R-	_	17	case	_	ref=1THESS_1.8
+16	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	17	det	_	ref=1THESS_1.8
+17	Ἀχαΐᾳ	Ἀχαΐα	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	13	conj	_	ref=1THESS_1.8
+18	ἀλλ’	ἀλλά	CCONJ	C-	_	29	cc	_	ref=1THESS_1.8
+19	ἐν	ἐν	ADP	R-	_	21	case	_	ref=1THESS_1.8
+20	παντὶ	πᾶς	DET	Px	Case=Dat|Gender=Masc,Neut|Number=Sing	21	det	_	ref=1THESS_1.8
+21	τόπῳ	τόπος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	29	obl	_	ref=1THESS_1.8
+22	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	23	det	_	ref=1THESS_1.8
+23	πίστις	πίστις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	29	nsubj	_	ref=1THESS_1.8
+24	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	23	det	_	ref=1THESS_1.8
+25	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	28	det	_	ref=1THESS_1.8
+26	πρὸς	πρός	ADP	R-	_	28	case	_	ref=1THESS_1.8
+27	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	28	det	_	ref=1THESS_1.8
+28	θεὸν	θεός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	23	nmod	_	ref=1THESS_1.8
+29	ἐξελήλυθεν	ἐξέρχομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	ref=1THESS_1.8
+30	ὥστε	ὥστε	SCONJ	G-	_	33	mark	_	ref=1THESS_1.8
+31	μὴ	μή	ADV	Df	Polarity=Neg	33	advmod	_	ref=1THESS_1.8
+32	χρείαν	χρεία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	33	obj	_	ref=1THESS_1.8
+33	ἔχειν	ἔχω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	29	advcl	_	ref=1THESS_1.8
+34	ἡμᾶς	ἡμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	33	nsubj	_	ref=1THESS_1.8
+35	λαλεῖν	λαλέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	32	acl	_	ref=1THESS_1.8
+36	τι	τὶς	PRON	Px	Case=Acc|Gender=Neut|Number=Sing	35	obj	_	ref=1THESS_1.8
+
+# source = The Greek New Testament, 1 Thessalonians 1
+# text = αὐτοὶ γὰρ περὶ ἡμῶν ἀπαγγέλλουσιν ὁποίαν εἴσοδον ἔσχομεν πρὸς ὑμᾶς καὶ πῶς ἐπεστρέψατε πρὸς τὸν θεὸν ἀπὸ τῶν εἰδώλων δουλεύειν θεῷ ζῶντι καὶ ἀληθινῷ καὶ ἀναμένειν τὸν υἱὸν αὐτοῦ ἐκ τῶν οὐρανῶν ὃν ἤγειρεν ἐκ τῶν νεκρῶν Ἰησοῦν τὸν ῥυόμενον ἡμᾶς ἐκ τῆς ὀργῆς τῆς ἐρχομένης
+# sent_id = 30266
+1	αὐτοὶ	αὐτός	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	ref=1THESS_1.9
+2	γὰρ	γάρ	ADV	Df	_	5	discourse	_	ref=1THESS_1.9
+3	περὶ	περί	ADP	R-	_	4	case	_	ref=1THESS_1.9
+4	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	5	obl	_	ref=1THESS_1.9
+5	ἀπαγγέλλουσιν	ἀπαγγέλλω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_1.9
+6	ὁποίαν	ὁποῖος	PRON	Pi	Case=Acc|Gender=Fem|Number=Sing|PronType=Int	7	det	_	ref=1THESS_1.9
+7	εἴσοδον	εἴσοδος	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	ref=1THESS_1.9
+8	ἔσχομεν	ἔχω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	5	ccomp	_	ref=1THESS_1.9
+9	πρὸς	πρός	ADP	R-	_	10	case	_	ref=1THESS_1.9
+10	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	7	nmod	_	ref=1THESS_1.9
+11	καὶ	καί	CCONJ	C-	_	13	cc	_	ref=1THESS_1.9
+12	πῶς	πῶς	ADV	Du	PronType=Int	13	advmod	_	ref=1THESS_1.9
+13	ἐπεστρέψατε	ἐπιστρέφω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	ref=1THESS_1.9
+14	πρὸς	πρός	ADP	R-	_	16	case	_	ref=1THESS_1.9
+15	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	16	det	_	ref=1THESS_1.9
+16	θεὸν	θεός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	13	obl	_	ref=1THESS_1.9
+17	ἀπὸ	ἀπό	ADP	R-	_	19	case	_	ref=1THESS_1.9
+18	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	19	det	_	ref=1THESS_1.9
+19	εἰδώλων	εἴδωλον	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	13	obl	_	ref=1THESS_1.9
+20	δουλεύειν	δουλεύω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	13	advcl	_	ref=1THESS_1.9
+21	θεῷ	θεός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	20	obl:arg	_	ref=1THESS_1.9
+22	ζῶντι	ζῶ	VERB	V-	Case=Dat|Gender=Masc,Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	21	acl	_	ref=1THESS_1.9
+23	καὶ	καί	CCONJ	C-	_	24	cc	_	ref=1THESS_1.9
+24	ἀληθινῷ	ἀληθινός	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc,Neut|Number=Sing	22	conj	_	ref=1THESS_1.9
+25	καὶ	καί	CCONJ	C-	_	26	cc	_	ref=1THESS_1.10
+26	ἀναμένειν	ἀναμένω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	20	conj	_	ref=1THESS_1.10
+27	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	28	det	_	ref=1THESS_1.10
+28	υἱὸν	υἱός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	26	obj	_	ref=1THESS_1.10
+29	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	28	det	_	ref=1THESS_1.10
+30	ἐκ	ἐκ	ADP	R-	_	32	case	_	ref=1THESS_1.10
+31	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	32	det	_	ref=1THESS_1.10
+32	οὐρανῶν	οὐρανός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	26	obl	_	ref=1THESS_1.10
+33	ὃν	ὅς	PRON	Pr	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	34	obj	_	ref=1THESS_1.10
+34	ἤγειρεν	ἐγείρω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	28	acl	_	ref=1THESS_1.10
+35	ἐκ	ἐκ	ADP	R-	_	37	case	_	ref=1THESS_1.10
+36	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	37	det	_	ref=1THESS_1.10
+37	νεκρῶν	νεκρός	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	34	obl	_	ref=1THESS_1.10
+38	Ἰησοῦν	Ἰησοῦς	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	28	appos	_	ref=1THESS_1.10
+39	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	40	det	_	ref=1THESS_1.10
+40	ῥυόμενον	ἐρύω	VERB	V-	Case=Acc|Gender=Masc,Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	38	nmod	_	ref=1THESS_1.10
+41	ἡμᾶς	ἡμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	40	obj	_	ref=1THESS_1.10
+42	ἐκ	ἐκ	ADP	R-	_	44	case	_	ref=1THESS_1.10
+43	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	44	det	_	ref=1THESS_1.10
+44	ὀργῆς	ὀργή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	40	obl	_	ref=1THESS_1.10
+45	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	46	det	_	ref=1THESS_1.10
+46	ἐρχομένης	ἔρχομαι	VERB	V-	Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	44	nmod	_	ref=1THESS_1.10
+
+# source = The Greek New Testament, 1 Thessalonians 2
+# text = Αὐτοὶ γὰρ οἴδατε ἀδελφοί τὴν εἴσοδον ἡμῶν τὴν πρὸς ὑμᾶς ὅτι οὐ κενὴ γέγονεν ἀλλὰ προπαθόντες καὶ ὑβρισθέντες καθὼς οἴδατε ἐν Φιλίπποις ἐπαρρησιασάμεθα ἐν τῷ θεῷ ἡμῶν λαλῆσαι πρὸς ὑμᾶς τὸ εὐαγγέλιον τοῦ θεοῦ ἐν πολλῷ ἀγῶνι
+# sent_id = 30267
+1	Αὐτοὶ	αὐτός	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	ref=1THESS_2.1
+2	γὰρ	γάρ	ADV	Df	_	3	discourse	_	ref=1THESS_2.1
+3	οἴδατε	οἶδα	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_2.1
+4	ἀδελφοί	ἀδελφός	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	3	vocative	_	ref=1THESS_2.1
+5	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	ref=1THESS_2.1
+6	εἴσοδον	εἴσοδος	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	ref=1THESS_2.1
+7	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	6	det	_	ref=1THESS_2.1
+8	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	ref=1THESS_2.1
+9	πρὸς	πρός	ADP	R-	_	10	case	_	ref=1THESS_2.1
+10	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	6	nmod	_	ref=1THESS_2.1
+11	ὅτι	ὅτι	SCONJ	G-	_	14	mark	_	ref=1THESS_2.1
+12	οὐ	οὐ	ADV	Df	Polarity=Neg	14	advmod	_	ref=1THESS_2.1
+13	κενὴ	κενός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	14	xcomp	_	ref=1THESS_2.1
+14	γέγονεν	γίγνομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	ref=1THESS_2.1
+15	ἀλλὰ	ἀλλά	CCONJ	C-	_	23	cc	_	ref=1THESS_2.2
+16	προπαθόντες	προπάσχω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	23	advcl	_	ref=1THESS_2.2
+17	καὶ	καί	CCONJ	C-	_	18	cc	_	ref=1THESS_2.2
+18	ὑβρισθέντες	ὑβρίζω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	16	conj	_	ref=1THESS_2.2
+19	καθὼς	καθώς	ADV	Dq	PronType=Rel	20	advcl	_	ref=1THESS_2.2
+20	οἴδατε	οἶδα	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	18	advcl	_	ref=1THESS_2.2
+21	ἐν	ἐν	ADP	R-	_	22	case	_	ref=1THESS_2.2
+22	Φιλίπποις	Φίλιπποι	PROPN	Ne	Case=Dat|Gender=Masc|Number=Plur	18	obl	_	ref=1THESS_2.2
+23	ἐπαρρησιασάμεθα	παρρησιάζομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	14	conj	_	ref=1THESS_2.2
+24	ἐν	ἐν	ADP	R-	_	26	case	_	ref=1THESS_2.2
+25	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	26	det	_	ref=1THESS_2.2
+26	θεῷ	θεός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	23	obl	_	ref=1THESS_2.2
+27	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	26	det	_	ref=1THESS_2.2
+28	λαλῆσαι	λαλέω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	23	xcomp	_	ref=1THESS_2.2
+29	πρὸς	πρός	ADP	R-	_	30	case	_	ref=1THESS_2.2
+30	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	28	obl	_	ref=1THESS_2.2
+31	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	32	det	_	ref=1THESS_2.2
+32	εὐαγγέλιον	εὐαγγέλιον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	28	obj	_	ref=1THESS_2.2
+33	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	34	det	_	ref=1THESS_2.2
+34	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	32	nmod	_	ref=1THESS_2.2
+35	ἐν	ἐν	ADP	R-	_	37	case	_	ref=1THESS_2.2
+36	πολλῷ	πολύς	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc,Neut|Number=Sing	37	amod	_	ref=1THESS_2.2
+37	ἀγῶνι	ἀγών	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	28	obl	_	ref=1THESS_2.2
+
+# source = The Greek New Testament, 1 Thessalonians 2
+# text = ἡ γὰρ παράκλησις ἡμῶν οὐκ ἐκ πλάνης οὐδὲ ἐξ ἀκαθαρσίας οὐδὲ ἐν δόλῳ ἀλλὰ καθὼς δεδοκιμάσμεθα ὑπὸ τοῦ θεοῦ πιστευθῆναι τὸ εὐαγγέλιον οὕτως λαλοῦμεν οὐχ ὡς ἀνθρώποις ἀρέσκοντες ἀλλὰ θεῷ τῷ δοκιμάζοντι τὰς καρδίας ἡμῶν
+# sent_id = 30268
+1	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	ref=1THESS_2.3
+2	γὰρ	γάρ	ADV	Df	_	7	discourse	_	ref=1THESS_2.3
+3	παράκλησις	παράκλησις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	ref=1THESS_2.3
+4	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	3	det	_	ref=1THESS_2.3
+5	οὐκ	οὐ	ADV	Df	Polarity=Neg	7	advmod	_	ref=1THESS_2.3
+6	ἐκ	ἐκ	ADP	R-	_	7	case	_	ref=1THESS_2.3
+7	πλάνης	πλάνη	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	0	root	_	ref=1THESS_2.3
+8	οὐ	οὐ	ADV	G-	Polarity=Neg	10	advmod	_	ref=1THESS_2.3|Sub=1
+8.1	-δέ	δέ	CCONJ	C-	_	10	cc	_	ref=1THESS_2.3|Sub=2
+9	ἐξ	ἐκ	ADP	R-	_	10	case	_	ref=1THESS_2.3
+10	ἀκαθαρσίας	ἀκαθαρσία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	conj	_	ref=1THESS_2.3
+11	οὐ	οὐ	ADV	G-	Polarity=Neg	13	advmod	_	ref=1THESS_2.3|Sub=1
+11.1	-δέ	δέ	CCONJ	C-	_	13	cc	_	ref=1THESS_2.3|Sub=2
+12	ἐν	ἐν	ADP	R-	_	13	case	_	ref=1THESS_2.3
+13	δόλῳ	δόλος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	7	conj	_	ref=1THESS_2.3
+14	ἀλλὰ	ἀλλά	CCONJ	C-	_	24	cc	_	ref=1THESS_2.4
+15	καθὼς	καθώς	ADV	Dq	PronType=Rel	16	advcl	_	ref=1THESS_2.4
+16	δεδοκιμάσμεθα	δοκιμάζω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	24	dislocated	_	ref=1THESS_2.4
+17	ὑπὸ	ὑπό	ADP	R-	_	19	case	_	ref=1THESS_2.4
+18	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	19	det	_	ref=1THESS_2.4
+19	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	16	obl:agent	_	ref=1THESS_2.4
+20	πιστευθῆναι	πιστεύω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	16	xcomp	_	ref=1THESS_2.4
+21	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	22	det	_	ref=1THESS_2.4
+22	εὐαγγέλιον	εὐαγγέλιον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	20	obj	_	ref=1THESS_2.4
+23	οὕτως	οὕτω(ς)	ADV	Df	_	24	advmod	_	ref=1THESS_2.4
+24	λαλοῦμεν	λαλέω	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	ref=1THESS_2.4
+25	οὐχ	οὐ	ADV	Df	Polarity=Neg	27	advmod	_	ref=1THESS_2.4
+26	ὡς	ὡς	ADV	Df	_	28	mark	_	ref=1THESS_2.4
+27	ἀνθρώποις	ἄνθρωπος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	28	obl:arg	_	ref=1THESS_2.4
+28	ἀρέσκοντες	ἀρέσκω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	23	advcl:cmp	_	ref=1THESS_2.4
+29	ἀλλὰ	ἀλλά	CCONJ	C-	_	30	cc	_	ref=1THESS_2.4
+30	θεῷ	θεός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	27	conj	_	ref=1THESS_2.4
+31	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	32	det	_	ref=1THESS_2.4
+32	δοκιμάζοντι	δοκιμάζω	VERB	V-	Case=Dat|Gender=Masc,Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	30	nmod	_	ref=1THESS_2.4
+33	τὰς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	34	det	_	ref=1THESS_2.4
+34	καρδίας	καρδία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	32	obj	_	ref=1THESS_2.4
+35	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	34	det	_	ref=1THESS_2.4
+
+# source = The Greek New Testament, 1 Thessalonians 2
+# text = οὔτε γάρ ποτε ἐν λόγῳ κολακίας ἐγενήθημεν καθὼς οἴδατε οὔτε ἐν προφάσει πλεονεξίας θεὸς μάρτυς οὔτε ζητοῦντες ἐξ ἀνθρώπων δόξαν οὔτε ἀφ’ ὑμῶν οὔτε ἀπ’ ἄλλων δυνάμενοι ἐν βάρει εἶναι ὡς Χριστοῦ ἀπόστολοι
+# sent_id = 30269
+1	οὐ	οὐ	ADV	G-	Polarity=Neg	5	advmod	_	ref=1THESS_2.5|Sub=1
+1.1	-τε	τε	CCONJ	C-	_	5	cc	_	ref=1THESS_2.5|Sub=2
+2	γάρ	γάρ	ADV	Df	_	7	discourse	_	ref=1THESS_2.5
+3	ποτε	ποτε	ADV	Df	_	7	advmod	_	ref=1THESS_2.5
+4	ἐν	ἐν	ADP	R-	_	5	case	_	ref=1THESS_2.5
+5	λόγῳ	λόγος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	7	xcomp	_	ref=1THESS_2.5
+6	κολακίας	κολακεία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	ref=1THESS_2.5
+7	ἐγενήθημεν	γίγνομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	ref=1THESS_2.5
+8	καθὼς	καθώς	ADV	Dq	PronType=Rel	9	advcl	_	ref=1THESS_2.5
+9	οἴδατε	οἶδα	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	ref=1THESS_2.5
+10	οὐ	οὐ	ADV	G-	Polarity=Neg	12	advmod	_	ref=1THESS_2.5|Sub=1
+10.1	-τε	τε	CCONJ	C-	_	12	cc	_	ref=1THESS_2.5|Sub=2
+11	ἐν	ἐν	ADP	R-	_	12	case	_	ref=1THESS_2.5
+12	προφάσει	πρόφασις	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	5	conj	_	ref=1THESS_2.5
+13	πλεονεξίας	πλεονεξία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	ref=1THESS_2.5
+14	θεὸς	θεός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	ref=1THESS_2.5
+15	μάρτυς	μάρτυς	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	parataxis	_	ref=1THESS_2.5
+16	οὐ	οὐ	ADV	G-	Polarity=Neg	17	advmod	_	ref=1THESS_2.6|Sub=1
+16.1	-τε	τε	CCONJ	C-	_	17	cc	_	ref=1THESS_2.6|Sub=2
+17	ζητοῦντες	ζητέω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	5	conj	_	ref=1THESS_2.6
+18	ἐξ	ἐκ	ADP	R-	_	19	case	_	ref=1THESS_2.6
+19	ἀνθρώπων	ἄνθρωπος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	17	obl	_	ref=1THESS_2.6
+20	δόξαν	δόξα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	17	obj	_	ref=1THESS_2.6
+21	οὐ	οὐ	ADV	G-	Polarity=Neg	23	advmod	_	ref=1THESS_2.6|Sub=1
+21.1	-τε	τε	CCONJ	C-	_	23	cc	_	ref=1THESS_2.6|Sub=2
+22	ἀφ’	ἀπό	ADP	R-	_	23	case	_	ref=1THESS_2.6
+23	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	19	appos	_	ref=1THESS_2.6
+24	οὐ	οὐ	ADV	G-	Polarity=Neg	26	advmod	_	ref=1THESS_2.6|Sub=1
+24.1	-τε	τε	CCONJ	C-	_	26	cc	_	ref=1THESS_2.6|Sub=2
+25	ἀπ’	ἀπό	ADP	R-	_	26	case	_	ref=1THESS_2.6
+26	ἄλλων	ἄλλος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	23	conj	_	ref=1THESS_2.6
+27	δυνάμενοι	δύναμαι	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	7	advcl	_	ref=1THESS_2.6
+28	ἐν	ἐν	ADP	R-	_	29	case	_	ref=1THESS_2.6
+29	βάρει	βάρος	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	27	xcomp	_	ref=1THESS_2.6
+30	εἶναι	εἰμί	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	29	cop	_	ref=1THESS_2.6|LId=1
+31	ὡς	ὡς	ADV	Df	_	33	mark	_	ref=1THESS_2.6
+32	Χριστοῦ	Χριστός	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	33	nmod	_	ref=1THESS_2.6
+33	ἀπόστολοι	ἀπόστολος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	29	advcl:cmp	_	ref=1THESS_2.6
+
+# source = The Greek New Testament, 1 Thessalonians 2
+# text = ἀλλὰ ἐγενήθημεν ἤπιοι ἐν μέσῳ ὑμῶν ὡς ἐὰν τροφὸς θάλπῃ τὰ ἑαυτῆς τέκνα
+# sent_id = 49927
+1	ἀλλὰ	ἀλλά	CCONJ	C-	_	2	cc	_	ref=1THESS_2.7
+2	ἐγενήθημεν	γίγνομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	ref=1THESS_2.7
+3	ἤπιοι	ἤπιος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	2	xcomp	_	ref=1THESS_2.7
+4	ἐν	ἐν	ADP	R-	_	5	case	_	ref=1THESS_2.7
+5	μέσῳ	μέσος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	2	obl	_	ref=1THESS_2.7
+6	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	5	nmod	_	ref=1THESS_2.7
+7	ὡς	ὡς	ADV	Dq	PronType=Rel	10	advcl	_	ref=1THESS_2.7
+8	ἐὰν	ἐάν	SCONJ	G-	_	10	mark	_	ref=1THESS_2.7
+9	τροφὸς	τροφός	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	ref=1THESS_2.7
+10	θάλπῃ	θάλπω	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	ref=1THESS_2.7
+11	τὰ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	13	det	_	ref=1THESS_2.7
+12	ἑαυτῆς	ἑαυτοῦ	PRON	Pk	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	13	det	_	ref=1THESS_2.7
+13	τέκνα	τέκνον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	10	obj	_	ref=1THESS_2.7
+
+# source = The Greek New Testament, 1 Thessalonians 2
+# text = οὕτως ὁμειρόμενοι ὑμῶν εὐδοκοῦμεν μεταδοῦναι ὑμῖν οὐ μόνον τὸ εὐαγγέλιον τοῦ θεοῦ ἀλλὰ καὶ τὰς ἑαυτῶν ψυχάς διότι ἀγαπητοὶ ἡμῖν ἐγενήθητε
+# sent_id = 64147
+1	οὕτως	οὕτω(ς)	ADV	Df	_	2	advmod	_	ref=1THESS_2.8
+2	ὁμειρόμενοι	ὁμείρομαι	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	4	advcl	_	ref=1THESS_2.8
+3	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	2	obl:arg	_	ref=1THESS_2.8
+4	εὐδοκοῦμεν	εὐδοκέω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_2.8
+5	μεταδοῦναι	μεταδίδωμι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	4	xcomp	_	ref=1THESS_2.8
+6	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	5	obl:arg	_	ref=1THESS_2.8
+7	οὐ	οὐ	ADV	Df	Polarity=Neg	8	advmod	_	ref=1THESS_2.8
+8	μόνον	μόνος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	10	advmod	_	ref=1THESS_2.8
+9	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	10	det	_	ref=1THESS_2.8
+10	εὐαγγέλιον	εὐαγγέλιον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	ref=1THESS_2.8
+11	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	12	det	_	ref=1THESS_2.8
+12	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	ref=1THESS_2.8
+13	ἀλλὰ	ἀλλά	CCONJ	C-	_	17	cc	_	ref=1THESS_2.8
+14	καὶ	καί	ADV	Df	_	17	advmod	_	ref=1THESS_2.8|LId=1
+15	τὰς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	17	det	_	ref=1THESS_2.8
+16	ἑαυτῶν	ἑαυτοῦ	PRON	Pk	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs|Reflex=Yes	17	det	_	ref=1THESS_2.8
+17	ψυχάς	ψυχή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	10	conj	_	ref=1THESS_2.8
+18	διότι	διότι	SCONJ	G-	_	21	mark	_	ref=1THESS_2.8
+19	ἀγαπητοὶ	ἀγαπητός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	21	xcomp	_	ref=1THESS_2.8
+20	ἡμῖν	ἡμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	21	obl	_	ref=1THESS_2.8
+21	ἐγενήθητε	γίγνομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	5	advcl	_	ref=1THESS_2.8
+
+# source = The Greek New Testament, 1 Thessalonians 2
+# text = μνημονεύετε γάρ ἀδελφοί τὸν κόπον ἡμῶν καὶ τὸν μόχθον
+# sent_id = 30271
+1	μνημονεύετε	μνημονεύω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_2.9
+2	γάρ	γάρ	ADV	Df	_	1	discourse	_	ref=1THESS_2.9
+3	ἀδελφοί	ἀδελφός	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	ref=1THESS_2.9
+4	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	ref=1THESS_2.9
+5	κόπον	κόπος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	ref=1THESS_2.9
+6	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	5	det	_	ref=1THESS_2.9
+7	καὶ	καί	CCONJ	C-	_	9	cc	_	ref=1THESS_2.9
+8	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	ref=1THESS_2.9
+9	μόχθον	μόχθος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	conj	_	ref=1THESS_2.9
+
+# source = The Greek New Testament, 1 Thessalonians 2
+# text = νυκτὸς καὶ ἡμέρας ἐργαζόμενοι πρὸς τὸ μὴ ἐπιβαρῆσαί τινα ὑμῶν ἐκηρύξαμεν εἰς ὑμᾶς τὸ εὐαγγέλιον τοῦ θεοῦ
+# sent_id = 30272
+1	νυκτὸς	νύξ	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	obl	_	ref=1THESS_2.9
+2	καὶ	καί	CCONJ	C-	_	3	cc	_	ref=1THESS_2.9
+3	ἡμέρας	ἡμέρα	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	1	conj	_	ref=1THESS_2.9
+4	ἐργαζόμενοι	ἐργάζομαι	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	11	advcl	_	ref=1THESS_2.9
+5	πρὸς	πρός	ADP	R-	_	8	case	_	ref=1THESS_2.9
+6	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	8	det	_	ref=1THESS_2.9
+7	μὴ	μή	ADV	Df	Polarity=Neg	8	advmod	_	ref=1THESS_2.9
+8	ἐπιβαρῆσαί	ἐπιβαρέω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	4	obl	_	ref=1THESS_2.9
+9	τινα	τὶς	PRON	Px	Case=Acc|Gender=Fem,Masc|Number=Sing	8	obj	_	ref=1THESS_2.9
+10	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	9	nmod	_	ref=1THESS_2.9
+11	ἐκηρύξαμεν	κηρύσσω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_2.9
+12	εἰς	εἰς	ADP	R-	_	13	case	_	ref=1THESS_2.9
+13	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	11	obl	_	ref=1THESS_2.9
+14	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	15	det	_	ref=1THESS_2.9
+15	εὐαγγέλιον	εὐαγγέλιον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	11	obj	_	ref=1THESS_2.9
+16	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	17	det	_	ref=1THESS_2.9
+17	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	ref=1THESS_2.9
+
+# source = The Greek New Testament, 1 Thessalonians 2
+# text = ὑμεῖς μάρτυρες καὶ ὁ θεός ὡς ὁσίως καὶ δικαίως καὶ ἀμέμπτως ὑμῖν τοῖς πιστεύουσιν ἐγενήθημεν καθάπερ οἴδατε ὡς ἕνα ἕκαστον ὑμῶν ὡς πατὴρ τέκνα ἑαυτοῦ παρακαλοῦντες ὑμᾶς καὶ παραμυθούμενοι καὶ μαρτυρόμενοι εἰς τὸ περιπατεῖν ὑμᾶς ἀξίως τοῦ θεοῦ τοῦ καλοῦντος ὑμᾶς εἰς τὴν ἑαυτοῦ βασιλείαν καὶ δόξαν
+# sent_id = 30273
+1	ὑμεῖς	ὑμεῖς	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	ref=1THESS_2.10
+2	μάρτυρες	μάρτυς	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	0	root	_	ref=1THESS_2.10
+3	καὶ	καί	CCONJ	C-	_	5	cc	_	ref=1THESS_2.10
+4	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	ref=1THESS_2.10
+5	θεός	θεός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	ref=1THESS_2.10
+6	ὡς	ὡς	ADV	Dq	PronType=Rel	7	advcl	_	ref=1THESS_2.10
+7	ὁσίως	ὁσίως	ADV	Df	_	15	xcomp	_	ref=1THESS_2.10
+8	καὶ	καί	CCONJ	C-	_	9	cc	_	ref=1THESS_2.10
+9	δικαίως	δικαίως	ADV	Df	Degree=Pos	7	conj	_	ref=1THESS_2.10
+10	καὶ	καί	CCONJ	C-	_	11	cc	_	ref=1THESS_2.10
+11	ἀμέμπτως	ἀμέμπτως	ADV	Df	Degree=Pos	7	conj	_	ref=1THESS_2.10
+12	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	15	obl	_	ref=1THESS_2.10
+13	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	14	det	_	ref=1THESS_2.10
+14	πιστεύουσιν	πιστεύω	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	12	appos	_	ref=1THESS_2.10
+15	ἐγενήθημεν	γίγνομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	2	acl	_	ref=1THESS_2.10
+16	καθάπερ	καθάπερ	ADV	Dq	PronType=Rel	17	advcl	_	ref=1THESS_2.11
+17	οἴδατε	οἶδα	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	15	advcl	_	ref=1THESS_2.11
+18	ὡς	ὡς	ADV	Dq	PronType=Rel	26	advcl	_	ref=1THESS_2.11
+19	ἕνα	εἷς	NUM	Ma	Case=Acc|Gender=Masc|Number=Sing	20	nummod	_	ref=1THESS_2.11
+20	ἕκαστον	ἕκαστος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	26	dislocated	_	ref=1THESS_2.11
+21	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	20	nmod	_	ref=1THESS_2.11
+22	ὡς	ὡς	ADV	Dq	PronType=Rel	23	orphan	_	ref=1THESS_2.11
+23	πατὴρ	πατήρ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	26	advcl	_	ref=1THESS_2.11
+24	τέκνα	τέκνον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	23	orphan	_	ref=1THESS_2.11
+25	ἑαυτοῦ	ἑαυτοῦ	PRON	Pk	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	24	det	_	ref=1THESS_2.11
+26	παρακαλοῦντες	παρακαλέω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	17	obj	_	ref=1THESS_2.11
+27	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	26	obj	_	ref=1THESS_2.11
+28	καὶ	καί	CCONJ	C-	_	29	cc	_	ref=1THESS_2.11
+29	παραμυθούμενοι	παραμυθέομαι	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	26	conj	_	ref=1THESS_2.11
+30	καὶ	καί	CCONJ	C-	_	31	cc	_	ref=1THESS_2.12
+31	μαρτυρόμενοι	μαρτύρομαι	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	26	conj	_	ref=1THESS_2.12
+32	εἰς	εἰς	ADP	R-	_	34	case	_	ref=1THESS_2.12
+33	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	34	det	_	ref=1THESS_2.12
+34	περιπατεῖν	περιπατέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	31	advcl	_	ref=1THESS_2.12
+35	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	34	nsubj	_	ref=1THESS_2.12
+36	ἀξίως	ἀξίως	ADV	Df	Degree=Pos	34	advmod	_	ref=1THESS_2.12
+37	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	38	det	_	ref=1THESS_2.12
+38	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	36	obl	_	ref=1THESS_2.12
+39	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	40	det	_	ref=1THESS_2.12
+40	καλοῦντος	καλέω	VERB	V-	Case=Gen|Gender=Masc,Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	38	nmod	_	ref=1THESS_2.12
+41	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	40	obj	_	ref=1THESS_2.12
+42	εἰς	εἰς	ADP	R-	_	45	case	_	ref=1THESS_2.12
+43	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	45	det	_	ref=1THESS_2.12
+44	ἑαυτοῦ	ἑαυτοῦ	PRON	Pk	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	45	det	_	ref=1THESS_2.12
+45	βασιλείαν	βασιλεία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	40	obl	_	ref=1THESS_2.12
+46	καὶ	καί	CCONJ	C-	_	47	cc	_	ref=1THESS_2.12
+47	δόξαν	δόξα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	45	conj	_	ref=1THESS_2.12
+
+# source = The Greek New Testament, 1 Thessalonians 2
+# text = Καὶ διὰ τοῦτο καὶ ἡμεῖς εὐχαριστοῦμεν τῷ θεῷ ἀδιαλείπτως ὅτι παραλαβόντες λόγον ἀκοῆς παρ’ ἡμῶν τοῦ θεοῦ ἐδέξασθε οὐ λόγον ἀνθρώπων ἀλλὰ καθώς ἐστιν ἀληθῶς λόγον θεοῦ ὃς καὶ ἐνεργεῖται ἐν ὑμῖν τοῖς πιστεύουσιν
+# sent_id = 30274
+1	Καὶ	καί	CCONJ	C-	_	6	cc	_	ref=1THESS_2.13
+2	διὰ	διά	ADP	R-	_	3	case	_	ref=1THESS_2.13
+3	τοῦτο	οὗτος	PRON	Pd	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	ref=1THESS_2.13
+4	καὶ	καί	ADV	Df	_	5	advmod	_	ref=1THESS_2.13|LId=1
+5	ἡμεῖς	ἡμεῖς	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	ref=1THESS_2.13
+6	εὐχαριστοῦμεν	εὐχαριστέω	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_2.13
+7	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	8	det	_	ref=1THESS_2.13
+8	θεῷ	θεός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	6	obl:arg	_	ref=1THESS_2.13
+9	ἀδιαλείπτως	ἀδιαλείπτως	ADV	Df	Degree=Pos	6	advmod	_	ref=1THESS_2.13
+10	ὅτι	ὅτι	SCONJ	G-	_	18	mark	_	ref=1THESS_2.13
+11	παραλαβόντες	παραλαμβάνω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	18	advcl	_	ref=1THESS_2.13
+12	λόγον	λόγος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	ref=1THESS_2.13
+13	ἀκοῆς	ἀκοή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	ref=1THESS_2.13
+14	παρ’	παρά	ADP	R-	_	15	case	_	ref=1THESS_2.13
+15	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	13	det	_	ref=1THESS_2.13
+16	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	17	det	_	ref=1THESS_2.13
+17	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	ref=1THESS_2.13
+18	ἐδέξασθε	δέχομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	6	ccomp	_	ref=1THESS_2.13
+19	οὐ	οὐ	ADV	Df	Polarity=Neg	20	advmod	_	ref=1THESS_2.13
+20	λόγον	λόγος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	18	advcl	_	ref=1THESS_2.13
+21	ἀνθρώπων	ἄνθρωπος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	20	nmod	_	ref=1THESS_2.13
+22	ἀλλὰ	ἀλλά	CCONJ	C-	_	26	cc	_	ref=1THESS_2.13
+23	καθώς	καθώς	ADV	Dq	PronType=Rel	20	dislocated	_	ref=1THESS_2.13
+24	ἐστιν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	cop	_	ref=1THESS_2.13|LId=1
+25	ἀληθῶς	ἀληθῶς	ADV	Df	Degree=Pos	23	advmod	_	ref=1THESS_2.13
+26	λόγον	λόγος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	20	conj	_	ref=1THESS_2.13
+27	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	ref=1THESS_2.13
+28	ὃς	ὅς	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	30	nsubj	_	ref=1THESS_2.13
+29	καὶ	καί	ADV	Df	_	30	advmod	_	ref=1THESS_2.13|LId=1
+30	ἐνεργεῖται	ἐνεργέω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	27	acl	_	ref=1THESS_2.13
+31	ἐν	ἐν	ADP	R-	_	32	case	_	ref=1THESS_2.13
+32	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	30	obl	_	ref=1THESS_2.13
+33	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	34	det	_	ref=1THESS_2.13
+34	πιστεύουσιν	πιστεύω	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	32	appos	_	ref=1THESS_2.13
+
+# source = The Greek New Testament, 1 Thessalonians 2
+# text = ὑμεῖς γὰρ μιμηταὶ ἐγενήθητε ἀδελφοί τῶν ἐκκλησιῶν τοῦ θεοῦ τῶν οὐσῶν ἐν τῇ Ἰουδαίᾳ ἐν Χριστῷ Ἰησοῦ ὅτι τὰ αὐτὰ ἐπάθετε καὶ ὑμεῖς ὑπὸ τῶν ἰδίων συμφυλετῶν καθὼς καὶ αὐτοὶ ὑπὸ τῶν Ἰουδαίων τῶν καὶ τὸν κύριον ἀποκτεινάντων Ἰησοῦν καὶ τοὺς προφήτας καὶ ἡμᾶς ἐκδιωξάντων καὶ θεῷ μὴ ἀρεσκόντων καὶ πᾶσιν ἀνθρώποις ἐναντίων κωλυόντων ἡμᾶς τοῖς ἔθνεσιν λαλῆσαι ἵνα σωθῶσιν εἰς τὸ ἀναπληρῶσαι αὐτῶν τὰς ἁμαρτίας πάντοτε
+# sent_id = 30275
+1	ὑμεῖς	ὑμεῖς	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	ref=1THESS_2.14
+2	γὰρ	γάρ	ADV	Df	_	4	discourse	_	ref=1THESS_2.14
+3	μιμηταὶ	μιμητής	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	xcomp	_	ref=1THESS_2.14
+4	ἐγενήθητε	γίγνομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	ref=1THESS_2.14
+5	ἀδελφοί	ἀδελφός	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	4	vocative	_	ref=1THESS_2.14
+6	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	7	det	_	ref=1THESS_2.14
+7	ἐκκλησιῶν	ἐκκλησία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	ref=1THESS_2.14
+8	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	9	det	_	ref=1THESS_2.14
+9	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	ref=1THESS_2.14
+10	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	14	det	_	ref=1THESS_2.14
+11	οὐσῶν	εἰμί	AUX	V-	Case=Gen|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	14	cop	_	ref=1THESS_2.14|LId=1
+12	ἐν	ἐν	ADP	R-	_	14	case	_	ref=1THESS_2.14
+13	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	14	det	_	ref=1THESS_2.14
+14	Ἰουδαίᾳ	Ἰουδαία	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	7	acl	_	ref=1THESS_2.14
+15	ἐν	ἐν	ADP	R-	_	16	case	_	ref=1THESS_2.14
+16	Χριστῷ	Χριστός	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	7	nmod	_	ref=1THESS_2.14
+17	Ἰησοῦ	Ἰησοῦς	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	16	flat:name	_	ref=1THESS_2.14
+18	ὅτι	ὅτι	SCONJ	G-	_	21	mark	_	ref=1THESS_2.14
+19	τὰ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	20	det	_	ref=1THESS_2.14
+20	αὐτὰ	αὐτός	PRON	Pp	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	21	obj	_	ref=1THESS_2.14
+21	ἐπάθετε	πάσχω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	4	advcl	_	ref=1THESS_2.14
+22	καὶ	καί	ADV	Df	_	23	advmod	_	ref=1THESS_2.14|LId=1
+23	ὑμεῖς	ὑμεῖς	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	21	nsubj	_	ref=1THESS_2.14
+24	ὑπὸ	ὑπό	ADP	R-	_	27	case	_	ref=1THESS_2.14
+25	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	27	det	_	ref=1THESS_2.14
+26	ἰδίων	ἴδιος	ADJ	A-	Case=Gen|Degree=Pos|Number=Plur	27	amod	_	ref=1THESS_2.14
+27	συμφυλετῶν	συμφυλέτης	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	21	obl:agent	_	ref=1THESS_2.14
+28	καθὼς	καθώς	ADV	Dq	PronType=Rel	30	orphan	_	ref=1THESS_2.14
+29	καὶ	καί	ADV	Df	_	30	advmod	_	ref=1THESS_2.14|LId=1
+30	αὐτοὶ	αὐτός	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur	20	acl	_	ref=1THESS_2.14
+31	ὑπὸ	ὑπό	ADP	R-	_	33	case	_	ref=1THESS_2.14
+32	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	33	det	_	ref=1THESS_2.14
+33	Ἰουδαίων	Ἰουδαῖος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	30	orphan	_	ref=1THESS_2.14
+34	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	38	det	_	ref=1THESS_2.15
+35	καὶ	καί	CCONJ	C-	_	37	cc	_	ref=1THESS_2.15
+36	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	37	det	_	ref=1THESS_2.15
+37	κύριον	κύριος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	38	obj	_	ref=1THESS_2.15
+38	ἀποκτεινάντων	ἀποκτείνω	VERB	V-	Aspect=Perf|Case=Gen|Gender=Masc,Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	33	nmod	_	ref=1THESS_2.15
+39	Ἰησοῦν	Ἰησοῦς	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	37	appos	_	ref=1THESS_2.15
+40	καὶ	καί	CCONJ	C-	_	42	cc	_	ref=1THESS_2.15
+41	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	42	det	_	ref=1THESS_2.15
+42	προφήτας	προφήτης	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	37	conj	_	ref=1THESS_2.15
+43	καὶ	καί	CCONJ	C-	_	45	cc	_	ref=1THESS_2.15
+44	ἡμᾶς	ἡμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	45	obj	_	ref=1THESS_2.15
+45	ἐκδιωξάντων	ἐκδιώκω	VERB	V-	Aspect=Perf|Case=Gen|Gender=Masc,Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	38	conj	_	ref=1THESS_2.15
+46	καὶ	καί	CCONJ	C-	_	49	cc	_	ref=1THESS_2.15
+47	θεῷ	θεός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	49	obl:arg	_	ref=1THESS_2.15
+48	μὴ	μή	ADV	Df	Polarity=Neg	49	advmod	_	ref=1THESS_2.15
+49	ἀρεσκόντων	ἀρέσκω	VERB	V-	Case=Gen|Gender=Masc,Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	38	conj	_	ref=1THESS_2.15
+50	καὶ	καί	CCONJ	C-	_	53	cc	_	ref=1THESS_2.15
+51	πᾶσιν	πᾶς	DET	Px	Case=Dat|Gender=Masc,Neut|Number=Plur	52	det	_	ref=1THESS_2.15
+52	ἀνθρώποις	ἄνθρωπος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	53	obl	_	ref=1THESS_2.15
+53	ἐναντίων	ἐναντίος	ADJ	A-	Case=Gen|Degree=Pos|Number=Plur	49	conj	_	ref=1THESS_2.15
+54	κωλυόντων	κωλύω	VERB	V-	Case=Gen|Gender=Masc,Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	38	conj	_	ref=1THESS_2.16
+55	ἡμᾶς	ἡμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	58	nsubj	_	ref=1THESS_2.16
+56	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	57	det	_	ref=1THESS_2.16
+57	ἔθνεσιν	ἔθνος	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	58	obl:arg	_	ref=1THESS_2.16
+58	λαλῆσαι	λαλέω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	54	ccomp	_	ref=1THESS_2.16
+59	ἵνα	ἵνα	SCONJ	G-	_	60	mark	_	ref=1THESS_2.16
+60	σωθῶσιν	σῴζω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	58	advcl	_	ref=1THESS_2.16
+61	εἰς	εἰς	ADP	R-	_	63	case	_	ref=1THESS_2.16
+62	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	63	det	_	ref=1THESS_2.16
+63	ἀναπληρῶσαι	ἀναπληρόω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	54	obl	_	ref=1THESS_2.16
+64	αὐτῶν	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	66	det	_	ref=1THESS_2.16
+65	τὰς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	66	det	_	ref=1THESS_2.16
+66	ἁμαρτίας	ἁμαρτία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	63	obj	_	ref=1THESS_2.16
+67	πάντοτε	πάντοτε	ADV	Df	_	63	advmod	_	ref=1THESS_2.16
+
+# source = The Greek New Testament, 1 Thessalonians 2
+# text = ἔφθασεν δὲ ἐπ’ αὐτοὺς ἡ ὀργὴ εἰς τέλος
+# sent_id = 30276
+1	ἔφθασεν	φθάνω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_2.16
+2	δὲ	δέ	ADV	Df	_	1	discourse	_	ref=1THESS_2.16
+3	ἐπ’	ἐπί	ADP	R-	_	4	case	_	ref=1THESS_2.16
+4	αὐτοὺς	αὐτός	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	obl	_	ref=1THESS_2.16
+5	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	ref=1THESS_2.16
+6	ὀργὴ	ὀργή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	ref=1THESS_2.16
+7	εἰς	εἰς	ADP	R-	_	8	case	_	ref=1THESS_2.16
+8	τέλος	τέλος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	ref=1THESS_2.16
+
+# source = The Greek New Testament, 1 Thessalonians 2
+# text = Ἡμεῖς δέ ἀδελφοί ἀπορφανισθέντες ἀφ’ ὑμῶν πρὸς καιρὸν ὥρας προσώπῳ οὐ καρδίᾳ περισσοτέρως ἐσπουδάσαμεν τὸ πρόσωπον ὑμῶν ἰδεῖν ἐν πολλῇ ἐπιθυμίᾳ
+# sent_id = 30277
+1	Ἡμεῖς	ἡμεῖς	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	14	nsubj	_	ref=1THESS_2.17
+2	δέ	δέ	ADV	Df	_	14	discourse	_	ref=1THESS_2.17
+3	ἀδελφοί	ἀδελφός	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	14	vocative	_	ref=1THESS_2.17
+4	ἀπορφανισθέντες	ἀπορφανίζω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	14	advcl	_	ref=1THESS_2.17
+5	ἀφ’	ἀπό	ADP	R-	_	6	case	_	ref=1THESS_2.17
+6	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	4	obl	_	ref=1THESS_2.17
+7	πρὸς	πρός	ADP	R-	_	8	case	_	ref=1THESS_2.17
+8	καιρὸν	καιρός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	ref=1THESS_2.17
+9	ὥρας	ὥρα	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	ref=1THESS_2.17
+10	προσώπῳ	πρόσωπον	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	4	obl	_	ref=1THESS_2.17
+11	οὐ	οὐ	ADV	Df	Polarity=Neg	12	advmod	_	ref=1THESS_2.17
+12	καρδίᾳ	καρδία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	10	conj	_	ref=1THESS_2.17
+13	περισσοτέρως	περισσῶς	ADV	Df	Degree=Cmp	14	advmod	_	ref=1THESS_2.17
+14	ἐσπουδάσαμεν	σπουδάζω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_2.17
+15	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	16	det	_	ref=1THESS_2.17
+16	πρόσωπον	πρόσωπον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	18	obj	_	ref=1THESS_2.17
+17	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	16	det	_	ref=1THESS_2.17
+18	ἰδεῖν	ὁράω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	14	xcomp	_	ref=1THESS_2.17
+19	ἐν	ἐν	ADP	R-	_	21	case	_	ref=1THESS_2.17
+20	πολλῇ	πολύς	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	ref=1THESS_2.17
+21	ἐπιθυμίᾳ	ἐπιθυμία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	14	obl	_	ref=1THESS_2.17
+
+# source = The Greek New Testament, 1 Thessalonians 2
+# text = διότι ἠθελήσαμεν ἐλθεῖν πρὸς ὑμᾶς ἐγὼ μὲν Παῦλος καὶ ἅπαξ καὶ δίς καὶ ἐνέκοψεν ἡμᾶς ὁ σατανᾶς
+# sent_id = 30278
+1	διότι	διότι	ADV	Df	_	2	advmod	_	ref=1THESS_2.18
+2	ἠθελήσαμεν	ἐθέλω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_2.18
+3	ἐλθεῖν	ἔρχομαι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=1THESS_2.18
+4	πρὸς	πρός	ADP	R-	_	5	case	_	ref=1THESS_2.18
+5	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	obl	_	ref=1THESS_2.18
+6	ἐγὼ	ἐγώ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	ref=1THESS_2.18
+7	μὲν	μέν	ADV	Df	_	6	discourse	_	ref=1THESS_2.18
+8	Παῦλος	Παῦλος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	appos	_	ref=1THESS_2.18
+9	καὶ	καί	CCONJ	C-	_	10	cc	_	ref=1THESS_2.18
+10	ἅπαξ	ἅπαξ	ADV	Df	_	3	advmod	_	ref=1THESS_2.18
+11	καὶ	καί	CCONJ	C-	_	12	cc	_	ref=1THESS_2.18
+12	δίς	δίς	ADV	Df	_	10	conj	_	ref=1THESS_2.18
+13	καὶ	καί	CCONJ	C-	_	14	cc	_	ref=1THESS_2.18
+14	ἐνέκοψεν	ἐγκόπτω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=1THESS_2.18
+15	ἡμᾶς	ἡμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	14	obj	_	ref=1THESS_2.18
+16	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	17	det	_	ref=1THESS_2.18
+17	σατανᾶς	Σατανᾶς	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	ref=1THESS_2.18
+
+# source = The Greek New Testament, 1 Thessalonians 2
+# text = τίς γὰρ ἡμῶν ἐλπὶς ἢ χαρὰ ἢ στέφανος καυχήσεως ἢ οὐχὶ καὶ ὑμεῖς ἔμπροσθεν τοῦ κυρίου ἡμῶν Ἰησοῦ ἐν τῇ αὐτοῦ παρουσίᾳ
+# sent_id = 30279
+1	τίς	τίς	PRON	Pi	Case=Nom|Gender=Fem|Number=Sing|PronType=Int	0	root	_	ref=1THESS_2.19
+2	γὰρ	γάρ	ADV	Df	_	1	discourse	_	ref=1THESS_2.19
+3	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	4	det	_	ref=1THESS_2.19
+4	ἐλπὶς	ἐλπίς	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	ref=1THESS_2.19
+5	ἢ	ἤ	CCONJ	C-	_	6	cc	_	ref=1THESS_2.19
+6	χαρὰ	χαρά	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	conj	_	ref=1THESS_2.19
+7	ἢ	ἤ	CCONJ	C-	_	8	cc	_	ref=1THESS_2.19
+8	στέφανος	στέφανος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	ref=1THESS_2.19
+9	καυχήσεως	καύχησις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	ref=1THESS_2.19
+10	ἢ	ἤ	ADV	Df	_	13	advmod	_	ref=1THESS_2.19
+11	οὐχὶ	οὐχί	ADV	Df	Polarity=Neg	13	advmod	_	ref=1THESS_2.19
+12	καὶ	καί	ADV	Df	_	13	advmod	_	ref=1THESS_2.19|LId=1
+13	ὑμεῖς	ὑμεῖς	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	1	parataxis	_	ref=1THESS_2.19
+14	ἔμπροσθεν	ἔμπροσθεν	ADP	R-	_	16	case	_	ref=1THESS_2.19
+15	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	16	det	_	ref=1THESS_2.19
+16	κυρίου	κύριος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	ref=1THESS_2.19
+17	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	16	det	_	ref=1THESS_2.19
+18	Ἰησοῦ	Ἰησοῦς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	16	appos	_	ref=1THESS_2.19
+19	ἐν	ἐν	ADP	R-	_	22	case	_	ref=1THESS_2.19
+20	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	22	det	_	ref=1THESS_2.19
+21	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	det	_	ref=1THESS_2.19
+22	παρουσίᾳ	παρουσία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	1	obl	_	ref=1THESS_2.19
+
+# source = The Greek New Testament, 1 Thessalonians 2
+# text = ὑμεῖς γάρ ἐστε ἡ δόξα ἡμῶν καὶ ἡ χαρά
+# sent_id = 30280
+1	ὑμεῖς	ὑμεῖς	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	ref=1THESS_2.20
+2	γάρ	γάρ	ADV	Df	_	5	discourse	_	ref=1THESS_2.20
+3	ἐστε	εἰμί	AUX	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=1THESS_2.20|LId=1
+4	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	ref=1THESS_2.20
+5	δόξα	δόξα	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	ref=1THESS_2.20
+6	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	5	det	_	ref=1THESS_2.20
+7	καὶ	καί	CCONJ	C-	_	9	cc	_	ref=1THESS_2.20
+8	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	ref=1THESS_2.20
+9	χαρά	χαρά	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	conj	_	ref=1THESS_2.20
+
+# source = The Greek New Testament, 1 Thessalonians 3
+# text = Διὸ μηκέτι στέγοντες εὐδοκήσαμεν καταλειφθῆναι ἐν Ἀθήναις μόνοι καὶ ἐπέμψαμεν Τιμόθεον τὸν ἀδελφὸν ἡμῶν καὶ διάκονον τοῦ θεοῦ ἐν τῷ εὐαγγελίῳ τοῦ Χριστοῦ εἰς τὸ στηρίξαι ὑμᾶς καὶ παρακαλέσαι ὑπὲρ τῆς πίστεως ὑμῶν τὸ μηδένα σαίνεσθαι ἐν ταῖς θλίψεσιν ταύταις
+# sent_id = 30281
+1	Διὸ	διό	ADV	Df	_	4	advmod	_	ref=1THESS_3.1
+2	μηκέτι	μηκέτι	ADV	Df	Polarity=Neg	3	advmod	_	ref=1THESS_3.1
+3	στέγοντες	στέγω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	advcl	_	ref=1THESS_3.1
+4	εὐδοκήσαμεν	εὐδοκέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_3.1
+5	καταλειφθῆναι	καταλείπω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	4	xcomp	_	ref=1THESS_3.1
+6	ἐν	ἐν	ADP	R-	_	7	case	_	ref=1THESS_3.1
+7	Ἀθήναις	Ἀθῆναι	PROPN	Ne	Case=Dat|Gender=Fem|Number=Plur	5	obl	_	ref=1THESS_3.1
+8	μόνοι	μόνος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	5	nsubj:pass	_	ref=1THESS_3.1
+9	καὶ	καί	CCONJ	C-	_	10	cc	_	ref=1THESS_3.2
+10	ἐπέμψαμεν	πέμπω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	ref=1THESS_3.2
+11	Τιμόθεον	Τιμόθεος	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	ref=1THESS_3.2
+12	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	13	det	_	ref=1THESS_3.2
+13	ἀδελφὸν	ἀδελφός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	11	appos	_	ref=1THESS_3.2
+14	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	13	det	_	ref=1THESS_3.2
+15	καὶ	καί	CCONJ	C-	_	16	cc	_	ref=1THESS_3.2
+16	διάκονον	διάκονος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	13	conj	_	ref=1THESS_3.2
+17	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	18	det	_	ref=1THESS_3.2
+18	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	ref=1THESS_3.2
+19	ἐν	ἐν	ADP	R-	_	21	case	_	ref=1THESS_3.2
+20	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	21	det	_	ref=1THESS_3.2
+21	εὐαγγελίῳ	εὐαγγέλιον	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	16	nmod	_	ref=1THESS_3.2
+22	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	23	det	_	ref=1THESS_3.2
+23	Χριστοῦ	Χριστός	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	ref=1THESS_3.2
+24	εἰς	εἰς	ADP	R-	_	26	case	_	ref=1THESS_3.2
+25	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	26	det	_	ref=1THESS_3.2
+26	στηρίξαι	στηρίζω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	10	obl	_	ref=1THESS_3.2
+27	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	26	obj	_	ref=1THESS_3.2
+28	καὶ	καί	CCONJ	C-	_	29	cc	_	ref=1THESS_3.2
+29	παρακαλέσαι	παρακαλέω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	26	conj	_	ref=1THESS_3.2
+30	ὑπὲρ	ὑπέρ	ADP	R-	_	32	case	_	ref=1THESS_3.2
+31	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	32	det	_	ref=1THESS_3.2
+32	πίστεως	πίστις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	29	obl	_	ref=1THESS_3.2
+33	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	32	det	_	ref=1THESS_3.2
+34	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	36	det	_	ref=1THESS_3.3
+35	μηδένα	μηδείς	PRON	Px	Case=Acc|Gender=Masc|Number=Sing	36	nsubj:pass	_	ref=1THESS_3.3
+36	σαίνεσθαι	σαίνω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	29	advcl	_	ref=1THESS_3.3
+37	ἐν	ἐν	ADP	R-	_	39	case	_	ref=1THESS_3.3
+38	ταῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	39	det	_	ref=1THESS_3.3
+39	θλίψεσιν	θλῖψις	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	36	obl	_	ref=1THESS_3.3
+40	ταύταις	οὗτος	DET	Pd	Case=Dat|Gender=Fem|Number=Plur	39	det	_	ref=1THESS_3.3
+
+# source = The Greek New Testament, 1 Thessalonians 3
+# text = αὐτοὶ γὰρ οἴδατε ὅτι εἰς τοῦτο κείμεθα
+# sent_id = 30282
+1	αὐτοὶ	αὐτός	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	ref=1THESS_3.3
+2	γὰρ	γάρ	ADV	Df	_	3	discourse	_	ref=1THESS_3.3
+3	οἴδατε	οἶδα	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_3.3
+4	ὅτι	ὅτι	SCONJ	G-	_	7	mark	_	ref=1THESS_3.3
+5	εἰς	εἰς	ADP	R-	_	6	case	_	ref=1THESS_3.3
+6	τοῦτο	οὗτος	PRON	Pd	Case=Acc|Gender=Neut|Number=Sing	7	obl	_	ref=1THESS_3.3
+7	κείμεθα	κεῖμαι	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	3	ccomp	_	ref=1THESS_3.3
+
+# source = The Greek New Testament, 1 Thessalonians 3
+# text = καὶ γὰρ ὅτε πρὸς ὑμᾶς ἦμεν προελέγομεν ὑμῖν ὅτι μέλλομεν θλίβεσθαι καθὼς καὶ ἐγένετο καὶ οἴδατε
+# sent_id = 30283
+1	καὶ	καί	CCONJ	C-	_	7	cc	_	ref=1THESS_3.4
+2	γὰρ	γάρ	ADV	Df	_	7	discourse	_	ref=1THESS_3.4
+3	ὅτε	ὅτε	SCONJ	G-	_	5	mark	_	ref=1THESS_3.4
+4	πρὸς	πρός	ADP	R-	_	5	case	_	ref=1THESS_3.4
+5	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	7	advcl	_	ref=1THESS_3.4
+6	ἦμεν	εἰμί	AUX	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	ref=1THESS_3.4|LId=1
+7	προελέγομεν	προλέγω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_3.4
+8	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	7	obl:arg	_	ref=1THESS_3.4
+9	ὅτι	ὅτι	SCONJ	G-	_	10	mark	_	ref=1THESS_3.4
+10	μέλλομεν	μέλλω	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	7	ccomp	_	ref=1THESS_3.4
+11	θλίβεσθαι	θλίβω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	10	xcomp	_	ref=1THESS_3.4
+12	καθὼς	καθώς	ADV	Dq	PronType=Rel	14	advcl	_	ref=1THESS_3.4
+13	καὶ	καί	ADV	Df	_	14	advmod	_	ref=1THESS_3.4|LId=1
+14	ἐγένετο	γίγνομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	11	advcl	_	ref=1THESS_3.4
+15	καὶ	καί	CCONJ	C-	_	16	cc	_	ref=1THESS_3.4
+16	οἴδατε	οἶδα	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	14	conj	_	ref=1THESS_3.4
+
+# source = The Greek New Testament, 1 Thessalonians 3
+# text = διὰ τοῦτο καὶ ἐγώ μηκέτι στέγων ἔπεμψα εἰς τὸ γνῶναι τὴν πίστιν ὑμῶν μήπως ἐπείρασεν ὑμᾶς ὁ πειράζων καὶ εἰς κενὸν γένηται ὁ κόπος ἡμῶν
+# sent_id = 30284
+1	διὰ	διά	ADP	R-	_	2	case	_	ref=1THESS_3.5
+2	τοῦτο	οὗτος	PRON	Pd	Case=Acc|Gender=Neut|Number=Sing	7	obl	_	ref=1THESS_3.5
+3	καὶ	καί	CCONJ	C-	_	7	cc	_	ref=1THESS_3.5
+4	ἐγώ	ἐγώ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	ref=1THESS_3.5
+5	μηκέτι	μηκέτι	ADV	Df	Polarity=Neg	6	advmod	_	ref=1THESS_3.5
+6	στέγων	στέγω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	advcl	_	ref=1THESS_3.5
+7	ἔπεμψα	πέμπω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_3.5
+8	εἰς	εἰς	ADP	R-	_	10	case	_	ref=1THESS_3.5
+9	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	10	det	_	ref=1THESS_3.5
+10	γνῶναι	γιγνώσκω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	7	obl	_	ref=1THESS_3.5
+11	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	12	det	_	ref=1THESS_3.5
+12	πίστιν	πίστις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	ref=1THESS_3.5
+13	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	12	det	_	ref=1THESS_3.5
+14	μήπως	μήπως	SCONJ	G-	_	15	mark	_	ref=1THESS_3.5
+15	ἐπείρασεν	πειράζω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	ccomp	_	ref=1THESS_3.5
+16	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	15	obj	_	ref=1THESS_3.5
+17	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	18	det	_	ref=1THESS_3.5
+18	πειράζων	πειράζω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	15	nsubj	_	ref=1THESS_3.5
+19	καὶ	καί	CCONJ	C-	_	22	cc	_	ref=1THESS_3.5
+20	εἰς	εἰς	ADP	R-	_	21	case	_	ref=1THESS_3.5
+21	κενὸν	κενός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	22	xcomp	_	ref=1THESS_3.5
+22	γένηται	γίγνομαι	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	15	conj	_	ref=1THESS_3.5
+23	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	24	det	_	ref=1THESS_3.5
+24	κόπος	κόπος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	ref=1THESS_3.5
+25	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	24	det	_	ref=1THESS_3.5
+
+# source = The Greek New Testament, 1 Thessalonians 3
+# text = Ἄρτι δὲ ἐλθόντος Τιμοθέου πρὸς ἡμᾶς ἀφ’ ὑμῶν καὶ εὐαγγελισαμένου ἡμῖν τὴν πίστιν καὶ τὴν ἀγάπην ὑμῶν καὶ ὅτι ἔχετε μνείαν ἡμῶν ἀγαθὴν πάντοτε ἐπιποθοῦντες ἡμᾶς ἰδεῖν καθάπερ καὶ ἡμεῖς ὑμᾶς διὰ τοῦτο παρεκλήθημεν ἀδελφοί ἐφ’ ὑμῖν ἐπὶ πάσῃ τῇ ἀνάγκῃ καὶ θλίψει ἡμῶν διὰ τῆς ὑμῶν πίστεως ὅτι νῦν ζῶμεν ἐὰν ὑμεῖς στήκετε ἐν κυρίῳ
+# sent_id = 30285
+1	Ἄρτι	ἄρτι	ADV	Df	_	34	advmod	_	ref=1THESS_3.6
+2	δὲ	δέ	ADV	Df	_	34	discourse	_	ref=1THESS_3.6
+3	ἐλθόντος	ἔρχομαι	VERB	V-	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	34	advcl	_	ref=1THESS_3.6
+4	Τιμοθέου	Τιμόθεος	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	nsubj	_	ref=1THESS_3.6
+5	πρὸς	πρός	ADP	R-	_	6	case	_	ref=1THESS_3.6
+6	ἡμᾶς	ἡμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	3	obl	_	ref=1THESS_3.6
+7	ἀφ’	ἀπό	ADP	R-	_	8	case	_	ref=1THESS_3.6
+8	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	obl	_	ref=1THESS_3.6
+9	καὶ	καί	CCONJ	C-	_	10	cc	_	ref=1THESS_3.6
+10	εὐαγγελισαμένου	εὐαγγελίζω	VERB	V-	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	3	conj	_	ref=1THESS_3.6
+11	ἡμῖν	ἡμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	10	obl:arg	_	ref=1THESS_3.6
+12	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	13	det	_	ref=1THESS_3.6
+13	πίστιν	πίστις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	ref=1THESS_3.6
+14	καὶ	καί	CCONJ	C-	_	16	cc	_	ref=1THESS_3.6
+15	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	16	det	_	ref=1THESS_3.6
+16	ἀγάπην	ἀγάπη	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	13	conj	_	ref=1THESS_3.6
+17	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	13	det	_	ref=1THESS_3.6
+18	καὶ	καί	CCONJ	C-	_	13	cc	_	ref=1THESS_3.6
+19	ὅτι	ὅτι	SCONJ	G-	_	20	mark	_	ref=1THESS_3.6
+20	ἔχετε	ἔχω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	10	ccomp	_	ref=1THESS_3.6
+21	μνείαν	μνεία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	20	obj	_	ref=1THESS_3.6
+22	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	21	nmod	_	ref=1THESS_3.6
+23	ἀγαθὴν	ἀγαθός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	ref=1THESS_3.6
+24	πάντοτε	πάντοτε	ADV	Df	_	20	advmod	_	ref=1THESS_3.6
+25	ἐπιποθοῦντες	ἐπιποθέω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	20	advcl	_	ref=1THESS_3.6
+26	ἡμᾶς	ἡμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	27	obj	_	ref=1THESS_3.6
+27	ἰδεῖν	ὁράω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	25	xcomp	_	ref=1THESS_3.6
+28	καθάπερ	καθάπερ	ADV	Dq	PronType=Rel	30	orphan	_	ref=1THESS_3.6
+29	καὶ	καί	ADV	Df	_	30	advmod	_	ref=1THESS_3.6|LId=1
+30	ἡμεῖς	ἡμεῖς	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	25	advcl	_	ref=1THESS_3.6
+31	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	30	orphan	_	ref=1THESS_3.6
+32	διὰ	διά	ADP	R-	_	33	case	_	ref=1THESS_3.7
+33	τοῦτο	οὗτος	PRON	Pd	Case=Acc|Gender=Neut|Number=Sing	34	obl	_	ref=1THESS_3.7
+34	παρεκλήθημεν	παρακαλέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	ref=1THESS_3.7
+35	ἀδελφοί	ἀδελφός	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	34	vocative	_	ref=1THESS_3.7
+36	ἐφ’	ἐπί	ADP	R-	_	37	case	_	ref=1THESS_3.7
+37	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	34	obl	_	ref=1THESS_3.7
+38	ἐπὶ	ἐπί	ADP	R-	_	41	case	_	ref=1THESS_3.7
+39	πάσῃ	πᾶς	DET	Px	Case=Dat|Gender=Fem|Number=Sing	41	det	_	ref=1THESS_3.7
+40	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	41	det	_	ref=1THESS_3.7
+41	ἀνάγκῃ	ἀνάγκη	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	34	obl	_	ref=1THESS_3.7
+42	καὶ	καί	CCONJ	C-	_	43	cc	_	ref=1THESS_3.7
+43	θλίψει	θλῖψις	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	41	conj	_	ref=1THESS_3.7
+44	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	41	det	_	ref=1THESS_3.7
+45	διὰ	διά	ADP	R-	_	48	case	_	ref=1THESS_3.7
+46	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	48	det	_	ref=1THESS_3.7
+47	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	48	det	_	ref=1THESS_3.7
+48	πίστεως	πίστις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	34	obl	_	ref=1THESS_3.7
+49	ὅτι	ὅτι	SCONJ	G-	_	51	mark	_	ref=1THESS_3.8
+50	νῦν	νῦν	ADV	Df	_	51	advmod	_	ref=1THESS_3.8|LId=1
+51	ζῶμεν	ζῶ	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	34	advcl	_	ref=1THESS_3.8
+52	ἐὰν	ἐάν	SCONJ	G-	_	54	mark	_	ref=1THESS_3.8
+53	ὑμεῖς	ὑμεῖς	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	54	nsubj	_	ref=1THESS_3.8
+54	στήκετε	στήκω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	51	advcl	_	ref=1THESS_3.8
+55	ἐν	ἐν	ADP	R-	_	56	case	_	ref=1THESS_3.8
+56	κυρίῳ	κύριος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	54	obl	_	ref=1THESS_3.8
+
+# source = The Greek New Testament, 1 Thessalonians 3
+# text = τίνα γὰρ εὐχαριστίαν δυνάμεθα τῷ θεῷ ἀνταποδοῦναι περὶ ὑμῶν ἐπὶ πάσῃ τῇ χαρᾷ ᾗ χαίρομεν δι’ ὑμᾶς ἔμπροσθεν τοῦ θεοῦ ἡμῶν νυκτὸς καὶ ἡμέρας ὑπερεκπερισσοῦ δεόμενοι εἰς τὸ ἰδεῖν ὑμῶν τὸ πρόσωπον καὶ καταρτίσαι τὰ ὑστερήματα τῆς πίστεως ὑμῶν
+# sent_id = 30286
+1	τίνα	τίς	PRON	Pi	Case=Acc|Gender=Fem,Masc|Number=Sing|PronType=Int	3	det	_	ref=1THESS_3.9
+2	γὰρ	γάρ	ADV	Df	_	4	discourse	_	ref=1THESS_3.9
+3	εὐχαριστίαν	εὐχαριστία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	ref=1THESS_3.9
+4	δυνάμεθα	δύναμαι	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=1THESS_3.9
+5	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	6	det	_	ref=1THESS_3.9
+6	θεῷ	θεός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	7	obl:arg	_	ref=1THESS_3.9
+7	ἀνταποδοῦναι	ἀνταποδίδωμι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	4	xcomp	_	ref=1THESS_3.9
+8	περὶ	περί	ADP	R-	_	9	case	_	ref=1THESS_3.9
+9	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	7	obl	_	ref=1THESS_3.9
+10	ἐπὶ	ἐπί	ADP	R-	_	13	case	_	ref=1THESS_3.9
+11	πάσῃ	πᾶς	DET	Px	Case=Dat|Gender=Fem|Number=Sing	13	det	_	ref=1THESS_3.9
+12	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	13	det	_	ref=1THESS_3.9
+13	χαρᾷ	χαρά	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	7	obl	_	ref=1THESS_3.9
+14	ᾗ	ὅς	PRON	Pr	Case=Dat|Gender=Fem|Number=Sing|PronType=Rel	15	advcl	_	ref=1THESS_3.9
+15	χαίρομεν	χαίρω	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl	_	ref=1THESS_3.9
+16	δι’	διά	ADP	R-	_	17	case	_	ref=1THESS_3.9
+17	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	15	obl	_	ref=1THESS_3.9
+18	ἔμπροσθεν	ἔμπροσθεν	ADP	R-	_	20	case	_	ref=1THESS_3.9
+19	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	20	det	_	ref=1THESS_3.9
+20	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	15	obl	_	ref=1THESS_3.9
+21	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	20	det	_	ref=1THESS_3.9
+22	νυκτὸς	νύξ	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	26	obl	_	ref=1THESS_3.10
+23	καὶ	καί	CCONJ	C-	_	24	cc	_	ref=1THESS_3.10
+24	ἡμέρας	ἡμέρα	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	22	conj	_	ref=1THESS_3.10
+25	ὑπερεκπερισσοῦ	ὑπερεκπερισσοῦ	ADV	Df	_	26	advmod	_	ref=1THESS_3.10
+26	δεόμενοι	δέω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	15	advcl	_	ref=1THESS_3.10|LId=2
+27	εἰς	εἰς	ADP	R-	_	29	case	_	ref=1THESS_3.10
+28	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	29	det	_	ref=1THESS_3.10
+29	ἰδεῖν	ὁράω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	26	obl	_	ref=1THESS_3.10
+30	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	32	det	_	ref=1THESS_3.10
+31	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	32	det	_	ref=1THESS_3.10
+32	πρόσωπον	πρόσωπον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	29	obj	_	ref=1THESS_3.10
+33	καὶ	καί	CCONJ	C-	_	34	cc	_	ref=1THESS_3.10
+34	καταρτίσαι	καταρτίζω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	29	conj	_	ref=1THESS_3.10
+35	τὰ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	36	det	_	ref=1THESS_3.10
+36	ὑστερήματα	ὑστέρημα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	34	obj	_	ref=1THESS_3.10
+37	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	38	det	_	ref=1THESS_3.10
+38	πίστεως	πίστις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	36	nmod	_	ref=1THESS_3.10
+39	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	38	det	_	ref=1THESS_3.10
+
+# source = The Greek New Testament, 1 Thessalonians 3
+# text = αὐτὸς δὲ ὁ θεὸς καὶ πατὴρ ἡμῶν καὶ ὁ κύριος ἡμῶν Ἰησοῦς κατευθύναι τὴν ὁδὸν ἡμῶν πρὸς ὑμᾶς
+# sent_id = 30287
+1	αὐτὸς	αὐτός	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	4	det	_	ref=1THESS_3.11
+2	δὲ	δέ	ADV	Df	_	13	discourse	_	ref=1THESS_3.11
+3	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	ref=1THESS_3.11
+4	θεὸς	θεός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	ref=1THESS_3.11
+5	καὶ	καί	CCONJ	C-	_	6	cc	_	ref=1THESS_3.11
+6	πατὴρ	πατήρ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	ref=1THESS_3.11
+7	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	6	det	_	ref=1THESS_3.11
+8	καὶ	καί	CCONJ	C-	_	10	cc	_	ref=1THESS_3.11
+9	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	10	det	_	ref=1THESS_3.11
+10	κύριος	κύριος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	ref=1THESS_3.11
+11	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	10	det	_	ref=1THESS_3.11
+12	Ἰησοῦς	Ἰησοῦς	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	appos	_	ref=1THESS_3.11
+13	κατευθύναι	κατευθύνω	VERB	V-	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_3.11
+14	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	15	det	_	ref=1THESS_3.11
+15	ὁδὸν	ὁδός	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	13	obj	_	ref=1THESS_3.11
+16	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	15	det	_	ref=1THESS_3.11
+17	πρὸς	πρός	ADP	R-	_	18	case	_	ref=1THESS_3.11
+18	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	15	nmod	_	ref=1THESS_3.11
+
+# source = The Greek New Testament, 1 Thessalonians 3
+# text = ὑμᾶς δὲ ὁ κύριος πλεονάσαι καὶ περισσεύσαι τῇ ἀγάπῃ εἰς ἀλλήλους καὶ εἰς πάντας καθάπερ καὶ ἡμεῖς εἰς ὑμᾶς εἰς τὸ στηρίξαι ὑμῶν τὰς καρδίας ἀμέμπτους ἐν ἁγιωσύνῃ ἔμπροσθεν τοῦ θεοῦ καὶ πατρὸς ἡμῶν ἐν τῇ παρουσίᾳ τοῦ κυρίου ἡμῶν Ἰησοῦ μετὰ πάντων τῶν ἁγίων αὐτοῦ
+# sent_id = 30288
+1	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	5	obj	_	ref=1THESS_3.12
+2	δὲ	δέ	ADV	Df	_	5	discourse	_	ref=1THESS_3.12
+3	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	ref=1THESS_3.12
+4	κύριος	κύριος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=1THESS_3.12
+5	πλεονάσαι	πλεονάζω	VERB	V-	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_3.12
+6	καὶ	καί	CCONJ	C-	_	7	cc	_	ref=1THESS_3.12
+7	περισσεύσαι	περισσεύω	VERB	V-	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	ref=1THESS_3.12
+8	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	ref=1THESS_3.12
+9	ἀγάπῃ	ἀγάπη	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	7	obl:arg	_	ref=1THESS_3.12
+10	εἰς	εἰς	ADP	R-	_	11	case	_	ref=1THESS_3.12
+11	ἀλλήλους	ἀλλήλων	PRON	Pc	Case=Acc|Gender=Masc|Number=Plur|PronType=Rcp	9	nmod	_	ref=1THESS_3.12
+12	καὶ	καί	CCONJ	C-	_	14	cc	_	ref=1THESS_3.12
+13	εἰς	εἰς	ADP	R-	_	14	case	_	ref=1THESS_3.12
+14	πάντας	πᾶς	PRON	Px	Case=Acc|Gender=Masc|Number=Plur	11	conj	_	ref=1THESS_3.12
+15	καθάπερ	καθάπερ	ADV	Dq	PronType=Rel	17	orphan	_	ref=1THESS_3.12
+16	καὶ	καί	ADV	Df	_	17	advmod	_	ref=1THESS_3.12|LId=1
+17	ἡμεῖς	ἡμεῖς	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	9	acl	_	ref=1THESS_3.12
+18	εἰς	εἰς	ADP	R-	_	19	case	_	ref=1THESS_3.12
+19	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	17	orphan	_	ref=1THESS_3.12
+20	εἰς	εἰς	ADP	R-	_	22	case	_	ref=1THESS_3.13
+21	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	22	det	_	ref=1THESS_3.13
+22	στηρίξαι	στηρίζω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	7	obl	_	ref=1THESS_3.13
+23	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	25	det	_	ref=1THESS_3.13
+24	τὰς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	25	det	_	ref=1THESS_3.13
+25	καρδίας	καρδία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	22	obj	_	ref=1THESS_3.13
+26	ἀμέμπτους	ἄμεμπτος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	22	advmod	_	ref=1THESS_3.13
+27	ἐν	ἐν	ADP	R-	_	28	case	_	ref=1THESS_3.13
+28	ἁγιωσύνῃ	ἁγιωσύνη	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	26	obl	_	ref=1THESS_3.13
+29	ἔμπροσθεν	ἔμπροσθεν	ADP	R-	_	31	case	_	ref=1THESS_3.13
+30	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	31	det	_	ref=1THESS_3.13
+31	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	ref=1THESS_3.13
+32	καὶ	καί	CCONJ	C-	_	33	cc	_	ref=1THESS_3.13
+33	πατρὸς	πατήρ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	31	conj	_	ref=1THESS_3.13
+34	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	33	det	_	ref=1THESS_3.13
+35	ἐν	ἐν	ADP	R-	_	37	case	_	ref=1THESS_3.13
+36	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	37	det	_	ref=1THESS_3.13
+37	παρουσίᾳ	παρουσία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	26	obl	_	ref=1THESS_3.13
+38	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	39	det	_	ref=1THESS_3.13
+39	κυρίου	κύριος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	37	nmod	_	ref=1THESS_3.13
+40	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	39	det	_	ref=1THESS_3.13
+41	Ἰησοῦ	Ἰησοῦς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	39	appos	_	ref=1THESS_3.13
+42	μετὰ	μετά	ADP	R-	_	45	case	_	ref=1THESS_3.13
+43	πάντων	πᾶς	DET	Px	Case=Gen|Gender=Masc,Neut|Number=Plur	45	det	_	ref=1THESS_3.13
+44	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	45	det	_	ref=1THESS_3.13
+45	ἁγίων	ἅγιος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	37	nmod	_	ref=1THESS_3.13
+46	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	45	det	_	ref=1THESS_3.13
+
+# source = The Greek New Testament, 1 Thessalonians 3
+# text = ἀμήν
+# sent_id = 30289
+1	ἀμήν	ἀμήν	INTJ	I-	_	0	root	_	ref=1THESS_3.13
+
+# source = The Greek New Testament, 1 Thessalonians 4
+# text = Λοιπὸν οὖν ἀδελφοί ἐρωτῶμεν ὑμᾶς καὶ παρακαλοῦμεν ἐν κυρίῳ Ἰησοῦ ἵνα καθὼς παρελάβετε παρ’ ἡμῶν τὸ πῶς δεῖ ὑμᾶς περιπατεῖν καὶ ἀρέσκειν θεῷ καθὼς καὶ περιπατεῖτε ἵνα περισσεύητε μᾶλλον
+# sent_id = 30290
+1	Λοιπὸν	λοιπός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	4	advmod	_	ref=1THESS_4.1
+2	οὖν	οὖν	ADV	Df	_	4	discourse	_	ref=1THESS_4.1
+3	ἀδελφοί	ἀδελφός	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	4	vocative	_	ref=1THESS_4.1
+4	ἐρωτῶμεν	ἐρωτάω	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_4.1
+5	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	4	obj	_	ref=1THESS_4.1
+6	καὶ	καί	CCONJ	C-	_	7	cc	_	ref=1THESS_4.1
+7	παρακαλοῦμεν	παρακαλέω	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	ref=1THESS_4.1
+8	ἐν	ἐν	ADP	R-	_	9	case	_	ref=1THESS_4.1
+9	κυρίῳ	κύριος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	ref=1THESS_4.1
+10	Ἰησοῦ	Ἰησοῦς	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	9	appos	_	ref=1THESS_4.1
+11	ἵνα	ἵνα	SCONJ	G-	_	28	mark	_	ref=1THESS_4.1
+12	καθὼς	καθώς	ADV	Dq	PronType=Rel	13	advcl	_	ref=1THESS_4.1
+13	παρελάβετε	παραλαμβάνω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	28	advcl	_	ref=1THESS_4.1
+14	παρ’	παρά	ADP	R-	_	15	case	_	ref=1THESS_4.1
+15	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	13	obl	_	ref=1THESS_4.1
+16	τὸ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	18	det	_	ref=1THESS_4.1
+17	πῶς	πῶς	ADV	Du	PronType=Int	18	advmod	_	ref=1THESS_4.1
+18	δεῖ	δεῖ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	obj	_	ref=1THESS_4.1
+19	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	20	nsubj	_	ref=1THESS_4.1
+20	περιπατεῖν	περιπατέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	18	ccomp	_	ref=1THESS_4.1
+21	καὶ	καί	CCONJ	C-	_	22	cc	_	ref=1THESS_4.1
+22	ἀρέσκειν	ἀρέσκω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	20	conj	_	ref=1THESS_4.1
+23	θεῷ	θεός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	22	obl:arg	_	ref=1THESS_4.1
+24	καθὼς	καθώς	ADV	Dq	PronType=Rel	26	advcl	_	ref=1THESS_4.1
+25	καὶ	καί	CCONJ	C-	_	26	cc	_	ref=1THESS_4.1
+26	περιπατεῖτε	περιπατέω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	ref=1THESS_4.1
+27	ἵνα	ἵνα	SCONJ	G-	_	7	dislocated	_	ref=1THESS_4.1
+28	περισσεύητε	περισσεύω	VERB	V-	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	ccomp	_	ref=1THESS_4.1
+29	μᾶλλον	μᾶλλον	ADV	Df	Degree=Cmp	28	advmod	_	ref=1THESS_4.1
+
+# source = The Greek New Testament, 1 Thessalonians 4
+# text = οἴδατε γὰρ τίνας παραγγελίας ἐδώκαμεν ὑμῖν διὰ τοῦ κυρίου Ἰησοῦ
+# sent_id = 30291
+1	οἴδατε	οἶδα	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_4.2
+2	γὰρ	γάρ	ADV	Df	_	1	discourse	_	ref=1THESS_4.2
+3	τίνας	τίς	PRON	Pi	Case=Acc|Gender=Fem|Number=Plur|PronType=Int	4	det	_	ref=1THESS_4.2
+4	παραγγελίας	παραγγελία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	5	obj	_	ref=1THESS_4.2
+5	ἐδώκαμεν	δίδωμι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	ref=1THESS_4.2
+6	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	5	obl:arg	_	ref=1THESS_4.2
+7	διὰ	διά	ADP	R-	_	9	case	_	ref=1THESS_4.2
+8	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	9	det	_	ref=1THESS_4.2
+9	κυρίου	κύριος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	obl	_	ref=1THESS_4.2
+10	Ἰησοῦ	Ἰησοῦς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	9	appos	_	ref=1THESS_4.2
+
+# source = The Greek New Testament, 1 Thessalonians 4
+# text = τοῦτο γάρ ἐστιν θέλημα τοῦ θεοῦ ὁ ἁγιασμὸς ὑμῶν ἀπέχεσθαι ὑμᾶς ἀπὸ τῆς πορνείας εἰδέναι ἕκαστον ὑμῶν τὸ ἑαυτοῦ σκεῦος κτᾶσθαι ἐν ἁγιασμῷ καὶ τιμῇ μὴ ἐν πάθει ἐπιθυμίας καθάπερ καὶ τὰ ἔθνη τὰ μὴ εἰδότα τὸν θεόν τὸ μὴ ὑπερβαίνειν καὶ πλεονεκτεῖν ἐν τῷ πράγματι τὸν ἀδελφὸν αὐτοῦ διότι ἔκδικος κύριος περὶ πάντων τούτων καθὼς καὶ προείπαμεν ὑμῖν καὶ διεμαρτυράμεθα
+# sent_id = 30292
+1	τοῦτο	οὗτος	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	ref=1THESS_4.3
+2	γάρ	γάρ	ADV	Df	_	4	discourse	_	ref=1THESS_4.3
+3	ἐστιν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	ref=1THESS_4.3|LId=1
+4	θέλημα	θέλημα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	0	root	_	ref=1THESS_4.3
+5	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	ref=1THESS_4.3
+6	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	ref=1THESS_4.3
+7	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	ref=1THESS_4.3
+8	ἁγιασμὸς	ἁγιασμός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	ref=1THESS_4.3
+9	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	8	det	_	ref=1THESS_4.3
+10	ἀπέχεσθαι	ἀπέχω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	1	acl	_	ref=1THESS_4.3
+11	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	10	nsubj	_	ref=1THESS_4.3
+12	ἀπὸ	ἀπό	ADP	R-	_	14	case	_	ref=1THESS_4.3
+13	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	14	det	_	ref=1THESS_4.3
+14	πορνείας	πορνεία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	10	obl	_	ref=1THESS_4.3
+15	εἰδέναι	οἶδα	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	1	acl	_	ref=1THESS_4.4
+16	ἕκαστον	ἕκαστος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	15	nsubj	_	ref=1THESS_4.4
+17	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	16	nmod	_	ref=1THESS_4.4
+18	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	20	det	_	ref=1THESS_4.4
+19	ἑαυτοῦ	ἑαυτοῦ	PRON	Pk	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	20	det	_	ref=1THESS_4.4
+20	σκεῦος	σκεῦος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	21	obj	_	ref=1THESS_4.4
+21	κτᾶσθαι	κτάομαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	15	xcomp	_	ref=1THESS_4.4
+22	ἐν	ἐν	ADP	R-	_	23	case	_	ref=1THESS_4.4
+23	ἁγιασμῷ	ἁγιασμός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	21	obl	_	ref=1THESS_4.4
+24	καὶ	καί	CCONJ	C-	_	25	cc	_	ref=1THESS_4.4
+25	τιμῇ	τιμή	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	23	conj	_	ref=1THESS_4.4
+26	μὴ	μή	ADV	Df	Polarity=Neg	28	advmod	_	ref=1THESS_4.5
+27	ἐν	ἐν	ADP	R-	_	28	case	_	ref=1THESS_4.5
+28	πάθει	πάθος	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	23	conj	_	ref=1THESS_4.5
+29	ἐπιθυμίας	ἐπιθυμία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	28	nmod	_	ref=1THESS_4.5
+30	καθάπερ	καθάπερ	ADV	Df	_	33	mark	_	ref=1THESS_4.5
+31	καὶ	καί	ADV	Df	_	33	advmod	_	ref=1THESS_4.5|LId=1
+32	τὰ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	33	det	_	ref=1THESS_4.5
+33	ἔθνη	ἔθνος	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	28	advcl:cmp	_	ref=1THESS_4.5
+34	τὰ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	36	det	_	ref=1THESS_4.5
+35	μὴ	μή	ADV	Df	Polarity=Neg	36	advmod	_	ref=1THESS_4.5
+36	εἰδότα	οἶδα	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	33	nmod	_	ref=1THESS_4.5
+37	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	38	det	_	ref=1THESS_4.5
+38	θεόν	θεός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	36	obj	_	ref=1THESS_4.5
+39	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	41	det	_	ref=1THESS_4.6
+40	μὴ	μή	ADV	Df	Polarity=Neg	41	advmod	_	ref=1THESS_4.6
+41	ὑπερβαίνειν	ὑπερβαίνω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	appos	_	ref=1THESS_4.6
+42	καὶ	καί	CCONJ	C-	_	43	cc	_	ref=1THESS_4.6
+43	πλεονεκτεῖν	πλεονεκτέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	41	conj	_	ref=1THESS_4.6
+44	ἐν	ἐν	ADP	R-	_	46	case	_	ref=1THESS_4.6
+45	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	46	det	_	ref=1THESS_4.6
+46	πράγματι	πρᾶγμα	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	41	obl	_	ref=1THESS_4.6
+47	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	48	det	_	ref=1THESS_4.6
+48	ἀδελφὸν	ἀδελφός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	43	obj	_	ref=1THESS_4.6
+49	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	48	det	_	ref=1THESS_4.6
+50	διότι	διότι	SCONJ	G-	_	51	mark	_	ref=1THESS_4.6
+51	ἔκδικος	ἔκδικος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	41	advcl	_	ref=1THESS_4.6
+52	κύριος	κύριος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	51	nsubj	_	ref=1THESS_4.6
+53	περὶ	περί	ADP	R-	_	55	case	_	ref=1THESS_4.6
+54	πάντων	πᾶς	DET	Px	Case=Gen|Gender=Masc,Neut|Number=Plur	55	det	_	ref=1THESS_4.6
+55	τούτων	οὗτος	PRON	Pd	Case=Gen|Gender=Neut|Number=Plur	51	obl	_	ref=1THESS_4.6
+56	καθὼς	καθώς	ADV	Dq	PronType=Rel	58	advcl	_	ref=1THESS_4.6
+57	καὶ	καί	ADV	Df	_	58	advmod	_	ref=1THESS_4.6|LId=1
+58	προείπαμεν	προλέγω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	51	advcl	_	ref=1THESS_4.6
+59	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	58	obl:arg	_	ref=1THESS_4.6
+60	καὶ	καί	CCONJ	C-	_	61	cc	_	ref=1THESS_4.6
+61	διεμαρτυράμεθα	διαμαρτύρομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	58	conj	_	ref=1THESS_4.6
+
+# source = The Greek New Testament, 1 Thessalonians 4
+# text = οὐ γὰρ ἐκάλεσεν ἡμᾶς ὁ θεὸς ἐπὶ ἀκαθαρσίᾳ ἀλλ’ ἐν ἁγιασμῷ
+# sent_id = 30293
+1	οὐ	οὐ	ADV	Df	Polarity=Neg	8	advmod	_	ref=1THESS_4.7
+2	γὰρ	γάρ	ADV	Df	_	3	discourse	_	ref=1THESS_4.7
+3	ἐκάλεσεν	καλέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_4.7
+4	ἡμᾶς	ἡμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	3	obj	_	ref=1THESS_4.7
+5	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	ref=1THESS_4.7
+6	θεὸς	θεός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=1THESS_4.7
+7	ἐπὶ	ἐπί	ADP	R-	_	8	case	_	ref=1THESS_4.7
+8	ἀκαθαρσίᾳ	ἀκαθαρσία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	3	obl	_	ref=1THESS_4.7
+9	ἀλλ’	ἀλλά	CCONJ	C-	_	11	cc	_	ref=1THESS_4.7
+10	ἐν	ἐν	ADP	R-	_	11	case	_	ref=1THESS_4.7
+11	ἁγιασμῷ	ἁγιασμός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	8	conj	_	ref=1THESS_4.7
+
+# source = The Greek New Testament, 1 Thessalonians 4
+# text = τοιγαροῦν ὁ ἀθετῶν οὐκ ἄνθρωπον ἀθετεῖ ἀλλὰ τὸν θεὸν τὸν καὶ διδόντα τὸ πνεῦμα αὐτοῦ τὸ ἅγιον εἰς ὑμᾶς
+# sent_id = 30294
+1	τοιγαροῦν	τοιγαροῦν	ADV	Df	_	6	discourse	_	ref=1THESS_4.8
+2	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	ref=1THESS_4.8
+3	ἀθετῶν	ἀθετέω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	nsubj	_	ref=1THESS_4.8
+4	οὐκ	οὐ	ADV	Df	Polarity=Neg	5	advmod	_	ref=1THESS_4.8
+5	ἄνθρωπον	ἄνθρωπος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	ref=1THESS_4.8
+6	ἀθετεῖ	ἀθετέω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_4.8
+7	ἀλλὰ	ἀλλά	CCONJ	C-	_	9	cc	_	ref=1THESS_4.8
+8	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	ref=1THESS_4.8
+9	θεὸν	θεός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	conj	_	ref=1THESS_4.8
+10	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	12	det	_	ref=1THESS_4.8
+11	καὶ	καί	ADV	Df	_	12	advmod	_	ref=1THESS_4.8|LId=1
+12	διδόντα	δίδωμι	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	nmod	_	ref=1THESS_4.8
+13	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	14	det	_	ref=1THESS_4.8
+14	πνεῦμα	πνεῦμα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	12	obj	_	ref=1THESS_4.8
+15	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	det	_	ref=1THESS_4.8
+16	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	17	det	_	ref=1THESS_4.8
+17	ἅγιον	ἅγιος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	14	nmod	_	ref=1THESS_4.8
+18	εἰς	εἰς	ADP	R-	_	19	case	_	ref=1THESS_4.8
+19	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	12	obl	_	ref=1THESS_4.8
+
+# source = The Greek New Testament, 1 Thessalonians 4
+# text = Περὶ δὲ τῆς φιλαδελφίας οὐ χρείαν ἔχετε γράφειν ὑμῖν
+# sent_id = 49929
+1	Περὶ	περί	ADP	R-	_	4	case	_	ref=1THESS_4.9
+2	δὲ	δέ	ADV	Df	_	7	discourse	_	ref=1THESS_4.9
+3	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	ref=1THESS_4.9
+4	φιλαδελφίας	φιλαδελφία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	obl	_	ref=1THESS_4.9
+5	οὐ	οὐ	ADV	Df	Polarity=Neg	7	advmod	_	ref=1THESS_4.9
+6	χρείαν	χρεία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	ref=1THESS_4.9
+7	ἔχετε	ἔχω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_4.9
+8	γράφειν	γράφω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	6	acl	_	ref=1THESS_4.9
+9	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	8	obl:arg	_	ref=1THESS_4.9
+
+# source = The Greek New Testament, 1 Thessalonians 4
+# text = αὐτοὶ γὰρ ὑμεῖς θεοδίδακτοί ἐστε εἰς τὸ ἀγαπᾶν ἀλλήλους
+# sent_id = 49930
+1	αὐτοὶ	αὐτός	DET	Pd	Case=Nom|Gender=Masc|Number=Plur	3	det	_	ref=1THESS_4.9
+2	γὰρ	γάρ	ADV	Df	_	4	discourse	_	ref=1THESS_4.9
+3	ὑμεῖς	ὑμεῖς	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	ref=1THESS_4.9
+4	θεοδίδακτοί	θεοδίδακτος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem,Masc|Number=Plur	0	root	_	ref=1THESS_4.9
+5	ἐστε	εἰμί	AUX	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	ref=1THESS_4.9|LId=1
+6	εἰς	εἰς	ADP	R-	_	8	case	_	ref=1THESS_4.9
+7	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	8	det	_	ref=1THESS_4.9
+8	ἀγαπᾶν	ἀγαπάω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	obl	_	ref=1THESS_4.9
+9	ἀλλήλους	ἀλλήλων	PRON	Pc	Case=Acc|Gender=Masc|Number=Plur|PronType=Rcp	8	obj	_	ref=1THESS_4.9
+
+# source = The Greek New Testament, 1 Thessalonians 4
+# text = καὶ γὰρ ποιεῖτε αὐτὸ εἰς πάντας τοὺς ἀδελφοὺς ἐν ὅλῃ τῇ Μακεδονίᾳ
+# sent_id = 30296
+1	καὶ	καί	CCONJ	C-	_	3	cc	_	ref=1THESS_4.10
+2	γὰρ	γάρ	ADV	Df	_	3	discourse	_	ref=1THESS_4.10
+3	ποιεῖτε	ποιέω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_4.10
+4	αὐτὸ	αὐτός	PRON	Pp	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obj	_	ref=1THESS_4.10
+5	εἰς	εἰς	ADP	R-	_	8	case	_	ref=1THESS_4.10
+6	πάντας	πᾶς	DET	Px	Case=Acc|Gender=Masc|Number=Plur	8	det	_	ref=1THESS_4.10
+7	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	8	det	_	ref=1THESS_4.10
+8	ἀδελφοὺς	ἀδελφός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	3	obl	_	ref=1THESS_4.10
+9	ἐν	ἐν	ADP	R-	_	12	case	_	ref=1THESS_4.10
+10	ὅλῃ	ὅλος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	ref=1THESS_4.10
+11	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	12	det	_	ref=1THESS_4.10
+12	Μακεδονίᾳ	Μακεδονία	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	8	nmod	_	ref=1THESS_4.10
+
+# source = The Greek New Testament, 1 Thessalonians 4
+# text = παρακαλοῦμεν δὲ ὑμᾶς ἀδελφοί περισσεύειν μᾶλλον καὶ φιλοτιμεῖσθαι ἡσυχάζειν καὶ πράσσειν τὰ ἴδια καὶ ἐργάζεσθαι ταῖς χερσὶν ὑμῶν καθὼς ὑμῖν παρηγγείλαμεν ἵνα περιπατῆτε εὐσχημόνως πρὸς τοὺς ἔξω καὶ μηδενὸς χρείαν ἔχητε
+# sent_id = 30297
+1	παρακαλοῦμεν	παρακαλέω	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_4.10
+2	δὲ	δέ	ADV	Df	_	1	discourse	_	ref=1THESS_4.10
+3	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	1	obj	_	ref=1THESS_4.10
+4	ἀδελφοί	ἀδελφός	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	ref=1THESS_4.10
+5	περισσεύειν	περισσεύω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	ref=1THESS_4.10
+6	μᾶλλον	μᾶλλον	ADV	Df	Degree=Cmp	5	advmod	_	ref=1THESS_4.10
+7	καὶ	καί	CCONJ	C-	_	8	cc	_	ref=1THESS_4.11
+8	φιλοτιμεῖσθαι	φιλοτιμέομαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	5	conj	_	ref=1THESS_4.11
+9	ἡσυχάζειν	ἡσυχάζω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	xcomp	_	ref=1THESS_4.11
+10	καὶ	καί	CCONJ	C-	_	11	cc	_	ref=1THESS_4.11
+11	πράσσειν	πράσσω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	9	conj	_	ref=1THESS_4.11
+12	τὰ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	13	det	_	ref=1THESS_4.11
+13	ἴδια	ἴδιος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	11	obj	_	ref=1THESS_4.11
+14	καὶ	καί	CCONJ	C-	_	15	cc	_	ref=1THESS_4.11
+15	ἐργάζεσθαι	ἐργάζομαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	9	conj	_	ref=1THESS_4.11
+16	ταῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	17	det	_	ref=1THESS_4.11
+17	χερσὶν	χείρ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	15	obl	_	ref=1THESS_4.11
+18	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	17	det	_	ref=1THESS_4.11
+19	καθὼς	καθώς	ADV	Dq	PronType=Rel	21	advcl	_	ref=1THESS_4.11
+20	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	21	obl:arg	_	ref=1THESS_4.11
+21	παρηγγείλαμεν	παραγγέλλω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	9	advcl	_	ref=1THESS_4.11
+22	ἵνα	ἵνα	SCONJ	G-	_	23	mark	_	ref=1THESS_4.12
+23	περιπατῆτε	περιπατέω	VERB	V-	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	ref=1THESS_4.12
+24	εὐσχημόνως	εὐσχημόνως	ADV	Df	Degree=Pos	23	advmod	_	ref=1THESS_4.12
+25	πρὸς	πρός	ADP	R-	_	27	case	_	ref=1THESS_4.12
+26	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	27	det	_	ref=1THESS_4.12
+27	ἔξω	ἔξω	ADV	Df	_	23	advmod	_	ref=1THESS_4.12
+28	καὶ	καί	CCONJ	C-	_	31	cc	_	ref=1THESS_4.12
+29	μηδενὸς	μηδείς	PRON	Px	Case=Gen|Gender=Neut|Number=Sing	30	nmod	_	ref=1THESS_4.12
+30	χρείαν	χρεία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	31	obj	_	ref=1THESS_4.12
+31	ἔχητε	ἔχω	VERB	V-	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	23	conj	_	ref=1THESS_4.12
+
+# source = The Greek New Testament, 1 Thessalonians 4
+# text = Οὐ θέλομεν δὲ ὑμᾶς ἀγνοεῖν ἀδελφοί περὶ τῶν κοιμωμένων ἵνα μὴ λυπῆσθε καθὼς καὶ οἱ λοιποὶ οἱ μὴ ἔχοντες ἐλπίδα
+# sent_id = 30298
+1	Οὐ	οὐ	ADV	Df	Polarity=Neg	2	advmod	_	ref=1THESS_4.13
+2	θέλομεν	ἐθέλω	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_4.13
+3	δὲ	δέ	ADV	Df	_	2	discourse	_	ref=1THESS_4.13
+4	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	5	nsubj	_	ref=1THESS_4.13
+5	ἀγνοεῖν	ἀγνοέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	ccomp	_	ref=1THESS_4.13
+6	ἀδελφοί	ἀδελφός	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	2	vocative	_	ref=1THESS_4.13
+7	περὶ	περί	ADP	R-	_	9	case	_	ref=1THESS_4.13
+8	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	9	det	_	ref=1THESS_4.13
+9	κοιμωμένων	κοιμάομαι	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	5	obl	_	ref=1THESS_4.13
+10	ἵνα	ἵνα	SCONJ	G-	_	12	mark	_	ref=1THESS_4.13
+11	μὴ	μή	ADV	Df	Polarity=Neg	12	advmod	_	ref=1THESS_4.13
+12	λυπῆσθε	λυπέω	VERB	V-	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass	2	advcl	_	ref=1THESS_4.13
+13	καθὼς	καθώς	ADV	Df	_	16	mark	_	ref=1THESS_4.13
+14	καὶ	καί	ADV	Df	_	16	advmod	_	ref=1THESS_4.13|LId=1
+15	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	16	det	_	ref=1THESS_4.13
+16	λοιποὶ	λοιπός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	12	advcl:cmp	_	ref=1THESS_4.13
+17	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	19	det	_	ref=1THESS_4.13
+18	μὴ	μή	ADV	Df	Polarity=Neg	19	advmod	_	ref=1THESS_4.13
+19	ἔχοντες	ἔχω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	16	nmod	_	ref=1THESS_4.13
+20	ἐλπίδα	ἐλπίς	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	19	obj	_	ref=1THESS_4.13
+
+# source = The Greek New Testament, 1 Thessalonians 4
+# text = εἰ γὰρ πιστεύομεν ὅτι Ἰησοῦς ἀπέθανεν καὶ ἀνέστη οὕτως καὶ ὁ θεὸς τοὺς κοιμηθέντας διὰ τοῦ Ἰησοῦ ἄξει σὺν αὐτῷ
+# sent_id = 30299
+1	εἰ	εἰ	SCONJ	G-	_	3	mark	_	ref=1THESS_4.14
+2	γὰρ	γάρ	ADV	Df	_	18	discourse	_	ref=1THESS_4.14
+3	πιστεύομεν	πιστεύω	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	18	advcl	_	ref=1THESS_4.14
+4	ὅτι	ὅτι	SCONJ	G-	_	6	mark	_	ref=1THESS_4.14
+5	Ἰησοῦς	Ἰησοῦς	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=1THESS_4.14
+6	ἀπέθανεν	ἀποθνῄσκω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	ref=1THESS_4.14
+7	καὶ	καί	CCONJ	C-	_	8	cc	_	ref=1THESS_4.14
+8	ἀνέστη	ἀνίστημι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	ref=1THESS_4.14
+9	οὕτως	οὕτω(ς)	ADV	Df	_	18	advmod	_	ref=1THESS_4.14
+10	καὶ	καί	ADV	Df	_	18	advmod	_	ref=1THESS_4.14|LId=1
+11	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	12	det	_	ref=1THESS_4.14
+12	θεὸς	θεός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	ref=1THESS_4.14
+13	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	14	det	_	ref=1THESS_4.14
+14	κοιμηθέντας	κοιμάομαι	VERB	V-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	18	obj	_	ref=1THESS_4.14
+15	διὰ	διά	ADP	R-	_	17	case	_	ref=1THESS_4.14
+16	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	17	det	_	ref=1THESS_4.14
+17	Ἰησοῦ	Ἰησοῦς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	14	obl	_	ref=1THESS_4.14
+18	ἄξει	ἄγω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_4.14
+19	σὺν	σύν	ADP	R-	_	20	case	_	ref=1THESS_4.14
+20	αὐτῷ	αὐτός	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obl	_	ref=1THESS_4.14
+
+# source = The Greek New Testament, 1 Thessalonians 4
+# text = τοῦτο γὰρ ὑμῖν λέγομεν ἐν λόγῳ κυρίου ὅτι ἡμεῖς οἱ ζῶντες οἱ περιλειπόμενοι εἰς τὴν παρουσίαν τοῦ κυρίου οὐ μὴ φθάσωμεν τοὺς κοιμηθέντας
+# sent_id = 30300
+1	τοῦτο	οὗτος	PRON	Pd	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	ref=1THESS_4.15
+2	γὰρ	γάρ	ADV	Df	_	4	discourse	_	ref=1THESS_4.15
+3	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	4	obl:arg	_	ref=1THESS_4.15
+4	λέγομεν	λέγω	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_4.15
+5	ἐν	ἐν	ADP	R-	_	6	case	_	ref=1THESS_4.15
+6	λόγῳ	λόγος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	ref=1THESS_4.15
+7	κυρίου	κύριος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	ref=1THESS_4.15
+8	ὅτι	ὅτι	SCONJ	G-	_	21	mark	_	ref=1THESS_4.15
+9	ἡμεῖς	ἡμεῖς	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	21	nsubj	_	ref=1THESS_4.15
+10	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	11	det	_	ref=1THESS_4.15
+11	ζῶντες	ζῶ	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	9	appos	_	ref=1THESS_4.15
+12	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	13	det	_	ref=1THESS_4.15
+13	περιλειπόμενοι	περιλείπομαι	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	9	appos	_	ref=1THESS_4.15
+14	εἰς	εἰς	ADP	R-	_	16	case	_	ref=1THESS_4.15
+15	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	16	det	_	ref=1THESS_4.15
+16	παρουσίαν	παρουσία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	13	obl	_	ref=1THESS_4.15
+17	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	18	det	_	ref=1THESS_4.15
+18	κυρίου	κύριος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	ref=1THESS_4.15
+19	οὐ	οὐ	ADV	Df	Polarity=Neg	21	advmod	_	ref=1THESS_4.15
+20	μὴ	μή	ADV	Df	Polarity=Neg	21	advmod	_	ref=1THESS_4.15
+21	φθάσωμεν	φθάνω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	acl	_	ref=1THESS_4.15
+22	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	23	det	_	ref=1THESS_4.15
+23	κοιμηθέντας	κοιμάομαι	VERB	V-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	21	obj	_	ref=1THESS_4.15
+
+# source = The Greek New Testament, 1 Thessalonians 4
+# text = ὅτι αὐτὸς ὁ κύριος ἐν κελεύσματι ἐν φωνῇ ἀρχαγγέλου καὶ ἐν σάλπιγγι θεοῦ καταβήσεται ἀπ’ οὐρανοῦ καὶ οἱ νεκροὶ ἐν Χριστῷ ἀναστήσονται πρῶτον
+# sent_id = 49931
+1	ὅτι	ὅτι	ADV	Df	_	14	advmod	_	ref=1THESS_4.16|LId=1
+2	αὐτὸς	αὐτός	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	4	det	_	ref=1THESS_4.16
+3	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	ref=1THESS_4.16
+4	κύριος	κύριος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	ref=1THESS_4.16
+5	ἐν	ἐν	ADP	R-	_	6	case	_	ref=1THESS_4.16
+6	κελεύσματι	κέλευσμα	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	14	obl	_	ref=1THESS_4.16
+7	ἐν	ἐν	ADP	R-	_	8	case	_	ref=1THESS_4.16
+8	φωνῇ	φωνή	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	14	obl	_	ref=1THESS_4.16
+9	ἀρχαγγέλου	ἀρχάγγελος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	ref=1THESS_4.16
+10	καὶ	καί	CCONJ	C-	_	12	cc	_	ref=1THESS_4.16
+11	ἐν	ἐν	ADP	R-	_	12	case	_	ref=1THESS_4.16
+12	σάλπιγγι	σάλπιγξ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	8	conj	_	ref=1THESS_4.16
+13	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	ref=1THESS_4.16
+14	καταβήσεται	καταβαίνω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	ref=1THESS_4.16
+15	ἀπ’	ἀπό	ADP	R-	_	16	case	_	ref=1THESS_4.16
+16	οὐρανοῦ	οὐρανός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	14	obl	_	ref=1THESS_4.16
+17	καὶ	καί	CCONJ	C-	_	22	cc	_	ref=1THESS_4.16
+18	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	19	det	_	ref=1THESS_4.16
+19	νεκροὶ	νεκρός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	22	nsubj	_	ref=1THESS_4.16
+20	ἐν	ἐν	ADP	R-	_	21	case	_	ref=1THESS_4.16
+21	Χριστῷ	Χριστός	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	19	obl	_	ref=1THESS_4.16
+22	ἀναστήσονται	ἀνίστημι	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	14	conj	_	ref=1THESS_4.16
+23	πρῶτον	πρῶτος	ADJ	Mo	Case=Acc|Gender=Neut|Number=Sing	22	advmod	_	ref=1THESS_4.16
+
+# source = The Greek New Testament, 1 Thessalonians 4
+# text = ἔπειτα ἡμεῖς οἱ ζῶντες οἱ περιλειπόμενοι ἅμα σὺν αὐτοῖς ἁρπαγησόμεθα ἐν νεφέλαις εἰς ἀπάντησιν τοῦ κυρίου εἰς ἀέρα
+# sent_id = 49932
+1	ἔπειτα	ἔπειτα	ADV	Df	_	10	advmod	_	ref=1THESS_4.17
+2	ἡμεῖς	ἡμεῖς	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	10	nsubj:pass	_	ref=1THESS_4.17
+3	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	4	det	_	ref=1THESS_4.17
+4	ζῶντες	ζῶ	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	2	appos	_	ref=1THESS_4.17
+5	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	6	det	_	ref=1THESS_4.17
+6	περιλειπόμενοι	περιλείπομαι	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	2	appos	_	ref=1THESS_4.17
+7	ἅμα	ἅμα	ADV	Df	_	10	advmod	_	ref=1THESS_4.17
+8	σὺν	σύν	ADP	R-	_	9	case	_	ref=1THESS_4.17
+9	αὐτοῖς	αὐτός	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	obl	_	ref=1THESS_4.17
+10	ἁρπαγησόμεθα	ἁρπάζω	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	ref=1THESS_4.17
+11	ἐν	ἐν	ADP	R-	_	12	case	_	ref=1THESS_4.17
+12	νεφέλαις	νεφέλη	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	10	obl	_	ref=1THESS_4.17
+13	εἰς	εἰς	ADP	R-	_	14	case	_	ref=1THESS_4.17
+14	ἀπάντησιν	ἀπάντησις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	obl	_	ref=1THESS_4.17
+15	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	16	det	_	ref=1THESS_4.17
+16	κυρίου	κύριος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	ref=1THESS_4.17
+17	εἰς	εἰς	ADP	R-	_	18	case	_	ref=1THESS_4.17
+18	ἀέρα	ἀήρ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	14	nmod	_	ref=1THESS_4.17
+
+# source = The Greek New Testament, 1 Thessalonians 4
+# text = καὶ οὕτως πάντοτε σὺν κυρίῳ ἐσόμεθα
+# sent_id = 30302
+1	καὶ	καί	CCONJ	C-	_	5	cc	_	ref=1THESS_4.17
+2	οὕτως	οὕτω(ς)	ADV	Df	_	5	advmod	_	ref=1THESS_4.17
+3	πάντοτε	πάντοτε	ADV	Df	_	5	advmod	_	ref=1THESS_4.17
+4	σὺν	σύν	ADP	R-	_	5	case	_	ref=1THESS_4.17
+5	κυρίῳ	κύριος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	0	root	_	ref=1THESS_4.17
+6	ἐσόμεθα	εἰμί	AUX	V-	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	5	cop	_	ref=1THESS_4.17|LId=1
+
+# source = The Greek New Testament, 1 Thessalonians 4
+# text = ὥστε παρακαλεῖτε ἀλλήλους ἐν τοῖς λόγοις τούτοις
+# sent_id = 30303
+1	ὥστε	ὥστε	ADV	Df	_	2	advmod	_	ref=1THESS_4.18
+2	παρακαλεῖτε	παρακαλέω	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_4.18
+3	ἀλλήλους	ἀλλήλων	PRON	Pc	Case=Acc|Gender=Masc|Number=Plur|PronType=Rcp	2	obj	_	ref=1THESS_4.18
+4	ἐν	ἐν	ADP	R-	_	6	case	_	ref=1THESS_4.18
+5	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	6	det	_	ref=1THESS_4.18
+6	λόγοις	λόγος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	2	obl	_	ref=1THESS_4.18
+7	τούτοις	οὗτος	DET	Pd	Case=Dat|Gender=Masc,Neut|Number=Plur	6	det	_	ref=1THESS_4.18
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = Περὶ δὲ τῶν χρόνων καὶ τῶν καιρῶν ἀδελφοί οὐ χρείαν ἔχετε ὑμῖν γράφεσθαι
+# sent_id = 49933
+1	Περὶ	περί	ADP	R-	_	4	case	_	ref=1THESS_5.1
+2	δὲ	δέ	ADV	Df	_	11	discourse	_	ref=1THESS_5.1
+3	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	4	det	_	ref=1THESS_5.1
+4	χρόνων	χρόνος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	13	obl	_	ref=1THESS_5.1
+5	καὶ	καί	CCONJ	C-	_	7	cc	_	ref=1THESS_5.1
+6	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	7	det	_	ref=1THESS_5.1
+7	καιρῶν	καιρός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	4	conj	_	ref=1THESS_5.1
+8	ἀδελφοί	ἀδελφός	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	11	vocative	_	ref=1THESS_5.1
+9	οὐ	οὐ	ADV	Df	Polarity=Neg	11	advmod	_	ref=1THESS_5.1
+10	χρείαν	χρεία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	ref=1THESS_5.1
+11	ἔχετε	ἔχω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_5.1
+12	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	13	obl:arg	_	ref=1THESS_5.1
+13	γράφεσθαι	γράφω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	10	acl	_	ref=1THESS_5.1
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = αὐτοὶ γὰρ ἀκριβῶς οἴδατε ὅτι ἡμέρα κυρίου ὡς κλέπτης ἐν νυκτὶ οὕτως ἔρχεται
+# sent_id = 49934
+1	αὐτοὶ	αὐτός	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	ref=1THESS_5.2
+2	γὰρ	γάρ	ADV	Df	_	4	discourse	_	ref=1THESS_5.2
+3	ἀκριβῶς	ἀκριβῶς	ADV	Df	Degree=Pos	4	advmod	_	ref=1THESS_5.2
+4	οἴδατε	οἶδα	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_5.2
+5	ὅτι	ὅτι	SCONJ	G-	_	13	mark	_	ref=1THESS_5.2
+6	ἡμέρα	ἡμέρα	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	ref=1THESS_5.2
+7	κυρίου	κύριος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	ref=1THESS_5.2
+8	ὡς	ὡς	ADV	Df	_	9	mark	_	ref=1THESS_5.2
+9	κλέπτης	κλέπτης	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	12	advcl:cmp	_	ref=1THESS_5.2
+10	ἐν	ἐν	ADP	R-	_	11	case	_	ref=1THESS_5.2
+11	νυκτὶ	νύξ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	9	obl	_	ref=1THESS_5.2
+12	οὕτως	οὕτω(ς)	ADV	Df	_	13	advmod	_	ref=1THESS_5.2
+13	ἔρχεται	ἔρχομαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	ccomp	_	ref=1THESS_5.2
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = ὅταν λέγωσιν εἰρήνη καὶ ἀσφάλεια τότε αἰφνίδιος αὐτοῖς ἐπίσταται ὄλεθρος ὥσπερ ἡ ὠδὶν τῇ ἐν γαστρὶ ἐχούσῃ καὶ οὐ μὴ ἐκφύγωσιν
+# sent_id = 30305
+1	ὅταν	ὅταν	ADV	Dq	PronType=Rel	2	advcl	_	ref=1THESS_5.3
+2	λέγωσιν	λέγω	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	dislocated	_	ref=1THESS_5.3
+3	εἰρήνη	εἰρήνη	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	9	parataxis	_	ref=1THESS_5.3
+4	καὶ	καί	CCONJ	C-	_	5	cc	_	ref=1THESS_5.3
+5	ἀσφάλεια	ἀσφάλεια	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	conj	_	ref=1THESS_5.3
+6	τότε	τότε	ADV	Df	_	9	advmod	_	ref=1THESS_5.3
+7	αἰφνίδιος	αἰφνίδιος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem,Masc|Number=Sing	10	amod	_	ref=1THESS_5.3
+8	αὐτοῖς	αὐτός	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obl:arg	_	ref=1THESS_5.3
+9	ἐπίσταται	ἐπίσταμαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=1THESS_5.3
+10	ὄλεθρος	ὄλεθρος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	ref=1THESS_5.3
+11	ὥσπερ	ὥσπερ	ADV	Df	_	13	mark	_	ref=1THESS_5.3
+12	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	13	det	_	ref=1THESS_5.3
+13	ὠδὶν	ὠδίν	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	9	advcl:cmp	_	ref=1THESS_5.3
+14	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	17	det	_	ref=1THESS_5.3
+15	ἐν	ἐν	ADP	R-	_	16	case	_	ref=1THESS_5.3
+16	γαστρὶ	γαστήρ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	17	obl	_	ref=1THESS_5.3
+17	ἐχούσῃ	ἔχω	VERB	V-	Case=Dat|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	13	obl	_	ref=1THESS_5.3
+18	καὶ	καί	CCONJ	C-	_	21	cc	_	ref=1THESS_5.3
+19	οὐ	οὐ	ADV	Df	Polarity=Neg	21	advmod	_	ref=1THESS_5.3
+20	μὴ	μή	ADV	Df	Polarity=Neg	21	advmod	_	ref=1THESS_5.3
+21	ἐκφύγωσιν	ἐκφεύγω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	ref=1THESS_5.3
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = ὑμεῖς δέ ἀδελφοί οὐκ ἐστὲ ἐν σκότει ἵνα ἡ ἡμέρα ὑμᾶς ὡς κλέπτης καταλάβῃ
+# sent_id = 49935
+1	ὑμεῖς	ὑμεῖς	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	ref=1THESS_5.4
+2	δέ	δέ	ADV	Df	_	7	discourse	_	ref=1THESS_5.4
+3	ἀδελφοί	ἀδελφός	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	7	vocative	_	ref=1THESS_5.4
+4	οὐκ	οὐ	ADV	Df	Polarity=Neg	7	advmod	_	ref=1THESS_5.4
+5	ἐστὲ	εἰμί	AUX	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	ref=1THESS_5.4|LId=1
+6	ἐν	ἐν	ADP	R-	_	7	case	_	ref=1THESS_5.4
+7	σκότει	σκότος	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	0	root	_	ref=1THESS_5.4
+8	ἵνα	ἵνα	SCONJ	G-	_	14	mark	_	ref=1THESS_5.4
+9	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	ref=1THESS_5.4
+10	ἡμέρα	ἡμέρα	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	14	nsubj	_	ref=1THESS_5.4
+11	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	14	obj	_	ref=1THESS_5.4
+12	ὡς	ὡς	ADV	Df	_	13	mark	_	ref=1THESS_5.4
+13	κλέπτης	κλέπτης	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	14	advcl:cmp	_	ref=1THESS_5.4
+14	καταλάβῃ	καταλαμβάνω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	ref=1THESS_5.4
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = πάντες γὰρ ὑμεῖς υἱοὶ φωτός ἐστε καὶ υἱοὶ ἡμέρας
+# sent_id = 49936
+1	πάντες	πᾶς	DET	Px	Case=Nom|Gender=Masc|Number=Plur	3	det	_	ref=1THESS_5.5
+2	γὰρ	γάρ	ADV	Df	_	4	discourse	_	ref=1THESS_5.5
+3	ὑμεῖς	ὑμεῖς	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	4	nsubj	_	ref=1THESS_5.5
+4	υἱοὶ	υἱός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	0	root	_	ref=1THESS_5.5
+5	φωτός	φῶς	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	ref=1THESS_5.5
+6	ἐστε	εἰμί	AUX	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	ref=1THESS_5.5|LId=1
+7	καὶ	καί	CCONJ	C-	_	8	cc	_	ref=1THESS_5.5
+8	υἱοὶ	υἱός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	conj	_	ref=1THESS_5.5
+9	ἡμέρας	ἡμέρα	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	ref=1THESS_5.5
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = οὐκ ἐσμὲν νυκτὸς οὐδὲ σκότους
+# sent_id = 30307
+1	οὐκ	οὐ	ADV	Df	Polarity=Neg	3	advmod	_	ref=1THESS_5.5
+2	ἐσμὲν	εἰμί	AUX	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=1THESS_5.5|LId=1
+3	νυκτὸς	νύξ	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	0	root	_	ref=1THESS_5.5
+4	οὐ	οὐ	ADV	G-	Polarity=Neg	5	advmod	_	ref=1THESS_5.5|Sub=1
+4.1	-δέ	δέ	CCONJ	C-	_	5	cc	_	ref=1THESS_5.5|Sub=2
+5	σκότους	σκότος	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	3	conj	_	ref=1THESS_5.5
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = ἄρα οὖν μὴ καθεύδωμεν ὡς οἱ λοιποί ἀλλὰ γρηγορῶμεν καὶ νήφωμεν
+# sent_id = 30308
+1	ἄρα	ἆρα	ADV	Df	_	4	discourse	_	ref=1THESS_5.6
+2	οὖν	οὖν	ADV	Df	_	4	discourse	_	ref=1THESS_5.6
+3	μὴ	μή	ADV	Df	Polarity=Neg	4	advmod	_	ref=1THESS_5.6
+4	καθεύδωμεν	καθεύδω	VERB	V-	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_5.6
+5	ὡς	ὡς	ADV	Df	_	7	mark	_	ref=1THESS_5.6
+6	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	7	det	_	ref=1THESS_5.6
+7	λοιποί	λοιπός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	4	advcl:cmp	_	ref=1THESS_5.6
+8	ἀλλὰ	ἀλλά	CCONJ	C-	_	9	cc	_	ref=1THESS_5.6
+9	γρηγορῶμεν	γρηγορέω	VERB	V-	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	ref=1THESS_5.6
+10	καὶ	καί	CCONJ	C-	_	11	cc	_	ref=1THESS_5.6
+11	νήφωμεν	νήφω	VERB	V-	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	ref=1THESS_5.6
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = οἱ γὰρ καθεύδοντες νυκτὸς καθεύδουσιν καὶ οἱ μεθυσκόμενοι νυκτὸς μεθύουσιν
+# sent_id = 30309
+1	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	3	det	_	ref=1THESS_5.7
+2	γὰρ	γάρ	ADV	Df	_	5	discourse	_	ref=1THESS_5.7
+3	καθεύδοντες	καθεύδω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	5	nsubj	_	ref=1THESS_5.7
+4	νυκτὸς	νύξ	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	5	obl	_	ref=1THESS_5.7
+5	καθεύδουσιν	καθεύδω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_5.7
+6	καὶ	καί	CCONJ	C-	_	10	cc	_	ref=1THESS_5.7
+7	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	8	det	_	ref=1THESS_5.7
+8	μεθυσκόμενοι	μεθύσκω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	10	nsubj	_	ref=1THESS_5.7
+9	νυκτὸς	νύξ	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	10	obl	_	ref=1THESS_5.7
+10	μεθύουσιν	μεθύω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	ref=1THESS_5.7
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = ἡμεῖς δὲ ἡμέρας ὄντες νήφωμεν ἐνδυσάμενοι θώρακα πίστεως καὶ ἀγάπης καὶ περικεφαλαίαν ἐλπίδα σωτηρίας
+# sent_id = 30310
+1	ἡμεῖς	ἡμεῖς	PRON	Pp	Case=Nom|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	ref=1THESS_5.8
+2	δὲ	δέ	ADV	Df	_	5	discourse	_	ref=1THESS_5.8
+3	ἡμέρας	ἡμέρα	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	5	advcl	_	ref=1THESS_5.8
+4	ὄντες	εἰμί	AUX	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	3	cop	_	ref=1THESS_5.8|LId=1
+5	νήφωμεν	νήφω	VERB	V-	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_5.8
+6	ἐνδυσάμενοι	ἐνδύω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	5	advcl	_	ref=1THESS_5.8
+7	θώρακα	θώραξ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	ref=1THESS_5.8
+8	πίστεως	πίστις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	ref=1THESS_5.8
+9	καὶ	καί	CCONJ	C-	_	10	cc	_	ref=1THESS_5.8
+10	ἀγάπης	ἀγάπη	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	conj	_	ref=1THESS_5.8
+11	καὶ	καί	CCONJ	C-	_	13	cc	_	ref=1THESS_5.8
+12	περικεφαλαίαν	περικεφαλαία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	xcomp	_	ref=1THESS_5.8
+13	ἐλπίδα	ἐλπίς	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	conj	_	ref=1THESS_5.8
+14	σωτηρίας	σωτηρία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	ref=1THESS_5.8
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = ὅτι οὐκ ἔθετο ἡμᾶς ὁ θεὸς εἰς ὀργὴν ἀλλὰ εἰς περιποίησιν σωτηρίας διὰ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ τοῦ ἀποθανόντος περὶ ἡμῶν ἵνα εἴτε γρηγορῶμεν εἴτε καθεύδωμεν ἅμα σὺν αὐτῷ ζήσωμεν
+# sent_id = 30311
+1	ὅτι	ὅτι	ADV	Df	_	3	advmod	_	ref=1THESS_5.9|LId=1
+2	οὐκ	οὐ	ADV	Df	Polarity=Neg	8	advmod	_	ref=1THESS_5.9
+3	ἔθετο	τίθημι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	ref=1THESS_5.9
+4	ἡμᾶς	ἡμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	3	obj	_	ref=1THESS_5.9
+5	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	ref=1THESS_5.9
+6	θεὸς	θεός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=1THESS_5.9
+7	εἰς	εἰς	ADP	R-	_	8	case	_	ref=1THESS_5.9
+8	ὀργὴν	ὀργή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	ref=1THESS_5.9
+9	ἀλλὰ	ἀλλά	CCONJ	C-	_	11	cc	_	ref=1THESS_5.9
+10	εἰς	εἰς	ADP	R-	_	11	case	_	ref=1THESS_5.9
+11	περιποίησιν	περιποίησις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	conj	_	ref=1THESS_5.9
+12	σωτηρίας	σωτηρία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	ref=1THESS_5.9
+13	διὰ	διά	ADP	R-	_	15	case	_	ref=1THESS_5.9
+14	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	15	det	_	ref=1THESS_5.9
+15	κυρίου	κύριος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	ref=1THESS_5.9
+16	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	15	det	_	ref=1THESS_5.9
+17	Ἰησοῦ	Ἰησοῦς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	15	appos	_	ref=1THESS_5.9
+18	Χριστοῦ	Χριστός	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	17	flat:name	_	ref=1THESS_5.9
+19	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	20	det	_	ref=1THESS_5.10
+20	ἀποθανόντος	ἀποθνῄσκω	VERB	V-	Aspect=Perf|Case=Gen|Gender=Masc,Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	15	nmod	_	ref=1THESS_5.10
+21	περὶ	περί	ADP	R-	_	22	case	_	ref=1THESS_5.10
+22	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	20	obl	_	ref=1THESS_5.10
+23	ἵνα	ἵνα	SCONJ	G-	_	31	mark	_	ref=1THESS_5.10
+24	εἴ	εἴ	CCONJ	C-		25	cc	_	ref=1THESS_5.10|Sub=1
+24.1	-τε	τε	ADV	Df	_	25	advmod	_	ref=1THESS_5.10|Sub=2
+25	γρηγορῶμεν	γρηγορέω	VERB	V-	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	31	advcl	_	ref=1THESS_5.10
+26	εἴ	εἴ	CCONJ	C-		27	cc	_	ref=1THESS_5.10|Sub=1
+26.1	-τε	τε	ADV	Df	_	27	advmod	_	ref=1THESS_5.10|Sub=2
+27	καθεύδωμεν	καθεύδω	VERB	V-	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	25	conj	_	ref=1THESS_5.10
+28	ἅμα	ἅμα	ADV	Df	_	31	advmod	_	ref=1THESS_5.10
+29	σὺν	σύν	ADP	R-	_	30	case	_	ref=1THESS_5.10
+30	αὐτῷ	αὐτός	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	obl	_	ref=1THESS_5.10
+31	ζήσωμεν	ζῶ	VERB	V-	Aspect=Perf|Mood=Sub|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	20	advcl	_	ref=1THESS_5.10
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = διὸ παρακαλεῖτε ἀλλήλους καὶ οἰκοδομεῖτε εἷς τὸν ἕνα καθὼς καὶ ποιεῖτε
+# sent_id = 30312
+1	διὸ	διό	ADV	Df	_	2	advmod	_	ref=1THESS_5.11
+2	παρακαλεῖτε	παρακαλέω	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_5.11
+3	ἀλλήλους	ἀλλήλων	PRON	Pc	Case=Acc|Gender=Masc|Number=Plur|PronType=Rcp	2	obj	_	ref=1THESS_5.11
+4	καὶ	καί	CCONJ	C-	_	5	cc	_	ref=1THESS_5.11
+5	οἰκοδομεῖτε	οἰκοδομέω	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	ref=1THESS_5.11
+6	εἷς	εἷς	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	5	xcomp	_	ref=1THESS_5.11
+7	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	ref=1THESS_5.11
+8	ἕνα	εἷς	NUM	Ma	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	ref=1THESS_5.11
+9	καθὼς	καθώς	ADV	Dq	PronType=Rel	11	advcl	_	ref=1THESS_5.11
+10	καὶ	καί	ADV	Df	_	11	advmod	_	ref=1THESS_5.11|LId=1
+11	ποιεῖτε	ποιέω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	ref=1THESS_5.11
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = Ἐρωτῶμεν δὲ ὑμᾶς ἀδελφοί εἰδέναι τοὺς κοπιῶντας ἐν ὑμῖν καὶ προϊσταμένους ὑμῶν ἐν κυρίῳ καὶ νουθετοῦντας ὑμᾶς καὶ ἡγεῖσθαι αὐτοὺς ὑπερεκπερισσοῦ ἐν ἀγάπῃ διὰ τὸ ἔργον αὐτῶν
+# sent_id = 30313
+1	Ἐρωτῶμεν	ἐρωτάω	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_5.12
+2	δὲ	δέ	ADV	Df	_	1	discourse	_	ref=1THESS_5.12
+3	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	1	obj	_	ref=1THESS_5.12
+4	ἀδελφοί	ἀδελφός	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	ref=1THESS_5.12
+5	εἰδέναι	οἶδα	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	1	xcomp	_	ref=1THESS_5.12
+6	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	7	det	_	ref=1THESS_5.12
+7	κοπιῶντας	κοπιάω	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	5	obj	_	ref=1THESS_5.12
+8	ἐν	ἐν	ADP	R-	_	9	case	_	ref=1THESS_5.12
+9	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	7	obl	_	ref=1THESS_5.12
+10	καὶ	καί	CCONJ	C-	_	11	cc	_	ref=1THESS_5.12
+11	προϊσταμένους	προΐστημι	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	7	conj	_	ref=1THESS_5.12
+12	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	11	obl:arg	_	ref=1THESS_5.12
+13	ἐν	ἐν	ADP	R-	_	14	case	_	ref=1THESS_5.12
+14	κυρίῳ	κύριος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	11	obl	_	ref=1THESS_5.12
+15	καὶ	καί	CCONJ	C-	_	16	cc	_	ref=1THESS_5.12
+16	νουθετοῦντας	νουθετέω	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	7	conj	_	ref=1THESS_5.12
+17	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	16	obj	_	ref=1THESS_5.12
+18	καὶ	καί	CCONJ	C-	_	19	cc	_	ref=1THESS_5.13
+19	ἡγεῖσθαι	ἡγέομαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	5	conj	_	ref=1THESS_5.13
+20	αὐτοὺς	αὐτός	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	19	obj	_	ref=1THESS_5.13
+21	ὑπερεκπερισσοῦ	ὑπερεκπερισσοῦ	ADV	Df	_	19	advmod	_	ref=1THESS_5.13
+22	ἐν	ἐν	ADP	R-	_	23	case	_	ref=1THESS_5.13
+23	ἀγάπῃ	ἀγάπη	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	19	obl	_	ref=1THESS_5.13
+24	διὰ	διά	ADP	R-	_	26	case	_	ref=1THESS_5.13
+25	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	26	det	_	ref=1THESS_5.13
+26	ἔργον	ἔργον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	19	obl	_	ref=1THESS_5.13
+27	αὐτῶν	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	26	det	_	ref=1THESS_5.13
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = εἰρηνεύετε ἐν αὐτοῖς
+# sent_id = 30314
+1	εἰρηνεύετε	εἰρηνεύω	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_5.13
+2	ἐν	ἐν	ADP	R-	_	3	case	_	ref=1THESS_5.13
+3	αὐτοῖς	αὐτός	PRON	Pd	Case=Dat|Gender=Masc|Number=Plur	1	obl	_	ref=1THESS_5.13
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = παρακαλοῦμεν δὲ ὑμᾶς
+# sent_id = 49937
+1	παρακαλοῦμεν	παρακαλέω	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_5.14
+2	δὲ	δέ	ADV	Df	_	1	discourse	_	ref=1THESS_5.14
+3	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	1	obj	_	ref=1THESS_5.14
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = ἀδελφοί νουθετεῖτε τοὺς ἀτάκτους
+# sent_id = 49938
+1	ἀδελφοί	ἀδελφός	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	2	vocative	_	ref=1THESS_5.14
+2	νουθετεῖτε	νουθετέω	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_5.14
+3	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	4	det	_	ref=1THESS_5.14
+4	ἀτάκτους	ἄτακτος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	2	obj	_	ref=1THESS_5.14
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = παραμυθεῖσθε τοὺς ὀλιγοψύχους
+# sent_id = 49939
+1	παραμυθεῖσθε	παραμυθέομαι	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=1THESS_5.14
+2	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	3	det	_	ref=1THESS_5.14
+3	ὀλιγοψύχους	ὀλιγόψυχος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	1	obj	_	ref=1THESS_5.14
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = ἀντέχεσθε τῶν ἀσθενῶν
+# sent_id = 49940
+1	ἀντέχεσθε	ἀντέχω	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=1THESS_5.14
+2	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	3	det	_	ref=1THESS_5.14
+3	ἀσθενῶν	ἀσθενής	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	1	obl:arg	_	ref=1THESS_5.14
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = μακροθυμεῖτε πρὸς πάντας
+# sent_id = 49941
+1	μακροθυμεῖτε	μακροθυμέω	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_5.14
+2	πρὸς	πρός	ADP	R-	_	3	case	_	ref=1THESS_5.14
+3	πάντας	πᾶς	PRON	Px	Case=Acc|Gender=Masc|Number=Plur	1	obl	_	ref=1THESS_5.14
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = ὁρᾶτε μή τις κακὸν ἀντὶ κακοῦ τινι ἀποδοῖ ἀλλὰ πάντοτε τὸ ἀγαθὸν διώκετε εἰς ἀλλήλους καὶ εἰς πάντας
+# sent_id = 30316
+1	ὁρᾶτε	ὁράω	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_5.15
+2	μή	μή	ADV	Df	Polarity=Neg	8	advmod	_	ref=1THESS_5.15
+3	τις	τὶς	PRON	Px	Case=Nom|Gender=Fem,Masc|Number=Sing	8	nsubj	_	ref=1THESS_5.15
+4	κακὸν	κακός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	obj	_	ref=1THESS_5.15
+5	ἀντὶ	ἀντί	ADP	R-	_	6	case	_	ref=1THESS_5.15
+6	κακοῦ	κακός	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	8	advmod	_	ref=1THESS_5.15
+7	τινι	τὶς	PRON	Px	Case=Dat|Gender=Fem,Masc|Number=Sing	8	obl:arg	_	ref=1THESS_5.15
+8	ἀποδοῖ	ἀποδίδωμι	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	ref=1THESS_5.15
+9	ἀλλὰ	ἀλλά	CCONJ	C-	_	13	cc	_	ref=1THESS_5.15
+10	πάντοτε	πάντοτε	ADV	Df	_	13	advmod	_	ref=1THESS_5.15
+11	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	12	det	_	ref=1THESS_5.15
+12	ἀγαθὸν	ἀγαθός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	13	obj	_	ref=1THESS_5.15
+13	διώκετε	διώκω	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=1THESS_5.15
+14	εἰς	εἰς	ADP	R-	_	15	case	_	ref=1THESS_5.15
+15	ἀλλήλους	ἀλλήλων	PRON	Pc	Case=Acc|Gender=Masc|Number=Plur|PronType=Rcp	13	obl	_	ref=1THESS_5.15
+16	καὶ	καί	CCONJ	C-	_	18	cc	_	ref=1THESS_5.15
+17	εἰς	εἰς	ADP	R-	_	18	case	_	ref=1THESS_5.15
+18	πάντας	πᾶς	PRON	Px	Case=Acc|Gender=Masc|Number=Plur	15	conj	_	ref=1THESS_5.15
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = πάντοτε χαίρετε
+# sent_id = 49942
+1	πάντοτε	πάντοτε	ADV	Df	_	2	advmod	_	ref=1THESS_5.16
+2	χαίρετε	χαίρω	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_5.16
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = ἀδιαλείπτως προσεύχεσθε
+# sent_id = 49943
+1	ἀδιαλείπτως	ἀδιαλείπτως	ADV	Df	Degree=Pos	2	advmod	_	ref=1THESS_5.17
+2	προσεύχεσθε	προσεύχομαι	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=1THESS_5.17
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = ἐν παντὶ εὐχαριστεῖτε
+# sent_id = 49944
+1	ἐν	ἐν	ADP	R-	_	2	case	_	ref=1THESS_5.18
+2	παντὶ	πᾶς	PRON	Px	Case=Dat|Gender=Neut|Number=Sing	3	obl	_	ref=1THESS_5.18
+3	εὐχαριστεῖτε	εὐχαριστέω	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_5.18
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = τοῦτο γὰρ θέλημα θεοῦ ἐν Χριστῷ Ἰησοῦ εἰς ὑμᾶς
+# sent_id = 30318
+1	τοῦτο	οὗτος	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	ref=1THESS_5.18
+2	γὰρ	γάρ	ADV	Df	_	3	discourse	_	ref=1THESS_5.18
+3	θέλημα	θέλημα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	0	root	_	ref=1THESS_5.18
+4	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	ref=1THESS_5.18
+5	ἐν	ἐν	ADP	R-	_	6	case	_	ref=1THESS_5.18
+6	Χριστῷ	Χριστός	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	3	obl	_	ref=1THESS_5.18
+7	Ἰησοῦ	Ἰησοῦς	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	6	flat:name	_	ref=1THESS_5.18
+8	εἰς	εἰς	ADP	R-	_	9	case	_	ref=1THESS_5.18
+9	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	obl	_	ref=1THESS_5.18
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = τὸ πνεῦμα μὴ σβέννυτε
+# sent_id = 49945
+1	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	2	det	_	ref=1THESS_5.19
+2	πνεῦμα	πνεῦμα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	ref=1THESS_5.19
+3	μὴ	μή	ADV	Df	Polarity=Neg	4	advmod	_	ref=1THESS_5.19
+4	σβέννυτε	σβέννυμι	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_5.19
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = προφητείας μὴ ἐξουθενεῖτε
+# sent_id = 49946
+1	προφητείας	προφητεία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	3	obj	_	ref=1THESS_5.20
+2	μὴ	μή	ADV	Df	Polarity=Neg	3	advmod	_	ref=1THESS_5.20
+3	ἐξουθενεῖτε	ἐξουθενέω	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_5.20
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = πάντα δὲ δοκιμάζετε
+# sent_id = 49947
+1	πάντα	πᾶς	PRON	Px	Case=Acc|Gender=Neut|Number=Plur	3	obj	_	ref=1THESS_5.21
+2	δὲ	δέ	ADV	Df	_	3	discourse	_	ref=1THESS_5.21
+3	δοκιμάζετε	δοκιμάζω	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_5.21
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = τὸ καλὸν κατέχετε
+# sent_id = 49948
+1	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	2	det	_	ref=1THESS_5.21
+2	καλὸν	καλός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	3	obj	_	ref=1THESS_5.21
+3	κατέχετε	κατέχω	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_5.21
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = ἀπὸ παντὸς εἴδους πονηροῦ ἀπέχεσθε
+# sent_id = 49949
+1	ἀπὸ	ἀπό	ADP	R-	_	3	case	_	ref=1THESS_5.22
+2	παντὸς	πᾶς	DET	Px	Case=Gen|Gender=Masc,Neut|Number=Sing	3	det	_	ref=1THESS_5.22
+3	εἴδους	εἶδος	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	5	obl	_	ref=1THESS_5.22
+4	πονηροῦ	πονηρός	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	ref=1THESS_5.22
+5	ἀπέχεσθε	ἀπέχω	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=1THESS_5.22
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = Αὐτὸς δὲ ὁ θεὸς τῆς εἰρήνης ἁγιάσαι ὑμᾶς ὁλοτελεῖς καὶ ὁλόκληρον ὑμῶν τὸ πνεῦμα καὶ ἡ ψυχὴ καὶ τὸ σῶμα ἀμέμπτως ἐν τῇ παρουσίᾳ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ τηρηθείη
+# sent_id = 30321
+1	Αὐτὸς	αὐτός	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	4	det	_	ref=1THESS_5.23
+2	δὲ	δέ	ADV	Df	_	7	discourse	_	ref=1THESS_5.23
+3	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	ref=1THESS_5.23
+4	θεὸς	θεός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=1THESS_5.23
+5	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	ref=1THESS_5.23
+6	εἰρήνης	εἰρήνη	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	ref=1THESS_5.23
+7	ἁγιάσαι	ἁγιάζω	VERB	V-	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_5.23
+8	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	7	obj	_	ref=1THESS_5.23
+9	ὁλοτελεῖς	ὁλοτελής	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	7	advmod	_	ref=1THESS_5.23
+10	καὶ	καί	CCONJ	C-	_	30	cc	_	ref=1THESS_5.23
+11	ὁλόκληρον	ὁλόκληρος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	ref=1THESS_5.23
+12	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	14	det	_	ref=1THESS_5.23
+13	τὸ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	14	det	_	ref=1THESS_5.23
+14	πνεῦμα	πνεῦμα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	30	nsubj:pass	_	ref=1THESS_5.23
+15	καὶ	καί	CCONJ	C-	_	17	cc	_	ref=1THESS_5.23
+16	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	17	det	_	ref=1THESS_5.23
+17	ψυχὴ	ψυχή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	14	conj	_	ref=1THESS_5.23
+18	καὶ	καί	CCONJ	C-	_	20	cc	_	ref=1THESS_5.23
+19	τὸ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	20	det	_	ref=1THESS_5.23
+20	σῶμα	σῶμα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	14	conj	_	ref=1THESS_5.23
+21	ἀμέμπτως	ἀμέμπτως	ADV	Df	Degree=Pos	30	advmod	_	ref=1THESS_5.23
+22	ἐν	ἐν	ADP	R-	_	24	case	_	ref=1THESS_5.23
+23	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	24	det	_	ref=1THESS_5.23
+24	παρουσίᾳ	παρουσία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	30	obl	_	ref=1THESS_5.23
+25	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	26	det	_	ref=1THESS_5.23
+26	κυρίου	κύριος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	24	nmod	_	ref=1THESS_5.23
+27	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	26	det	_	ref=1THESS_5.23
+28	Ἰησοῦ	Ἰησοῦς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	26	appos	_	ref=1THESS_5.23
+29	Χριστοῦ	Χριστός	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	28	flat:name	_	ref=1THESS_5.23
+30	τηρηθείη	τηρέω	VERB	V-	Aspect=Perf|Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	7	conj	_	ref=1THESS_5.23
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = πιστὸς ὁ καλῶν ὑμᾶς ὃς καὶ ποιήσει
+# sent_id = 30322
+1	πιστὸς	πιστός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=1THESS_5.24
+2	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	ref=1THESS_5.24
+3	καλῶν	καλέω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	nsubj	_	ref=1THESS_5.24
+4	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	obj	_	ref=1THESS_5.24
+5	ὃς	ὅς	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	7	nsubj	_	ref=1THESS_5.24
+6	καὶ	καί	ADV	Df	_	7	advmod	_	ref=1THESS_5.24|LId=1
+7	ποιήσει	ποιέω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	3	acl	_	ref=1THESS_5.24
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = Ἀδελφοί προσεύχεσθε περὶ ἡμῶν
+# sent_id = 30323
+1	Ἀδελφοί	ἀδελφός	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	2	vocative	_	ref=1THESS_5.25
+2	προσεύχεσθε	προσεύχομαι	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=1THESS_5.25
+3	περὶ	περί	ADP	R-	_	4	case	_	ref=1THESS_5.25
+4	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	2	obl	_	ref=1THESS_5.25
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = ἀσπάσασθε τοὺς ἀδελφοὺς πάντας ἐν φιλήματι ἁγίῳ
+# sent_id = 30324
+1	ἀσπάσασθε	ἀσπάζομαι	VERB	V-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	ref=1THESS_5.26
+2	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	3	det	_	ref=1THESS_5.26
+3	ἀδελφοὺς	ἀδελφός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	1	obj	_	ref=1THESS_5.26
+4	πάντας	πᾶς	DET	Px	Case=Acc|Gender=Masc|Number=Plur	3	det	_	ref=1THESS_5.26
+5	ἐν	ἐν	ADP	R-	_	6	case	_	ref=1THESS_5.26
+6	φιλήματι	φίλημα	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	1	obl	_	ref=1THESS_5.26
+7	ἁγίῳ	ἅγιος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc,Neut|Number=Sing	6	amod	_	ref=1THESS_5.26
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = ἐνορκίζω ὑμᾶς τὸν κύριον ἀναγνωσθῆναι τὴν ἐπιστολὴν πᾶσιν τοῖς ἀδελφοῖς
+# sent_id = 30325
+1	ἐνορκίζω	ὁρκίζω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1THESS_5.27
+2	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	1	obj	_	ref=1THESS_5.27
+3	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	ref=1THESS_5.27
+4	κύριον	κύριος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	obl:arg	_	ref=1THESS_5.27
+5	ἀναγνωσθῆναι	ἀναγιγνώσκω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	1	ccomp	_	ref=1THESS_5.27
+6	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	ref=1THESS_5.27
+7	ἐπιστολὴν	ἐπιστολή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	nsubj:pass	_	ref=1THESS_5.27
+8	πᾶσιν	πᾶς	DET	Px	Case=Dat|Gender=Masc,Neut|Number=Plur	10	det	_	ref=1THESS_5.27
+9	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	10	det	_	ref=1THESS_5.27
+10	ἀδελφοῖς	ἀδελφός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	5	obl:arg	_	ref=1THESS_5.27
+
+# source = The Greek New Testament, 1 Thessalonians 5
+# text = Ἡ χάρις τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ μεθ’ ὑμῶν
+# sent_id = 30326
+1	Ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	ref=1THESS_5.28
+2	χάρις	χάρις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	ref=1THESS_5.28
+3	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	4	det	_	ref=1THESS_5.28
+4	κυρίου	κύριος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	ref=1THESS_5.28
+5	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	4	det	_	ref=1THESS_5.28
+6	Ἰησοῦ	Ἰησοῦς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	appos	_	ref=1THESS_5.28
+7	Χριστοῦ	Χριστός	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	6	flat:name	_	ref=1THESS_5.28
+8	μεθ’	μετά	ADP	R-	_	9	case	_	ref=1THESS_5.28
+9	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	0	root	_	ref=1THESS_5.28
