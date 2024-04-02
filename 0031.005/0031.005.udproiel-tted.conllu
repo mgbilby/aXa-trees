@@ -1202,8 +1202,8 @@
 6	μου	ἐγώ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	5	det	_	ref=ACTS_2.27
 7	εἰς	εἰς	ADP	R-	_	8	case	_	ref=ACTS_2.27
 8	ᾅδην	Ἅιδης	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	3	obl	_	ref=ACTS_2.27
-9	οὐ	οὐ	ADV	Df	Polarity=Neg	10	advmod	_	ref=ACTS_2.27|sub
-9	-δέ	δέ	CCONJ	C-	_	10	cc	_	ref=ACTS_2.27|sub
+9	οὐ	οὐ	ADV	G-	Polarity=Neg	10	advmod	_	ref=ACTS_2.27|Sub=1
+9.1	-δέ	δέ	CCONJ	C-	_	10	cc	_	ref=ACTS_2.27|Sub=2
 10	δώσεις	δίδωμι	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	3	conj	_	ref=ACTS_2.27
 11	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	12	det	_	ref=ACTS_2.27
 12	ὅσιόν	ὅσιος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	14	nsubj	_	ref=ACTS_2.27
@@ -1294,13 +1294,13 @@
 27	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	28	det	_	ref=ACTS_2.31
 28	Χριστοῦ	Χριστός	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	ref=ACTS_2.31
 29	ὅτι	ὅτι	SCONJ	G-	_	31	mark	_	ref=ACTS_2.31
-30	οὐ	οὐ	ADV	Df	Polarity=Neg	31	advmod	_	ref=ACTS_2.31|sub
-30	-τε	τε	CCONJ	C-	_	31	cc	_	ref=ACTS_2.31|sub
+30	οὐ	οὐ	ADV	G-	Polarity=Neg	31	advmod	_	ref=ACTS_2.31|Sub=1
+30.1	-τε	τε	CCONJ	C-	_	31	cc	_	ref=ACTS_2.31|Sub=2
 31	ἐνκατελείφθη	ἐγκαταλείπω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	23	ccomp	_	ref=ACTS_2.31
 32	εἰς	εἰς	ADP	R-	_	33	case	_	ref=ACTS_2.31
 33	ᾅδην	Ἅιδης	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	31	obl	_	ref=ACTS_2.31
-34	οὐ	οὐ	ADV	Df	Polarity=Neg	38	advmod	_	ref=ACTS_2.31|sub
-34	-τε	τε	CCONJ	C-	_	38	cc	_	ref=ACTS_2.31|sub
+34	οὐ	οὐ	ADV	G-	Polarity=Neg	38	advmod	_	ref=ACTS_2.31|Sub=1
+34.1	-τε	τε	CCONJ	C-	_	38	cc	_	ref=ACTS_2.31|Sub=2
 35	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	36	det	_	ref=ACTS_2.31
 36	σὰρξ	σάρξ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	38	nsubj	_	ref=ACTS_2.31
 37	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	36	det	_	ref=ACTS_2.31
@@ -2537,8 +2537,8 @@
 6	οὐδενὶ	οὐδείς	DET	Px	Case=Dat|Gender=Masc|Number=Sing	5	det	_	ref=ACTS_4.12
 7	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	ref=ACTS_4.12
 8	σωτηρία	σωτηρία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	ref=ACTS_4.12
-9	οὐ	οὐ	ADV	Df	Polarity=Neg	12	advmod	_	ref=ACTS_4.12|sub
-9	-δέ	δέ	CCONJ	C-	_	12	cc	_	ref=ACTS_4.12|sub
+9	οὐ	οὐ	ADV	G-	Polarity=Neg	12	advmod	_	ref=ACTS_4.12|Sub=1
+9.1	-δέ	δέ	CCONJ	C-	_	12	cc	_	ref=ACTS_4.12|Sub=2
 10	γὰρ	γάρ	ADV	Df	_	12	discourse	_	ref=ACTS_4.12
 11	ὄνομά	ὄνομα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	ref=ACTS_4.12
 12	ἐστιν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	ref=ACTS_4.12|LId=1
@@ -2679,8 +2679,8 @@
 5	καθόλου	καθόλου	ADV	Df	_	7	advmod	_	ref=ACTS_4.18
 6	μὴ	μή	ADV	Df	Polarity=Neg	7	advmod	_	ref=ACTS_4.18
 7	φθέγγεσθαι	φθέγγομαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	4	xcomp	_	ref=ACTS_4.18
-8	μή	μή	ADV	Df	Polarity=Neg	9	advmod	_	ref=ACTS_4.18|sub
-8	-δέ	δέ	CCONJ	C-	_	9	cc	_	ref=ACTS_4.18|sub
+8	μή	μή	ADV	G-	Polarity=Neg	9	advmod	_	ref=ACTS_4.18|Sub=1
+8.1	-δέ	δέ	CCONJ	C-	_	9	cc	_	ref=ACTS_4.18|Sub=2
 9	διδάσκειν	διδάσκω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	conj	_	ref=ACTS_4.18
 10	ἐπὶ	ἐπί	ADP	R-	_	12	case	_	ref=ACTS_4.18
 11	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	12	det	_	ref=ACTS_4.18
@@ -3011,8 +3011,8 @@
 9	ψυχὴ	ψυχή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	conj	_	ref=ACTS_4.32
 10	μία	εἷς	NUM	Ma	Case=Nom|Gender=Fem|Number=Sing	7	nummod	_	ref=ACTS_4.32
 11	καὶ	καί	CCONJ	C-	_	18	cc	_	ref=ACTS_4.32
-12	οὐ	οὐ	ADV	Df	Polarity=Neg	13	advmod	_	ref=ACTS_4.32|sub
-12	-δέ	δέ	CCONJ	C-	_	13	cc	_	ref=ACTS_4.32|sub
+12	οὐ	οὐ	ADV	G-	Polarity=Neg	13	advmod	_	ref=ACTS_4.32|Sub=1
+12.1	-δέ	δέ	CCONJ	C-	_	13	cc	_	ref=ACTS_4.32|Sub=2
 13	εἷς	εἷς	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	ref=ACTS_4.32
 14	τι	τὶς	PRON	Px	Case=Acc|Gender=Neut|Number=Sing	19	nsubj	_	ref=ACTS_4.32
 15	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	16	det	_	ref=ACTS_4.32
@@ -3055,8 +3055,8 @@
 # source = The Greek New Testament, Acts 4
 # text = οὐδὲ γὰρ ἐνδεής τις ἦν ἐν αὐτοῖς
 # sent_id = 25094
-1	οὐ	οὐ	ADV	Df	Polarity=Neg	5	advmod	_	ref=ACTS_4.34|sub
-1	-δέ	δέ	CCONJ	C-	_	5	cc	_	ref=ACTS_4.34|sub
+1	οὐ	οὐ	ADV	G-	Polarity=Neg	5	advmod	_	ref=ACTS_4.34|Sub=1
+1.1	-δέ	δέ	CCONJ	C-	_	5	cc	_	ref=ACTS_4.34|Sub=2
 2	γὰρ	γάρ	ADV	Df	_	5	discourse	_	ref=ACTS_4.34
 3	ἐνδεής	ἐνδεής	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	nsubj	_	ref=ACTS_4.34
 4	τις	τὶς	DET	Px	Case=Nom|Gender=Fem,Masc|Number=Sing	3	det	_	ref=ACTS_4.34
@@ -4634,8 +4634,8 @@
 24	κληρονομίαν	κληρονομία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	22	obj	_	ref=ACTS_7.5
 25	ἐν	ἐν	ADP	R-	_	26	case	_	ref=ACTS_7.5
 26	αὐτῇ	αὐτός	PRON	Pp	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	22	obl	_	ref=ACTS_7.5
-27	οὐ	οὐ	ADV	Df	Polarity=Neg	28	advmod	_	ref=ACTS_7.5|sub
-27	-δέ	δέ	CCONJ	C-	_	28	cc	_	ref=ACTS_7.5|sub
+27	οὐ	οὐ	ADV	G-	Polarity=Neg	28	advmod	_	ref=ACTS_7.5|Sub=1
+27.1	-δέ	δέ	CCONJ	C-	_	28	cc	_	ref=ACTS_7.5|Sub=2
 28	βῆμα	βῆμα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	24	appos	_	ref=ACTS_7.5
 29	ποδός	πούς	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	28	nmod	_	ref=ACTS_7.5
 30	καὶ	καί	CCONJ	C-	_	31	cc	_	ref=ACTS_7.5
@@ -6398,8 +6398,8 @@
 2	ἔστιν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=ACTS_8.21|LId=1
 3	σοι	σύ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	obl:arg	_	ref=ACTS_8.21
 4	μερὶς	μερίς	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	ref=ACTS_8.21
-5	οὐ	οὐ	ADV	Df	Polarity=Neg	6	advmod	_	ref=ACTS_8.21|sub
-5	-δέ	δέ	CCONJ	C-	_	6	cc	_	ref=ACTS_8.21|sub
+5	οὐ	οὐ	ADV	G-	Polarity=Neg	6	advmod	_	ref=ACTS_8.21|Sub=1
+5.1	-δέ	δέ	CCONJ	C-	_	6	cc	_	ref=ACTS_8.21|Sub=2
 6	κλῆρος	κλῆρος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	ref=ACTS_8.21
 7	ἐν	ἐν	ADP	R-	_	9	case	_	ref=ACTS_8.21
 8	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	9	det	_	ref=ACTS_8.21
@@ -7101,8 +7101,8 @@
 7	καὶ	καί	CCONJ	C-	_	9	cc	_	ref=ACTS_9.9
 8	οὐκ	οὐ	ADV	Df	Polarity=Neg	9	advmod	_	ref=ACTS_9.9
 9	ἔφαγεν	ἐσθίω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	ref=ACTS_9.9
-10	οὐ	οὐ	ADV	Df	Polarity=Neg	11	advmod	_	ref=ACTS_9.9|sub
-10	-δέ	δέ	CCONJ	C-	_	11	cc	_	ref=ACTS_9.9|sub
+10	οὐ	οὐ	ADV	G-	Polarity=Neg	11	advmod	_	ref=ACTS_9.9|Sub=1
+10.1	-δέ	δέ	CCONJ	C-	_	11	cc	_	ref=ACTS_9.9|Sub=2
 11	ἔπιεν	πίνω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	ref=ACTS_9.9
 
 # source = The Greek New Testament, Acts 9
@@ -12486,13 +12486,13 @@
 12	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	13	det	_	ref=ACTS_15.10
 13	μαθητῶν	μαθητής	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	ref=ACTS_15.10
 14	ὃν	ὅς	PRON	Pr	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	22	obj	_	ref=ACTS_15.10
-15	οὐ	οὐ	ADV	Df	Polarity=Neg	17	advmod	_	ref=ACTS_15.10|sub
-15	-τε	τε	CCONJ	C-	_	17	cc	_	ref=ACTS_15.10|sub
+15	οὐ	οὐ	ADV	G-	Polarity=Neg	17	advmod	_	ref=ACTS_15.10|Sub=1
+15.1	-τε	τε	CCONJ	C-	_	17	cc	_	ref=ACTS_15.10|Sub=2
 16	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	17	det	_	ref=ACTS_15.10
 17	πατέρες	πατήρ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	21	nsubj	_	ref=ACTS_15.10
 18	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	17	det	_	ref=ACTS_15.10
-19	οὐ	οὐ	ADV	Df	Polarity=Neg	20	advmod	_	ref=ACTS_15.10|sub
-19	-τε	τε	CCONJ	C-	_	20	cc	_	ref=ACTS_15.10|sub
+19	οὐ	οὐ	ADV	G-	Polarity=Neg	20	advmod	_	ref=ACTS_15.10|Sub=1
+19.1	-τε	τε	CCONJ	C-	_	20	cc	_	ref=ACTS_15.10|Sub=2
 20	ἡμεῖς	ἡμεῖς	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	17	conj	_	ref=ACTS_15.10
 21	ἰσχύσαμεν	ἰσχύω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	8	acl	_	ref=ACTS_15.10
 22	βαστάσαι	βαστάζω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	21	xcomp	_	ref=ACTS_15.10
@@ -13608,8 +13608,8 @@
 15	ἔξεστιν	ἔξεστι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	acl	_	ref=ACTS_16.21
 16	ἡμῖν	ἡμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	15	obl:arg	_	ref=ACTS_16.21
 17	παραδέχεσθαι	παραδέχομαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	15	xcomp	_	ref=ACTS_16.21
-18	οὐ	οὐ	ADV	Df	Polarity=Neg	19	advmod	_	ref=ACTS_16.21|sub
-18	-δέ	δέ	CCONJ	C-	_	19	cc	_	ref=ACTS_16.21|sub
+18	οὐ	οὐ	ADV	G-	Polarity=Neg	19	advmod	_	ref=ACTS_16.21|Sub=1
+18.1	-δέ	δέ	CCONJ	C-	_	19	cc	_	ref=ACTS_16.21|Sub=2
 19	ποιεῖν	ποιέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	17	conj	_	ref=ACTS_16.21
 20	Ῥωμαίοις	Ῥωμαῖος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	15	advcl	_	ref=ACTS_16.21
 21	οὖσιν	εἰμί	AUX	V-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	20	cop	_	ref=ACTS_16.21|LId=1
@@ -14670,8 +14670,8 @@
 20	χειροποιήτοις	χειροποίητος	ADJ	A-	Case=Dat|Degree=Pos|Number=Plur	21	amod	_	ref=ACTS_17.24
 21	ναοῖς	ναός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	22	obl	_	ref=ACTS_17.24
 22	κατοικεῖ	κατοικέω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=ACTS_17.24
-23	οὐ	οὐ	ADV	Df	Polarity=Neg	27	advmod	_	ref=ACTS_17.25|sub
-23	-δέ	δέ	CCONJ	C-	_	27	cc	_	ref=ACTS_17.25|sub
+23	οὐ	οὐ	ADV	G-	Polarity=Neg	27	advmod	_	ref=ACTS_17.25|Sub=1
+23.1	-δέ	δέ	CCONJ	C-	_	27	cc	_	ref=ACTS_17.25|Sub=2
 24	ὑπὸ	ὑπό	ADP	R-	_	25	case	_	ref=ACTS_17.25
 25	χειρῶν	χείρ	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	27	obl	_	ref=ACTS_17.25
 26	ἀνθρωπίνων	ἀνθρώπινος	ADJ	A-	Case=Gen|Degree=Pos|Number=Plur	25	amod	_	ref=ACTS_17.25
@@ -15605,8 +15605,8 @@
 # text = ἀλλ’ οὐδ’ εἰ πνεῦμα ἅγιον ἔστιν ἠκούσαμεν
 # sent_id = 49111
 1	ἀλλ’	ἀλλά	CCONJ	C-	_	7	cc	_	ref=ACTS_19.2
-2	οὐ	οὐ	ADV	Df	Polarity=Neg	7	advmod	_	ref=ACTS_19.2|sub
-2	-δέ	δέ	CCONJ	C-	_	7	cc	_	ref=ACTS_19.2|sub
+2	οὐ	οὐ	ADV	G-	Polarity=Neg	7	advmod	_	ref=ACTS_19.2|Sub=1
+2.1	-δέ	δέ	CCONJ	C-	_	7	cc	_	ref=ACTS_19.2|Sub=2
 3	εἰ	εἰ	SCONJ	G-	_	6	mark	_	ref=ACTS_19.2
 4	πνεῦμα	πνεῦμα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	ref=ACTS_19.2
 5	ἅγιον	ἅγιος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	ref=ACTS_19.2
@@ -16450,11 +16450,11 @@
 3	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	4	det	_	ref=ACTS_19.37
 4	ἄνδρας	ἀνήρ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	1	obj	_	ref=ACTS_19.37
 5	τούτους	οὗτος	DET	Pd	Case=Acc|Gender=Masc|Number=Plur	4	det	_	ref=ACTS_19.37
-6	οὐ	οὐ	ADV	Df	Polarity=Neg	7	advmod	_	ref=ACTS_19.37|sub
-6	-τε	τε	CCONJ	C-	_	7	cc	_	ref=ACTS_19.37|sub
+6	οὐ	οὐ	ADV	G-	Polarity=Neg	7	advmod	_	ref=ACTS_19.37|Sub=1
+6.1	-τε	τε	CCONJ	C-	_	7	cc	_	ref=ACTS_19.37|Sub=2
 7	ἱεροσύλους	ἱερόσυλος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	1	advmod	_	ref=ACTS_19.37
-8	οὐ	οὐ	ADV	Df	Polarity=Neg	9	advmod	_	ref=ACTS_19.37|sub
-8	-τε	τε	CCONJ	C-	_	9	cc	_	ref=ACTS_19.37|sub
+8	οὐ	οὐ	ADV	G-	Polarity=Neg	9	advmod	_	ref=ACTS_19.37|Sub=1
+8.1	-τε	τε	CCONJ	C-	_	9	cc	_	ref=ACTS_19.37|Sub=2
 9	βλασφημοῦντας	βλασφημέω	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	7	conj	_	ref=ACTS_19.37
 10	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	11	det	_	ref=ACTS_19.37
 11	θεὸν	θεός	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	ref=ACTS_19.37
@@ -17886,8 +17886,8 @@
 19	αὐτοὺς	αὐτός	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	18	nsubj	_	ref=ACTS_21.21
 20	τὰ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	21	det	_	ref=ACTS_21.21
 21	τέκνα	τέκνον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	18	obj	_	ref=ACTS_21.21
-22	μή	μή	ADV	Df	Polarity=Neg	25	advmod	_	ref=ACTS_21.21|sub
-22	-δέ	δέ	CCONJ	C-	_	25	cc	_	ref=ACTS_21.21|sub
+22	μή	μή	ADV	G-	Polarity=Neg	25	advmod	_	ref=ACTS_21.21|Sub=1
+22.1	-δέ	δέ	CCONJ	C-	_	25	cc	_	ref=ACTS_21.21|Sub=2
 23	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	24	det	_	ref=ACTS_21.21
 24	ἔθεσιν	ἔθος	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	25	obl	_	ref=ACTS_21.21
 25	περιπατεῖν	περιπατέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	18	conj	_	ref=ACTS_21.21
@@ -19425,11 +19425,11 @@
 5	μὴ	μή	ADV	Df	Polarity=Neg	6	advmod	_	ref=ACTS_23.8
 6	εἶναι	εἰμί	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	ccomp	_	ref=ACTS_23.8|LId=1
 7	ἀνάστασιν	ἀνάστασις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	nsubj	_	ref=ACTS_23.8
-8	μή	μή	ADV	Df	Polarity=Neg	9	advmod	_	ref=ACTS_23.8|sub
-8	-τε	τε	CCONJ	C-	_	9	cc	_	ref=ACTS_23.8|sub
+8	μή	μή	ADV	G-	Polarity=Neg	9	advmod	_	ref=ACTS_23.8|Sub=1
+8.1	-τε	τε	CCONJ	C-	_	9	cc	_	ref=ACTS_23.8|Sub=2
 9	ἄγγελον	ἄγγελος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	7	conj	_	ref=ACTS_23.8
-10	μή	μή	ADV	Df	Polarity=Neg	11	advmod	_	ref=ACTS_23.8|sub
-10	-τε	τε	CCONJ	C-	_	11	cc	_	ref=ACTS_23.8|sub
+10	μή	μή	ADV	G-	Polarity=Neg	11	advmod	_	ref=ACTS_23.8|Sub=1
+10.1	-τε	τε	CCONJ	C-	_	11	cc	_	ref=ACTS_23.8|Sub=2
 11	πνεῦμα	πνεῦμα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	7	conj	_	ref=ACTS_23.8
 
 # source = The Greek New Testament, Acts 23
@@ -19563,11 +19563,11 @@
 8	ἀνεθεμάτισαν	ἀναθεματίζω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=ACTS_23.12
 9	ἑαυτοὺς	ἑαυτοῦ	PRON	Pk	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	8	obj	_	ref=ACTS_23.12
 10	λέγοντες	λέγω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	8	advcl	_	ref=ACTS_23.12
-11	μή	μή	ADV	Df	Polarity=Neg	12	advmod	_	ref=ACTS_23.12|sub
-11	-τε	τε	CCONJ	C-	_	12	cc	_	ref=ACTS_23.12|sub
+11	μή	μή	ADV	G-	Polarity=Neg	12	advmod	_	ref=ACTS_23.12|Sub=1
+11.1	-τε	τε	CCONJ	C-	_	12	cc	_	ref=ACTS_23.12|Sub=2
 12	φαγεῖν	ἐσθίω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	10	xcomp	_	ref=ACTS_23.12
-13	μή	μή	ADV	Df	Polarity=Neg	14	advmod	_	ref=ACTS_23.12|sub
-13	-τε	τε	CCONJ	C-	_	14	cc	_	ref=ACTS_23.12|sub
+13	μή	μή	ADV	G-	Polarity=Neg	14	advmod	_	ref=ACTS_23.12|Sub=1
+13.1	-τε	τε	CCONJ	C-	_	14	cc	_	ref=ACTS_23.12|Sub=2
 14	πιεῖν	πίνω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	12	conj	_	ref=ACTS_23.12
 15	ἕως	ἕως	SCONJ	G-	_	17	mark	_	ref=ACTS_23.12
 16	οὗ	ὅς	PRON	Pr	Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	15	fixed	_	ref=ACTS_23.12
@@ -19820,11 +19820,11 @@
 9	οἵτινες	ὅστις	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	10	nsubj	_	ref=ACTS_23.21
 10	ἀνεθεμάτισαν	ἀναθεματίζω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	acl	_	ref=ACTS_23.21
 11	ἑαυτοὺς	ἑαυτοῦ	PRON	Pk	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	10	obj	_	ref=ACTS_23.21
-12	μή	μή	ADV	Df	Polarity=Neg	13	advmod	_	ref=ACTS_23.21|sub
-12	-τε	τε	CCONJ	C-	_	13	cc	_	ref=ACTS_23.21|sub
+12	μή	μή	ADV	G-	Polarity=Neg	13	advmod	_	ref=ACTS_23.21|Sub=1
+12.1	-τε	τε	CCONJ	C-	_	13	cc	_	ref=ACTS_23.21|Sub=2
 13	φαγεῖν	ἐσθίω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	10	advcl	_	ref=ACTS_23.21
-14	μή	μή	ADV	Df	Polarity=Neg	15	advmod	_	ref=ACTS_23.21|sub
-14	-τε	τε	CCONJ	C-	_	15	cc	_	ref=ACTS_23.21|sub
+14	μή	μή	ADV	G-	Polarity=Neg	15	advmod	_	ref=ACTS_23.21|Sub=1
+14.1	-τε	τε	CCONJ	C-	_	15	cc	_	ref=ACTS_23.21|Sub=2
 15	πιεῖν	πίνω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	13	conj	_	ref=ACTS_23.21
 16	ἕως	ἕως	SCONJ	G-	_	18	mark	_	ref=ACTS_23.21
 17	οὗ	ὅς	PRON	Pr	Case=Gen|Gender=Neut|Number=Sing|PronType=Rel	16	fixed	_	ref=ACTS_23.21
@@ -20300,8 +20300,8 @@
 30	εἰς	εἰς	ADP	R-	_	31	case	_	ref=ACTS_24.11
 31	Ἱερουσαλήμ	Ἱερουσαλήμ	PROPN	Ne	_	28	obl	_	ref=ACTS_24.11
 32	καὶ	καί	CCONJ	C-	_	37	cc	_	ref=ACTS_24.12
-33	οὐ	οὐ	ADV	Df	Polarity=Neg	36	advmod	_	ref=ACTS_24.12|sub
-33	-τε	τε	CCONJ	C-	_	36	cc	_	ref=ACTS_24.12|sub
+33	οὐ	οὐ	ADV	G-	Polarity=Neg	36	advmod	_	ref=ACTS_24.12|Sub=1
+33.1	-τε	τε	CCONJ	C-	_	36	cc	_	ref=ACTS_24.12|Sub=2
 34	ἐν	ἐν	ADP	R-	_	36	case	_	ref=ACTS_24.12
 35	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	36	det	_	ref=ACTS_24.12
 36	ἱερῷ	ἱερόν	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	37	obl	_	ref=ACTS_24.12
@@ -20314,18 +20314,18 @@
 43	ἐπίστασιν	ἐπίστασις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	44	obj	_	ref=ACTS_24.12
 44	ποιοῦντα	ποιέω	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	41	conj	_	ref=ACTS_24.12
 45	ὄχλου	ὄχλος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	43	nmod	_	ref=ACTS_24.12
-46	οὐ	οὐ	ADV	Df	Polarity=Neg	49	advmod	_	ref=ACTS_24.12|sub
-46	-τε	τε	CCONJ	C-	_	49	cc	_	ref=ACTS_24.12|sub
+46	οὐ	οὐ	ADV	G-	Polarity=Neg	49	advmod	_	ref=ACTS_24.12|Sub=1
+46.1	-τε	τε	CCONJ	C-	_	49	cc	_	ref=ACTS_24.12|Sub=2
 47	ἐν	ἐν	ADP	R-	_	49	case	_	ref=ACTS_24.12
 48	ταῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	49	det	_	ref=ACTS_24.12
 49	συναγωγαῖς	συναγωγή	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	36	conj	_	ref=ACTS_24.12
-50	οὐ	οὐ	ADV	Df	Polarity=Neg	53	advmod	_	ref=ACTS_24.12|sub
-50	-τε	τε	CCONJ	C-	_	53	cc	_	ref=ACTS_24.12|sub
+50	οὐ	οὐ	ADV	G-	Polarity=Neg	53	advmod	_	ref=ACTS_24.12|Sub=1
+50.1	-τε	τε	CCONJ	C-	_	53	cc	_	ref=ACTS_24.12|Sub=2
 51	κατὰ	κατά	ADP	R-	_	53	case	_	ref=ACTS_24.12
 52	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	53	det	_	ref=ACTS_24.12
 53	πόλιν	πόλις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	36	conj	_	ref=ACTS_24.12
-54	οὐ	οὐ	ADV	Df	Polarity=Neg	56	advmod	_	ref=ACTS_24.13|sub
-54	-δέ	δέ	CCONJ	C-	_	56	cc	_	ref=ACTS_24.13|sub
+54	οὐ	οὐ	ADV	G-	Polarity=Neg	56	advmod	_	ref=ACTS_24.13|Sub=1
+54.1	-δέ	δέ	CCONJ	C-	_	56	cc	_	ref=ACTS_24.13|Sub=2
 55	παραστῆσαι	παρίστημι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	56	xcomp	_	ref=ACTS_24.13
 56	δύνανταί	δύναμαι	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	37	conj	_	ref=ACTS_24.13
 57	σοι	σύ	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Sing|Person=2|PronType=Prs	55	obl:arg	_	ref=ACTS_24.13
@@ -20430,8 +20430,8 @@
 22	οὐ	οὐ	ADV	Df	Polarity=Neg	24	advmod	_	ref=ACTS_24.18
 23	μετὰ	μετά	ADP	R-	_	24	case	_	ref=ACTS_24.18
 24	ὄχλου	ὄχλος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	16	obl	_	ref=ACTS_24.18
-25	οὐ	οὐ	ADV	Df	Polarity=Neg	27	advmod	_	ref=ACTS_24.18|sub
-25	-δέ	δέ	CCONJ	C-	_	27	cc	_	ref=ACTS_24.18|sub
+25	οὐ	οὐ	ADV	G-	Polarity=Neg	27	advmod	_	ref=ACTS_24.18|Sub=1
+25.1	-δέ	δέ	CCONJ	C-	_	27	cc	_	ref=ACTS_24.18|Sub=2
 26	μετὰ	μετά	ADP	R-	_	27	case	_	ref=ACTS_24.18
 27	θορύβου	θόρυβος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	24	conj	_	ref=ACTS_24.18
 
@@ -20805,20 +20805,20 @@
 # source = The Greek New Testament, Acts 25
 # text = οὔτε εἰς τὸν νόμον τῶν Ἰουδαίων οὔτε εἰς τὸ ἱερὸν οὔτε εἰς Καίσαρά τι ἥμαρτον
 # sent_id = 122775
-1	οὐ	οὐ	ADV	Df	Polarity=Neg	4	advmod	_	ref=ACTS_25.8|sub
-1	-τε	τε	CCONJ	C-	_	4	cc	_	ref=ACTS_25.8|sub
+1	οὐ	οὐ	ADV	G-	Polarity=Neg	4	advmod	_	ref=ACTS_25.8|Sub=1
+1.1	-τε	τε	CCONJ	C-	_	4	cc	_	ref=ACTS_25.8|Sub=2
 2	εἰς	εἰς	ADP	R-	_	4	case	_	ref=ACTS_25.8
 3	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	ref=ACTS_25.8
 4	νόμον	νόμος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	15	obl	_	ref=ACTS_25.8
 5	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	6	det	_	ref=ACTS_25.8
 6	Ἰουδαίων	Ἰουδαῖος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	4	nmod	_	ref=ACTS_25.8
-7	οὐ	οὐ	ADV	Df	Polarity=Neg	10	advmod	_	ref=ACTS_25.8|sub
-7	-τε	τε	CCONJ	C-	_	10	cc	_	ref=ACTS_25.8|sub
+7	οὐ	οὐ	ADV	G-	Polarity=Neg	10	advmod	_	ref=ACTS_25.8|Sub=1
+7.1	-τε	τε	CCONJ	C-	_	10	cc	_	ref=ACTS_25.8|Sub=2
 8	εἰς	εἰς	ADP	R-	_	10	case	_	ref=ACTS_25.8
 9	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	10	det	_	ref=ACTS_25.8
 10	ἱερὸν	ἱερόν	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	conj	_	ref=ACTS_25.8
-11	οὐ	οὐ	ADV	Df	Polarity=Neg	13	advmod	_	ref=ACTS_25.8|sub
-11	-τε	τε	CCONJ	C-	_	13	cc	_	ref=ACTS_25.8|sub
+11	οὐ	οὐ	ADV	G-	Polarity=Neg	13	advmod	_	ref=ACTS_25.8|Sub=1
+11.1	-τε	τε	CCONJ	C-	_	13	cc	_	ref=ACTS_25.8|Sub=2
 12	εἰς	εἰς	ADP	R-	_	13	case	_	ref=ACTS_25.8
 13	Καίσαρά	Καῖσαρ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	conj	_	ref=ACTS_25.8
 14	τι	τὶς	PRON	Px	Case=Acc|Gender=Neut|Number=Sing	15	obj	_	ref=ACTS_25.8
@@ -22503,12 +22503,12 @@
 # source = The Greek New Testament, Acts 27
 # text = μήτε δὲ ἡλίου μήτε ἄστρων ἐπιφαινόντων ἐπὶ πλείονας ἡμέρας χειμῶνός τε οὐκ ὀλίγου ἐπικειμένου λοιπὸν περιῃρεῖτο ἐλπὶς πᾶσα τοῦ σώζεσθαι ἡμᾶς
 # sent_id = 25966
-1	μή	μή	ADV	Df	Polarity=Neg	3	advmod	_	ref=ACTS_27.20|sub
-1	-τε	τε	CCONJ	C-	_	3	cc	_	ref=ACTS_27.20|sub
+1	μή	μή	ADV	G-	Polarity=Neg	3	advmod	_	ref=ACTS_27.20|Sub=1
+1.1	-τε	τε	CCONJ	C-	_	3	cc	_	ref=ACTS_27.20|Sub=2
 2	δὲ	δέ	ADV	Df	_	16	discourse	_	ref=ACTS_27.20
 3	ἡλίου	ἥλιος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	nsubj	_	ref=ACTS_27.20
-4	μή	μή	ADV	Df	Polarity=Neg	5	advmod	_	ref=ACTS_27.20|sub
-4	-τε	τε	CCONJ	C-	_	5	cc	_	ref=ACTS_27.20|sub
+4	μή	μή	ADV	G-	Polarity=Neg	5	advmod	_	ref=ACTS_27.20|Sub=1
+4.1	-τε	τε	CCONJ	C-	_	5	cc	_	ref=ACTS_27.20|Sub=2
 5	ἄστρων	ἄστρον	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	3	conj	_	ref=ACTS_27.20
 6	ἐπιφαινόντων	ἐπιφαίνω	VERB	V-	Case=Gen|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	16	advcl	_	ref=ACTS_27.20
 7	ἐπὶ	ἐπί	ADP	R-	_	9	case	_	ref=ACTS_27.20
@@ -23577,8 +23577,8 @@
 # text = ἡμεῖς οὔτε γράμματα περὶ σοῦ ἐδεξάμεθα ἀπὸ τῆς Ἰουδαίας οὔτε παραγενόμενός τις τῶν ἀδελφῶν ἀπήγγειλεν ἢ ἐλάλησέν τι περὶ σοῦ πονηρόν
 # sent_id = 49292
 1	ἡμεῖς	ἡμεῖς	PRON	Pp	Case=Nom|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	ref=ACTS_28.21
-2	οὐ	οὐ	ADV	Df	Polarity=Neg	6	advmod	_	ref=ACTS_28.21|sub
-2	-τε	τε	CCONJ	C-	_	6	cc	_	ref=ACTS_28.21|sub
+2	οὐ	οὐ	ADV	G-	Polarity=Neg	6	advmod	_	ref=ACTS_28.21|Sub=1
+2.1	-τε	τε	CCONJ	C-	_	6	cc	_	ref=ACTS_28.21|Sub=2
 3	γράμματα	γράμμα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	6	obj	_	ref=ACTS_28.21
 4	περὶ	περί	ADP	R-	_	5	case	_	ref=ACTS_28.21
 5	σοῦ	σύ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	det	_	ref=ACTS_28.21
@@ -23586,8 +23586,8 @@
 7	ἀπὸ	ἀπό	ADP	R-	_	9	case	_	ref=ACTS_28.21
 8	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	ref=ACTS_28.21
 9	Ἰουδαίας	Ἰουδαία	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	6	obl	_	ref=ACTS_28.21
-10	οὐ	οὐ	ADV	Df	Polarity=Neg	15	advmod	_	ref=ACTS_28.21|sub
-10	-τε	τε	CCONJ	C-	_	15	cc	_	ref=ACTS_28.21|sub
+10	οὐ	οὐ	ADV	G-	Polarity=Neg	15	advmod	_	ref=ACTS_28.21|Sub=1
+10.1	-τε	τε	CCONJ	C-	_	15	cc	_	ref=ACTS_28.21|Sub=2
 11	παραγενόμενός	παραγίγνομαι	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	15	advcl	_	ref=ACTS_28.21
 12	τις	τὶς	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	ref=ACTS_28.21
 13	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	14	det	_	ref=ACTS_28.21
@@ -23842,4 +23842,3 @@
 28	πάσης	πᾶς	DET	Px	Case=Gen|Gender=Fem|Number=Sing	29	det	_	ref=ACTS_28.31
 29	παρρησίας	παρρησία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	21	obl	_	ref=ACTS_28.31
 30	ἀκωλύτως	ἀκωλύτως	ADV	Df	Degree=Pos	21	advmod	_	ref=ACTS_28.31
-
