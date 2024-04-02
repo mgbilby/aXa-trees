@@ -1,0 +1,2401 @@
+# source = The Greek New Testament, James 1
+# text = Ἰάκωβος θεοῦ καὶ κυρίου Ἰησοῦ Χριστοῦ δοῦλος ταῖς δώδεκα φυλαῖς ταῖς ἐν τῇ διασπορᾷ χαίρειν
+# sent_id = 31780
+1	Ἰάκωβος	Ἰάκωβος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	ref=JAS_1.1
+2	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	ref=JAS_1.1
+3	καὶ	καί	CCONJ	C-	_	4	cc	_	ref=JAS_1.1
+4	κυρίου	κύριος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	conj	_	ref=JAS_1.1
+5	Ἰησοῦ	Ἰησοῦς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	appos	_	ref=JAS_1.1
+6	Χριστοῦ	Χριστός	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	5	flat:name	_	ref=JAS_1.1
+7	δοῦλος	δοῦλος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	ref=JAS_1.1
+8	ταῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	10	det	_	ref=JAS_1.1
+9	δώδεκα	δώδεκα	NUM	Ma	_	10	nummod	_	ref=JAS_1.1
+10	φυλαῖς	φυλή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	15	obl:arg	_	ref=JAS_1.1
+11	ταῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	10	det	_	ref=JAS_1.1
+12	ἐν	ἐν	ADP	R-	_	14	case	_	ref=JAS_1.1
+13	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	14	det	_	ref=JAS_1.1
+14	διασπορᾷ	διασπορά	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	10	nmod	_	ref=JAS_1.1
+15	χαίρειν	χαίρω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	ref=JAS_1.1
+
+# source = The Greek New Testament, James 1
+# text = Πᾶσαν χαρὰν ἡγήσασθε ἀδελφοί μου ὅταν πειρασμοῖς περιπέσητε ποικίλοις γινώσκοντες ὅτι τὸ δοκίμιον ὑμῶν τῆς πίστεως κατεργάζεται ὑπομονήν
+# sent_id = 31781
+1	Πᾶσαν	πᾶς	DET	Px	Case=Acc|Gender=Fem|Number=Sing	2	det	_	ref=JAS_1.2
+2	χαρὰν	χαρά	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	ref=JAS_1.2
+3	ἡγήσασθε	ἡγέομαι	VERB	V-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	ref=JAS_1.2
+4	ἀδελφοί	ἀδελφός	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	3	vocative	_	ref=JAS_1.2
+5	μου	ἐγώ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	det	_	ref=JAS_1.2
+6	ὅταν	ὅταν	ADV	Dq	PronType=Rel	8	advcl	_	ref=JAS_1.2
+7	πειρασμοῖς	πειρασμός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	8	obl:arg	_	ref=JAS_1.2
+8	περιπέσητε	περιπίπτω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	ref=JAS_1.2
+9	ποικίλοις	ποικίλος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	ref=JAS_1.2
+10	γινώσκοντες	γιγνώσκω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	3	advcl	_	ref=JAS_1.3
+11	ὅτι	ὅτι	SCONJ	G-	_	17	mark	_	ref=JAS_1.3
+12	τὸ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	13	det	_	ref=JAS_1.3
+13	δοκίμιον	δοκιμεῖον	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	17	nsubj	_	ref=JAS_1.3
+14	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	16	det	_	ref=JAS_1.3
+15	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	16	det	_	ref=JAS_1.3
+16	πίστεως	πίστις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	ref=JAS_1.3
+17	κατεργάζεται	κατεργάζομαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	10	ccomp	_	ref=JAS_1.3
+18	ὑπομονήν	ὑπομονή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	17	obj	_	ref=JAS_1.3
+
+# source = The Greek New Testament, James 1
+# text = ἡ δὲ ὑπομονὴ ἔργον τέλειον ἐχέτω ἵνα ἦτε τέλειοι καὶ ὁλόκληροι ἐν μηδενὶ λειπόμενοι
+# sent_id = 31782
+1	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	ref=JAS_1.4
+2	δὲ	δέ	ADV	Df	_	6	discourse	_	ref=JAS_1.4
+3	ὑπομονὴ	ὑπομονή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	ref=JAS_1.4
+4	ἔργον	ἔργον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	ref=JAS_1.4
+5	τέλειον	τέλειος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	ref=JAS_1.4
+6	ἐχέτω	ἔχω	VERB	V-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_1.4
+7	ἵνα	ἵνα	SCONJ	G-	_	9	mark	_	ref=JAS_1.4
+8	ἦτε	εἰμί	AUX	V-	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	ref=JAS_1.4|LId=1
+9	τέλειοι	τέλειος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	6	advcl	_	ref=JAS_1.4
+10	καὶ	καί	CCONJ	C-	_	11	cc	_	ref=JAS_1.4
+11	ὁλόκληροι	ὁλόκληρος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	9	conj	_	ref=JAS_1.4
+12	ἐν	ἐν	ADP	R-	_	13	case	_	ref=JAS_1.4
+13	μηδενὶ	μηδείς	PRON	Px	Case=Dat|Gender=Neut|Number=Sing	14	obl	_	ref=JAS_1.4
+14	λειπόμενοι	λείπω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	9	advcl	_	ref=JAS_1.4
+
+# source = The Greek New Testament, James 1
+# text = εἰ δέ τις ὑμῶν λείπεται σοφίας αἰτείτω παρὰ τοῦ διδόντος θεοῦ πᾶσιν ἁπλῶς καὶ μὴ ὀνειδίζοντος καὶ δοθήσεται αὐτῷ
+# sent_id = 31783
+1	εἰ	εἰ	SCONJ	G-	_	5	mark	_	ref=JAS_1.5
+2	δέ	δέ	ADV	Df	_	7	discourse	_	ref=JAS_1.5
+3	τις	τὶς	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=JAS_1.5
+4	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	nmod	_	ref=JAS_1.5
+5	λείπεται	λείπω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	7	advcl	_	ref=JAS_1.5
+6	σοφίας	σοφία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	5	obl:arg	_	ref=JAS_1.5
+7	αἰτείτω	αἰτέω	VERB	V-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_1.5
+8	παρὰ	παρά	ADP	R-	_	11	case	_	ref=JAS_1.5
+9	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	11	det	_	ref=JAS_1.5
+10	διδόντος	δίδωμι	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	11	acl	_	ref=JAS_1.5
+11	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	obl	_	ref=JAS_1.5
+12	πᾶσιν	πᾶς	PRON	Px	Case=Dat|Gender=Masc|Number=Plur	10	obl:arg	_	ref=JAS_1.5
+13	ἁπλῶς	ἁπλῶς	ADV	Df	_	10	advmod	_	ref=JAS_1.5
+14	καὶ	καί	CCONJ	C-	_	16	cc	_	ref=JAS_1.5
+15	μὴ	μή	ADV	Df	Polarity=Neg	16	advmod	_	ref=JAS_1.5
+16	ὀνειδίζοντος	ὀνειδίζω	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	conj	_	ref=JAS_1.5
+17	καὶ	καί	CCONJ	C-	_	18	cc	_	ref=JAS_1.5
+18	δοθήσεται	δίδωμι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	7	conj	_	ref=JAS_1.5
+19	αὐτῷ	αὐτός	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	obl:arg	_	ref=JAS_1.5
+
+# source = The Greek New Testament, James 1
+# text = αἰτείτω δὲ ἐν πίστει μηδὲν διακρινόμενος
+# sent_id = 31784
+1	αἰτείτω	αἰτέω	VERB	V-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_1.6
+2	δὲ	δέ	ADV	Df	_	1	discourse	_	ref=JAS_1.6
+3	ἐν	ἐν	ADP	R-	_	4	case	_	ref=JAS_1.6
+4	πίστει	πίστις	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	1	obl	_	ref=JAS_1.6
+5	μηδὲν	μηδείς	PRON	Px	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	ref=JAS_1.6
+6	διακρινόμενος	διακρίνω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	1	advcl	_	ref=JAS_1.6
+
+# source = The Greek New Testament, James 1
+# text = ὁ γὰρ διακρινόμενος ἔοικεν κλύδωνι θαλάσσης ἀνεμιζομένῳ καὶ ῥιπιζομένῳ
+# sent_id = 159458
+1	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	ref=JAS_1.6
+2	γὰρ	γάρ	ADV	Df	_	4	discourse	_	ref=JAS_1.6
+3	διακρινόμενος	διακρίνω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	4	nsubj	_	ref=JAS_1.6
+4	ἔοικεν	ἔοικα	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_1.6
+5	κλύδωνι	κλύδων	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	4	obl:arg	_	ref=JAS_1.6
+6	θαλάσσης	θάλασσα	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	ref=JAS_1.6
+7	ἀνεμιζομένῳ	ἀνεμίζομαι	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	4	advcl	_	ref=JAS_1.6
+8	καὶ	καί	CCONJ	C-	_	9	cc	_	ref=JAS_1.6
+9	ῥιπιζομένῳ	ῥιπίζω	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	7	conj	_	ref=JAS_1.6
+
+# source = The Greek New Testament, James 1
+# text = μὴ γὰρ οἰέσθω ὁ ἄνθρωπος ἐκεῖνος ὅτι λήμψεταί τι παρὰ τοῦ κυρίου
+# sent_id = 31785
+1	μὴ	μή	ADV	Df	Polarity=Neg	3	advmod	_	ref=JAS_1.7
+2	γὰρ	γάρ	ADV	Df	_	3	discourse	_	ref=JAS_1.7
+3	οἰέσθω	οἴομαι	VERB	V-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=JAS_1.7
+4	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	ref=JAS_1.7
+5	ἄνθρωπος	ἄνθρωπος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=JAS_1.7
+6	ἐκεῖνος	ἐκεῖνος	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	5	det	_	ref=JAS_1.7
+7	ὅτι	ὅτι	SCONJ	G-	_	8	mark	_	ref=JAS_1.7
+8	λήμψεταί	λαμβάνω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	3	ccomp	_	ref=JAS_1.7
+9	τι	τὶς	PRON	Px	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	ref=JAS_1.7
+10	παρὰ	παρά	ADP	R-	_	12	case	_	ref=JAS_1.7
+11	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	12	det	_	ref=JAS_1.7
+12	κυρίου	κύριος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	obl	_	ref=JAS_1.7
+
+# source = The Greek New Testament, James 1
+# text = ἀνὴρ δίψυχος ἀκατάστατος ἐν πάσαις ταῖς ὁδοῖς αὐτοῦ
+# sent_id = 159459
+1	ἀνὴρ	ἀνήρ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=JAS_1.8
+2	δίψυχος	δίψυχος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	amod	_	ref=JAS_1.8
+3	ἀκατάστατος	ἀκατάστατος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	amod	_	ref=JAS_1.8
+4	ἐν	ἐν	ADP	R-	_	7	case	_	ref=JAS_1.8
+5	πάσαις	πᾶς	DET	Px	Case=Dat|Gender=Fem|Number=Plur	7	det	_	ref=JAS_1.8
+6	ταῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	7	det	_	ref=JAS_1.8
+7	ὁδοῖς	ὁδός	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	3	obl	_	ref=JAS_1.8
+8	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	det	_	ref=JAS_1.8
+
+# source = The Greek New Testament, James 1
+# text = Καυχάσθω δὲ ὁ ἀδελφὸς ὁ ταπεινὸς ἐν τῷ ὕψει αὐτοῦ ὁ δὲ πλούσιος ἐν τῇ ταπεινώσει αὐτοῦ ὅτι ὡς ἄνθος χόρτου παρελεύσεται
+# sent_id = 31786
+1	Καυχάσθω	καυχάομαι	VERB	V-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=JAS_1.9
+2	δὲ	δέ	ADV	Df	_	1	discourse	_	ref=JAS_1.9
+3	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	ref=JAS_1.9
+4	ἀδελφὸς	ἀδελφός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=JAS_1.9
+5	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	ref=JAS_1.9
+6	ταπεινὸς	ταπεινός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	nmod	_	ref=JAS_1.9
+7	ἐν	ἐν	ADP	R-	_	9	case	_	ref=JAS_1.9
+8	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	9	det	_	ref=JAS_1.9
+9	ὕψει	ὕψος	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	1	obl	_	ref=JAS_1.9
+10	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	det	_	ref=JAS_1.9
+11	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	13	det	_	ref=JAS_1.10
+12	δὲ	δέ	ADV	Df	_	13	discourse	_	ref=JAS_1.10
+13	πλούσιος	πλούσιος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	conj	_	ref=JAS_1.10
+14	ἐν	ἐν	ADP	R-	_	16	case	_	ref=JAS_1.10
+15	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	16	det	_	ref=JAS_1.10
+16	ταπεινώσει	ταπείνωσις	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	13	orphan	_	ref=JAS_1.10
+17	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	det	_	ref=JAS_1.10
+18	ὅτι	ὅτι	SCONJ	G-	_	22	mark	_	ref=JAS_1.10
+19	ὡς	ὡς	ADV	Df	_	20	mark	_	ref=JAS_1.10
+20	ἄνθος	ἄνθος	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	22	advcl:cmp	_	ref=JAS_1.10
+21	χόρτου	χόρτος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	ref=JAS_1.10
+22	παρελεύσεται	παρέρχομαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	13	orphan	_	ref=JAS_1.10
+
+# source = The Greek New Testament, James 1
+# text = ἀνέτειλεν γὰρ ὁ ἥλιος σὺν τῷ καύσωνι καὶ ἐξήρανεν τὸν χόρτον καὶ τὸ ἄνθος αὐτοῦ ἐξέπεσεν καὶ ἡ εὐπρέπεια τοῦ προσώπου αὐτοῦ ἀπώλετο
+# sent_id = 31787
+1	ἀνέτειλεν	ἀνατέλλω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_1.11
+2	γὰρ	γάρ	ADV	Df	_	1	discourse	_	ref=JAS_1.11
+3	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	ref=JAS_1.11
+4	ἥλιος	ἥλιος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=JAS_1.11
+5	σὺν	σύν	ADP	R-	_	7	case	_	ref=JAS_1.11
+6	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	ref=JAS_1.11
+7	καύσωνι	καύσων	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	obl	_	ref=JAS_1.11
+8	καὶ	καί	CCONJ	C-	_	9	cc	_	ref=JAS_1.11
+9	ἐξήρανεν	ξηραίνω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=JAS_1.11
+10	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	11	det	_	ref=JAS_1.11
+11	χόρτον	χόρτος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	ref=JAS_1.11
+12	καὶ	καί	CCONJ	C-	_	16	cc	_	ref=JAS_1.11
+13	τὸ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	14	det	_	ref=JAS_1.11
+14	ἄνθος	ἄνθος	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	16	nsubj	_	ref=JAS_1.11
+15	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	det	_	ref=JAS_1.11
+16	ἐξέπεσεν	ἐκπίπτω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=JAS_1.11
+17	καὶ	καί	CCONJ	C-	_	23	cc	_	ref=JAS_1.11
+18	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	19	det	_	ref=JAS_1.11
+19	εὐπρέπεια	εὐπρέπεια	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	23	nsubj	_	ref=JAS_1.11
+20	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	21	det	_	ref=JAS_1.11
+21	προσώπου	πρόσωπον	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	19	nmod	_	ref=JAS_1.11
+22	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	det	_	ref=JAS_1.11
+23	ἀπώλετο	ἀπόλλυμι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	1	conj	_	ref=JAS_1.11
+
+# source = The Greek New Testament, James 1
+# text = οὕτως καὶ ὁ πλούσιος ἐν ταῖς πορείαις αὐτοῦ μαρανθήσεται
+# sent_id = 31788
+1	οὕτως	οὕτω(ς)	ADV	Df	_	9	advmod	_	ref=JAS_1.11
+2	καὶ	καί	ADV	Df	_	9	advmod	_	ref=JAS_1.11|LId=1
+3	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	ref=JAS_1.11
+4	πλούσιος	πλούσιος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	nsubj:pass	_	ref=JAS_1.11
+5	ἐν	ἐν	ADP	R-	_	7	case	_	ref=JAS_1.11
+6	ταῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	7	det	_	ref=JAS_1.11
+7	πορείαις	πορεία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	9	obl	_	ref=JAS_1.11
+8	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	det	_	ref=JAS_1.11
+9	μαρανθήσεται	μαραίνω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	ref=JAS_1.11
+
+# source = The Greek New Testament, James 1
+# text = Μακάριος ἀνὴρ ὃς ὑπομένει πειρασμόν ὅτι δόκιμος γενόμενος λήμψεται τὸν στέφανον τῆς ζωῆς ὃν ἐπηγγείλατο τοῖς ἀγαπῶσιν αὐτόν
+# sent_id = 31789
+1	Μακάριος	μακάριος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=JAS_1.12
+2	ἀνὴρ	ἀνήρ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=JAS_1.12
+3	ὃς	ὅς	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	4	nsubj	_	ref=JAS_1.12
+4	ὑπομένει	ὑπομένω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	ref=JAS_1.12
+5	πειρασμόν	πειρασμός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	ref=JAS_1.12
+6	ὅτι	ὅτι	SCONJ	G-	_	9	mark	_	ref=JAS_1.12
+7	δόκιμος	δόκιμος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	8	xcomp	_	ref=JAS_1.12
+8	γενόμενος	γίγνομαι	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	9	advcl	_	ref=JAS_1.12
+9	λήμψεται	λαμβάνω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	1	advcl	_	ref=JAS_1.12
+10	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	11	det	_	ref=JAS_1.12
+11	στέφανον	στέφανος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	ref=JAS_1.12
+12	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	13	det	_	ref=JAS_1.12
+13	ζωῆς	ζωή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	ref=JAS_1.12
+14	ὃν	ὅς	PRON	Pr	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	15	obj	_	ref=JAS_1.12
+15	ἐπηγγείλατο	ἐπαγγέλλομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	11	acl	_	ref=JAS_1.12
+16	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	17	det	_	ref=JAS_1.12
+17	ἀγαπῶσιν	ἀγαπάω	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	15	obl:arg	_	ref=JAS_1.12
+18	αὐτόν	αὐτός	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	obj	_	ref=JAS_1.12
+
+# source = The Greek New Testament, James 1
+# text = μηδεὶς πειραζόμενος λεγέτω ὅτι
+# sent_id = 31790
+1	μηδεὶς	μηδείς	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=JAS_1.13
+2	πειραζόμενος	πειράζω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	3	advcl	_	ref=JAS_1.13
+3	λεγέτω	λέγω	VERB	V-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_1.13
+4	ὅτι	ὅτι	SCONJ	G-	_	3	ccomp	_	ref=JAS_1.13
+
+# source = The Greek New Testament, James 1
+# text = ἀπὸ θεοῦ πειράζομαι
+# sent_id = 159524
+1	ἀπὸ	ἀπό	ADP	R-	_	2	case	_	ref=JAS_1.13
+2	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	obl:agent	_	ref=JAS_1.13
+3	πειράζομαι	πειράζω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=JAS_1.13
+
+# source = The Greek New Testament, James 1
+# text = ὁ γὰρ θεὸς ἀπείραστός ἐστιν κακῶν
+# sent_id = 31791
+1	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	ref=JAS_1.13
+2	γὰρ	γάρ	ADV	Df	_	4	discourse	_	ref=JAS_1.13
+3	θεὸς	θεός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=JAS_1.13
+4	ἀπείραστός	ἀπείραστος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=JAS_1.13
+5	ἐστιν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	ref=JAS_1.13|LId=1
+6	κακῶν	κακός	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	4	obl:arg	_	ref=JAS_1.13
+
+# source = The Greek New Testament, James 1
+# text = πειράζει δὲ αὐτὸς οὐδένα
+# sent_id = 159461
+1	πειράζει	πειράζω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_1.13
+2	δὲ	δέ	ADV	Df	_	1	discourse	_	ref=JAS_1.13
+3	αὐτὸς	αὐτός	PRON	Pd	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=JAS_1.13
+4	οὐδένα	οὐδείς	PRON	Px	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	ref=JAS_1.13
+
+# source = The Greek New Testament, James 1
+# text = ἕκαστος δὲ πειράζεται ὑπὸ τῆς ἰδίας ἐπιθυμίας ἐξελκόμενος καὶ δελεαζόμενος
+# sent_id = 31792
+1	ἕκαστος	ἕκαστος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	nsubj	_	ref=JAS_1.14
+2	δὲ	δέ	ADV	Df	_	3	discourse	_	ref=JAS_1.14
+3	πειράζεται	πειράζω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_1.14
+4	ὑπὸ	ὑπό	ADP	R-	_	7	case	_	ref=JAS_1.14
+5	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	ref=JAS_1.14
+6	ἰδίας	ἴδιος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	ref=JAS_1.14
+7	ἐπιθυμίας	ἐπιθυμία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	xcomp	_	ref=JAS_1.14
+8	ἐξελκόμενος	ἐξέλκω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	7	conj	_	ref=JAS_1.14
+9	καὶ	καί	CCONJ	C-	_	10	cc	_	ref=JAS_1.14
+10	δελεαζόμενος	δελεάζω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	7	conj	_	ref=JAS_1.14
+
+# source = The Greek New Testament, James 1
+# text = εἶτα ἡ ἐπιθυμία συλλαβοῦσα τίκτει ἁμαρτίαν
+# sent_id = 31793
+1	εἶτα	εἶτα	ADV	Df	_	5	discourse	_	ref=JAS_1.15
+2	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	ref=JAS_1.15
+3	ἐπιθυμία	ἐπιθυμία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	ref=JAS_1.15
+4	συλλαβοῦσα	συλλαμβάνω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	5	advcl	_	ref=JAS_1.15
+5	τίκτει	τίκτω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_1.15
+6	ἁμαρτίαν	ἁμαρτία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	ref=JAS_1.15
+
+# source = The Greek New Testament, James 1
+# text = ἡ δὲ ἁμαρτία ἀποτελεσθεῖσα ἀποκύει θάνατον
+# sent_id = 159462
+1	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	ref=JAS_1.15
+2	δὲ	δέ	ADV	Df	_	5	discourse	_	ref=JAS_1.15
+3	ἁμαρτία	ἁμαρτία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	ref=JAS_1.15
+4	ἀποτελεσθεῖσα	ἀποτελέω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	5	advcl	_	ref=JAS_1.15
+5	ἀποκύει	ἀποκυέω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_1.15
+6	θάνατον	θάνατος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	ref=JAS_1.15
+
+# source = The Greek New Testament, James 1
+# text = Μὴ πλανᾶσθε ἀδελφοί μου ἀγαπητοί
+# sent_id = 31794
+1	Μὴ	μή	ADV	Df	Polarity=Neg	2	advmod	_	ref=JAS_1.16
+2	πλανᾶσθε	πλανάω	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	ref=JAS_1.16
+3	ἀδελφοί	ἀδελφός	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	2	vocative	_	ref=JAS_1.16
+4	μου	ἐγώ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	det	_	ref=JAS_1.16
+5	ἀγαπητοί	ἀγαπητός	ADJ	A-	Case=Voc|Degree=Pos|Gender=Masc|Number=Plur	3	amod	_	ref=JAS_1.16
+
+# source = The Greek New Testament, James 1
+# text = πᾶσα δόσις ἀγαθὴ καὶ πᾶν δώρημα τέλειον ἄνωθέν ἐστιν καταβαῖνον ἀπὸ τοῦ πατρὸς τῶν φώτων παρ’ ᾧ οὐκ ἔνι παραλλαγὴ ἢ τροπῆς ἀποσκίασμα
+# sent_id = 31795
+1	πᾶσα	πᾶς	DET	Px	Case=Nom|Gender=Fem|Number=Sing	2	det	_	ref=JAS_1.17
+2	δόσις	δόσις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	ref=JAS_1.17
+3	ἀγαθὴ	ἀγαθός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	ref=JAS_1.17
+4	καὶ	καί	CCONJ	C-	_	6	cc	_	ref=JAS_1.17
+5	πᾶν	πᾶς	DET	Px	Case=Nom|Gender=Neut|Number=Sing	6	det	_	ref=JAS_1.17
+6	δώρημα	δώρημα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	2	conj	_	ref=JAS_1.17
+7	τέλειον	τέλειος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	ref=JAS_1.17
+8	ἄνωθέν	ἄνωθεν	ADV	Df	_	0	root	_	ref=JAS_1.17
+9	ἐστιν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	ref=JAS_1.17|LId=1
+10	καταβαῖνον	καταβαίνω	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	advcl	_	ref=JAS_1.17
+11	ἀπὸ	ἀπό	ADP	R-	_	13	case	_	ref=JAS_1.17
+12	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	13	det	_	ref=JAS_1.17
+13	πατρὸς	πατήρ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	10	obl	_	ref=JAS_1.17
+14	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	15	det	_	ref=JAS_1.17
+15	φώτων	φάος	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	13	nmod	_	ref=JAS_1.17
+16	παρ’	παρά	ADP	R-	_	17	case	_	ref=JAS_1.17
+17	ᾧ	ὅς	PRON	Pr	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	19	xcomp	_	ref=JAS_1.17
+18	οὐκ	οὐ	ADV	Df	Polarity=Neg	19	advmod	_	ref=JAS_1.17
+19	ἔνι	ἔνι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl	_	ref=JAS_1.17
+20	παραλλαγὴ	παραλλαγή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	19	nsubj	_	ref=JAS_1.17
+21	ἢ	ἤ	CCONJ	C-	_	23	cc	_	ref=JAS_1.17
+22	τροπῆς	τροπή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	ref=JAS_1.17
+23	ἀποσκίασμα	ἀποσκίασμα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	20	conj	_	ref=JAS_1.17
+
+# source = The Greek New Testament, James 1
+# text = βουληθεὶς ἀπεκύησεν ἡμᾶς λόγῳ ἀληθείας εἰς τὸ εἶναι ἡμᾶς ἀπαρχήν τινα τῶν αὐτοῦ κτισμάτων
+# sent_id = 31796
+ 1	βουληθεὶς	βουλέω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	 2	advcl	_	JAS_1.18|sub
+ 2	ἀπεκύησεν	ἀπεκύησεν	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	 0	root	_	JAS_1.18|sub
+ 3	ἡμᾶς	ἡμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	 2	obj	_	JAS_1.18|sub
+ 4	λόγῳ	λόγος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	 2	obl	_	JAS_1.18|sub
+ 5	ἀληθείας	ἀλήθεια	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	 4	nmod	_	JAS_1.18|sub
+ 6	εἰς	εἰς	ADP	G-	_	 2	case	_	JAS_1.18|sub
+ 7	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	 8	det	_	JAS_1.18|sub
+ 8	εἶναι	εἰμί	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	 6	cop	_	JAS_1.18|sub
+ 9	ἡμᾶς	ἡμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	 8	nsubj	_	JAS_1.18|sub
+10	ἀπαρχήν	ἀπαρχή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	 8	obl	_	JAS_1.18|sub
+11	τινα	τὶς	ADJ	Px	Case=Acc|Gender=Fem|Number=Sing	10	advmod	_	JAS_1.18|sub
+12	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	14	det	_	JAS_1.18|sub
+13	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	det	_	JAS_1.18|sub
+14	κτισμάτων	κτίσμα	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	10	nmod	_	JAS_1.18|sub
+
+# source = The Greek New Testament, James 1
+# text = Ἴστε ἀδελφοί μου ἀγαπητοί
+# sent_id = 31797
+1	Ἴστε	οἶδα	VERB	V-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_1.19
+2	ἀδελφοί	ἀδελφός	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	ref=JAS_1.19
+3	μου	ἐγώ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	2	det	_	ref=JAS_1.19
+4	ἀγαπητοί	ἀγαπητός	ADJ	A-	Case=Voc|Degree=Pos|Gender=Masc|Number=Plur	2	amod	_	ref=JAS_1.19
+
+# source = The Greek New Testament, James 1
+# text = ἔστω δὲ πᾶς ἄνθρωπος ταχὺς εἰς τὸ ἀκοῦσαι βραδὺς εἰς τὸ λαλῆσαι βραδὺς εἰς ὀργήν
+# sent_id = 31798
+1	ἔστω	εἰμί	AUX	V-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=JAS_1.19|LId=1
+2	δὲ	δέ	ADV	Df	_	5	discourse	_	ref=JAS_1.19
+3	πᾶς	πᾶς	DET	Px	Case=Nom|Gender=Masc|Number=Sing	4	det	_	ref=JAS_1.19
+4	ἄνθρωπος	ἄνθρωπος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=JAS_1.19
+5	ταχὺς	ταχύς	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=JAS_1.19
+6	εἰς	εἰς	ADP	R-	_	8	case	_	ref=JAS_1.19
+7	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	8	det	_	ref=JAS_1.19
+8	ἀκοῦσαι	ἀκούω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	5	obl	_	ref=JAS_1.19
+9	βραδὺς	βραδύς	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	conj	_	ref=JAS_1.19
+10	εἰς	εἰς	ADP	R-	_	12	case	_	ref=JAS_1.19
+11	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	12	det	_	ref=JAS_1.19
+12	λαλῆσαι	λαλέω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	9	obl	_	ref=JAS_1.19
+13	βραδὺς	βραδύς	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	5	conj	_	ref=JAS_1.19
+14	εἰς	εἰς	ADP	R-	_	15	case	_	ref=JAS_1.19
+15	ὀργήν	ὀργή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	13	obl	_	ref=JAS_1.19
+
+# source = The Greek New Testament, James 1
+# text = ὀργὴ γὰρ ἀνδρὸς δικαιοσύνην θεοῦ οὐκ ἐργάζεται
+# sent_id = 31799
+1	ὀργὴ	ὀργή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	ref=JAS_1.20
+2	γὰρ	γάρ	ADV	Df	_	7	discourse	_	ref=JAS_1.20
+3	ἀνδρὸς	ἀνήρ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	ref=JAS_1.20
+4	δικαιοσύνην	δικαιοσύνη	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	ref=JAS_1.20
+5	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	ref=JAS_1.20
+6	οὐκ	οὐ	ADV	Df	Polarity=Neg	7	advmod	_	ref=JAS_1.20
+7	ἐργάζεται	ἐργάζομαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=JAS_1.20
+
+# source = The Greek New Testament, James 1
+# text = διὸ ἀποθέμενοι πᾶσαν ῥυπαρίαν καὶ περισσείαν κακίας ἐν πραΰτητι δέξασθε τὸν ἔμφυτον λόγον τὸν δυνάμενον σῶσαι τὰς ψυχὰς ὑμῶν
+# sent_id = 31800
+1	διὸ	διό	ADV	Df	_	10	advmod	_	ref=JAS_1.21
+2	ἀποθέμενοι	ἀποτίθημι	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	10	advcl	_	ref=JAS_1.21
+3	πᾶσαν	πᾶς	DET	Px	Case=Acc|Gender=Fem|Number=Sing	4	det	_	ref=JAS_1.21
+4	ῥυπαρίαν	ῥυπαρία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	ref=JAS_1.21
+5	καὶ	καί	CCONJ	C-	_	6	cc	_	ref=JAS_1.21
+6	περισσείαν	περισσεία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	conj	_	ref=JAS_1.21
+7	κακίας	κακία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	ref=JAS_1.21
+8	ἐν	ἐν	ADP	R-	_	9	case	_	ref=JAS_1.21
+9	πραΰτητι	πραΰτης	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	10	obl	_	ref=JAS_1.21
+10	δέξασθε	δέχομαι	VERB	V-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	ref=JAS_1.21
+11	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	13	det	_	ref=JAS_1.21
+12	ἔμφυτον	ἔμφυτος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	ref=JAS_1.21
+13	λόγον	λόγος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	ref=JAS_1.21
+14	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	15	det	_	ref=JAS_1.21
+15	δυνάμενον	δύναμαι	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	13	nmod	_	ref=JAS_1.21
+16	σῶσαι	σῴζω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	15	xcomp	_	ref=JAS_1.21
+17	τὰς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	18	det	_	ref=JAS_1.21
+18	ψυχὰς	ψυχή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	16	obj	_	ref=JAS_1.21
+19	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	18	det	_	ref=JAS_1.21
+
+# source = The Greek New Testament, James 1
+# text = γίνεσθε δὲ ποιηταὶ λόγου καὶ μὴ μόνον ἀκροαταὶ παραλογιζόμενοι ἑαυτούς
+# sent_id = 31801
+1	γίνεσθε	γίγνομαι	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=JAS_1.22
+2	δὲ	δέ	ADV	Df	_	1	discourse	_	ref=JAS_1.22
+3	ποιηταὶ	ποιητής	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	1	xcomp	_	ref=JAS_1.22
+4	λόγου	λόγος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	ref=JAS_1.22
+5	καὶ	καί	CCONJ	C-	_	6	cc	_	ref=JAS_1.22
+6	μὴ	μή	ADV	Df	Polarity=Neg	1	conj	_	ref=JAS_1.22
+7	μόνον	μόνος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	6	dislocated	_	ref=JAS_1.22
+8	ἀκροαταὶ	ἀκροατής	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	orphan	_	ref=JAS_1.22
+9	παραλογιζόμενοι	παραλογίζομαι	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	8	acl	_	ref=JAS_1.22
+10	ἑαυτούς	ἑαυτοῦ	PRON	Pk	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs|Reflex=Yes	9	obj	_	ref=JAS_1.22
+
+# source = The Greek New Testament, James 1
+# text = ὅτι εἴ τις ἀκροατὴς λόγου ἐστὶν καὶ οὐ ποιητής οὗτος ἔοικεν ἀνδρὶ κατανοοῦντι τὸ πρόσωπον τῆς γενέσεως αὐτοῦ ἐν ἐσόπτρῳ
+# sent_id = 31802
+1	ὅτι	ὅτι	ADV	Df	_	11	advmod	_	ref=JAS_1.23|LId=1
+2	εἴ	εἰ	SCONJ	G-	_	4	mark	_	ref=JAS_1.23
+3	τις	τὶς	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=JAS_1.23
+4	ἀκροατὴς	ἀκροατής	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	11	advcl	_	ref=JAS_1.23
+5	λόγου	λόγος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	ref=JAS_1.23
+6	ἐστὶν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	ref=JAS_1.23|LId=1
+7	καὶ	καί	CCONJ	C-	_	9	cc	_	ref=JAS_1.23
+8	οὐ	οὐ	ADV	Df	Polarity=Neg	9	advmod	_	ref=JAS_1.23
+9	ποιητής	ποιητής	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	ref=JAS_1.23
+10	οὗτος	οὗτος	PRON	Pd	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	ref=JAS_1.23
+11	ἔοικεν	ἔοικα	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_1.23
+12	ἀνδρὶ	ἀνήρ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	11	obl:arg	_	ref=JAS_1.23
+13	κατανοοῦντι	κατανοέω	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	12	acl	_	ref=JAS_1.23
+14	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	15	det	_	ref=JAS_1.23
+15	πρόσωπον	πρόσωπον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	13	obj	_	ref=JAS_1.23
+16	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	17	det	_	ref=JAS_1.23
+17	γενέσεως	γένεσις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	ref=JAS_1.23
+18	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	17	det	_	ref=JAS_1.23
+19	ἐν	ἐν	ADP	R-	_	20	case	_	ref=JAS_1.23
+20	ἐσόπτρῳ	εἴσοπτρον	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	13	obl	_	ref=JAS_1.23
+
+# source = The Greek New Testament, James 1
+# text = κατενόησεν γὰρ ἑαυτὸν καὶ ἀπελήλυθεν καὶ εὐθέως ἐπελάθετο ὁποῖος ἦν
+# sent_id = 159466
+1	κατενόησεν	κατανοέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_1.24
+2	γὰρ	γάρ	ADV	Df	_	1	discourse	_	ref=JAS_1.24
+3	ἑαυτὸν	ἑαυτοῦ	PRON	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	1	obj	_	ref=JAS_1.24
+4	καὶ	καί	CCONJ	C-	_	5	cc	_	ref=JAS_1.24
+5	ἀπελήλυθεν	ἀπέρχομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=JAS_1.24
+6	καὶ	καί	CCONJ	C-	_	8	cc	_	ref=JAS_1.24
+7	εὐθέως	εὐθέως	ADV	Df	_	8	advmod	_	ref=JAS_1.24
+8	ἐπελάθετο	ἐπιλανθάνομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	1	conj	_	ref=JAS_1.24
+9	ὁποῖος	ὁποῖος	PRON	Pi	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	8	ccomp	_	ref=JAS_1.24
+10	ἦν	εἰμί	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	ref=JAS_1.24|LId=1
+
+# source = The Greek New Testament, James 1
+# text = ὁ δὲ παρακύψας εἰς νόμον τέλειον τὸν τῆς ἐλευθερίας καὶ παραμείνας οὐκ ἀκροατὴς ἐπιλησμονῆς γενόμενος ἀλλὰ ποιητὴς ἔργου οὗτος μακάριος ἐν τῇ ποιήσει αὐτοῦ ἔσται
+# sent_id = 31804
+1	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	ref=JAS_1.25
+2	δὲ	δέ	ADV	Df	_	20	discourse	_	ref=JAS_1.25
+3	παρακύψας	παρακύπτω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	20	nsubj	_	ref=JAS_1.25
+4	εἰς	εἰς	ADP	R-	_	5	case	_	ref=JAS_1.25
+5	νόμον	νόμος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obl	_	ref=JAS_1.25
+6	τέλειον	τέλειος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	ref=JAS_1.25
+7	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	ref=JAS_1.25
+8	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	ref=JAS_1.25
+9	ἐλευθερίας	ἐλευθερία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	ref=JAS_1.25
+10	καὶ	καί	CCONJ	C-	_	11	cc	_	ref=JAS_1.25
+11	παραμείνας	παραμένω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	3	conj	_	ref=JAS_1.25
+12	οὐκ	οὐ	ADV	Df	Polarity=Neg	13	advmod	_	ref=JAS_1.25
+13	ἀκροατὴς	ἀκροατής	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	15	xcomp	_	ref=JAS_1.25
+14	ἐπιλησμονῆς	ἐπιλησμονή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	ref=JAS_1.25
+15	γενόμενος	γίγνομαι	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	20	advcl	_	ref=JAS_1.25
+16	ἀλλὰ	ἀλλά	CCONJ	C-	_	17	cc	_	ref=JAS_1.25
+17	ποιητὴς	ποιητής	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	13	conj	_	ref=JAS_1.25
+18	ἔργου	ἔργον	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	ref=JAS_1.25
+19	οὗτος	οὗτος	PRON	Pd	Case=Nom|Gender=Masc|Number=Sing	3	appos	_	ref=JAS_1.25
+20	μακάριος	μακάριος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=JAS_1.25
+21	ἐν	ἐν	ADP	R-	_	23	case	_	ref=JAS_1.25
+22	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	23	det	_	ref=JAS_1.25
+23	ποιήσει	ποίησις	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	20	obl	_	ref=JAS_1.25
+24	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	det	_	ref=JAS_1.25
+25	ἔσται	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	20	cop	_	ref=JAS_1.25|LId=1
+
+# source = The Greek New Testament, James 1
+# text = εἴ τις δοκεῖ θρησκὸς εἶναι μὴ χαλιναγωγῶν γλῶσσαν αὐτοῦ ἀλλὰ ἀπατῶν καρδίαν αὐτοῦ τούτου μάταιος ἡ θρησκία
+# sent_id = 31805
+1	εἴ	εἰ	SCONJ	G-	_	3	mark	_	ref=JAS_1.26
+2	τις	τὶς	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=JAS_1.26
+3	δοκεῖ	δοκέω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	ref=JAS_1.26
+4	θρησκὸς	θρῆσκος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	xcomp	_	ref=JAS_1.26
+5	εἶναι	εἰμί	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	cop	_	ref=JAS_1.26|LId=1
+6	μὴ	μή	ADV	Df	Polarity=Neg	7	advmod	_	ref=JAS_1.26
+7	χαλιναγωγῶν	χαλιναγωγέω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	advcl	_	ref=JAS_1.26
+8	γλῶσσαν	γλῶσσα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	ref=JAS_1.26
+9	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	det	_	ref=JAS_1.26
+10	ἀλλὰ	ἀλλά	CCONJ	C-	_	11	cc	_	ref=JAS_1.26
+11	ἀπατῶν	ἀπατάω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	conj	_	ref=JAS_1.26
+12	καρδίαν	καρδία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	ref=JAS_1.26
+13	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	det	_	ref=JAS_1.26
+14	τούτου	οὗτος	DET	Pd	Case=Gen|Gender=Masc|Number=Sing	17	det	_	ref=JAS_1.26
+15	μάταιος	μάταιος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	ref=JAS_1.26
+16	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	17	det	_	ref=JAS_1.26
+17	θρησκία	θρησκεία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	ref=JAS_1.26
+
+# source = The Greek New Testament, James 1
+# text = θρησκία καθαρὰ καὶ ἀμίαντος παρὰ θεῷ καὶ πατρὶ αὕτη ἐστίν ἐπισκέπτεσθαι ὀρφανοὺς καὶ χήρας ἐν τῇ θλίψει αὐτῶν ἄσπιλον ἑαυτὸν τηρεῖν ἀπὸ τοῦ κόσμου
+# sent_id = 31806
+1	θρησκία	θρησκεία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	ref=JAS_1.27
+2	καθαρὰ	καθαρός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	1	amod	_	ref=JAS_1.27
+3	καὶ	καί	CCONJ	C-	_	4	cc	_	ref=JAS_1.27
+4	ἀμίαντος	ἀμίαντος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	conj	_	ref=JAS_1.27
+5	παρὰ	παρά	ADP	R-	_	6	case	_	ref=JAS_1.27
+6	θεῷ	θεός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	9	obl	_	ref=JAS_1.27
+7	καὶ	καί	CCONJ	C-	_	8	cc	_	ref=JAS_1.27
+8	πατρὶ	πατήρ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	6	conj	_	ref=JAS_1.27
+9	αὕτη	οὗτος	PRON	Pd	Case=Nom|Gender=Fem|Number=Sing	0	root	_	ref=JAS_1.27
+10	ἐστίν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	ref=JAS_1.27|LId=1
+11	ἐπισκέπτεσθαι	ἐπισκέπτομαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	9	acl	_	ref=JAS_1.27
+12	ὀρφανοὺς	ὀρφανός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem,Masc|Number=Plur	11	obj	_	ref=JAS_1.27
+13	καὶ	καί	CCONJ	C-	_	14	cc	_	ref=JAS_1.27
+14	χήρας	χήρα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	12	conj	_	ref=JAS_1.27
+15	ἐν	ἐν	ADP	R-	_	17	case	_	ref=JAS_1.27
+16	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	17	det	_	ref=JAS_1.27
+17	θλίψει	θλῖψις	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	11	obl	_	ref=JAS_1.27
+18	αὐτῶν	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	det	_	ref=JAS_1.27
+19	ἄσπιλον	ἄσπιλος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	21	xcomp	_	ref=JAS_1.27
+20	ἑαυτὸν	ἑαυτοῦ	PRON	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	21	obj	_	ref=JAS_1.27
+21	τηρεῖν	τηρέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	9	acl	_	ref=JAS_1.27
+22	ἀπὸ	ἀπό	ADP	R-	_	24	case	_	ref=JAS_1.27
+23	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	24	det	_	ref=JAS_1.27
+24	κόσμου	κόσμος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	19	obl	_	ref=JAS_1.27
+
+# source = The Greek New Testament, James 2
+# text = Ἀδελφοί μου μὴ ἐν προσωπολημψίαις ἔχετε τὴν πίστιν τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ τῆς δόξης
+# sent_id = 31807
+1	Ἀδελφοί	ἀδελφός	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	6	vocative	_	ref=JAS_2.1
+2	μου	ἐγώ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	1	det	_	ref=JAS_2.1
+3	μὴ	μή	ADV	Df	Polarity=Neg	6	advmod	_	ref=JAS_2.1
+4	ἐν	ἐν	ADP	R-	_	5	case	_	ref=JAS_2.1
+5	προσωπολημψίαις	προσωποληψία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	6	obl	_	ref=JAS_2.1
+6	ἔχετε	ἔχω	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_2.1
+7	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	ref=JAS_2.1
+8	πίστιν	πίστις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	ref=JAS_2.1
+9	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	10	det	_	ref=JAS_2.1
+10	κυρίου	κύριος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	ref=JAS_2.1
+11	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	10	det	_	ref=JAS_2.1
+12	Ἰησοῦ	Ἰησοῦς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	10	appos	_	ref=JAS_2.1
+13	Χριστοῦ	Χριστός	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	12	flat:name	_	ref=JAS_2.1
+14	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	15	det	_	ref=JAS_2.1
+15	δόξης	δόξα	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	ref=JAS_2.1
+
+# source = The Greek New Testament, James 2
+# text = ἐὰν γὰρ εἰσέλθῃ εἰς συναγωγὴν ὑμῶν ἀνὴρ χρυσοδακτύλιος ἐν ἐσθῆτι λαμπρᾷ εἰσέλθῃ δὲ καὶ πτωχὸς ἐν ῥυπαρᾷ ἐσθῆτι καὶ ἐπιβλέψητε ἐπὶ τὸν φοροῦντα τὴν ἐσθῆτα τὴν λαμπρὰν καὶ εἴπητε σὺ κάθου ὧδε καλῶς καὶ τῷ πτωχῷ εἴπητε σὺ στῆθι ἐκεῖ ἢ κάθου ὑπὸ τὸ ὑποπόδιόν μου οὐ διεκρίθητε ἐν ἑαυτοῖς καὶ ἐγένεσθε κριταὶ διαλογισμῶν πονηρῶν
+# sent_id = 31808
+1	ἐὰν	ἐάν	SCONJ	G-	_	3	mark	_	ref=JAS_2.2
+2	γὰρ	γάρ	ADV	Df	_	48	discourse	_	ref=JAS_2.2
+3	εἰσέλθῃ	εἰσέρχομαι	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	48	advcl	_	ref=JAS_2.2
+4	εἰς	εἰς	ADP	R-	_	5	case	_	ref=JAS_2.2
+5	συναγωγὴν	συναγωγή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	ref=JAS_2.2
+6	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	5	det	_	ref=JAS_2.2
+7	ἀνὴρ	ἀνήρ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=JAS_2.2
+8	χρυσοδακτύλιος	χρυσοδακτύλιος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	ref=JAS_2.2
+9	ἐν	ἐν	ADP	R-	_	10	case	_	ref=JAS_2.2
+10	ἐσθῆτι	ἐσθής	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	7	nmod	_	ref=JAS_2.2
+11	λαμπρᾷ	λαμπρός	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	ref=JAS_2.2
+12	εἰσέλθῃ	εἰσέρχομαι	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=JAS_2.2
+13	δὲ	δέ	ADV	Df	_	12	discourse	_	ref=JAS_2.2
+14	καὶ	καί	ADV	Df	_	15	advmod	_	ref=JAS_2.2|LId=1
+15	πτωχὸς	πτωχός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	nsubj	_	ref=JAS_2.2
+16	ἐν	ἐν	ADP	R-	_	18	case	_	ref=JAS_2.2
+17	ῥυπαρᾷ	ῥυπαρός	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	ref=JAS_2.2
+18	ἐσθῆτι	ἐσθής	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	15	nmod	_	ref=JAS_2.2
+19	καὶ	καί	CCONJ	C-	_	20	cc	_	ref=JAS_2.3
+20	ἐπιβλέψητε	ἐπιβλέπω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=JAS_2.3
+21	ἐπὶ	ἐπί	ADP	R-	_	23	case	_	ref=JAS_2.3
+22	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	23	det	_	ref=JAS_2.3
+23	φοροῦντα	φορέω	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	20	obl	_	ref=JAS_2.3
+24	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	25	det	_	ref=JAS_2.3
+25	ἐσθῆτα	ἐσθής	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	23	obj	_	ref=JAS_2.3
+26	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	27	det	_	ref=JAS_2.3
+27	λαμπρὰν	λαμπρός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	25	nmod	_	ref=JAS_2.3
+28	καὶ	καί	CCONJ	C-	_	29	cc	_	ref=JAS_2.3
+29	εἴπητε	λέγω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=JAS_2.3
+30	σὺ	σύ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	31	nsubj	_	ref=JAS_2.3
+31	κάθου	κάθημαι	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	48	parataxis	_	ref=JAS_2.3
+32	ὧδε	ὧδε	ADV	Df	_	31	advmod	_	ref=JAS_2.3
+33	καλῶς	καλῶς	ADV	Df	Degree=Pos	31	advmod	_	ref=JAS_2.3
+34	καὶ	καί	CCONJ	C-	_	37	cc	_	ref=JAS_2.3
+35	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	36	det	_	ref=JAS_2.3
+36	πτωχῷ	πτωχός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	37	obl:arg	_	ref=JAS_2.3
+37	εἴπητε	λέγω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=JAS_2.3
+38	σὺ	σύ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	39	nsubj	_	ref=JAS_2.3
+39	στῆθι	ἵστημι	VERB	V-	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	48	parataxis	_	ref=JAS_2.3
+40	ἐκεῖ	ἐκεῖ	ADV	Df	_	39	advmod	_	ref=JAS_2.3
+41	ἢ	ἤ	CCONJ	C-	_	42	cc	_	ref=JAS_2.3
+42	κάθου	κάθημαι	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	39	conj	_	ref=JAS_2.3
+43	ὑπὸ	ὑπό	ADP	R-	_	45	case	_	ref=JAS_2.3
+44	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	45	det	_	ref=JAS_2.3
+45	ὑποπόδιόν	ὑποπόδιον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	42	obl	_	ref=JAS_2.3
+46	μου	ἐγώ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	45	det	_	ref=JAS_2.3
+47	οὐ	οὐ	ADV	Df	Polarity=Neg	48	advmod	_	ref=JAS_2.4
+48	διεκρίθητε	διακρίνω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	ref=JAS_2.4
+49	ἐν	ἐν	ADP	R-	_	50	case	_	ref=JAS_2.4
+50	ἑαυτοῖς	ἑαυτοῦ	PRON	Pk	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	48	obl	_	ref=JAS_2.4
+51	καὶ	καί	CCONJ	C-	_	52	cc	_	ref=JAS_2.4
+52	ἐγένεσθε	γίγνομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	48	conj	_	ref=JAS_2.4
+53	κριταὶ	κριτής	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	52	xcomp	_	ref=JAS_2.4
+54	διαλογισμῶν	διαλογισμός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	53	nmod	_	ref=JAS_2.4
+55	πονηρῶν	πονηρός	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	54	amod	_	ref=JAS_2.4
+
+# source = The Greek New Testament, James 2
+# text = Ἀκούσατε ἀδελφοί μου ἀγαπητοί
+# sent_id = 31809
+1	Ἀκούσατε	ἀκούω	VERB	V-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_2.5
+2	ἀδελφοί	ἀδελφός	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	ref=JAS_2.5
+3	μου	ἐγώ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	2	det	_	ref=JAS_2.5
+4	ἀγαπητοί	ἀγαπητός	ADJ	A-	Case=Voc|Degree=Pos|Gender=Masc|Number=Plur	2	amod	_	ref=JAS_2.5
+
+# source = The Greek New Testament, James 2
+# text = οὐχ ὁ θεὸς ἐξελέξατο τοὺς πτωχοὺς τῷ κόσμῳ πλουσίους ἐν πίστει καὶ κληρονόμους τῆς βασιλείας ἧς ἐπηγγείλατο τοῖς ἀγαπῶσιν αὐτόν
+# sent_id = 31810
+1	οὐχ	οὐ	ADV	Df	Polarity=Neg	4	advmod	_	ref=JAS_2.5
+2	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	ref=JAS_2.5
+3	θεὸς	θεός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=JAS_2.5
+4	ἐξελέξατο	ἐκλέγω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	ref=JAS_2.5
+5	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	6	det	_	ref=JAS_2.5
+6	πτωχοὺς	πτωχός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	4	obj	_	ref=JAS_2.5
+7	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	ref=JAS_2.5
+8	κόσμῳ	κόσμος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	ref=JAS_2.5
+9	πλουσίους	πλούσιος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	4	advmod	_	ref=JAS_2.5
+10	ἐν	ἐν	ADP	R-	_	11	case	_	ref=JAS_2.5
+11	πίστει	πίστις	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	9	obl	_	ref=JAS_2.5
+12	καὶ	καί	CCONJ	C-	_	13	cc	_	ref=JAS_2.5
+13	κληρονόμους	κληρονόμος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	9	conj	_	ref=JAS_2.5
+14	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	15	det	_	ref=JAS_2.5
+15	βασιλείας	βασιλεία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	13	nmod	_	ref=JAS_2.5
+16	ἧς	ὅς	PRON	Pr	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	17	obj	_	ref=JAS_2.5
+17	ἐπηγγείλατο	ἐπαγγέλλομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	15	acl	_	ref=JAS_2.5
+18	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	19	det	_	ref=JAS_2.5
+19	ἀγαπῶσιν	ἀγαπάω	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	17	obl:arg	_	ref=JAS_2.5
+20	αὐτόν	αὐτός	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obj	_	ref=JAS_2.5
+
+# source = The Greek New Testament, James 2
+# text = ὑμεῖς δὲ ἠτιμάσατε τὸν πτωχόν
+# sent_id = 31811
+1	ὑμεῖς	ὑμεῖς	PRON	Pp	Case=Nom|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	ref=JAS_2.6
+2	δὲ	δέ	ADV	Df	_	3	discourse	_	ref=JAS_2.6
+3	ἠτιμάσατε	ἀτιμάζω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_2.6
+4	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	ref=JAS_2.6
+5	πτωχόν	πτωχός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	obj	_	ref=JAS_2.6
+
+# source = The Greek New Testament, James 2
+# text = οὐχ οἱ πλούσιοι καταδυναστεύουσιν ὑμᾶς καὶ αὐτοὶ ἕλκουσιν ὑμᾶς εἰς κριτήρια
+# sent_id = 31812
+1	οὐχ	οὐ	ADV	Df	Polarity=Neg	4	advmod	_	ref=JAS_2.6
+2	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	3	det	_	ref=JAS_2.6
+3	πλούσιοι	πλούσιος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	4	nsubj	_	ref=JAS_2.6
+4	καταδυναστεύουσιν	καταδυναστεύω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_2.6
+5	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	4	obj	_	ref=JAS_2.6
+6	καὶ	καί	CCONJ	C-	_	8	cc	_	ref=JAS_2.6
+7	αὐτοὶ	αὐτός	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	ref=JAS_2.6
+8	ἕλκουσιν	ἕλκω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	ref=JAS_2.6
+9	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	8	obj	_	ref=JAS_2.6
+10	εἰς	εἰς	ADP	R-	_	11	case	_	ref=JAS_2.6
+11	κριτήρια	κριτήριον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	8	obl	_	ref=JAS_2.6
+
+# source = The Greek New Testament, James 2
+# text = οὐκ αὐτοὶ βλασφημοῦσιν τὸ καλὸν ὄνομα τὸ ἐπικληθὲν ἐφ’ ὑμᾶς
+# sent_id = 31813
+1	οὐκ	οὐ	ADV	Df	Polarity=Neg	3	advmod	_	ref=JAS_2.7
+2	αὐτοὶ	αὐτός	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	ref=JAS_2.7
+3	βλασφημοῦσιν	βλασφημέω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_2.7
+4	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	6	det	_	ref=JAS_2.7
+5	καλὸν	καλός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	ref=JAS_2.7
+6	ὄνομα	ὄνομα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	ref=JAS_2.7
+7	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	8	det	_	ref=JAS_2.7
+8	ἐπικληθὲν	ἐπικαλέω	VERB	V-	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	nmod	_	ref=JAS_2.7
+9	ἐφ’	ἐπί	ADP	R-	_	10	case	_	ref=JAS_2.7
+10	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	8	obl	_	ref=JAS_2.7
+
+# source = The Greek New Testament, James 2
+# text = εἰ μέντοι νόμον τελεῖτε βασιλικὸν κατὰ τὴν γραφήν ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν καλῶς ποιεῖτε
+# sent_id = 31814
+1	εἰ	εἰ	SCONJ	G-	_	4	mark	_	ref=JAS_2.8
+2	μέντοι	μέντοι	ADV	Df	_	4	discourse	_	ref=JAS_2.8
+3	νόμον	νόμος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	ref=JAS_2.8
+4	τελεῖτε	τελέω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	16	advcl	_	ref=JAS_2.8
+5	βασιλικὸν	βασιλικός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	ref=JAS_2.8
+6	κατὰ	κατά	ADP	R-	_	8	case	_	ref=JAS_2.8
+7	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	ref=JAS_2.8
+8	γραφήν	γραφή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	ref=JAS_2.8
+9	ἀγαπήσεις	ἀγαπάω	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	16	parataxis	_	ref=JAS_2.8
+10	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	11	det	_	ref=JAS_2.8
+11	πλησίον	πλησίος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	obj	_	ref=JAS_2.8
+12	σου	σύ	PRON	Pp	Case=Gen|Gender=Fem,Masc|Number=Sing|Person=2|PronType=Prs	11	det	_	ref=JAS_2.8
+13	ὡς	ὡς	ADV	Df	_	14	mark	_	ref=JAS_2.8
+14	σεαυτόν	σεαυτοῦ	PRON	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	9	advcl:cmp	_	ref=JAS_2.8
+15	καλῶς	καλῶς	ADV	Df	Degree=Pos	16	advmod	_	ref=JAS_2.8
+16	ποιεῖτε	ποιέω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_2.8
+
+# source = The Greek New Testament, James 2
+# text = εἰ δὲ προσωπολημπτεῖτε ἁμαρτίαν ἐργάζεσθε ἐλεγχόμενοι ὑπὸ τοῦ νόμου ὡς παραβάται
+# sent_id = 31815
+1	εἰ	εἰ	SCONJ	G-	_	3	mark	_	ref=JAS_2.9
+2	δὲ	δέ	ADV	Df	_	5	discourse	_	ref=JAS_2.9
+3	προσωπολημπτεῖτε	προσωποληπτέω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	ref=JAS_2.9
+4	ἁμαρτίαν	ἁμαρτία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	ref=JAS_2.9
+5	ἐργάζεσθε	ἐργάζομαι	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=JAS_2.9
+6	ἐλεγχόμενοι	ἐλέγχω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	5	advcl	_	ref=JAS_2.9
+7	ὑπὸ	ὑπό	ADP	R-	_	9	case	_	ref=JAS_2.9
+8	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	ref=JAS_2.9
+9	νόμου	νόμος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	obl	_	ref=JAS_2.9
+10	ὡς	ὡς	ADV	Df	_	11	mark	_	ref=JAS_2.9
+11	παραβάται	παραβάτης	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	advcl:cmp	_	ref=JAS_2.9
+
+# source = The Greek New Testament, James 2
+# text = ὅστις γὰρ ὅλον τὸν νόμον τηρήσῃ πταίσῃ δὲ ἐν ἑνί γέγονεν πάντων ἔνοχος
+# sent_id = 31816
+1	ὅστις	ὅστις	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	6	nsubj	_	ref=JAS_2.10
+2	γὰρ	γάρ	ADV	Df	_	11	discourse	_	ref=JAS_2.10
+3	ὅλον	ὅλος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	ref=JAS_2.10
+4	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	ref=JAS_2.10
+5	νόμον	νόμος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	ref=JAS_2.10
+6	τηρήσῃ	τηρέω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	nsubj	_	ref=JAS_2.10
+7	πταίσῃ	πταίω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	ref=JAS_2.10
+8	δὲ	δέ	ADV	Df	_	7	discourse	_	ref=JAS_2.10
+9	ἐν	ἐν	ADP	R-	_	10	case	_	ref=JAS_2.10
+10	ἑνί	εἷς	NUM	Ma	Case=Dat|Gender=Neut|Number=Sing	7	obl	_	ref=JAS_2.10
+11	γέγονεν	γίγνομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_2.10
+12	πάντων	πᾶς	PRON	Px	Case=Gen|Gender=Neut|Number=Plur	13	obl	_	ref=JAS_2.10
+13	ἔνοχος	ἔνοχος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	xcomp	_	ref=JAS_2.10
+
+# source = The Greek New Testament, James 2
+# text = ὁ γὰρ εἰπών μὴ μοιχεύσῃς εἶπεν καί
+# sent_id = 31817
+1	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	ref=JAS_2.11
+2	γὰρ	γάρ	ADV	Df	_	6	discourse	_	ref=JAS_2.11
+3	εἰπών	λέγω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	6	nsubj	_	ref=JAS_2.11
+4	μὴ	μή	ADV	Df	Polarity=Neg	5	advmod	_	ref=JAS_2.11
+5	μοιχεύσῃς	μοιχεύω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	ref=JAS_2.11
+6	εἶπεν	λέγω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_2.11
+7	καί	καί	ADV	Df	_	6	advmod	_	ref=JAS_2.11|LId=1
+
+# source = The Greek New Testament, James 2
+# text = μὴ φονεύσῃς
+# sent_id = 159539
+1	μὴ	μή	ADV	Df	Polarity=Neg	2	advmod	_	ref=JAS_2.11
+2	φονεύσῃς	φονεύω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_2.11
+
+# source = The Greek New Testament, James 2
+# text = εἰ δὲ οὐ μοιχεύεις φονεύεις δέ γέγονας παραβάτης νόμου
+# sent_id = 31818
+1	εἰ	εἰ	SCONJ	G-	_	4	mark	_	ref=JAS_2.11
+2	δὲ	δέ	ADV	Df	_	7	discourse	_	ref=JAS_2.11
+3	οὐ	οὐ	ADV	Df	Polarity=Neg	4	advmod	_	ref=JAS_2.11
+4	μοιχεύεις	μοιχεύω	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	ref=JAS_2.11
+5	φονεύεις	φονεύω	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	ref=JAS_2.11
+6	δέ	δέ	ADV	Df	_	5	discourse	_	ref=JAS_2.11
+7	γέγονας	γίγνομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_2.11
+8	παραβάτης	παραβάτης	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	xcomp	_	ref=JAS_2.11
+9	νόμου	νόμος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	ref=JAS_2.11
+
+# source = The Greek New Testament, James 2
+# text = οὗτως λαλεῖτε καὶ οὕτως ποιεῖτε ὡς διὰ νόμου ἐλευθερίας μέλλοντες κρίνεσθαι
+# sent_id = 31819
+1	οὗτως	οὕτω(ς)	ADV	Df	_	2	advmod	_	ref=JAS_2.12
+2	λαλεῖτε	λαλέω	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_2.12
+3	καὶ	καί	CCONJ	C-	_	5	cc	_	ref=JAS_2.12
+4	οὕτως	οὕτω(ς)	ADV	Df	_	5	advmod	_	ref=JAS_2.12
+5	ποιεῖτε	ποιέω	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	ref=JAS_2.12
+6	ὡς	ὡς	ADV	Dq	PronType=Rel	10	advcl	_	ref=JAS_2.12
+7	διὰ	διά	ADP	R-	_	8	case	_	ref=JAS_2.12
+8	νόμου	νόμος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	11	obl	_	ref=JAS_2.12
+9	ἐλευθερίας	ἐλευθερία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	ref=JAS_2.12
+10	μέλλοντες	μέλλω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	5	advcl	_	ref=JAS_2.12
+11	κρίνεσθαι	κρίνω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	10	xcomp	_	ref=JAS_2.12
+
+# source = The Greek New Testament, James 2
+# text = ἡ γὰρ κρίσις ἀνέλεος τῷ μὴ ποιήσαντι ἔλεος
+# sent_id = 31820
+1	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	ref=JAS_2.13
+2	γὰρ	γάρ	ADV	Df	_	4	discourse	_	ref=JAS_2.13
+3	κρίσις	κρίσις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	ref=JAS_2.13
+4	ἀνέλεος	ἀνέλεος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	ref=JAS_2.13
+5	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	ref=JAS_2.13
+6	μὴ	μή	ADV	Df	Polarity=Neg	7	advmod	_	ref=JAS_2.13
+7	ποιήσαντι	ποιέω	VERB	V-	Aspect=Perf|Case=Dat|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	obl	_	ref=JAS_2.13
+8	ἔλεος	ἔλεος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	ref=JAS_2.13
+
+# source = The Greek New Testament, James 2
+# text = κατακαυχᾶται ἔλεος κρίσεως
+# sent_id = 31821
+1	κατακαυχᾶται	κατακαυχάομαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=JAS_2.13
+2	ἔλεος	ἔλεος	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	ref=JAS_2.13
+3	κρίσεως	κρίσις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	1	obl:arg	_	ref=JAS_2.13
+
+# source = The Greek New Testament, James 2
+# text = Τί τὸ ὄφελος ἀδελφοί μου ἐὰν πίστιν λέγῃ τις ἔχειν ἔργα δὲ μὴ ἔχῃ
+# sent_id = 31822
+1	Τί	τίς	PRON	Pi	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	ref=JAS_2.14
+2	τὸ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	ref=JAS_2.14
+3	ὄφελος	ὄφελος	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	ref=JAS_2.14
+4	ἀδελφοί	ἀδελφός	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	ref=JAS_2.14
+5	μου	ἐγώ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	det	_	ref=JAS_2.14
+6	ἐὰν	ἐάν	SCONJ	G-	_	8	mark	_	ref=JAS_2.14
+7	πίστιν	πίστις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	ref=JAS_2.14
+8	λέγῃ	λέγω	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	ref=JAS_2.14
+9	τις	τὶς	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	ref=JAS_2.14
+10	ἔχειν	ἔχω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	xcomp	_	ref=JAS_2.14
+11	ἔργα	ἔργον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	14	obj	_	ref=JAS_2.14
+12	δὲ	δέ	ADV	Df	_	14	discourse	_	ref=JAS_2.14
+13	μὴ	μή	ADV	Df	Polarity=Neg	14	advmod	_	ref=JAS_2.14
+14	ἔχῃ	ἔχω	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	ref=JAS_2.14
+
+# source = The Greek New Testament, James 2
+# text = μὴ δύναται ἡ πίστις σῶσαι αὐτόν
+# sent_id = 31823
+1	μὴ	μή	ADV	Df	Polarity=Neg	2	advmod	_	ref=JAS_2.14
+2	δύναται	δύναμαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=JAS_2.14
+3	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	ref=JAS_2.14
+4	πίστις	πίστις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	ref=JAS_2.14
+5	σῶσαι	σῴζω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=JAS_2.14
+6	αὐτόν	αὐτός	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	ref=JAS_2.14
+
+# source = The Greek New Testament, James 2
+# text = ἐὰν ἀδελφὸς ἢ ἀδελφὴ γυμνοὶ ὑπάρχωσιν καὶ λειπόμενοι τῆς ἐφημέρου τροφῆς εἴπῃ δέ τις αὐτοῖς ἐξ ὑμῶν ὑπάγετε ἐν εἰρήνῃ θερμαίνεσθε καὶ χορτάζεσθε μὴ δῶτε δὲ αὐτοῖς τὰ ἐπιτήδεια τοῦ σώματος τί τὸ ὄφελος
+# sent_id = 31824
+1	ἐὰν	ἐάν	SCONJ	G-	_	6	mark	_	ref=JAS_2.15
+2	ἀδελφὸς	ἀδελφός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=JAS_2.15
+3	ἢ	ἤ	CCONJ	C-	_	4	cc	_	ref=JAS_2.15
+4	ἀδελφὴ	ἀδελφή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	conj	_	ref=JAS_2.15
+5	γυμνοὶ	γυμνός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	6	xcomp	_	ref=JAS_2.15
+6	ὑπάρχωσιν	ὑπάρχω	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	32	advcl	_	ref=JAS_2.15
+7	καὶ	καί	CCONJ	C-	_	8	cc	_	ref=JAS_2.15
+8	λειπόμενοι	λείπω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	5	conj	_	ref=JAS_2.15
+9	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	11	det	_	ref=JAS_2.15
+10	ἐφημέρου	ἐφήμερος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	ref=JAS_2.15
+11	τροφῆς	τροφή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	obl:arg	_	ref=JAS_2.15
+12	εἴπῃ	λέγω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	ref=JAS_2.16
+13	δέ	δέ	ADV	Df	_	12	discourse	_	ref=JAS_2.16
+14	τις	τὶς	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	ref=JAS_2.16
+15	αὐτοῖς	αὐτός	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	obl:arg	_	ref=JAS_2.16
+16	ἐξ	ἐκ	ADP	R-	_	17	case	_	ref=JAS_2.16
+17	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	14	nmod	_	ref=JAS_2.16
+18	ὑπάγετε	ὑπάγω	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	32	parataxis	_	ref=JAS_2.16
+19	ἐν	ἐν	ADP	R-	_	20	case	_	ref=JAS_2.16
+20	εἰρήνῃ	εἰρήνη	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	18	obl	_	ref=JAS_2.16
+21	θερμαίνεσθε	θερμαίνω	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	32	parataxis	_	ref=JAS_2.16
+22	καὶ	καί	CCONJ	C-	_	23	cc	_	ref=JAS_2.16
+23	χορτάζεσθε	χορτάζω	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	21	conj	_	ref=JAS_2.16
+24	μὴ	μή	ADV	Df	Polarity=Neg	25	advmod	_	ref=JAS_2.16
+25	δῶτε	δίδωμι	VERB	V-	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	6	conj	_	ref=JAS_2.16
+26	δὲ	δέ	ADV	Df	_	25	discourse	_	ref=JAS_2.16
+27	αὐτοῖς	αὐτός	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	25	obl:arg	_	ref=JAS_2.16
+28	τὰ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	29	det	_	ref=JAS_2.16
+29	ἐπιτήδεια	ἐπιτήδειος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	25	obj	_	ref=JAS_2.16
+30	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	31	det	_	ref=JAS_2.16
+31	σώματος	σῶμα	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	29	nmod	_	ref=JAS_2.16
+32	τί	τίς	PRON	Pi	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	ref=JAS_2.16
+33	τὸ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	34	det	_	ref=JAS_2.16
+34	ὄφελος	ὄφελος	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	32	nsubj	_	ref=JAS_2.16
+
+# source = The Greek New Testament, James 2
+# text = οὕτως καὶ ἡ πίστις ἐὰν μὴ ἔχῃ ἔργα νεκρά ἐστιν καθ’ ἑαυτήν
+# sent_id = 31825
+1	οὕτως	οὕτω(ς)	ADV	Df	_	9	advmod	_	ref=JAS_2.17
+2	καὶ	καί	ADV	Df	_	9	advmod	_	ref=JAS_2.17|LId=1
+3	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	ref=JAS_2.17
+4	πίστις	πίστις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	ref=JAS_2.17
+5	ἐὰν	ἐάν	SCONJ	G-	_	7	mark	_	ref=JAS_2.17
+6	μὴ	μή	ADV	Df	Polarity=Neg	7	advmod	_	ref=JAS_2.17
+7	ἔχῃ	ἔχω	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	ref=JAS_2.17
+8	ἔργα	ἔργον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	7	obj	_	ref=JAS_2.17
+9	νεκρά	νεκρός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	ref=JAS_2.17
+10	ἐστιν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	ref=JAS_2.17|LId=1
+11	καθ’	κατά	ADP	R-	_	12	case	_	ref=JAS_2.17
+12	ἑαυτήν	ἑαυτοῦ	PRON	Pk	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	9	obl	_	ref=JAS_2.17
+
+# source = The Greek New Testament, James 2
+# text = ἀλλ’ ἐρεῖ τις
+# sent_id = 31826
+1	ἀλλ’	ἀλλά	CCONJ	C-	_	2	cc	_	ref=JAS_2.18
+2	ἐρεῖ	λέγω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_2.18
+3	τις	τὶς	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=JAS_2.18
+
+# source = The Greek New Testament, James 2
+# text = σὺ πίστιν ἔχεις καὶ ἐγώ ἔργα ἔχω
+# sent_id = 159468
+1	σὺ	σύ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	ref=JAS_2.18
+2	πίστιν	πίστις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	ref=JAS_2.18
+3	ἔχεις	ἔχω	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_2.18
+4	καὶ	καί	CCONJ	C-	_	7	cc	_	ref=JAS_2.18
+5	ἐγώ	ἐγώ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	ref=JAS_2.18
+6	ἔργα	ἔργον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	7	obj	_	ref=JAS_2.18
+7	ἔχω	ἔχω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	ref=JAS_2.18
+
+# source = The Greek New Testament, James 2
+# text = δεῖξόν μοι τὴν πίστιν σου χωρὶς τῶν ἔργων καὶ ἐγώ σοι δείξω ἐκ τῶν ἔργων μου τὴν πίστιν
+# sent_id = 31827
+1	δεῖξόν	δείκνυμι	VERB	V-	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_2.18
+2	μοι	ἐγώ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	1	obl:arg	_	ref=JAS_2.18
+3	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	ref=JAS_2.18
+4	πίστιν	πίστις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	ref=JAS_2.18
+5	σου	σύ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	det	_	ref=JAS_2.18
+6	χωρὶς	χωρίς	ADP	R-	_	8	case	_	ref=JAS_2.18
+7	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	8	det	_	ref=JAS_2.18
+8	ἔργων	ἔργον	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	1	obl	_	ref=JAS_2.18
+9	καὶ	καί	CCONJ	C-	_	12	cc	_	ref=JAS_2.18
+10	ἐγώ	ἐγώ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	ref=JAS_2.18
+11	σοι	σύ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	12	obl:arg	_	ref=JAS_2.18
+12	δείξω	δείκνυμι	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	1	conj	_	ref=JAS_2.18
+13	ἐκ	ἐκ	ADP	R-	_	15	case	_	ref=JAS_2.18
+14	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	15	det	_	ref=JAS_2.18
+15	ἔργων	ἔργον	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	12	obl	_	ref=JAS_2.18
+16	μου	ἐγώ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	15	det	_	ref=JAS_2.18
+17	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	18	det	_	ref=JAS_2.18
+18	πίστιν	πίστις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	12	obj	_	ref=JAS_2.18
+
+# source = The Greek New Testament, James 2
+# text = σὺ πιστεύεις ὅτι εἷς ἐστιν ὁ θεός
+# sent_id = 31828
+1	σὺ	σύ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	ref=JAS_2.19
+2	πιστεύεις	πιστεύω	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_2.19
+3	ὅτι	ὅτι	SCONJ	G-	_	4	mark	_	ref=JAS_2.19
+4	εἷς	εἷς	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	2	ccomp	_	ref=JAS_2.19
+5	ἐστιν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	ref=JAS_2.19|LId=1
+6	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	ref=JAS_2.19
+7	θεός	θεός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=JAS_2.19
+
+# source = The Greek New Testament, James 2
+# text = καλῶς ποιεῖς
+# sent_id = 31829
+1	καλῶς	καλῶς	ADV	Df	Degree=Pos	2	advmod	_	ref=JAS_2.19
+2	ποιεῖς	ποιέω	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_2.19
+
+# source = The Greek New Testament, James 2
+# text = καὶ τὰ δαιμόνια πιστεύουσιν καὶ φρίσσουσιν
+# sent_id = 31830
+1	καὶ	καί	ADV	Df	_	4	advmod	_	ref=JAS_2.19|LId=1
+2	τὰ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	3	det	_	ref=JAS_2.19
+3	δαιμόνια	δαιμόνιον	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	ref=JAS_2.19
+4	πιστεύουσιν	πιστεύω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_2.19
+5	καὶ	καί	CCONJ	C-	_	6	cc	_	ref=JAS_2.19
+6	φρίσσουσιν	φρίσσω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	ref=JAS_2.19
+
+# source = The Greek New Testament, James 2
+# text = θέλεις δὲ γνῶναι ὦ ἄνθρωπε κενέ ὅτι ἡ πίστις χωρὶς τῶν ἔργων ἀργή ἐστιν
+# sent_id = 31831
+1	θέλεις	ἐθέλω	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_2.20
+2	δὲ	δέ	ADV	Df	_	1	discourse	_	ref=JAS_2.20
+3	γνῶναι	γιγνώσκω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	1	xcomp	_	ref=JAS_2.20
+4	ὦ	ὦ	INTJ	I-	_	5	discourse	_	ref=JAS_2.20
+5	ἄνθρωπε	ἄνθρωπος	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	ref=JAS_2.20
+6	κενέ	κενός	ADJ	A-	Case=Voc|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	ref=JAS_2.20
+7	ὅτι	ὅτι	SCONJ	G-	_	13	mark	_	ref=JAS_2.20
+8	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	ref=JAS_2.20
+9	πίστις	πίστις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	ref=JAS_2.20
+10	χωρὶς	χωρίς	ADP	R-	_	12	case	_	ref=JAS_2.20
+11	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	12	det	_	ref=JAS_2.20
+12	ἔργων	ἔργον	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	13	obl	_	ref=JAS_2.20
+13	ἀργή	ἀργός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	ccomp	_	ref=JAS_2.20
+14	ἐστιν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	cop	_	ref=JAS_2.20|LId=1
+
+# source = The Greek New Testament, James 2
+# text = Ἀβραὰμ ὁ πατὴρ ἡμῶν οὐκ ἐξ ἔργων ἐδικαιώθη ἀνενέγκας Ἰσαὰκ τὸν υἱὸν αὐτοῦ ἐπὶ τὸ θυσιαστήριον
+# sent_id = 31832
+1	Ἀβραὰμ	Ἀβραάμ	PROPN	Ne	_	8	nsubj:pass	_	ref=JAS_2.21
+2	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	ref=JAS_2.21
+3	πατὴρ	πατήρ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	ref=JAS_2.21
+4	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	3	det	_	ref=JAS_2.21
+5	οὐκ	οὐ	ADV	Df	Polarity=Neg	8	advmod	_	ref=JAS_2.21
+6	ἐξ	ἐκ	ADP	R-	_	7	case	_	ref=JAS_2.21
+7	ἔργων	ἔργον	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	8	obl	_	ref=JAS_2.21
+8	ἐδικαιώθη	δικαιόω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	ref=JAS_2.21
+9	ἀνενέγκας	ἀναφέρω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	8	advcl	_	ref=JAS_2.21
+10	Ἰσαὰκ	Ἰσαάκ	PROPN	Ne	_	9	obj	_	ref=JAS_2.21
+11	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	12	det	_	ref=JAS_2.21
+12	υἱὸν	υἱός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	10	appos	_	ref=JAS_2.21
+13	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	det	_	ref=JAS_2.21
+14	ἐπὶ	ἐπί	ADP	R-	_	16	case	_	ref=JAS_2.21
+15	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	16	det	_	ref=JAS_2.21
+16	θυσιαστήριον	θυσιαστήριον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	9	obl	_	ref=JAS_2.21
+
+# source = The Greek New Testament, James 2
+# text = βλέπεις ὅτι ἡ πίστις συνήργει τοῖς ἔργοις αὐτοῦ καὶ ἐκ τῶν ἔργων ἡ πίστις ἐτελειώθη καὶ ἐπληρώθη ἡ γραφὴ ἡ λέγουσα
+# sent_id = 31833
+1	βλέπεις	βλέπω	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_2.22
+2	ὅτι	ὅτι	SCONJ	G-	_	5	mark	_	ref=JAS_2.22
+3	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	ref=JAS_2.22
+4	πίστις	πίστις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	ref=JAS_2.22
+5	συνήργει	συνεργέω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	ref=JAS_2.22
+6	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	7	det	_	ref=JAS_2.22
+7	ἔργοις	ἔργον	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	5	obl:arg	_	ref=JAS_2.22
+8	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	det	_	ref=JAS_2.22
+9	καὶ	καί	CCONJ	C-	_	15	cc	_	ref=JAS_2.22
+10	ἐκ	ἐκ	ADP	R-	_	12	case	_	ref=JAS_2.22
+11	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	12	det	_	ref=JAS_2.22
+12	ἔργων	ἔργον	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	15	obl	_	ref=JAS_2.22
+13	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	14	det	_	ref=JAS_2.22
+14	πίστις	πίστις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	15	nsubj:pass	_	ref=JAS_2.22
+15	ἐτελειώθη	τελειόω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	5	conj	_	ref=JAS_2.22
+16	καὶ	καί	CCONJ	C-	_	17	cc	_	ref=JAS_2.23
+17	ἐπληρώθη	πληρόω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	5	conj	_	ref=JAS_2.23
+18	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	19	det	_	ref=JAS_2.23
+19	γραφὴ	γραφή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	17	nsubj:pass	_	ref=JAS_2.23
+20	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	21	det	_	ref=JAS_2.23
+21	λέγουσα	λέγω	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	19	nmod	_	ref=JAS_2.23
+
+# source = The Greek New Testament, James 2
+# text = ἐπίστευσεν δὲ Ἀβραὰμ τῷ θεῷ καὶ ἐλογίσθη αὐτῷ εἰς δικαιοσύνην
+# sent_id = 31834
+1	ἐπίστευσεν	πιστεύω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_2.23
+2	δὲ	δέ	ADV	Df	_	1	discourse	_	ref=JAS_2.23
+3	Ἀβραὰμ	Ἀβραάμ	PROPN	Ne	_	1	nsubj	_	ref=JAS_2.23
+4	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	ref=JAS_2.23
+5	θεῷ	θεός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	obl:arg	_	ref=JAS_2.23
+6	καὶ	καί	CCONJ	C-	_	7	cc	_	ref=JAS_2.23
+7	ἐλογίσθη	λογίζομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	1	conj	_	ref=JAS_2.23
+8	αὐτῷ	αὐτός	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	ref=JAS_2.23
+9	εἰς	εἰς	ADP	R-	_	10	case	_	ref=JAS_2.23
+10	δικαιοσύνην	δικαιοσύνη	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	ref=JAS_2.23
+
+# source = The Greek New Testament, James 2
+# text = καὶ φίλος θεοῦ ἐκλήθη
+# sent_id = 159469
+1	καὶ	καί	CCONJ	C-	_	4	cc	_	ref=JAS_2.23
+2	φίλος	φίλος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	xcomp	_	ref=JAS_2.23
+3	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	ref=JAS_2.23
+4	ἐκλήθη	καλέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	ref=JAS_2.23
+
+# source = The Greek New Testament, James 2
+# text = ὁρᾶτε ὅτι ἐξ ἔργων δικαιοῦται ἄνθρωπος καὶ οὐκ ἐκ πίστεως μόνον
+# sent_id = 31835
+1	ὁρᾶτε	ὁράω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_2.24
+2	ὅτι	ὅτι	SCONJ	G-	_	5	mark	_	ref=JAS_2.24
+3	ἐξ	ἐκ	ADP	R-	_	4	case	_	ref=JAS_2.24
+4	ἔργων	ἔργον	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	5	obl	_	ref=JAS_2.24
+5	δικαιοῦται	δικαιόω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	ccomp	_	ref=JAS_2.24
+6	ἄνθρωπος	ἄνθρωπος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj:pass	_	ref=JAS_2.24
+7	καὶ	καί	CCONJ	C-	_	10	cc	_	ref=JAS_2.24
+8	οὐκ	οὐ	ADV	Df	Polarity=Neg	11	advmod	_	ref=JAS_2.24
+9	ἐκ	ἐκ	ADP	R-	_	10	case	_	ref=JAS_2.24
+10	πίστεως	πίστις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	conj	_	ref=JAS_2.24
+11	μόνον	μόνος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	10	appos	_	ref=JAS_2.24
+
+# source = The Greek New Testament, James 2
+# text = ὁμοίως δὲ καὶ Ῥαὰβ ἡ πόρνη οὐκ ἐξ ἔργων ἐδικαιώθη ὑποδεξαμένη τοὺς ἀγγέλους καὶ ἑτέρᾳ ὁδῷ ἐκβαλοῦσα
+# sent_id = 31836
+1	ὁμοίως	ὁμοίως	ADV	Df	_	10	advmod	_	ref=JAS_2.25
+2	δὲ	δέ	ADV	Df	_	10	discourse	_	ref=JAS_2.25
+3	καὶ	καί	ADV	Df	_	4	advmod	_	ref=JAS_2.25|LId=1
+4	Ῥαὰβ	Ῥαάβ	PROPN	Ne	_	10	nsubj:pass	_	ref=JAS_2.25
+5	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	ref=JAS_2.25
+6	πόρνη	πόρνη	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	appos	_	ref=JAS_2.25
+7	οὐκ	οὐ	ADV	Df	Polarity=Neg	10	advmod	_	ref=JAS_2.25
+8	ἐξ	ἐκ	ADP	R-	_	9	case	_	ref=JAS_2.25
+9	ἔργων	ἔργον	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	10	obl	_	ref=JAS_2.25
+10	ἐδικαιώθη	δικαιόω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	ref=JAS_2.25
+11	ὑποδεξαμένη	ὑποδέχομαι	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	10	advcl	_	ref=JAS_2.25
+12	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	13	det	_	ref=JAS_2.25
+13	ἀγγέλους	ἄγγελος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	11	obj	_	ref=JAS_2.25
+14	καὶ	καί	CCONJ	C-	_	17	cc	_	ref=JAS_2.25
+15	ἑτέρᾳ	ἕτερος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	16	amod	_	ref=JAS_2.25
+16	ὁδῷ	ὁδός	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	17	obl	_	ref=JAS_2.25
+17	ἐκβαλοῦσα	ἐκβάλλω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	11	conj	_	ref=JAS_2.25
+
+# source = The Greek New Testament, James 2
+# text = ὥσπερ γὰρ τὸ σῶμα χωρὶς πνεύματος νεκρόν ἐστιν οὕτως καὶ ἡ πίστις χωρὶς ἔργων νεκρά ἐστιν
+# sent_id = 31837
+1	ὥσπερ	ὥσπερ	ADV	Dq	PronType=Rel	7	advcl	_	ref=JAS_2.26
+2	γὰρ	γάρ	ADV	Df	_	7	discourse	_	ref=JAS_2.26
+3	τὸ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	ref=JAS_2.26
+4	σῶμα	σῶμα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	ref=JAS_2.26
+5	χωρὶς	χωρίς	ADP	R-	_	6	case	_	ref=JAS_2.26
+6	πνεύματος	πνεῦμα	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	7	obl	_	ref=JAS_2.26
+7	νεκρόν	νεκρός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	15	advcl	_	ref=JAS_2.26
+8	ἐστιν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	ref=JAS_2.26|LId=1
+9	οὕτως	οὕτω(ς)	ADV	Df	_	15	advmod	_	ref=JAS_2.26
+10	καὶ	καί	ADV	Df	_	15	advmod	_	ref=JAS_2.26|LId=1
+11	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	12	det	_	ref=JAS_2.26
+12	πίστις	πίστις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	ref=JAS_2.26
+13	χωρὶς	χωρίς	ADP	R-	_	14	case	_	ref=JAS_2.26
+14	ἔργων	ἔργον	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	15	obl	_	ref=JAS_2.26
+15	νεκρά	νεκρός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	ref=JAS_2.26
+16	ἐστιν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	cop	_	ref=JAS_2.26|LId=1
+
+# source = The Greek New Testament, James 3
+# text = Μὴ πολλοὶ διδάσκαλοι γίνεσθε ἀδελφοί μου εἰδότες ὅτι μεῖζον κρίμα λημψόμεθα
+# sent_id = 31838
+1	Μὴ	μή	ADV	Df	Polarity=Neg	4	advmod	_	ref=JAS_3.1
+2	πολλοὶ	πολύς	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	4	nsubj	_	ref=JAS_3.1
+3	διδάσκαλοι	διδάσκαλος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	xcomp	_	ref=JAS_3.1
+4	γίνεσθε	γίγνομαι	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=JAS_3.1
+5	ἀδελφοί	ἀδελφός	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	4	vocative	_	ref=JAS_3.1
+6	μου	ἐγώ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	5	det	_	ref=JAS_3.1
+7	εἰδότες	οἶδα	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	4	advcl	_	ref=JAS_3.1
+8	ὅτι	ὅτι	SCONJ	G-	_	11	mark	_	ref=JAS_3.1
+9	μεῖζον	μέγας	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	10	amod	_	ref=JAS_3.1
+10	κρίμα	κρίμα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	11	obj	_	ref=JAS_3.1
+11	λημψόμεθα	λαμβάνω	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	7	ccomp	_	ref=JAS_3.1
+
+# source = The Greek New Testament, James 3
+# text = πολλὰ γὰρ πταίομεν ἅπαντες
+# sent_id = 31839
+1	πολλὰ	πολύς	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	3	advmod	_	ref=JAS_3.2
+2	γὰρ	γάρ	ADV	Df	_	3	discourse	_	ref=JAS_3.2
+3	πταίομεν	πταίω	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_3.2
+4	ἅπαντες	ἅπας	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	3	nsubj	_	ref=JAS_3.2
+
+# source = The Greek New Testament, James 3
+# text = εἴ τις ἐν λόγῳ οὐ πταίει οὗτος τέλειος ἀνήρ δυνατὸς χαλιναγωγῆσαι καὶ ὅλον τὸ σῶμα
+# sent_id = 31840
+1	εἴ	εἰ	SCONJ	G-	_	6	mark	_	ref=JAS_3.2
+2	τις	τὶς	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	ref=JAS_3.2
+3	ἐν	ἐν	ADP	R-	_	4	case	_	ref=JAS_3.2
+4	λόγῳ	λόγος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	ref=JAS_3.2
+5	οὐ	οὐ	ADV	Df	Polarity=Neg	6	advmod	_	ref=JAS_3.2
+6	πταίει	πταίω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	ref=JAS_3.2
+7	οὗτος	οὗτος	PRON	Pd	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	ref=JAS_3.2
+8	τέλειος	τέλειος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	ref=JAS_3.2
+9	ἀνήρ	ἀνήρ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=JAS_3.2
+10	δυνατὸς	δυνατός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	ref=JAS_3.2
+11	χαλιναγωγῆσαι	χαλιναγωγέω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	10	ccomp	_	ref=JAS_3.2
+12	καὶ	καί	ADV	Df	_	15	advmod	_	ref=JAS_3.2|LId=1
+13	ὅλον	ὅλος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	15	amod	_	ref=JAS_3.2
+14	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	15	det	_	ref=JAS_3.2
+15	σῶμα	σῶμα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	11	obj	_	ref=JAS_3.2
+
+# source = The Greek New Testament, James 3
+# text = εἰ δὲ τῶν ἵππων τοὺς χαλινοὺς εἰς τὰ στόματα βάλλομεν εἰς τὸ πείθεσθαι αὐτοὺς ἡμῖν καὶ ὅλον τὸ σῶμα αὐτῶν μετάγομεν
+# sent_id = 31841
+ 1	εἰ	εἰ	SCONJ	G-	_	21	mark	_	JAS_3.3|sub
+ 2	δὲ	δέ	ADV	Df	_	21	discourse	_	JAS_3.3|sub
+ 3	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	 4	det	_	JAS_3.3|sub
+ 4	ἵππων	ἵππος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	 9	nmod	_	JAS_3.3|sub
+ 5	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	 6	det	_	JAS_3.3|sub
+ 6	χαλινοὺς	χαλινός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	10	obj	_	JAS_3.3|sub
+ 7	εἰς	εἰς	ADP	R-	_	10	case	_	JAS_3.3|sub
+ 8	τὰ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	 9	det	_	JAS_3.3|sub
+ 9	στόματα	στόμα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	 7	obl	_	JAS_3.3|sub
+10	βάλλομεν	βάλλω	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	 1	advcl	_	JAS_3.3|sub
+11	εἰς	εἰς	ADP	G-	_	10	case	_	JAS_3.3|sub
+12	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	13	det	_	JAS_3.3|sub
+13	πείθεσθαι	πείθω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	11	obl	_	JAS_3.3|sub
+14	αὐτοὺς	αὐτός	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	13	nsubj:pass	_	JAS_3.3|sub
+15	ἡμῖν	ἡμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	13	iobj	_	JAS_3.3|sub
+16	καὶ	καί	ADV	Df	_	19	advmod	_	JAS_3.3|sub
+17	ὅλον	ὅλος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	19	amod	_	JAS_3.3|sub
+18	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	19	det	_	JAS_3.3|sub
+19	σῶμα	σῶμα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	21	obl	_	JAS_3.3|sub
+20	αὐτῶν	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	19	det	_	JAS_3.3|sub
+21	μετάγομεν	μετάγω	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	 0	root	_	JAS_3.3|sub
+
+# source = The Greek New Testament, James 3
+# text = ἰδοὺ καὶ τὰ πλοῖα τηλικαῦτα ὄντα καὶ ὑπὸ ἀνέμων σκληρῶν ἐλαυνόμενα μετάγεται ὑπὸ ἐλαχίστου πηδαλίου ὅπου ἡ ὁρμὴ τοῦ εὐθύνοντος βούλεται
+# sent_id = 31842
+1	ἰδοὺ	ἰδοὺ	INTJ	I-	_	12	discourse	_	ref=JAS_3.4
+2	καὶ	καί	ADV	Df	_	4	advmod	_	ref=JAS_3.4|LId=1
+3	τὰ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	4	det	_	ref=JAS_3.4
+4	πλοῖα	πλοῖον	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	12	nsubj:pass	_	ref=JAS_3.4
+5	τηλικαῦτα	τηλικοῦτος	PRON	Pd	Case=Nom|Gender=Neut|Number=Plur	12	advcl	_	ref=JAS_3.4
+6	ὄντα	εἰμί	AUX	V-	Case=Nom|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	5	cop	_	ref=JAS_3.4|LId=1
+7	καὶ	καί	CCONJ	C-	_	11	cc	_	ref=JAS_3.4
+8	ὑπὸ	ὑπό	ADP	R-	_	9	case	_	ref=JAS_3.4
+9	ἀνέμων	ἄνεμος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	11	obl	_	ref=JAS_3.4
+10	σκληρῶν	σκληρός	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	9	amod	_	ref=JAS_3.4
+11	ἐλαυνόμενα	ἐλαύνω	VERB	V-	Case=Nom|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	5	conj	_	ref=JAS_3.4
+12	μετάγεται	μετάγω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	ref=JAS_3.4
+13	ὑπὸ	ὑπό	ADP	R-	_	15	case	_	ref=JAS_3.4
+14	ἐλαχίστου	ἐλάχιστος	ADJ	A-	Case=Gen|Degree=Sup|Gender=Neut|Number=Sing	15	amod	_	ref=JAS_3.4
+15	πηδαλίου	πηδάλιον	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	12	obl	_	ref=JAS_3.4
+16	ὅπου	ὅπου	ADV	Dq	PronType=Rel	21	xcomp	_	ref=JAS_3.4
+17	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	18	det	_	ref=JAS_3.4
+18	ὁρμὴ	ὁρμή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	21	nsubj	_	ref=JAS_3.4
+19	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	20	det	_	ref=JAS_3.4
+20	εὐθύνοντος	εὐθύνω	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	18	nmod	_	ref=JAS_3.4
+21	βούλεται	βούλομαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	12	advcl	_	ref=JAS_3.4
+
+# source = The Greek New Testament, James 3
+# text = οὕτως καὶ ἡ γλῶσσα μικρὸν μέλος ἐστὶν καὶ μεγάλα αὐχεῖ
+# sent_id = 31843
+1	οὕτως	οὕτω(ς)	ADV	Df	_	6	advmod	_	ref=JAS_3.5
+2	καὶ	καί	ADV	Df	_	6	advmod	_	ref=JAS_3.5|LId=1
+3	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	ref=JAS_3.5
+4	γλῶσσα	γλῶσσα	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	ref=JAS_3.5
+5	μικρὸν	μικρός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	amod	_	ref=JAS_3.5
+6	μέλος	μέλος	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	0	root	_	ref=JAS_3.5
+7	ἐστὶν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	ref=JAS_3.5|LId=1
+8	καὶ	καί	CCONJ	C-	_	10	cc	_	ref=JAS_3.5
+9	μεγάλα	μέγας	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	10	obj	_	ref=JAS_3.5
+10	αὐχεῖ	αὐχέω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	ref=JAS_3.5
+
+# source = The Greek New Testament, James 3
+# text = ἰδοὺ ἡλίκον πῦρ ἡλίκην ὕλην ἀνάπτει
+# sent_id = 31844
+1	ἰδοὺ	ἰδοὺ	INTJ	I-	_	6	discourse	_	ref=JAS_3.5
+2	ἡλίκον	ἡλίκος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	3	amod	_	ref=JAS_3.5
+3	πῦρ	πῦρ	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	ref=JAS_3.5
+4	ἡλίκην	ἡλίκος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	ref=JAS_3.5
+5	ὕλην	ὕλη	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	ref=JAS_3.5
+6	ἀνάπτει	ἀνάπτω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_3.5
+
+# source = The Greek New Testament, James 3
+# text = ἡ γλῶσσα πῦρ
+# sent_id = 31845
+1	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	ref=JAS_3.6
+2	γλῶσσα	γλῶσσα	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	ref=JAS_3.6
+3	πῦρ	πῦρ	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	0	root	_	ref=JAS_3.6
+
+# source = The Greek New Testament, James 3
+# text = ὁ κόσμος τῆς ἀδικίας
+# sent_id = 159471
+1	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	ref=JAS_3.6
+2	κόσμος	κόσμος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=JAS_3.6
+3	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	ref=JAS_3.6
+4	ἀδικίας	ἀδικία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	ref=JAS_3.6
+
+# source = The Greek New Testament, James 3
+# text = ἡ γλῶσσα καθίσταται ἐν τοῖς μέλεσιν ἡμῶν ἡ σπιλοῦσα ὅλον τὸ σῶμα καὶ φλογίζουσα τὸν τροχὸν τῆς γενέσεως καὶ φλογιζομένη ὑπὸ τῆς γεέννης
+# sent_id = 159551
+1	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	ref=JAS_3.6
+2	γλῶσσα	γλῶσσα	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj:pass	_	ref=JAS_3.6
+3	καθίσταται	καθίστημι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	ref=JAS_3.6
+4	ἐν	ἐν	ADP	R-	_	6	case	_	ref=JAS_3.6
+5	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	6	det	_	ref=JAS_3.6
+6	μέλεσιν	μέλος	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	3	obl	_	ref=JAS_3.6
+7	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	6	det	_	ref=JAS_3.6
+8	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	ref=JAS_3.6
+9	σπιλοῦσα	σπιλόω	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	appos	_	ref=JAS_3.6
+10	ὅλον	ὅλος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	ref=JAS_3.6
+11	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	12	det	_	ref=JAS_3.6
+12	σῶμα	σῶμα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	ref=JAS_3.6
+13	καὶ	καί	CCONJ	C-	_	14	cc	_	ref=JAS_3.6
+14	φλογίζουσα	φλογίζω	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	conj	_	ref=JAS_3.6
+15	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	16	det	_	ref=JAS_3.6
+16	τροχὸν	τροχός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	14	obj	_	ref=JAS_3.6
+17	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	18	det	_	ref=JAS_3.6
+18	γενέσεως	γένεσις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	ref=JAS_3.6
+19	καὶ	καί	CCONJ	C-	_	20	cc	_	ref=JAS_3.6
+20	φλογιζομένη	φλογίζω	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	9	conj	_	ref=JAS_3.6
+21	ὑπὸ	ὑπό	ADP	R-	_	23	case	_	ref=JAS_3.6
+22	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	23	det	_	ref=JAS_3.6
+23	γεέννης	γέεννα	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	20	obl	_	ref=JAS_3.6
+
+# source = The Greek New Testament, James 3
+# text = πᾶσα γὰρ φύσις θηρίων τε καὶ πετεινῶν ἑρπετῶν τε καὶ ἐναλίων δαμάζεται καὶ δεδάμασται τῇ φύσει τῇ ἀνθρωπίνῃ
+# sent_id = 31846
+1	πᾶσα	πᾶς	DET	Px	Case=Nom|Gender=Fem|Number=Sing	3	det	_	ref=JAS_3.7
+2	γὰρ	γάρ	ADV	Df	_	12	discourse	_	ref=JAS_3.7
+3	φύσις	φύσις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	12	nsubj:pass	_	ref=JAS_3.7
+4	θηρίων	θηρίον	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	3	nmod	_	ref=JAS_3.7
+5	τε	τε	CCONJ	C-	_	7	cc	_	ref=JAS_3.7
+6	καὶ	καί	CCONJ	C-	_	7	cc	_	ref=JAS_3.7
+7	πετεινῶν	πετεινόν	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	4	conj	_	ref=JAS_3.7
+8	ἑρπετῶν	ἑρπετόν	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	3	nmod	_	ref=JAS_3.7
+9	τε	τε	CCONJ	C-	_	11	cc	_	ref=JAS_3.7
+10	καὶ	καί	CCONJ	C-	_	11	cc	_	ref=JAS_3.7
+11	ἐναλίων	ἐνάλιος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	8	conj	_	ref=JAS_3.7
+12	δαμάζεται	δαμάζω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	ref=JAS_3.7
+13	καὶ	καί	CCONJ	C-	_	14	cc	_	ref=JAS_3.7
+14	δεδάμασται	δαμάζω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	12	conj	_	ref=JAS_3.7
+15	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	16	det	_	ref=JAS_3.7
+16	φύσει	φύσις	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	14	obl	_	ref=JAS_3.7
+17	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	18	det	_	ref=JAS_3.7
+18	ἀνθρωπίνῃ	ἀνθρώπινος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	16	nmod	_	ref=JAS_3.7
+
+# source = The Greek New Testament, James 3
+# text = τὴν δὲ γλῶσσαν οὐδεὶς δύναται ἀνθρώπων δαμάσαι
+# sent_id = 31847
+1	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	ref=JAS_3.8
+2	δὲ	δέ	ADV	Df	_	5	discourse	_	ref=JAS_3.8
+3	γλῶσσαν	γλῶσσα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	ref=JAS_3.8
+4	οὐδεὶς	οὐδείς	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=JAS_3.8
+5	δύναται	δύναμαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=JAS_3.8
+6	ἀνθρώπων	ἄνθρωπος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	ref=JAS_3.8
+7	δαμάσαι	δαμάζω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	5	xcomp	_	ref=JAS_3.8
+
+# source = The Greek New Testament, James 3
+# text = ἀκατάστατον κακόν
+# sent_id = 31848
+1	ἀκατάστατον	ἀκατάστατος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	advmod	_	ref=JAS_3.8
+2	κακόν	κακός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	ref=JAS_3.8
+
+# source = The Greek New Testament, James 3
+# text = μεστὴ ἰοῦ θανατηφόρου
+# sent_id = 159472
+1	μεστὴ	μεστός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	ref=JAS_3.8
+2	ἰοῦ	ἰός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	obl:arg	_	ref=JAS_3.8
+3	θανατηφόρου	θανατηφόρος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	ref=JAS_3.8
+
+# source = The Greek New Testament, James 3
+# text = ἐν αὐτῇ εὐλογοῦμεν τὸν κύριον καὶ πατέρα καὶ ἐν αὐτῇ καταρώμεθα τοὺς ἀνθρώπους τοὺς καθ’ ὁμοίωσιν θεοῦ γεγονότας
+# sent_id = 31849
+1	ἐν	ἐν	ADP	R-	_	2	case	_	ref=JAS_3.9
+2	αὐτῇ	αὐτός	PRON	Pp	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obl	_	ref=JAS_3.9
+3	εὐλογοῦμεν	εὐλογέω	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_3.9
+4	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	ref=JAS_3.9
+5	κύριον	κύριος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	ref=JAS_3.9
+6	καὶ	καί	CCONJ	C-	_	7	cc	_	ref=JAS_3.9
+7	πατέρα	πατήρ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	conj	_	ref=JAS_3.9
+8	καὶ	καί	CCONJ	C-	_	11	cc	_	ref=JAS_3.9
+9	ἐν	ἐν	ADP	R-	_	10	case	_	ref=JAS_3.9
+10	αὐτῇ	αὐτός	PRON	Pp	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	11	obl	_	ref=JAS_3.9
+11	καταρώμεθα	καταράομαι	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	3	conj	_	ref=JAS_3.9
+12	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	13	det	_	ref=JAS_3.9
+13	ἀνθρώπους	ἄνθρωπος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	11	obj	_	ref=JAS_3.9
+14	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	18	det	_	ref=JAS_3.9
+15	καθ’	κατά	ADP	R-	_	16	case	_	ref=JAS_3.9
+16	ὁμοίωσιν	ὁμοίωσις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	18	obl	_	ref=JAS_3.9
+17	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	ref=JAS_3.9
+18	γεγονότας	γίγνομαι	VERB	V-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	13	nmod	_	ref=JAS_3.9
+
+# source = The Greek New Testament, James 3
+# text = ἐκ τοῦ αὐτοῦ στόματος ἐξέρχεται εὐλογία καὶ κατάρα
+# sent_id = 31850
+1	ἐκ	ἐκ	ADP	R-	_	4	case	_	ref=JAS_3.10
+2	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	ref=JAS_3.10
+3	αὐτοῦ	αὐτός	DET	Pd	Case=Gen|Gender=Masc,Neut|Number=Sing	4	det	_	ref=JAS_3.10
+4	στόματος	στόμα	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	5	obl	_	ref=JAS_3.10
+5	ἐξέρχεται	ἐξέρχομαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=JAS_3.10
+6	εὐλογία	εὐλογία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	ref=JAS_3.10
+7	καὶ	καί	CCONJ	C-	_	8	cc	_	ref=JAS_3.10
+8	κατάρα	κατάρα	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	6	conj	_	ref=JAS_3.10
+
+# source = The Greek New Testament, James 3
+# text = οὐ χρή ἀδελφοί μου ταῦτα οὕτως γίνεσθαι
+# sent_id = 31851
+1	οὐ	οὐ	ADV	Df	Polarity=Neg	2	advmod	_	ref=JAS_3.10
+2	χρή	χρή	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_3.10
+3	ἀδελφοί	ἀδελφός	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	2	vocative	_	ref=JAS_3.10
+4	μου	ἐγώ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	det	_	ref=JAS_3.10
+5	ταῦτα	οὗτος	PRON	Pd	Case=Acc|Gender=Neut|Number=Plur	7	nsubj	_	ref=JAS_3.10
+6	οὕτως	οὕτω(ς)	ADV	Df	_	7	xcomp	_	ref=JAS_3.10
+7	γίνεσθαι	γίγνομαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	2	ccomp	_	ref=JAS_3.10
+
+# source = The Greek New Testament, James 3
+# text = μήτι ἡ πηγὴ ἐκ τῆς αὐτῆς ὀπῆς βρύει τὸ γλυκὺ καὶ τὸ πικρόν
+# sent_id = 31852
+1	μήτι	μήτι	ADV	Df	Polarity=Neg	8	advmod	_	ref=JAS_3.11
+2	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	ref=JAS_3.11
+3	πηγὴ	πηγή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	ref=JAS_3.11
+4	ἐκ	ἐκ	ADP	R-	_	7	case	_	ref=JAS_3.11
+5	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	ref=JAS_3.11
+6	αὐτῆς	αὐτός	DET	Pd	Case=Gen|Gender=Fem|Number=Sing	7	det	_	ref=JAS_3.11
+7	ὀπῆς	ὀπή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	obl	_	ref=JAS_3.11
+8	βρύει	βρύω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_3.11
+9	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	10	det	_	ref=JAS_3.11
+10	γλυκὺ	γλυκύς	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	obj	_	ref=JAS_3.11
+11	καὶ	καί	CCONJ	C-	_	13	cc	_	ref=JAS_3.11
+12	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	13	det	_	ref=JAS_3.11
+13	πικρόν	πικρός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	10	conj	_	ref=JAS_3.11
+
+# source = The Greek New Testament, James 3
+# text = μὴ δύναται ἀδελφοί μου συκῆ ἐλαίας ποιῆσαι ἢ ἄμπελος σῦκα
+# sent_id = 31853
+1	μὴ	μή	ADV	Df	Polarity=Neg	2	advmod	_	ref=JAS_3.12
+2	δύναται	δύναμαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=JAS_3.12
+3	ἀδελφοί	ἀδελφός	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	2	vocative	_	ref=JAS_3.12
+4	μου	ἐγώ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	det	_	ref=JAS_3.12
+5	συκῆ	συκῆ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	ref=JAS_3.12
+6	ἐλαίας	ἐλαία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	7	obj	_	ref=JAS_3.12
+7	ποιῆσαι	ποιέω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=JAS_3.12
+8	ἢ	ἤ	CCONJ	C-	_	9	cc	_	ref=JAS_3.12
+9	ἄμπελος	ἄμπελος	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	conj	_	ref=JAS_3.12
+10	σῦκα	σῦκον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	9	orphan	_	ref=JAS_3.12
+
+# source = The Greek New Testament, James 3
+# text = οὔτε ἁλυκὸν γλυκὺ ποιῆσαι ὕδωρ
+# sent_id = 31854
+1	οὐ	οὐ	ADV	G-	Polarity=Neg	4	advmod	_	ref=JAS_3.12|Sub=1
+1.1	-τε	τε	CCONJ	C-	_	4	cc	_	ref=JAS_3.12|Sub=2
+2	ἁλυκὸν	ἁλυκός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	nsubj	_	ref=JAS_3.12
+3	γλυκὺ	γλυκύς	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	5	amod	_	ref=JAS_3.12
+4	ποιῆσαι	ποιέω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	0	root	_	ref=JAS_3.12
+5	ὕδωρ	ὕδωρ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	ref=JAS_3.12
+
+# source = The Greek New Testament, James 3
+# text = τίς σοφὸς καὶ ἐπιστήμων ἐν ὑμῖν
+# sent_id = 31855
+1	τίς	τίς	PRON	Pi	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	2	nsubj	_	ref=JAS_3.13
+2	σοφὸς	σοφός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=JAS_3.13
+3	καὶ	καί	CCONJ	C-	_	4	cc	_	ref=JAS_3.13
+4	ἐπιστήμων	ἐπιστήμων	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	conj	_	ref=JAS_3.13
+5	ἐν	ἐν	ADP	R-	_	6	case	_	ref=JAS_3.13
+6	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	2	obl	_	ref=JAS_3.13
+
+# source = The Greek New Testament, James 3
+# text = δειξάτω ἐκ τῆς καλῆς ἀναστροφῆς τὰ ἔργα αὐτοῦ ἐν πραΰτητι σοφίας
+# sent_id = 31856
+1	δειξάτω	δείκνυμι	VERB	V-	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_3.13
+2	ἐκ	ἐκ	ADP	R-	_	5	case	_	ref=JAS_3.13
+3	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	ref=JAS_3.13
+4	καλῆς	καλός	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	ref=JAS_3.13
+5	ἀναστροφῆς	ἀναστροφή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	1	obl	_	ref=JAS_3.13
+6	τὰ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	7	det	_	ref=JAS_3.13
+7	ἔργα	ἔργον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	1	obj	_	ref=JAS_3.13
+8	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	det	_	ref=JAS_3.13
+9	ἐν	ἐν	ADP	R-	_	10	case	_	ref=JAS_3.13
+10	πραΰτητι	πραΰτης	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	1	obl	_	ref=JAS_3.13
+11	σοφίας	σοφία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	ref=JAS_3.13
+
+# source = The Greek New Testament, James 3
+# text = εἰ δὲ ζῆλον πικρὸν ἔχετε καὶ ἐριθείαν ἐν τῇ καρδίᾳ ὑμῶν μὴ κατακαυχᾶσθε τῆς ἀληθείας καὶ ψεύδεσθε
+# sent_id = 31857
+1	εἰ	εἰ	SCONJ	G-	_	5	mark	_	ref=JAS_3.14
+2	δὲ	δέ	ADV	Df	_	13	discourse	_	ref=JAS_3.14
+3	ζῆλον	ζῆλος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	ref=JAS_3.14
+4	πικρὸν	πικρός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	ref=JAS_3.14
+5	ἔχετε	ἔχω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	13	advcl	_	ref=JAS_3.14
+6	καὶ	καί	CCONJ	C-	_	7	cc	_	ref=JAS_3.14
+7	ἐριθείαν	ἐριθεία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	conj	_	ref=JAS_3.14
+8	ἐν	ἐν	ADP	R-	_	10	case	_	ref=JAS_3.14
+9	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	ref=JAS_3.14
+10	καρδίᾳ	καρδία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	5	obl	_	ref=JAS_3.14
+11	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	10	det	_	ref=JAS_3.14
+12	μὴ	μή	ADV	Df	Polarity=Neg	13	advmod	_	ref=JAS_3.14
+13	κατακαυχᾶσθε	κατακαυχάομαι	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=JAS_3.14
+14	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	15	det	_	ref=JAS_3.14
+15	ἀληθείας	ἀλήθεια	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	13	obl:arg	_	ref=JAS_3.14
+16	καὶ	καί	CCONJ	C-	_	17	cc	_	ref=JAS_3.14
+17	ψεύδεσθε	ψεύδομαι	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	13	conj	_	ref=JAS_3.14
+
+# source = The Greek New Testament, James 3
+# text = οὐκ ἔστιν αὕτη ἡ σοφία ἄνωθεν κατερχομένη ἀλλὰ ἐπίγειος ψυχική δαιμονιώδης
+# sent_id = 31858
+1	οὐκ	οὐ	ADV	Df	Polarity=Neg	7	advmod	_	ref=JAS_3.15
+2	ἔστιν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	ref=JAS_3.15|LId=1
+3	αὕτη	οὗτος	DET	Pd	Case=Nom|Gender=Fem|Number=Sing	5	det	_	ref=JAS_3.15
+4	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	ref=JAS_3.15
+5	σοφία	σοφία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	ref=JAS_3.15
+6	ἄνωθεν	ἄνωθεν	ADV	Df	_	7	advmod	_	ref=JAS_3.15
+7	κατερχομένη	κατέρχομαι	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	0	root	_	ref=JAS_3.15
+8	ἀλλὰ	ἀλλά	CCONJ	C-	_	9	cc	_	ref=JAS_3.15
+9	ἐπίγειος	ἐπίγειος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	conj	_	ref=JAS_3.15
+10	ψυχική	ψυχικός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	conj	_	ref=JAS_3.15
+11	δαιμονιώδης	δαιμονιώδης	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	9	conj	_	ref=JAS_3.15
+
+# source = The Greek New Testament, James 3
+# text = ὅπου γὰρ ζῆλος καὶ ἐριθεία ἐκεῖ ἀκαταστασία καὶ πᾶν φαῦλον πρᾶγμα
+# sent_id = 31859
+1	ὅπου	ὅπου	ADV	Dq	PronType=Rel	6	dislocated	_	ref=JAS_3.16
+2	γὰρ	γάρ	ADV	Df	_	6	discourse	_	ref=JAS_3.16
+3	ζῆλος	ζῆλος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=JAS_3.16
+4	καὶ	καί	CCONJ	C-	_	5	cc	_	ref=JAS_3.16
+5	ἐριθεία	ἐριθεία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	conj	_	ref=JAS_3.16
+6	ἐκεῖ	ἐκεῖ	ADV	Df	_	0	root	_	ref=JAS_3.16
+7	ἀκαταστασία	ἀκαταστασία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	ref=JAS_3.16
+8	καὶ	καί	CCONJ	C-	_	11	cc	_	ref=JAS_3.16
+9	πᾶν	πᾶς	DET	Px	Case=Nom|Gender=Neut|Number=Sing	11	det	_	ref=JAS_3.16
+10	φαῦλον	φαῦλος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	ref=JAS_3.16
+11	πρᾶγμα	πρᾶγμα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	7	conj	_	ref=JAS_3.16
+
+# source = The Greek New Testament, James 3
+# text = ἡ δὲ ἄνωθεν σοφία πρῶτον μὲν ἁγνή ἐστιν ἔπειτα εἰρηνική ἐπιεικής εὐπειθής μεστὴ ἐλέους καὶ καρπῶν ἀγαθῶν ἀδιάκριτος ἀνυπόκριτος
+# sent_id = 31860
+1	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	ref=JAS_3.17
+2	δὲ	δέ	ADV	Df	_	7	discourse	_	ref=JAS_3.17
+3	ἄνωθεν	ἄνωθεν	ADV	Df	_	4	amod	_	ref=JAS_3.17
+4	σοφία	σοφία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	ref=JAS_3.17
+5	πρῶτον	πρῶτος	ADJ	Mo	Case=Acc|Gender=Neut|Number=Sing	7	advmod	_	ref=JAS_3.17
+6	μὲν	μέν	ADV	Df	_	5	discourse	_	ref=JAS_3.17
+7	ἁγνή	ἁγνός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	ref=JAS_3.17
+8	ἐστιν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	ref=JAS_3.17|LId=1
+9	ἔπειτα	ἔπειτα	ADV	Df	_	10	advmod	_	ref=JAS_3.17
+10	εἰρηνική	εἰρηνικός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	conj	_	ref=JAS_3.17
+11	ἐπιεικής	ἐπιεικής	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	conj	_	ref=JAS_3.17
+12	εὐπειθής	εὐπειθής	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	conj	_	ref=JAS_3.17
+13	μεστὴ	μεστός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	conj	_	ref=JAS_3.17
+14	ἐλέους	ἔλεος	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	13	obl	_	ref=JAS_3.17
+15	καὶ	καί	CCONJ	C-	_	16	cc	_	ref=JAS_3.17
+16	καρπῶν	καρπός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	14	conj	_	ref=JAS_3.17
+17	ἀγαθῶν	ἀγαθός	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	16	amod	_	ref=JAS_3.17
+18	ἀδιάκριτος	ἀδιάκριτος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	conj	_	ref=JAS_3.17
+19	ἀνυπόκριτος	ἀνυπόκριτος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	conj	_	ref=JAS_3.17
+
+# source = The Greek New Testament, James 3
+# text = καρπὸς δὲ δικαιοσύνης ἐν εἰρήνῃ σπείρεται τοῖς ποιοῦσιν εἰρήνην
+# sent_id = 31861
+1	καρπὸς	καρπός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj:pass	_	ref=JAS_3.18
+2	δὲ	δέ	ADV	Df	_	6	discourse	_	ref=JAS_3.18
+3	δικαιοσύνης	δικαιοσύνη	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	ref=JAS_3.18
+4	ἐν	ἐν	ADP	R-	_	5	case	_	ref=JAS_3.18
+5	εἰρήνῃ	εἰρήνη	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	6	obl	_	ref=JAS_3.18
+6	σπείρεται	σπείρω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	ref=JAS_3.18
+7	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	8	det	_	ref=JAS_3.18
+8	ποιοῦσιν	ποιέω	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	6	obl:agent	_	ref=JAS_3.18
+9	εἰρήνην	εἰρήνη	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	ref=JAS_3.18
+
+# source = The Greek New Testament, James 4
+# text = Πόθεν πόλεμοι καὶ πόθεν μάχαι ἐν ὑμῖν
+# sent_id = 31862
+1	Πόθεν	πόθεν	ADV	Du	PronType=Int	2	orphan	_	ref=JAS_4.1
+2	πόλεμοι	πόλεμος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	0	root	_	ref=JAS_4.1
+3	καὶ	καί	CCONJ	C-	_	5	cc	_	ref=JAS_4.1
+4	πόθεν	πόθεν	ADV	Du	PronType=Int	5	orphan	_	ref=JAS_4.1
+5	μάχαι	μάχη	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	2	conj	_	ref=JAS_4.1
+6	ἐν	ἐν	ADP	R-	_	7	case	_	ref=JAS_4.1
+7	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	5	orphan	_	ref=JAS_4.1
+
+# source = The Greek New Testament, James 4
+# text = οὐκ ἐντεῦθεν ἐκ τῶν ἡδονῶν ὑμῶν τῶν στρατευομένων ἐν τοῖς μέλεσιν ὑμῶν
+# sent_id = 31863
+1	οὐκ	οὐ	ADV	Df	Polarity=Neg	0	root	_	ref=JAS_4.1
+2	ἐντεῦθεν	ἐντεῦθεν	ADV	Df	_	1	orphan	_	ref=JAS_4.1
+3	ἐκ	ἐκ	ADP	R-	_	5	case	_	ref=JAS_4.1
+4	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	5	det	_	ref=JAS_4.1
+5	ἡδονῶν	ἡδονή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	2	appos	_	ref=JAS_4.1
+6	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	5	det	_	ref=JAS_4.1
+7	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	8	det	_	ref=JAS_4.1
+8	στρατευομένων	στρατεύω	VERB	V-	Case=Gen|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	5	appos	_	ref=JAS_4.1
+9	ἐν	ἐν	ADP	R-	_	11	case	_	ref=JAS_4.1
+10	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	11	det	_	ref=JAS_4.1
+11	μέλεσιν	μέλος	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	8	obl	_	ref=JAS_4.1
+12	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	11	det	_	ref=JAS_4.1
+
+# source = The Greek New Testament, James 4
+# text = ἐπιθυμεῖτε καὶ οὐκ ἔχετε
+# sent_id = 31864
+1	ἐπιθυμεῖτε	ἐπιθυμέω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_4.2
+2	καὶ	καί	CCONJ	C-	_	4	cc	_	ref=JAS_4.2
+3	οὐκ	οὐ	ADV	Df	Polarity=Neg	4	advmod	_	ref=JAS_4.2
+4	ἔχετε	ἔχω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=JAS_4.2
+
+# source = The Greek New Testament, James 4
+# text = φονεύετε καὶ ζηλοῦτε καὶ οὐ δύνασθε ἐπιτυχεῖν
+# sent_id = 31865
+1	φονεύετε	φονεύω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_4.2
+2	καὶ	καί	CCONJ	C-	_	3	cc	_	ref=JAS_4.2
+3	ζηλοῦτε	ζηλόω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=JAS_4.2
+4	καὶ	καί	CCONJ	C-	_	6	cc	_	ref=JAS_4.2
+5	οὐ	οὐ	ADV	Df	Polarity=Neg	6	advmod	_	ref=JAS_4.2
+6	δύνασθε	δύναμαι	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	1	conj	_	ref=JAS_4.2
+7	ἐπιτυχεῖν	ἐπιτυγχάνω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	6	xcomp	_	ref=JAS_4.2
+
+# source = The Greek New Testament, James 4
+# text = μάχεσθε καὶ πολεμεῖτε
+# sent_id = 31866
+1	μάχεσθε	μάχομαι	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=JAS_4.2
+2	καὶ	καί	CCONJ	C-	_	3	cc	_	ref=JAS_4.2
+3	πολεμεῖτε	πολεμέω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=JAS_4.2
+
+# source = The Greek New Testament, James 4
+# text = καὶ οὐκ ἔχετε διὰ τὸ μὴ αἰτεῖσθαι ὑμᾶς
+# sent_id = 31867
+1	καὶ	καί	CCONJ	C-	_	3	cc	_	ref=JAS_4.2
+2	οὐκ	οὐ	ADV	Df	Polarity=Neg	3	advmod	_	ref=JAS_4.2
+3	ἔχετε	ἔχω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_4.2
+4	διὰ	διά	ADP	R-	_	3	obl	_	ref=JAS_4.2
+5	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	7	det	_	ref=JAS_4.2
+6	μὴ	μή	ADV	Df	Polarity=Neg	7	advmod	_	ref=JAS_4.2
+7	αἰτεῖσθαι	αἰτέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	4	ccomp	_	ref=JAS_4.2
+8	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	7	nsubj	_	ref=JAS_4.2
+
+# source = The Greek New Testament, James 4
+# text = αἰτεῖτε καὶ οὐ λαμβάνετε διότι κακῶς αἰτεῖσθε ἵνα ἐν ταῖς ἡδοναῖς ὑμῶν δαπανήσητε
+# sent_id = 31868
+1	αἰτεῖτε	αἰτέω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_4.3
+2	καὶ	καί	CCONJ	C-	_	4	cc	_	ref=JAS_4.3
+3	οὐ	οὐ	ADV	Df	Polarity=Neg	4	advmod	_	ref=JAS_4.3
+4	λαμβάνετε	λαμβάνω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=JAS_4.3
+5	διότι	διότι	SCONJ	G-	_	7	mark	_	ref=JAS_4.3
+6	κακῶς	κακῶς	ADV	Df	Degree=Pos	7	advmod	_	ref=JAS_4.3
+7	αἰτεῖσθε	αἰτέω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	4	advcl	_	ref=JAS_4.3
+8	ἵνα	ἵνα	SCONJ	G-	_	13	mark	_	ref=JAS_4.3
+9	ἐν	ἐν	ADP	R-	_	11	case	_	ref=JAS_4.3
+10	ταῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	11	det	_	ref=JAS_4.3
+11	ἡδοναῖς	ἡδονή	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	13	obl	_	ref=JAS_4.3
+12	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	11	det	_	ref=JAS_4.3
+13	δαπανήσητε	δαπανάω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	ref=JAS_4.3
+
+# source = The Greek New Testament, James 4
+# text = μοιχαλίδες οὐκ οἴδατε ὅτι ἡ φιλία τοῦ κόσμου ἔχθρα ἐστὶν τῷ θεῷ
+# sent_id = 31869
+1	μοιχαλίδες	μοιχαλίς	NOUN	Nb	Case=Voc|Gender=Fem|Number=Plur	3	vocative	_	ref=JAS_4.4
+2	οὐκ	οὐ	ADV	Df	Polarity=Neg	3	advmod	_	ref=JAS_4.4
+3	οἴδατε	οἶδα	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_4.4
+4	ὅτι	ὅτι	SCONJ	G-	_	9	mark	_	ref=JAS_4.4
+5	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	ref=JAS_4.4
+6	φιλία	φιλία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	ref=JAS_4.4
+7	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	ref=JAS_4.4
+8	κόσμου	κόσμος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	ref=JAS_4.4
+9	ἔχθρα	ἔχθρα	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	ccomp	_	ref=JAS_4.4
+10	ἐστὶν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	ref=JAS_4.4|LId=1
+11	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	12	det	_	ref=JAS_4.4
+12	θεῷ	θεός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	9	obl:arg	_	ref=JAS_4.4
+
+# source = The Greek New Testament, James 4
+# text = ὃς ἐὰν οὖν βουληθῇ φίλος εἶναι τοῦ κόσμου ἐχθρὸς τοῦ θεοῦ καθίσταται
+# sent_id = 31870
+1	ὃς	ὅς	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	12	nsubj:pass	_	ref=JAS_4.4
+2	ἐὰν	ἐάν	SCONJ	G-	_	4	mark	_	ref=JAS_4.4
+3	οὖν	οὖν	ADV	Df	_	4	discourse	_	ref=JAS_4.4
+4	βουληθῇ	βούλομαι	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	12	advcl	_	ref=JAS_4.4
+5	φίλος	φίλος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	xcomp	_	ref=JAS_4.4
+6	εἶναι	εἰμί	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	cop	_	ref=JAS_4.4|LId=1
+7	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	ref=JAS_4.4
+8	κόσμου	κόσμος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	ref=JAS_4.4
+9	ἐχθρὸς	ἐχθρός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	12	xcomp	_	ref=JAS_4.4
+10	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	11	det	_	ref=JAS_4.4
+11	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	ref=JAS_4.4
+12	καθίσταται	καθίστημι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	ref=JAS_4.4
+
+# source = The Greek New Testament, James 4
+# text = ἢ δοκεῖτε ὅτι κενῶς ἡ γραφὴ λέγει
+# sent_id = 31871
+1	ἢ	ἤ	CCONJ	C-	_	2	cc	_	ref=JAS_4.5
+2	δοκεῖτε	δοκέω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_4.5
+3	ὅτι	ὅτι	SCONJ	G-	_	7	mark	_	ref=JAS_4.5
+4	κενῶς	κενῶς	ADV	Df	_	7	advmod	_	ref=JAS_4.5
+5	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	ref=JAS_4.5
+6	γραφὴ	γραφή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	ref=JAS_4.5
+7	λέγει	λέγω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	ref=JAS_4.5
+
+# source = The Greek New Testament, James 4
+# text = πρὸς φθόνον ἐπιποθεῖ τὸ πνεῦμα ὃ κατῴκισεν ἐν ἡμῖν
+# sent_id = 159474
+1	πρὸς	πρός	ADP	R-	_	2	case	_	ref=JAS_4.5
+2	φθόνον	φθόνος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obl	_	ref=JAS_4.5
+3	ἐπιποθεῖ	ἐπιποθέω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_4.5
+4	τὸ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	ref=JAS_4.5
+5	πνεῦμα	πνεῦμα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	ref=JAS_4.5
+6	ὃ	ὅς	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	7	obj	_	ref=JAS_4.5
+7	κατῴκισεν	κατοικίζω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	acl	_	ref=JAS_4.5
+8	ἐν	ἐν	ADP	R-	_	9	case	_	ref=JAS_4.5
+9	ἡμῖν	ἡμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	7	obl	_	ref=JAS_4.5
+
+# source = The Greek New Testament, James 4
+# text = μείζονα δὲ δίδωσιν χάριν
+# sent_id = 31872
+1	μείζονα	μέγας	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing	4	amod	_	ref=JAS_4.6
+2	δὲ	δέ	ADV	Df	_	3	discourse	_	ref=JAS_4.6
+3	δίδωσιν	δίδωμι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_4.6
+4	χάριν	χάρις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	ref=JAS_4.6
+
+# source = The Greek New Testament, James 4
+# text = διὸ λέγει
+# sent_id = 31873
+1	διὸ	διό	ADV	Df	_	2	advmod	_	ref=JAS_4.6
+2	λέγει	λέγω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_4.6
+
+# source = The Greek New Testament, James 4
+# text = ὁ θεὸς ὑπερηφάνοις ἀντιτάσσεται
+# sent_id = 159475
+1	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	ref=JAS_4.6
+2	θεὸς	θεός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=JAS_4.6
+3	ὑπερηφάνοις	ὑπερήφανος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	4	obl:arg	_	ref=JAS_4.6
+4	ἀντιτάσσεται	ἀντιτάσσω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=JAS_4.6
+
+# source = The Greek New Testament, James 4
+# text = ταπεινοῖς δὲ δίδωσιν χάριν
+# sent_id = 159476
+1	ταπεινοῖς	ταπεινός	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	3	obl:arg	_	ref=JAS_4.6
+2	δὲ	δέ	ADV	Df	_	3	discourse	_	ref=JAS_4.6
+3	δίδωσιν	δίδωμι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_4.6
+4	χάριν	χάρις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	ref=JAS_4.6
+
+# source = The Greek New Testament, James 4
+# text = ὑποτάγητε οὖν τῷ θεῷ
+# sent_id = 31874
+1	ὑποτάγητε	ὑποτάσσω	VERB	V-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	ref=JAS_4.7
+2	οὖν	οὖν	ADV	Df	_	1	discourse	_	ref=JAS_4.7
+3	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	ref=JAS_4.7
+4	θεῷ	θεός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	obl:arg	_	ref=JAS_4.7
+
+# source = The Greek New Testament, James 4
+# text = ἀντίστητε δὲ τῷ διαβόλῳ καὶ φεύξεται ἀφ’ ὑμῶν
+# sent_id = 31875
+1	ἀντίστητε	ἀνθίστημι	VERB	V-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_4.7
+2	δὲ	δέ	ADV	Df	_	1	discourse	_	ref=JAS_4.7
+3	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	ref=JAS_4.7
+4	διαβόλῳ	διάβολος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	obl:arg	_	ref=JAS_4.7
+5	καὶ	καί	CCONJ	C-	_	6	cc	_	ref=JAS_4.7
+6	φεύξεται	φεύγω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	1	conj	_	ref=JAS_4.7
+7	ἀφ’	ἀπό	ADP	R-	_	8	case	_	ref=JAS_4.7
+8	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	6	obl	_	ref=JAS_4.7
+
+# source = The Greek New Testament, James 4
+# text = ἐγγίσατε τῷ θεῷ καὶ ἐγγιεῖ ὑμῖν
+# sent_id = 31876
+1	ἐγγίσατε	ἐγγίζω	VERB	V-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_4.8
+2	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	ref=JAS_4.8
+3	θεῷ	θεός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	1	obl:arg	_	ref=JAS_4.8
+4	καὶ	καί	CCONJ	C-	_	5	cc	_	ref=JAS_4.8
+5	ἐγγιεῖ	ἐγγίζω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	conj	_	ref=JAS_4.8
+6	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	5	obl:arg	_	ref=JAS_4.8
+
+# source = The Greek New Testament, James 4
+# text = καθαρίσατε χεῖρας ἁμαρτωλοί καὶ ἁγνίσατε καρδίας δίψυχοι
+# sent_id = 31877
+1	καθαρίσατε	καθαρίζω	VERB	V-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_4.8
+2	χεῖρας	χείρ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	1	obj	_	ref=JAS_4.8
+3	ἁμαρτωλοί	ἁμαρτωλός	ADJ	A-	Case=Voc|Degree=Pos|Gender=Masc|Number=Plur	1	vocative	_	ref=JAS_4.8
+4	καὶ	καί	CCONJ	C-	_	5	cc	_	ref=JAS_4.8
+5	ἁγνίσατε	ἁγνίζω	VERB	V-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=JAS_4.8
+6	καρδίας	καρδία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	5	obj	_	ref=JAS_4.8
+7	δίψυχοι	δίψυχος	ADJ	A-	Case=Voc|Degree=Pos|Gender=Masc|Number=Plur	1	vocative	_	ref=JAS_4.8
+
+# source = The Greek New Testament, James 4
+# text = ταλαιπωρήσατε καὶ πενθήσατε
+# sent_id = 31878
+1	ταλαιπωρήσατε	ταλαιπωρέω	VERB	V-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_4.9
+2	καὶ	καί	CCONJ	C-	_	3	cc	_	ref=JAS_4.9
+3	πενθήσατε	πενθέω	VERB	V-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=JAS_4.9
+
+# source = The Greek New Testament, James 4
+# text = κλαύσατε
+# sent_id = 159480
+1	κλαύσατε	κλαίω	VERB	V-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_4.9
+
+# source = The Greek New Testament, James 4
+# text = ὁ γέλως ὑμῶν εἰς πένθος μετατραπήτω καὶ ἡ χαρὰ εἰς κατήφειαν
+# sent_id = 31879
+1	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	ref=JAS_4.9
+2	γέλως	γέλως	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj:pass	_	ref=JAS_4.9
+3	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	2	det	_	ref=JAS_4.9
+4	εἰς	εἰς	ADP	R-	_	5	case	_	ref=JAS_4.9
+5	πένθος	πένθος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	ref=JAS_4.9
+6	μετατραπήτω	μετατρέπω	VERB	V-	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	ref=JAS_4.9
+7	καὶ	καί	CCONJ	C-	_	9	cc	_	ref=JAS_4.9
+8	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	ref=JAS_4.9
+9	χαρὰ	χαρά	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	6	conj	_	ref=JAS_4.9
+10	εἰς	εἰς	ADP	R-	_	11	case	_	ref=JAS_4.9
+11	κατήφειαν	κατήφεια	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	9	orphan	_	ref=JAS_4.9
+
+# source = The Greek New Testament, James 4
+# text = ταπεινώθητε ἐνώπιον κυρίου καὶ ὑψώσει ὑμᾶς
+# sent_id = 31880
+1	ταπεινώθητε	ταπεινόω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	ref=JAS_4.10
+2	ἐνώπιον	ἐνώπιον	ADP	R-	_	3	case	_	ref=JAS_4.10
+3	κυρίου	κύριος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	ref=JAS_4.10
+4	καὶ	καί	CCONJ	C-	_	5	cc	_	ref=JAS_4.10
+5	ὑψώσει	ὑψόω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	conj	_	ref=JAS_4.10
+6	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	5	obj	_	ref=JAS_4.10
+
+# source = The Greek New Testament, James 4
+# text = Μὴ καταλαλεῖτε ἀλλήλων ἀδελφοί
+# sent_id = 31881
+1	Μὴ	μή	ADV	Df	Polarity=Neg	2	advmod	_	ref=JAS_4.11
+2	καταλαλεῖτε	καταλαλέω	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_4.11
+3	ἀλλήλων	ἀλλήλων	PRON	Pc	Case=Gen|Gender=Masc|Number=Plur|PronType=Rcp	2	obl:arg	_	ref=JAS_4.11
+4	ἀδελφοί	ἀδελφός	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	2	vocative	_	ref=JAS_4.11
+
+# source = The Greek New Testament, James 4
+# text = ὁ καταλαλῶν ἀδελφοῦ ἢ κρίνων τὸν ἀδελφὸν αὐτοῦ καταλαλεῖ νόμου καὶ κρίνει νόμον
+# sent_id = 31882
+1	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	ref=JAS_4.11
+2	καταλαλῶν	καταλαλέω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	nsubj	_	ref=JAS_4.11
+3	ἀδελφοῦ	ἀδελφός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	obl	_	ref=JAS_4.11
+4	ἢ	ἤ	CCONJ	C-	_	5	cc	_	ref=JAS_4.11
+5	κρίνων	κρίνω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	conj	_	ref=JAS_4.11
+6	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	ref=JAS_4.11
+7	ἀδελφὸν	ἀδελφός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	ref=JAS_4.11
+8	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	det	_	ref=JAS_4.11
+9	καταλαλεῖ	καταλαλέω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_4.11
+10	νόμου	νόμος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	obl:arg	_	ref=JAS_4.11
+11	καὶ	καί	CCONJ	C-	_	12	cc	_	ref=JAS_4.11
+12	κρίνει	κρίνω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	ref=JAS_4.11
+13	νόμον	νόμος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	12	obj	_	ref=JAS_4.11
+
+# source = The Greek New Testament, James 4
+# text = εἰ δὲ νόμον κρίνεις οὐκ εἶ ποιητὴς νόμου ἀλλὰ κριτής
+# sent_id = 31883
+1	εἰ	εἰ	SCONJ	G-	_	4	mark	_	ref=JAS_4.11
+2	δὲ	δέ	ADV	Df	_	7	discourse	_	ref=JAS_4.11
+3	νόμον	νόμος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	ref=JAS_4.11
+4	κρίνεις	κρίνω	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	ref=JAS_4.11
+5	οὐκ	οὐ	ADV	Df	Polarity=Neg	7	advmod	_	ref=JAS_4.11
+6	εἶ	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	ref=JAS_4.11|LId=1
+7	ποιητὴς	ποιητής	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=JAS_4.11
+8	νόμου	νόμος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	ref=JAS_4.11
+9	ἀλλὰ	ἀλλά	CCONJ	C-	_	10	cc	_	ref=JAS_4.11
+10	κριτής	κριτής	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	conj	_	ref=JAS_4.11
+
+# source = The Greek New Testament, James 4
+# text = εἷς ἐστιν ὁ νομοθέτης καὶ κριτής ὁ δυνάμενος σῶσαι καὶ ἀπολέσαι
+# sent_id = 31884
+1	εἷς	εἷς	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=JAS_4.12
+2	ἐστιν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	ref=JAS_4.12|LId=1
+3	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	ref=JAS_4.12
+4	νομοθέτης	νομοθέτης	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=JAS_4.12
+5	καὶ	καί	CCONJ	C-	_	6	cc	_	ref=JAS_4.12
+6	κριτής	κριτής	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	ref=JAS_4.12
+7	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	ref=JAS_4.12
+8	δυνάμενος	δύναμαι	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	4	appos	_	ref=JAS_4.12
+9	σῶσαι	σῴζω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	8	xcomp	_	ref=JAS_4.12
+10	καὶ	καί	CCONJ	C-	_	11	cc	_	ref=JAS_4.12
+11	ἀπολέσαι	ἀπόλλυμι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	9	conj	_	ref=JAS_4.12
+
+# source = The Greek New Testament, James 4
+# text = σὺ δὲ τίς εἶ ὁ κρίνων τὸν πλησίον
+# sent_id = 31885
+1	σὺ	σύ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	ref=JAS_4.12
+2	δὲ	δέ	ADV	Df	_	3	discourse	_	ref=JAS_4.12
+3	τίς	τίς	PRON	Pi	Case=Nom|Gender=Masc|Number=Sing|PronType=Int	0	root	_	ref=JAS_4.12
+4	εἶ	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=JAS_4.12|LId=1
+5	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	ref=JAS_4.12
+6	κρίνων	κρίνω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	appos	_	ref=JAS_4.12
+7	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	ref=JAS_4.12
+8	πλησίον	πλησίος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	obj	_	ref=JAS_4.12
+
+# source = The Greek New Testament, James 4
+# text = Ἄγε νῦν οἱ λέγοντες
+# sent_id = 31886
+1	Ἄγε	ἄγω	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_4.13
+2	νῦν	νῦν	ADV	Df	_	1	advmod	_	ref=JAS_4.13|LId=1
+3	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	4	det	_	ref=JAS_4.13
+4	λέγοντες	λέγω	VERB	V-	Case=Voc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1	vocative	_	ref=JAS_4.13
+
+# source = The Greek New Testament, James 4
+# text = σήμερον ἢ αὔριον πορευσόμεθα εἰς τήνδε τὴν πόλιν καὶ ποιήσομεν ἐκεῖ ἐνιαυτὸν καὶ ἐμπορευσόμεθα καὶ κερδήσομεν
+# sent_id = 159477
+1	σήμερον	σήμερον	ADV	Df	_	4	advmod	_	ref=JAS_4.13
+2	ἢ	ἤ	CCONJ	C-	_	3	cc	_	ref=JAS_4.13
+3	αὔριον	αὔριον	ADV	Df	_	1	conj	_	ref=JAS_4.13
+4	πορευσόμεθα	πορεύω	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	ref=JAS_4.13
+5	εἰς	εἰς	ADP	R-	_	8	case	_	ref=JAS_4.13
+6	τήνδε	ὅδε	DET	Pd	Case=Acc|Gender=Fem|Number=Sing	8	det	_	ref=JAS_4.13
+7	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	ref=JAS_4.13
+8	πόλιν	πόλις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	ref=JAS_4.13
+9	καὶ	καί	CCONJ	C-	_	10	cc	_	ref=JAS_4.13
+10	ποιήσομεν	ποιέω	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	4	conj	_	ref=JAS_4.13
+11	ἐκεῖ	ἐκεῖ	ADV	Df	_	10	advmod	_	ref=JAS_4.13
+12	ἐνιαυτὸν	ἐνιαυτός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	ref=JAS_4.13
+13	καὶ	καί	CCONJ	C-	_	14	cc	_	ref=JAS_4.13
+14	ἐμπορευσόμεθα	ἐμπορεύομαι	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	4	conj	_	ref=JAS_4.13
+15	καὶ	καί	CCONJ	C-	_	16	cc	_	ref=JAS_4.13
+16	κερδήσομεν	κερδαίνω	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	4	conj	_	ref=JAS_4.13
+
+# source = The Greek New Testament, James 4
+# text = οἵτινες οὐκ ἐπίστασθε τὸ τῆς αὔριον
+# sent_id = 31887
+1	οἵτινες	ὅστις	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	3	nsubj	_	ref=JAS_4.14
+2	οὐκ	οὐ	ADV	Df	Polarity=Neg	3	advmod	_	ref=JAS_4.14
+3	ἐπίστασθε	ἐπίσταμαι	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=JAS_4.14
+4	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	6	det	_	ref=JAS_4.14
+5	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	ref=JAS_4.14
+6	αὔριον	αὔριον	ADV	Df	_	3	obj	_	ref=JAS_4.14
+
+# source = The Greek New Testament, James 4
+# text = ποία γὰρ ἡ ζωὴ ὑμῶν
+# sent_id = 159479
+1	ποία	ποῖος	PRON	Pi	Case=Nom|Gender=Fem|Number=Sing|PronType=Int	0	root	_	ref=JAS_4.14
+2	γὰρ	γάρ	ADV	Df	_	1	discourse	_	ref=JAS_4.14
+3	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	ref=JAS_4.14
+4	ζωὴ	ζωή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	ref=JAS_4.14
+5	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	4	det	_	ref=JAS_4.14
+
+# source = The Greek New Testament, James 4
+# text = ἀτμὶς γάρ ἐστε ἡ πρὸς ὀλίγον φαινομένη ἔπειτα καὶ ἀφανιζομένη
+# sent_id = 31888
+1	ἀτμὶς	ἀτμίς	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	ref=JAS_4.14
+2	γάρ	γάρ	ADV	Df	_	1	discourse	_	ref=JAS_4.14
+3	ἐστε	εἰμί	AUX	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	ref=JAS_4.14|LId=1
+4	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	ref=JAS_4.14
+5	πρὸς	πρός	ADP	R-	_	6	case	_	ref=JAS_4.14
+6	ὀλίγον	ὀλίγος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	advmod	_	ref=JAS_4.14
+7	φαινομένη	φαίνω	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	1	nmod	_	ref=JAS_4.14
+8	ἔπειτα	ἔπειτα	ADV	Df	_	10	advmod	_	ref=JAS_4.14
+9	καὶ	καί	CCONJ	C-	_	10	cc	_	ref=JAS_4.14
+10	ἀφανιζομένη	ἀφανίζω	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	7	conj	_	ref=JAS_4.14
+
+# source = The Greek New Testament, James 4
+# text = ἀντὶ τοῦ λέγειν ὑμᾶς ἐὰν ὁ κύριος θελήσῃ καὶ ζήσομεν καὶ ποιήσομεν τοῦτο ἢ ἐκεῖνο νῦν δὲ καυχᾶσθε ἐν ταῖς ἀλαζονίαις ὑμῶν
+# sent_id = 31889
+1	ἀντὶ	ἀντί	ADP	R-	_	3	case	_	ref=JAS_4.15
+2	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	3	det	_	ref=JAS_4.15
+3	λέγειν	λέγω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	18	advcl	_	ref=JAS_4.15
+4	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	ref=JAS_4.15
+5	ἐὰν	ἐάν	SCONJ	G-	_	8	mark	_	ref=JAS_4.15
+6	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	ref=JAS_4.15
+7	κύριος	κύριος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	ref=JAS_4.15
+8	θελήσῃ	ἐθέλω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	advcl	_	ref=JAS_4.15
+9	καὶ	καί	CCONJ	C-	_	10	cc	_	ref=JAS_4.15
+10	ζήσομεν	ζῶ	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	18	parataxis	_	ref=JAS_4.15
+11	καὶ	καί	CCONJ	C-	_	12	cc	_	ref=JAS_4.15
+12	ποιήσομεν	ποιέω	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	10	conj	_	ref=JAS_4.15
+13	τοῦτο	οὗτος	PRON	Pd	Case=Acc|Gender=Neut|Number=Sing	12	obj	_	ref=JAS_4.15
+14	ἢ	ἤ	CCONJ	C-	_	15	cc	_	ref=JAS_4.15
+15	ἐκεῖνο	ἐκεῖνος	PRON	Pd	Case=Acc|Gender=Neut|Number=Sing	13	conj	_	ref=JAS_4.15
+16	νῦν	νῦν	ADV	Df	_	18	advmod	_	ref=JAS_4.16|LId=1
+17	δὲ	δέ	ADV	Df	_	18	discourse	_	ref=JAS_4.16
+18	καυχᾶσθε	καυχάομαι	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=JAS_4.16
+19	ἐν	ἐν	ADP	R-	_	21	case	_	ref=JAS_4.16
+20	ταῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	21	det	_	ref=JAS_4.16
+21	ἀλαζονίαις	ἀλαζονεία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	18	obl	_	ref=JAS_4.16
+22	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	21	det	_	ref=JAS_4.16
+
+# source = The Greek New Testament, James 4
+# text = πᾶσα καύχησις τοιαύτη πονηρά ἐστιν
+# sent_id = 31892
+1	πᾶσα	πᾶς	DET	Px	Case=Nom|Gender=Fem|Number=Sing	2	det	_	ref=JAS_4.16
+2	καύχησις	καύχησις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	ref=JAS_4.16
+3	τοιαύτη	τοιοῦτος	DET	Pd	Case=Nom|Gender=Fem|Number=Sing	2	det	_	ref=JAS_4.16
+4	πονηρά	πονηρός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	ref=JAS_4.16
+5	ἐστιν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	ref=JAS_4.16|LId=1
+
+# source = The Greek New Testament, James 4
+# text = εἰδότι οὖν καλὸν ποιεῖν καὶ μὴ ποιοῦντι ἁμαρτία αὐτῷ ἐστιν
+# sent_id = 31893
+1	εἰδότι	οἶδα	VERB	V-	Aspect=Perf|Case=Dat|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	8	advcl	_	ref=JAS_4.17
+2	οὖν	οὖν	ADV	Df	_	1	discourse	_	ref=JAS_4.17
+3	καλὸν	καλός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	4	obj	_	ref=JAS_4.17
+4	ποιεῖν	ποιέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	ref=JAS_4.17
+5	καὶ	καί	CCONJ	C-	_	7	cc	_	ref=JAS_4.17
+6	μὴ	μή	ADV	Df	Polarity=Neg	7	advmod	_	ref=JAS_4.17
+7	ποιοῦντι	ποιέω	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	1	conj	_	ref=JAS_4.17
+8	ἁμαρτία	ἁμαρτία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	ref=JAS_4.17
+9	αὐτῷ	αὐτός	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl:arg	_	ref=JAS_4.17
+10	ἐστιν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	ref=JAS_4.17|LId=1
+
+# source = The Greek New Testament, James 5
+# text = Ἄγε νῦν οἱ πλούσιοι
+# sent_id = 31894
+1	Ἄγε	ἄγω	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_5.1
+2	νῦν	νῦν	ADV	Df	_	1	advmod	_	ref=JAS_5.1|LId=1
+3	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	4	det	_	ref=JAS_5.1
+4	πλούσιοι	πλούσιος	ADJ	A-	Case=Voc|Degree=Pos|Gender=Masc|Number=Plur	1	vocative	_	ref=JAS_5.1
+
+# source = The Greek New Testament, James 5
+# text = κλαύσατε ὀλολύζοντες ἐπὶ ταῖς ταλαιπωρίαις ὑμῶν ταῖς ἐπερχομέναις
+# sent_id = 159484
+1	κλαύσατε	κλαίω	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_5.1
+2	ὀλολύζοντες	ὀλολύζω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	1	advcl	_	ref=JAS_5.1
+3	ἐπὶ	ἐπί	ADP	R-	_	5	case	_	ref=JAS_5.1
+4	ταῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	5	det	_	ref=JAS_5.1
+5	ταλαιπωρίαις	ταλαιπωρία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	1	obl	_	ref=JAS_5.1
+6	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	5	det	_	ref=JAS_5.1
+7	ταῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	8	det	_	ref=JAS_5.1
+8	ἐπερχομέναις	ἐπέρχομαι	VERB	V-	Case=Dat|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	5	nmod	_	ref=JAS_5.1
+
+# source = The Greek New Testament, James 5
+# text = ὁ πλοῦτος ὑμῶν σέσηπεν καὶ τὰ ἱμάτια ὑμῶν σητόβρωτα γέγονεν
+# sent_id = 31895
+1	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	ref=JAS_5.2
+2	πλοῦτος	πλοῦτος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=JAS_5.2
+3	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	2	det	_	ref=JAS_5.2
+4	σέσηπεν	σήπω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_5.2
+5	καὶ	καί	CCONJ	C-	_	10	cc	_	ref=JAS_5.2
+6	τὰ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	7	det	_	ref=JAS_5.2
+7	ἱμάτια	ἱμάτιον	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	10	nsubj	_	ref=JAS_5.2
+8	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	7	det	_	ref=JAS_5.2
+9	σητόβρωτα	σητόβρωτος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	10	xcomp	_	ref=JAS_5.2
+10	γέγονεν	γίγνομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	ref=JAS_5.2
+
+# source = The Greek New Testament, James 5
+# text = ὁ χρυσὸς ὑμῶν καὶ ὁ ἄργυρος κατίωται καὶ ὁ ἰὸς αὐτῶν εἰς μαρτύριον ὑμῖν ἔσται καὶ φάγεται τὰς σάρκας ὑμῶν ὡς πῦρ
+# sent_id = 159485
+1	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	ref=JAS_5.3
+2	χρυσὸς	χρυσός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=JAS_5.3
+3	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	2	det	_	ref=JAS_5.3
+4	καὶ	καί	CCONJ	C-	_	6	cc	_	ref=JAS_5.3
+5	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	ref=JAS_5.3
+6	ἄργυρος	ἄργυρος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	ref=JAS_5.3
+7	κατίωται	κατιόομαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=JAS_5.3
+8	καὶ	καί	CCONJ	C-	_	13	cc	_	ref=JAS_5.3
+9	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	10	det	_	ref=JAS_5.3
+10	ἰὸς	ἰός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	ref=JAS_5.3
+11	αὐτῶν	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	det	_	ref=JAS_5.3
+12	εἰς	εἰς	ADP	R-	_	13	case	_	ref=JAS_5.3
+13	μαρτύριον	μαρτύριον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	7	conj	_	ref=JAS_5.3
+14	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	13	obl:arg	_	ref=JAS_5.3
+15	ἔσται	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	13	cop	_	ref=JAS_5.3|LId=1
+16	καὶ	καί	CCONJ	C-	_	17	cc	_	ref=JAS_5.3
+17	φάγεται	ἐσθίω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	7	conj	_	ref=JAS_5.3
+18	τὰς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	19	det	_	ref=JAS_5.3
+19	σάρκας	σάρξ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	17	obj	_	ref=JAS_5.3
+20	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	19	det	_	ref=JAS_5.3
+21	ὡς	ὡς	ADV	Df	_	22	mark	_	ref=JAS_5.3
+22	πῦρ	πῦρ	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	17	advcl:cmp	_	ref=JAS_5.3
+
+# source = The Greek New Testament, James 5
+# text = ἐθησαυρίσατε ἐν ἐσχάταις ἡμέραις
+# sent_id = 31896
+1	ἐθησαυρίσατε	θησαυρίζω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_5.3
+2	ἐν	ἐν	ADP	R-	_	4	case	_	ref=JAS_5.3
+3	ἐσχάταις	ἔσχατος	ADJ	A-	Case=Dat|Degree=Sup|Gender=Fem|Number=Plur	4	amod	_	ref=JAS_5.3
+4	ἡμέραις	ἡμέρα	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	1	obl	_	ref=JAS_5.3
+
+# source = The Greek New Testament, James 5
+# text = ἰδοὺ ὁ μισθὸς τῶν ἐργατῶν τῶν ἀμησάντων τὰς χώρας ὑμῶν ὁ ἀφυστερημένος ἀφ’ ὑμῶν κράζει καὶ αἱ βοαὶ τῶν θερισάντων εἰς τὰ ὦτα κυρίου σαβαὼθ εἰσελήλυθαν
+# sent_id = 31897
+1	ἰδοὺ	ἰδοὺ	INTJ	I-	_	15	discourse	_	ref=JAS_5.4
+2	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	ref=JAS_5.4
+3	μισθὸς	μισθός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	ref=JAS_5.4
+4	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	5	det	_	ref=JAS_5.4
+5	ἐργατῶν	ἐργάτης	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	ref=JAS_5.4
+6	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	7	det	_	ref=JAS_5.4
+7	ἀμησάντων	ἀμάω	VERB	V-	Aspect=Perf|Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	5	nmod	_	ref=JAS_5.4
+8	τὰς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	9	det	_	ref=JAS_5.4
+9	χώρας	χώρα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	7	obj	_	ref=JAS_5.4
+10	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	9	det	_	ref=JAS_5.4
+11	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	12	det	_	ref=JAS_5.4
+12	ἀφυστερημένος	ἀφυστερέω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	3	nmod	_	ref=JAS_5.4
+13	ἀφ’	ἀπό	ADP	R-	_	14	case	_	ref=JAS_5.4
+14	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	12	obl:agent	_	ref=JAS_5.4
+15	κράζει	κράζω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_5.4
+16	καὶ	καί	CCONJ	C-	_	26	cc	_	ref=JAS_5.4
+17	αἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	18	det	_	ref=JAS_5.4
+18	βοαὶ	βοή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	26	nsubj	_	ref=JAS_5.4
+19	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	20	det	_	ref=JAS_5.4
+20	θερισάντων	θερίζω	VERB	V-	Aspect=Perf|Case=Gen|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	18	nmod	_	ref=JAS_5.4
+21	εἰς	εἰς	ADP	R-	_	23	case	_	ref=JAS_5.4
+22	τὰ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	23	det	_	ref=JAS_5.4
+23	ὦτα	οὖς	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	26	obl	_	ref=JAS_5.4
+24	κυρίου	κύριος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	23	nmod	_	ref=JAS_5.4
+25	σαβαὼθ	Σαβαώθ	ADJ	F-	_	24	amod	_	ref=JAS_5.4
+26	εἰσελήλυθαν	εἰσέρχομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	conj	_	ref=JAS_5.4
+
+# source = The Greek New Testament, James 5
+# text = ἐτρυφήσατε ἐπὶ τῆς γῆς καὶ ἐσπαταλήσατε
+# sent_id = 31898
+1	ἐτρυφήσατε	τρυφάω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_5.5
+2	ἐπὶ	ἐπί	ADP	R-	_	4	case	_	ref=JAS_5.5
+3	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	ref=JAS_5.5
+4	γῆς	γῆ	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	1	obl	_	ref=JAS_5.5
+5	καὶ	καί	CCONJ	C-	_	6	cc	_	ref=JAS_5.5
+6	ἐσπαταλήσατε	σπαταλάω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	ref=JAS_5.5
+
+# source = The Greek New Testament, James 5
+# text = ἐθρέψατε τὰς καρδίας ὑμῶν ἐν ἡμέρᾳ σφαγῆς
+# sent_id = 159486
+1	ἐθρέψατε	τρέφω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_5.5
+2	τὰς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	3	det	_	ref=JAS_5.5
+3	καρδίας	καρδία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	1	obj	_	ref=JAS_5.5
+4	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	det	_	ref=JAS_5.5
+5	ἐν	ἐν	ADP	R-	_	6	case	_	ref=JAS_5.5
+6	ἡμέρᾳ	ἡμέρα	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	1	obl	_	ref=JAS_5.5
+7	σφαγῆς	σφαγή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	ref=JAS_5.5
+
+# source = The Greek New Testament, James 5
+# text = κατεδικάσατε
+# sent_id = 31899
+1	κατεδικάσατε	καταδικάζω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_5.6
+
+# source = The Greek New Testament, James 5
+# text = ἐφονεύσατε τὸν δίκαιον
+# sent_id = 159487
+1	ἐφονεύσατε	φονεύω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_5.6
+2	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	ref=JAS_5.6
+3	δίκαιον	δίκαιος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	1	obj	_	ref=JAS_5.6
+
+# source = The Greek New Testament, James 5
+# text = οὐκ ἀντιτάσσεται ὑμῖν
+# sent_id = 31900
+1	οὐκ	οὐ	ADV	Df	Polarity=Neg	2	advmod	_	ref=JAS_5.6
+2	ἀντιτάσσεται	ἀντιτάσσω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=JAS_5.6
+3	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	2	obl:arg	_	ref=JAS_5.6
+
+# source = The Greek New Testament, James 5
+# text = μακροθυμήσατε οὖν ἀδελφοί ἕως τῆς παρουσίας τοῦ κυρίου
+# sent_id = 31901
+1	μακροθυμήσατε	μακροθυμέω	VERB	V-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_5.7
+2	οὖν	οὖν	ADV	Df	_	1	discourse	_	ref=JAS_5.7
+3	ἀδελφοί	ἀδελφός	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	ref=JAS_5.7
+4	ἕως	ἕως	ADP	R-	_	6	case	_	ref=JAS_5.7
+5	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	ref=JAS_5.7
+6	παρουσίας	παρουσία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	1	obl	_	ref=JAS_5.7
+7	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	ref=JAS_5.7
+8	κυρίου	κύριος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	ref=JAS_5.7
+
+# source = The Greek New Testament, James 5
+# text = ἰδοὺ ὁ γεωργὸς ἐκδέχεται τὸν τίμιον καρπὸν τῆς γῆς μακροθυμῶν ἐπ’ αὐτῷ ἕως λάβῃ πρόϊμον καὶ ὄψιμον
+# sent_id = 31902
+1	ἰδοὺ	ἰδοὺ	INTJ	I-	_	4	discourse	_	ref=JAS_5.7
+2	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	ref=JAS_5.7
+3	γεωργὸς	γεωργός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=JAS_5.7
+4	ἐκδέχεται	ἐκδέχομαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=JAS_5.7
+5	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	ref=JAS_5.7
+6	τίμιον	τίμιος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	ref=JAS_5.7
+7	καρπὸν	καρπός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	ref=JAS_5.7
+8	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	ref=JAS_5.7
+9	γῆς	γῆ	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	ref=JAS_5.7
+10	μακροθυμῶν	μακροθυμέω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	advcl	_	ref=JAS_5.7
+11	ἐπ’	ἐπί	ADP	R-	_	12	case	_	ref=JAS_5.7
+12	αὐτῷ	αὐτός	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl	_	ref=JAS_5.7
+13	ἕως	ἕως	SCONJ	G-	_	14	mark	_	ref=JAS_5.7
+14	λάβῃ	λαμβάνω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	advcl	_	ref=JAS_5.7
+15	πρόϊμον	πρώϊμος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	14	obj	_	ref=JAS_5.7
+16	καὶ	καί	CCONJ	C-	_	17	cc	_	ref=JAS_5.7
+17	ὄψιμον	ὄψιμος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	15	conj	_	ref=JAS_5.7
+
+# source = The Greek New Testament, James 5
+# text = μακροθυμήσατε καὶ ὑμεῖς
+# sent_id = 31903
+1	μακροθυμήσατε	μακροθυμέω	VERB	V-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_5.8
+2	καὶ	καί	ADV	Df	_	3	advmod	_	ref=JAS_5.8|LId=1
+3	ὑμεῖς	ὑμεῖς	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	1	nsubj	_	ref=JAS_5.8
+
+# source = The Greek New Testament, James 5
+# text = στηρίξατε τὰς καρδίας ὑμῶν ὅτι ἡ παρουσία τοῦ κυρίου ἤγγικεν
+# sent_id = 159488
+1	στηρίξατε	στηρίζω	VERB	V-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_5.8
+2	τὰς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	3	det	_	ref=JAS_5.8
+3	καρδίας	καρδία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	1	obj	_	ref=JAS_5.8
+4	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	det	_	ref=JAS_5.8
+5	ὅτι	ὅτι	SCONJ	G-	_	10	mark	_	ref=JAS_5.8
+6	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	ref=JAS_5.8
+7	παρουσία	παρουσία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	10	nsubj	_	ref=JAS_5.8
+8	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	ref=JAS_5.8
+9	κυρίου	κύριος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	ref=JAS_5.8
+10	ἤγγικεν	ἐγγίζω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	ref=JAS_5.8
+
+# source = The Greek New Testament, James 5
+# text = μὴ στενάζετε κατ’ ἀλλήλων ἀδελφοί ἵνα μὴ κριθῆτε
+# sent_id = 31904
+1	μὴ	μή	ADV	Df	Polarity=Neg	2	advmod	_	ref=JAS_5.9
+2	στενάζετε	στενάζω	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_5.9
+3	κατ’	κατά	ADP	R-	_	4	case	_	ref=JAS_5.9
+4	ἀλλήλων	ἀλλήλων	PRON	Pc	Case=Gen|Gender=Masc|Number=Plur|PronType=Rcp	2	obl	_	ref=JAS_5.9
+5	ἀδελφοί	ἀδελφός	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	2	vocative	_	ref=JAS_5.9
+6	ἵνα	ἵνα	SCONJ	G-	_	8	mark	_	ref=JAS_5.9
+7	μὴ	μή	ADV	Df	Polarity=Neg	8	advmod	_	ref=JAS_5.9
+8	κριθῆτε	κρίνω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	2	advcl	_	ref=JAS_5.9
+
+# source = The Greek New Testament, James 5
+# text = ἰδοὺ ὁ κριτὴς πρὸ τῶν θυρῶν ἕστηκεν
+# sent_id = 31905
+1	ἰδοὺ	ἰδοὺ	INTJ	I-	_	7	discourse	_	ref=JAS_5.9
+2	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	ref=JAS_5.9
+3	κριτὴς	κριτής	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=JAS_5.9
+4	πρὸ	πρό	ADP	R-	_	6	case	_	ref=JAS_5.9
+5	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	6	det	_	ref=JAS_5.9
+6	θυρῶν	θύρα	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	7	obl	_	ref=JAS_5.9
+7	ἕστηκεν	ἵστημι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_5.9
+
+# source = The Greek New Testament, James 5
+# text = ὑπόδειγμα λάβετε ἀδελφοί τῆς κακοπαθείας καὶ τῆς μακροθυμίας τοὺς προφήτας οἳ ἐλάλησαν ἐν τῷ ὀνόματι κυρίου
+# sent_id = 31906
+1	ὑπόδειγμα	ὑπόδειγμα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	xcomp	_	ref=JAS_5.10
+2	λάβετε	λαμβάνω	VERB	V-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_5.10
+3	ἀδελφοί	ἀδελφός	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	2	vocative	_	ref=JAS_5.10
+4	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	ref=JAS_5.10
+5	κακοπαθείας	κακοπάθεια	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	ref=JAS_5.10
+6	καὶ	καί	CCONJ	C-	_	8	cc	_	ref=JAS_5.10
+7	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	ref=JAS_5.10
+8	μακροθυμίας	μακροθυμία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	5	conj	_	ref=JAS_5.10
+9	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	10	det	_	ref=JAS_5.10
+10	προφήτας	προφήτης	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	2	obj	_	ref=JAS_5.10
+11	οἳ	ὅς	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	12	nsubj	_	ref=JAS_5.10
+12	ἐλάλησαν	λαλέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	acl	_	ref=JAS_5.10
+13	ἐν	ἐν	ADP	R-	_	15	case	_	ref=JAS_5.10
+14	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	15	det	_	ref=JAS_5.10
+15	ὀνόματι	ὄνομα	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	12	obl	_	ref=JAS_5.10
+16	κυρίου	κύριος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	ref=JAS_5.10
+
+# source = The Greek New Testament, James 5
+# text = ἰδοὺ μακαρίζομεν τοὺς ὑπομείναντας
+# sent_id = 31907
+1	ἰδοὺ	ἰδοὺ	INTJ	I-	_	2	discourse	_	ref=JAS_5.11
+2	μακαρίζομεν	μακαρίζω	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_5.11
+3	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	4	det	_	ref=JAS_5.11
+4	ὑπομείναντας	ὑπομένω	VERB	V-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	2	obj	_	ref=JAS_5.11
+
+# source = The Greek New Testament, James 5
+# text = τὴν ὑπομονὴν Ἰὼβ ἠκούσατε καὶ τὸ τέλος κυρίου εἴδετε ὅτι πολύσπλαγχνός ἐστιν ὁ κύριος καὶ οἰκτίρμων
+# sent_id = 31908
+1	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	ref=JAS_5.11
+2	ὑπομονὴν	ὑπομονή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	ref=JAS_5.11
+3	Ἰὼβ	Ἰὼβ	PROPN	Ne	_	2	nmod	_	ref=JAS_5.11
+4	ἠκούσατε	ἀκούω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_5.11
+5	καὶ	καί	CCONJ	C-	_	9	cc	_	ref=JAS_5.11
+6	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	7	det	_	ref=JAS_5.11
+7	τέλος	τέλος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	ref=JAS_5.11
+8	κυρίου	κύριος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	ref=JAS_5.11
+9	εἴδετε	ὁράω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	ref=JAS_5.11
+10	ὅτι	ὅτι	SCONJ	G-	_	11	mark	_	ref=JAS_5.11
+11	πολύσπλαγχνός	πολύσπλαγχνος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	ccomp	_	ref=JAS_5.11
+12	ἐστιν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	ref=JAS_5.11|LId=1
+13	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	14	det	_	ref=JAS_5.11
+14	κύριος	κύριος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	ref=JAS_5.11
+15	καὶ	καί	CCONJ	C-	_	16	cc	_	ref=JAS_5.11
+16	οἰκτίρμων	οἰκτίρμων	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	11	conj	_	ref=JAS_5.11
+
+# source = The Greek New Testament, James 5
+# text = Πρὸ πάντων δέ ἀδελφοί μου μὴ ὀμνύετε μήτε τὸν οὐρανὸν μήτε τὴν γῆν μήτε ἄλλον τινὰ ὅρκον
+# sent_id = 31909
+1	Πρὸ	πρό	ADP	R-	_	2	case	_	ref=JAS_5.12
+2	πάντων	πᾶς	PRON	Px	Case=Gen|Gender=Neut|Number=Plur	7	obl	_	ref=JAS_5.12
+3	δέ	δέ	ADV	Df	_	7	discourse	_	ref=JAS_5.12
+4	ἀδελφοί	ἀδελφός	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	7	vocative	_	ref=JAS_5.12
+5	μου	ἐγώ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	det	_	ref=JAS_5.12
+6	μὴ	μή	ADV	Df	Polarity=Neg	7	advmod	_	ref=JAS_5.12
+7	ὀμνύετε	ὄμνυμι	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_5.12
+8	μή	μή	ADV	G-	Polarity=Neg	10	advmod	_	ref=JAS_5.12|Sub=1
+8.1	-τε	τε	CCONJ	C-	_	10	cc	_	ref=JAS_5.12|Sub=2
+9	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	10	det	_	ref=JAS_5.12
+10	οὐρανὸν	οὐρανός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	ref=JAS_5.12
+11	μή	μή	ADV	G-	Polarity=Neg	13	advmod	_	ref=JAS_5.12|Sub=1
+11.1	-τε	τε	CCONJ	C-	_	13	cc	_	ref=JAS_5.12|Sub=2
+12	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	13	det	_	ref=JAS_5.12
+13	γῆν	γῆ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	conj	_	ref=JAS_5.12
+14	μή	μή	ADV	G-	Polarity=Neg	17	advmod	_	ref=JAS_5.12|Sub=1
+14.1	-τε	τε	CCONJ	C-	_	17	cc	_	ref=JAS_5.12|Sub=2
+15	ἄλλον	ἄλλος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	ref=JAS_5.12
+16	τινὰ	τὶς	DET	Px	Case=Acc|Gender=Masc|Number=Sing	17	det	_	ref=JAS_5.12
+17	ὅρκον	ὅρκος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	10	conj	_	ref=JAS_5.12
+
+# source = The Greek New Testament, James 5
+# text = ἤτω δὲ ὑμῶν τὸ ναὶ ναὶ καὶ τὸ οὒ οὔ ἵνα μὴ ὑπὸ κρίσιν πέσητε
+# sent_id = 31910
+1	ἤτω	εἰμί	AUX	V-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	ref=JAS_5.12|LId=1
+2	δὲ	δέ	ADV	Df	_	6	discourse	_	ref=JAS_5.12
+3	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	5	det	_	ref=JAS_5.12
+4	τὸ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	ref=JAS_5.12
+5	ναὶ	ναί	INTJ	I-	_	6	nsubj	_	ref=JAS_5.12
+6	ναὶ	ναί	INTJ	I-	_	0	root	_	ref=JAS_5.12
+7	καὶ	καί	CCONJ	C-	_	10	cc	_	ref=JAS_5.12
+8	τὸ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	9	det	_	ref=JAS_5.12
+9	οὒ	οὐ	ADV	Df	Polarity=Neg	10	nsubj	_	ref=JAS_5.12
+10	οὔ	οὐ	ADV	Df	Polarity=Neg	6	conj	_	ref=JAS_5.12
+11	ἵνα	ἵνα	SCONJ	G-	_	15	mark	_	ref=JAS_5.12
+12	μὴ	μή	ADV	Df	Polarity=Neg	15	advmod	_	ref=JAS_5.12
+13	ὑπὸ	ὑπό	ADP	R-	_	14	case	_	ref=JAS_5.12
+14	κρίσιν	κρίσις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	15	obl	_	ref=JAS_5.12
+15	πέσητε	πίπτω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	10	advcl	_	ref=JAS_5.12
+
+# source = The Greek New Testament, James 5
+# text = Κακοπαθεῖ τις ἐν ὑμῖν
+# sent_id = 31911
+1	Κακοπαθεῖ	κακοπαθέω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_5.13
+2	τις	τὶς	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=JAS_5.13
+3	ἐν	ἐν	ADP	R-	_	4	case	_	ref=JAS_5.13
+4	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	1	obl	_	ref=JAS_5.13
+
+# source = The Greek New Testament, James 5
+# text = προσευχέσθω
+# sent_id = 31912
+1	προσευχέσθω	προσεύχομαι	VERB	V-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=JAS_5.13
+
+# source = The Greek New Testament, James 5
+# text = εὐθυμεῖ τις
+# sent_id = 31913
+1	εὐθυμεῖ	εὐθυμέω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_5.13
+2	τις	τὶς	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=JAS_5.13
+
+# source = The Greek New Testament, James 5
+# text = ψαλλέτω
+# sent_id = 31914
+1	ψαλλέτω	ψάλλω	VERB	V-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_5.13
+
+# source = The Greek New Testament, James 5
+# text = ἀσθενεῖ τις ἐν ὑμῖν
+# sent_id = 31915
+1	ἀσθενεῖ	ἀσθενέω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_5.14
+2	τις	τὶς	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=JAS_5.14
+3	ἐν	ἐν	ADP	R-	_	4	case	_	ref=JAS_5.14
+4	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	1	obl	_	ref=JAS_5.14
+
+# source = The Greek New Testament, James 5
+# text = προσκαλεσάσθω τοὺς πρεσβυτέρους τῆς ἐκκλησίας καὶ προσευξάσθωσαν ἐπ’ αὐτὸν ἀλείψαντες ἐλαίῳ ἐν τῷ ὀνόματι τοῦ κυρίου
+# sent_id = 31916
+1	προσκαλεσάσθω	προσκαλέω	VERB	V-	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	ref=JAS_5.14
+2	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	3	det	_	ref=JAS_5.14
+3	πρεσβυτέρους	πρέσβυς	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur	1	obj	_	ref=JAS_5.14
+4	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	ref=JAS_5.14
+5	ἐκκλησίας	ἐκκλησία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	ref=JAS_5.14
+6	καὶ	καί	CCONJ	C-	_	7	cc	_	ref=JAS_5.14
+7	προσευξάσθωσαν	προσεύχομαι	VERB	V-	Aspect=Perf|Mood=Imp|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	1	conj	_	ref=JAS_5.14
+8	ἐπ’	ἐπί	ADP	R-	_	9	case	_	ref=JAS_5.14
+9	αὐτὸν	αὐτός	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	ref=JAS_5.14
+10	ἀλείψαντες	ἀλείφω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	7	advcl	_	ref=JAS_5.14
+11	ἐλαίῳ	ἔλαιον	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	10	obl	_	ref=JAS_5.14
+12	ἐν	ἐν	ADP	R-	_	14	case	_	ref=JAS_5.14
+13	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	14	det	_	ref=JAS_5.14
+14	ὀνόματι	ὄνομα	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	10	obl	_	ref=JAS_5.14
+15	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	16	det	_	ref=JAS_5.14
+16	κυρίου	κύριος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	ref=JAS_5.14
+
+# source = The Greek New Testament, James 5
+# text = καὶ ἡ εὐχὴ τῆς πίστεως σώσει τὸν κάμνοντα καὶ ἐγερεῖ αὐτὸν ὁ κύριος
+# sent_id = 31917
+1	καὶ	καί	CCONJ	C-	_	6	cc	_	ref=JAS_5.15
+2	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	ref=JAS_5.15
+3	εὐχὴ	εὐχή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	ref=JAS_5.15
+4	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	ref=JAS_5.15
+5	πίστεως	πίστις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	ref=JAS_5.15
+6	σώσει	σῴζω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_5.15
+7	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	ref=JAS_5.15
+8	κάμνοντα	κάμνω	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	obj	_	ref=JAS_5.15
+9	καὶ	καί	CCONJ	C-	_	10	cc	_	ref=JAS_5.15
+10	ἐγερεῖ	ἐγείρω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	6	conj	_	ref=JAS_5.15
+11	αὐτὸν	αὐτός	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obj	_	ref=JAS_5.15
+12	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	13	det	_	ref=JAS_5.15
+13	κύριος	κύριος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	ref=JAS_5.15
+
+# source = The Greek New Testament, James 5
+# text = καὶ ἄν ἁμαρτίας ᾖ πεποιηκώς ἀφεθήσεται αὐτῷ
+# sent_id = 31918
+1	καὶ	καί	ADV	Df	_	5	advmod	_	ref=JAS_5.15|LId=1
+2	ἄν	ἐάν	SCONJ	G-	_	5	mark	_	ref=JAS_5.15
+3	ἁμαρτίας	ἁμαρτία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	5	obj	_	ref=JAS_5.15
+4	ᾖ	εἰμί	AUX	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	ref=JAS_5.15|LId=1
+5	πεποιηκώς	ποιέω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	6	advcl	_	ref=JAS_5.15
+6	ἀφεθήσεται	ἀφίημι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	ref=JAS_5.15
+7	αὐτῷ	αὐτός	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	obl:arg	_	ref=JAS_5.15
+
+# source = The Greek New Testament, James 5
+# text = ἐξομολογεῖσθε οὖν ἀλλήλοις τὰς ἁμαρτίας καὶ εὔχεσθε ὑπὲρ ἀλλήλων ὅπως ἰαθῆτε
+# sent_id = 31919
+1	ἐξομολογεῖσθε	ἐξομολογέομαι	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=JAS_5.16
+2	οὖν	οὖν	ADV	Df	_	1	discourse	_	ref=JAS_5.16
+3	ἀλλήλοις	ἀλλήλων	PRON	Pc	Case=Dat|Gender=Masc|Number=Plur|PronType=Rcp	1	obl:arg	_	ref=JAS_5.16
+4	τὰς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	5	det	_	ref=JAS_5.16
+5	ἁμαρτίας	ἁμαρτία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	1	obj	_	ref=JAS_5.16
+6	καὶ	καί	CCONJ	C-	_	7	cc	_	ref=JAS_5.16
+7	εὔχεσθε	εὔχομαι	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	1	conj	_	ref=JAS_5.16
+8	ὑπὲρ	ὑπέρ	ADP	R-	_	9	case	_	ref=JAS_5.16
+9	ἀλλήλων	ἀλλήλων	PRON	Pc	Case=Gen|Gender=Masc|Number=Plur|PronType=Rcp	7	obl	_	ref=JAS_5.16
+10	ὅπως	ὅπως	SCONJ	G-	_	11	mark	_	ref=JAS_5.16
+11	ἰαθῆτε	ἰάομαι	VERB	V-	Aspect=Perf|Mood=Sub|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	7	advcl	_	ref=JAS_5.16
+
+# source = The Greek New Testament, James 5
+# text = πολὺ ἰσχύει δέησις δικαίου ἐνεργουμένη
+# sent_id = 31920
+1	πολὺ	πολύς	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	2	obj	_	ref=JAS_5.16
+2	ἰσχύει	ἰσχύω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_5.16
+3	δέησις	δέησις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	ref=JAS_5.16
+4	δικαίου	δίκαιος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	ref=JAS_5.16
+5	ἐνεργουμένη	ἐνεργέω	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	2	advcl	_	ref=JAS_5.16
+
+# source = The Greek New Testament, James 5
+# text = Ἠλείας ἄνθρωπος ἦν ὁμοιοπαθὴς ἡμῖν καὶ προσευχῇ προσηύξατο τοῦ μὴ βρέξαι καὶ οὐκ ἔβρεξεν ἐπὶ τῆς γῆς ἐνιαυτοὺς τρεῖς καὶ μῆνας ἕξ
+# sent_id = 31921
+1	Ἠλείας	Ἡλίας	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	ref=JAS_5.17
+2	ἄνθρωπος	ἄνθρωπος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=JAS_5.17
+3	ἦν	εἰμί	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	_	ref=JAS_5.17|LId=1
+4	ὁμοιοπαθὴς	ὁμοιοπαθής	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	ref=JAS_5.17
+5	ἡμῖν	ἡμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	4	obl	_	ref=JAS_5.17
+6	καὶ	καί	CCONJ	C-	_	8	cc	_	ref=JAS_5.17
+7	προσευχῇ	προσευχή	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	8	obl	_	ref=JAS_5.17
+8	προσηύξατο	προσεύχομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	ref=JAS_5.17
+9	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	11	det	_	ref=JAS_5.17
+10	μὴ	μή	ADV	Df	Polarity=Neg	11	advmod	_	ref=JAS_5.17
+11	βρέξαι	βρέχω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	8	obl	_	ref=JAS_5.17
+12	καὶ	καί	CCONJ	C-	_	14	cc	_	ref=JAS_5.17
+13	οὐκ	οὐ	ADV	Df	Polarity=Neg	14	advmod	_	ref=JAS_5.17
+14	ἔβρεξεν	βρέχω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	ref=JAS_5.17
+15	ἐπὶ	ἐπί	ADP	R-	_	17	case	_	ref=JAS_5.17
+16	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	17	det	_	ref=JAS_5.17
+17	γῆς	γῆ	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	14	obl	_	ref=JAS_5.17
+18	ἐνιαυτοὺς	ἐνιαυτός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	14	obl	_	ref=JAS_5.17
+19	τρεῖς	τρεῖς	NUM	Ma	Case=Acc|Gender=Masc|Number=Plur	18	nummod	_	ref=JAS_5.17
+20	καὶ	καί	CCONJ	C-	_	21	cc	_	ref=JAS_5.17
+21	μῆνας	μείς	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	18	conj	_	ref=JAS_5.17
+22	ἕξ	ἕξ	NUM	Ma	_	21	nummod	_	ref=JAS_5.17
+
+# source = The Greek New Testament, James 5
+# text = καὶ πάλιν προσηύξατο καὶ ὁ οὐρανὸς ἔδωκεν ὑετὸν καὶ ἡ γῆ ἐβλάστησεν τὸν καρπὸν αὐτῆς
+# sent_id = 31922
+1	καὶ	καί	CCONJ	C-	_	3	cc	_	ref=JAS_5.18
+2	πάλιν	πάλιν	ADV	Df	_	3	advmod	_	ref=JAS_5.18
+3	προσηύξατο	προσεύχομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	ref=JAS_5.18
+4	καὶ	καί	CCONJ	C-	_	7	cc	_	ref=JAS_5.18
+5	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	ref=JAS_5.18
+6	οὐρανὸς	οὐρανός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	ref=JAS_5.18
+7	ἔδωκεν	δίδωμι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=JAS_5.18
+8	ὑετὸν	ὑετός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	ref=JAS_5.18
+9	καὶ	καί	CCONJ	C-	_	12	cc	_	ref=JAS_5.18
+10	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	11	det	_	ref=JAS_5.18
+11	γῆ	γῆ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	ref=JAS_5.18
+12	ἐβλάστησεν	βλαστάνω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	ref=JAS_5.18
+13	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	14	det	_	ref=JAS_5.18
+14	καρπὸν	καρπός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	12	obj	_	ref=JAS_5.18
+15	αὐτῆς	αὐτός	PRON	Pp	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	det	_	ref=JAS_5.18
+
+# source = The Greek New Testament, James 5
+# text = Ἀδελφοί μου ἐάν τις ἐν ὑμῖν πλανηθῇ ἀπὸ τῆς ἀληθείας καὶ ἐπιστρέψῃ τις αὐτόν γινωσκέτω ὅτι ὁ ἐπιστρέψας ἁμαρτωλὸν ἐκ πλάνης ὁδοῦ αὐτοῦ σώσει ψυχὴν αὐτοῦ ἐκ θανάτου καὶ καλύψει πλῆθος ἁμαρτιῶν
+# sent_id = 31923
+1	Ἀδελφοί	ἀδελφός	NOUN	Nb	Case=Voc|Gender=Masc|Number=Plur	15	vocative	_	ref=JAS_5.19
+2	μου	ἐγώ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	1	det	_	ref=JAS_5.19
+3	ἐάν	ἐάν	SCONJ	G-	_	7	mark	_	ref=JAS_5.19
+4	τις	τὶς	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	7	nsubj:pass	_	ref=JAS_5.19
+5	ἐν	ἐν	ADP	R-	_	6	case	_	ref=JAS_5.19
+6	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	7	obl	_	ref=JAS_5.19
+7	πλανηθῇ	πλανάω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	15	advcl	_	ref=JAS_5.19
+8	ἀπὸ	ἀπό	ADP	R-	_	10	case	_	ref=JAS_5.19
+9	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	10	det	_	ref=JAS_5.19
+10	ἀληθείας	ἀλήθεια	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	obl	_	ref=JAS_5.19
+11	καὶ	καί	CCONJ	C-	_	12	cc	_	ref=JAS_5.19
+12	ἐπιστρέψῃ	ἐπιστρέφω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	ref=JAS_5.19
+13	τις	τὶς	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	ref=JAS_5.19
+14	αὐτόν	αὐτός	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	ref=JAS_5.19
+15	γινωσκέτω	γιγνώσκω	VERB	V-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JAS_5.20
+16	ὅτι	ὅτι	SCONJ	G-	_	24	mark	_	ref=JAS_5.20
+17	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	18	det	_	ref=JAS_5.20
+18	ἐπιστρέψας	ἐπιστρέφω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	24	nsubj	_	ref=JAS_5.20
+19	ἁμαρτωλὸν	ἁμαρτωλός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	18	obj	_	ref=JAS_5.20
+20	ἐκ	ἐκ	ADP	R-	_	22	case	_	ref=JAS_5.20
+21	πλάνης	πλάνη	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	ref=JAS_5.20
+22	ὁδοῦ	ὁδός	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	18	obl	_	ref=JAS_5.20
+23	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	det	_	ref=JAS_5.20
+24	σώσει	σῴζω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	15	ccomp	_	ref=JAS_5.20
+25	ψυχὴν	ψυχή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	24	obj	_	ref=JAS_5.20
+26	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	25	det	_	ref=JAS_5.20
+27	ἐκ	ἐκ	ADP	R-	_	28	case	_	ref=JAS_5.20
+28	θανάτου	θάνατος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	24	obl	_	ref=JAS_5.20
+29	καὶ	καί	CCONJ	C-	_	30	cc	_	ref=JAS_5.20
+30	καλύψει	καλύπτω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	24	conj	_	ref=JAS_5.20
+31	πλῆθος	πλῆθος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	30	obj	_	ref=JAS_5.20
+32	ἁμαρτιῶν	ἁμαρτία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	31	nmod	_	ref=JAS_5.20
