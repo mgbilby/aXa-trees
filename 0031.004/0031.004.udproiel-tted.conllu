@@ -42,8 +42,8 @@
 6	χωρὶς	χωρίς	ADP	R-	_	7	case	_	ref=JOHN_1.3
 7	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	obl	_	ref=JOHN_1.3
 8	ἐγένετο	γίγνομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	4	conj	_	ref=JOHN_1.3
-9	οὐ	οὐ	ADV	Df	Polarity=Neg	10	advmod	_	ref=JOHN_1.3|sub
-9	-δέ	δέ	CCONJ	C-	_	10	cc	_	ref=JOHN_1.3|sub
+9	οὐ	οὐ	ADV	G-	Polarity=Neg	10	advmod	_	ref=JOHN_1.3|Sub=1
+9.1	-δέ	δέ	CCONJ	C-	_	10	cc	_	ref=JOHN_1.3|Sub=2
 10	ἕν	εἷς	NUM	Ma	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	ref=JOHN_1.3
 11	ὃ	ὅς	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	12	nsubj	_	ref=JOHN_1.3
 12	γέγονεν	γίγνομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	acl	_	ref=JOHN_1.3
@@ -204,13 +204,13 @@
 18	οὐκ	οὐ	ADV	Df	Polarity=Neg	20	advmod	_	ref=JOHN_1.13
 19	ἐξ	ἐκ	ADP	R-	_	20	case	_	ref=JOHN_1.13
 20	αἱμάτων	αἷμα	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	32	obl	_	ref=JOHN_1.13
-21	οὐ	οὐ	ADV	Df	Polarity=Neg	23	advmod	_	ref=JOHN_1.13|sub
-21	-δέ	δέ	CCONJ	C-	_	23	cc	_	ref=JOHN_1.13|sub
+21	οὐ	οὐ	ADV	G-	Polarity=Neg	23	advmod	_	ref=JOHN_1.13|Sub=1
+21.1	-δέ	δέ	CCONJ	C-	_	23	cc	_	ref=JOHN_1.13|Sub=2
 22	ἐκ	ἐκ	ADP	R-	_	23	case	_	ref=JOHN_1.13
 23	θελήματος	θέλημα	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	20	conj	_	ref=JOHN_1.13
 24	σαρκὸς	σάρξ	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	ref=JOHN_1.13
-25	οὐ	οὐ	ADV	Df	Polarity=Neg	27	advmod	_	ref=JOHN_1.13|sub
-25	-δέ	δέ	CCONJ	C-	_	27	cc	_	ref=JOHN_1.13|sub
+25	οὐ	οὐ	ADV	G-	Polarity=Neg	27	advmod	_	ref=JOHN_1.13|Sub=1
+25.1	-δέ	δέ	CCONJ	C-	_	27	cc	_	ref=JOHN_1.13|Sub=2
 26	ἐκ	ἐκ	ADP	R-	_	27	case	_	ref=JOHN_1.13
 27	θελήματος	θέλημα	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	20	conj	_	ref=JOHN_1.13
 28	ἀνδρὸς	ἀνήρ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	27	nmod	_	ref=JOHN_1.13
@@ -534,11 +534,11 @@
 7	εἶ	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	ref=JOHN_1.25|LId=1
 8	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	ref=JOHN_1.25
 9	Χριστὸς	Χριστός	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	advcl	_	ref=JOHN_1.25
-10	οὐ	οὐ	ADV	Df	Polarity=Neg	11	advmod	_	ref=JOHN_1.25|sub
-10	-δέ	δέ	CCONJ	C-	_	11	cc	_	ref=JOHN_1.25|sub
+10	οὐ	οὐ	ADV	G-	Polarity=Neg	11	advmod	_	ref=JOHN_1.25|Sub=1
+10.1	-δέ	δέ	CCONJ	C-	_	11	cc	_	ref=JOHN_1.25|Sub=2
 11	Ἡλείας	Ἡλίας	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	9	conj	_	ref=JOHN_1.25
-12	οὐ	οὐ	ADV	Df	Polarity=Neg	14	advmod	_	ref=JOHN_1.25|sub
-12	-δέ	δέ	CCONJ	C-	_	14	cc	_	ref=JOHN_1.25|sub
+12	οὐ	οὐ	ADV	G-	Polarity=Neg	14	advmod	_	ref=JOHN_1.25|Sub=1
+12.1	-δέ	δέ	CCONJ	C-	_	14	cc	_	ref=JOHN_1.25|Sub=2
 13	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	14	det	_	ref=JOHN_1.25
 14	προφήτης	προφήτης	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	9	conj	_	ref=JOHN_1.25
 
@@ -2934,8 +2934,8 @@
 # text = κύριε οὔτε ἄντλημα ἔχεις καὶ τὸ φρέαρ ἐστὶν βαθύ
 # sent_id = 22067
 1	κύριε	κύριος	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	ref=JOHN_4.11
-2	οὐ	οὐ	ADV	Df	Polarity=Neg	4	advmod	_	ref=JOHN_4.11|sub
-2	-τε	τε	CCONJ	C-	_	4	cc	_	ref=JOHN_4.11|sub
+2	οὐ	οὐ	ADV	G-	Polarity=Neg	4	advmod	_	ref=JOHN_4.11|Sub=1
+2.1	-τε	τε	CCONJ	C-	_	4	cc	_	ref=JOHN_4.11|Sub=2
 3	ἄντλημα	ἄντλημα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	ref=JOHN_4.11
 4	ἔχεις	ἔχω	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_4.11
 5	καὶ	καί	CCONJ	C-	_	9	cc	_	ref=JOHN_4.11
@@ -3064,8 +3064,8 @@
 7	ἵνα	ἵνα	SCONJ	G-	_	9	mark	_	ref=JOHN_4.15
 8	μὴ	μή	ADV	Df	Polarity=Neg	9	advmod	_	ref=JOHN_4.15
 9	διψῶ	διψάω	VERB	V-	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	ref=JOHN_4.15
-10	μή	μή	ADV	Df	Polarity=Neg	11	advmod	_	ref=JOHN_4.15|sub
-10	-δέ	δέ	CCONJ	C-	_	11	cc	_	ref=JOHN_4.15|sub
+10	μή	μή	ADV	G-	Polarity=Neg	11	advmod	_	ref=JOHN_4.15|Sub=1
+10.1	-δέ	δέ	CCONJ	C-	_	11	cc	_	ref=JOHN_4.15|Sub=2
 11	διέρχωμαι	διέρχομαι	VERB	V-	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	9	conj	_	ref=JOHN_4.15
 12	ἐνθάδε	ἐνθάδε	ADV	Df	_	11	advmod	_	ref=JOHN_4.15
 13	ἀντλεῖν	ἀντλέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	11	advcl	_	ref=JOHN_4.15
@@ -3213,14 +3213,14 @@
 5	ἔρχεται	ἔρχομαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	1	ccomp	_	ref=JOHN_4.21
 6	ὥρα	ὥρα	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	ref=JOHN_4.21
 7	ὅτε	ὅτε	ADV	Dq	PronType=Rel	16	advcl	_	ref=JOHN_4.21
-8	οὐ	οὐ	ADV	Df	Polarity=Neg	11	advmod	_	ref=JOHN_4.21|sub
-8	-τε	τε	CCONJ	C-	_	11	cc	_	ref=JOHN_4.21|sub
+8	οὐ	οὐ	ADV	G-	Polarity=Neg	11	advmod	_	ref=JOHN_4.21|Sub=1
+8.1	-τε	τε	CCONJ	C-	_	11	cc	_	ref=JOHN_4.21|Sub=2
 9	ἐν	ἐν	ADP	R-	_	11	case	_	ref=JOHN_4.21
 10	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	11	det	_	ref=JOHN_4.21
 11	ὄρει	ὄρος	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	16	obl	_	ref=JOHN_4.21|LId=1
 12	τούτῳ	οὗτος	DET	Pd	Case=Dat|Gender=Neut|Number=Sing	11	det	_	ref=JOHN_4.21
-13	οὐ	οὐ	ADV	Df	Polarity=Neg	15	advmod	_	ref=JOHN_4.21|sub
-13	-τε	τε	CCONJ	C-	_	15	cc	_	ref=JOHN_4.21|sub
+13	οὐ	οὐ	ADV	G-	Polarity=Neg	15	advmod	_	ref=JOHN_4.21|Sub=1
+13.1	-τε	τε	CCONJ	C-	_	15	cc	_	ref=JOHN_4.21|Sub=2
 14	ἐν	ἐν	ADP	R-	_	15	case	_	ref=JOHN_4.21
 15	Ἱεροσολύμοις	Ἱεροσόλυμα	PROPN	Ne	Case=Dat|Gender=Neut|Number=Plur	11	conj	_	ref=JOHN_4.21
 16	προσκυνήσετε	προσκυνέω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	6	acl	_	ref=JOHN_4.21
@@ -4547,8 +4547,8 @@
 # source = The Greek New Testament, John 5
 # text = οὐδὲ γὰρ ὁ πατὴρ κρίνει οὐδένα ἀλλὰ τὴν κρίσιν πᾶσαν δέδωκεν τῷ υἱῷ ἵνα πάντες τιμῶσι τὸν υἱὸν καθὼς τιμῶσι τὸν πατέρα
 # sent_id = 22182
-1	οὐ	οὐ	ADV	Df	Polarity=Neg	5	advmod	_	ref=JOHN_5.22|sub
-1	-δέ	δέ	CCONJ	C-	_	5	cc	_	ref=JOHN_5.22|sub
+1	οὐ	οὐ	ADV	G-	Polarity=Neg	5	advmod	_	ref=JOHN_5.22|Sub=1
+1.1	-δέ	δέ	CCONJ	C-	_	5	cc	_	ref=JOHN_5.22|Sub=2
 2	γὰρ	γάρ	ADV	Df	_	5	discourse	_	ref=JOHN_5.22
 3	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	ref=JOHN_5.22
 4	πατὴρ	πατήρ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=JOHN_5.22
@@ -4912,14 +4912,14 @@
 # source = The Greek New Testament, John 5
 # text = οὔτε φωνὴν αὐτοῦ πώποτε ἀκηκόατε οὔτε εἶδος αὐτοῦ ἑωράκατε καὶ τὸν λόγον αὐτοῦ οὐκ ἔχετε ἐν ὑμῖν μένοντα ὅτι ὃν ἀπέστειλεν ἐκεῖνος τούτῳ ὑμεῖς οὐ πιστεύετε
 # sent_id = 22198
-1	οὐ	οὐ	ADV	Df	Polarity=Neg	5	advmod	_	ref=JOHN_5.37|sub
-1	-τε	τε	CCONJ	C-	_	5	cc	_	ref=JOHN_5.37|sub
+1	οὐ	οὐ	ADV	G-	Polarity=Neg	5	advmod	_	ref=JOHN_5.37|Sub=1
+1.1	-τε	τε	CCONJ	C-	_	5	cc	_	ref=JOHN_5.37|Sub=2
 2	φωνὴν	φωνή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	ref=JOHN_5.37
 3	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	det	_	ref=JOHN_5.37
 4	πώποτε	πώποτε	ADV	Df	_	5	advmod	_	ref=JOHN_5.37
 5	ἀκηκόατε	ἀκούω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_5.37
-6	οὐ	οὐ	ADV	Df	Polarity=Neg	9	advmod	_	ref=JOHN_5.37|sub
-6	-τε	τε	CCONJ	C-	_	9	cc	_	ref=JOHN_5.37|sub
+6	οὐ	οὐ	ADV	G-	Polarity=Neg	9	advmod	_	ref=JOHN_5.37|Sub=1
+6.1	-τε	τε	CCONJ	C-	_	9	cc	_	ref=JOHN_5.37|Sub=2
 7	εἶδος	εἶδος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	ref=JOHN_5.37
 8	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	det	_	ref=JOHN_5.37
 9	ἑωράκατε	ὁράω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	ref=JOHN_5.37
@@ -5640,8 +5640,8 @@
 8	οὐκ	οὐ	ADV	Df	Polarity=Neg	7	advmod	_	ref=JOHN_6.24
 9	ἔστιν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	ref=JOHN_6.24|LId=1
 10	ἐκεῖ	ἐκεῖ	ADV	Df	_	3	ccomp	_	ref=JOHN_6.24
-11	οὐ	οὐ	ADV	Df	Polarity=Neg	13	advmod	_	ref=JOHN_6.24|sub
-11	-δέ	δέ	CCONJ	C-	_	13	cc	_	ref=JOHN_6.24|sub
+11	οὐ	οὐ	ADV	G-	Polarity=Neg	13	advmod	_	ref=JOHN_6.24|Sub=1
+11.1	-δέ	δέ	CCONJ	C-	_	13	cc	_	ref=JOHN_6.24|Sub=2
 12	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	13	det	_	ref=JOHN_6.24
 13	μαθηταὶ	μαθητής	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	7	conj	_	ref=JOHN_6.24
 14	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	det	_	ref=JOHN_6.24
@@ -6954,8 +6954,8 @@
 # source = The Greek New Testament, John 7
 # text = οὐδὲ γὰρ οἱ ἀδελφοὶ αὐτοῦ ἐπίστευον εἰς αὐτόν
 # sent_id = 22329
-1	οὐ	οὐ	ADV	Df	Polarity=Neg	4	advmod	_	ref=JOHN_7.5|sub
-1	-δέ	δέ	CCONJ	C-	_	4	cc	_	ref=JOHN_7.5|sub
+1	οὐ	οὐ	ADV	G-	Polarity=Neg	4	advmod	_	ref=JOHN_7.5|Sub=1
+1.1	-δέ	δέ	CCONJ	C-	_	4	cc	_	ref=JOHN_7.5|Sub=2
 2	γὰρ	γάρ	ADV	Df	_	6	discourse	_	ref=JOHN_7.5
 3	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	4	det	_	ref=JOHN_7.5
 4	ἀδελφοὶ	ἀδελφός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	ref=JOHN_7.5
@@ -8324,8 +8324,8 @@
 # source = The Greek New Testament, John 8
 # text = οὐδὲ ἐγώ σε κατακρίνω
 # sent_id = 22452
-1	οὐ	οὐ	ADV	Df	Polarity=Neg	2	advmod	_	ref=JOHN_8.11|sub
-1	-δέ	δέ	CCONJ	C-	_	2	cc	_	ref=JOHN_8.11|sub
+1	οὐ	οὐ	ADV	G-	Polarity=Neg	2	advmod	_	ref=JOHN_8.11|Sub=1
+1.1	-δέ	δέ	CCONJ	C-	_	2	cc	_	ref=JOHN_8.11|Sub=2
 2	ἐγώ	ἐγώ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	ref=JOHN_8.11
 3	σε	σύ	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Sing|Person=2|PronType=Prs	4	obj	_	ref=JOHN_8.11
 4	κατακρίνω	κατακρίνω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_8.11
@@ -8553,12 +8553,12 @@
 # source = The Greek New Testament, John 8
 # text = οὔτε ἐμὲ οἴδατε οὔτε τὸν πατέρα μου
 # sent_id = 22469
-1	οὐ	οὐ	ADV	Df	Polarity=Neg	2	advmod	_	ref=JOHN_8.19|sub
-1	-τε	τε	CCONJ	C-	_	2	cc	_	ref=JOHN_8.19|sub
+1	οὐ	οὐ	ADV	G-	Polarity=Neg	2	advmod	_	ref=JOHN_8.19|Sub=1
+1.1	-τε	τε	CCONJ	C-	_	2	cc	_	ref=JOHN_8.19|Sub=2
 2	ἐμὲ	ἐγώ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	obj	_	ref=JOHN_8.19
 3	οἴδατε	οἶδα	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_8.19
-4	οὐ	οὐ	ADV	Df	Polarity=Neg	6	advmod	_	ref=JOHN_8.19|sub
-4	-τε	τε	CCONJ	C-	_	6	cc	_	ref=JOHN_8.19|sub
+4	οὐ	οὐ	ADV	G-	Polarity=Neg	6	advmod	_	ref=JOHN_8.19|Sub=1
+4.1	-τε	τε	CCONJ	C-	_	6	cc	_	ref=JOHN_8.19|Sub=2
 5	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	ref=JOHN_8.19
 6	πατέρα	πατήρ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	conj	_	ref=JOHN_8.19
 7	μου	ἐγώ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs	6	det	_	ref=JOHN_8.19
@@ -9213,8 +9213,8 @@
 # source = The Greek New Testament, John 8
 # text = οὐδὲ γὰρ ἀπ’ ἐμαυτοῦ ἐλήλυθα ἀλλ’ ἐκεῖνός με ἀπέστειλεν
 # sent_id = 22522
-1	οὐ	οὐ	ADV	Df	Polarity=Neg	5	advmod	_	ref=JOHN_8.42|sub
-1	-δέ	δέ	CCONJ	C-	_	5	cc	_	ref=JOHN_8.42|sub
+1	οὐ	οὐ	ADV	G-	Polarity=Neg	5	advmod	_	ref=JOHN_8.42|Sub=1
+1.1	-δέ	δέ	CCONJ	C-	_	5	cc	_	ref=JOHN_8.42|Sub=2
 2	γὰρ	γάρ	ADV	Df	_	5	discourse	_	ref=JOHN_8.42
 3	ἀπ’	ἀπό	ADP	R-	_	4	case	_	ref=JOHN_8.42
 4	ἐμαυτοῦ	ἐμαυτοῦ	PRON	Pk	Case=Gen|Gender=Masc|Number=Sing|Person=1|PronType=Prs|Reflex=Yes	5	obl	_	ref=JOHN_8.42
@@ -9758,12 +9758,12 @@
 # source = The Greek New Testament, John 9
 # text = οὔτε οὗτος ἥμαρτεν οὔτε οἱ γονεῖς αὐτοῦ ἀλλ’ ἵνα φανερωθῇ τὰ ἔργα τοῦ θεοῦ ἐν αὐτῷ
 # sent_id = 22563
-1	οὐ	οὐ	ADV	Df	Polarity=Neg	2	advmod	_	ref=JOHN_9.3|sub
-1	-τε	τε	CCONJ	C-	_	2	cc	_	ref=JOHN_9.3|sub
+1	οὐ	οὐ	ADV	G-	Polarity=Neg	2	advmod	_	ref=JOHN_9.3|Sub=1
+1.1	-τε	τε	CCONJ	C-	_	2	cc	_	ref=JOHN_9.3|Sub=2
 2	οὗτος	οὗτος	PRON	Pd	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=JOHN_9.3
 3	ἥμαρτεν	ἁμαρτάνω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_9.3
-4	οὐ	οὐ	ADV	Df	Polarity=Neg	6	advmod	_	ref=JOHN_9.3|sub
-4	-τε	τε	CCONJ	C-	_	6	cc	_	ref=JOHN_9.3|sub
+4	οὐ	οὐ	ADV	G-	Polarity=Neg	6	advmod	_	ref=JOHN_9.3|Sub=1
+4.1	-τε	τε	CCONJ	C-	_	6	cc	_	ref=JOHN_9.3|Sub=2
 5	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	6	det	_	ref=JOHN_9.3
 6	γονεῖς	γονεύς	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	conj	_	ref=JOHN_9.3
 7	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	det	_	ref=JOHN_9.3
@@ -12891,8 +12891,8 @@
 2	οὐκ	οὐ	ADV	Df	Polarity=Neg	3	advmod	_	ref=JOHN_11.49
 3	οἴδατε	οἶδα	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_11.49
 4	οὐδέν	οὐδείς	PRON	Px	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	ref=JOHN_11.49
-5	οὐ	οὐ	ADV	Df	Polarity=Neg	6	advmod	_	ref=JOHN_11.50|sub
-5	-δέ	δέ	CCONJ	C-	_	6	cc	_	ref=JOHN_11.50|sub
+5	οὐ	οὐ	ADV	G-	Polarity=Neg	6	advmod	_	ref=JOHN_11.50|Sub=1
+5.1	-δέ	δέ	CCONJ	C-	_	6	cc	_	ref=JOHN_11.50|Sub=2
 6	λογίζεσθε	λογίζομαι	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	3	conj	_	ref=JOHN_11.50
 7	ὅτι	ὅτι	SCONJ	G-	_	8	mark	_	ref=JOHN_11.50
 8	συμφέρει	συμφέρω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	_	ref=JOHN_11.50
@@ -14686,8 +14686,8 @@
 5	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	ref=JOHN_13.16
 6	κυρίου	κύριος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	obl:arg	_	ref=JOHN_13.16
 7	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	det	_	ref=JOHN_13.16
-8	οὐ	οὐ	ADV	Df	Polarity=Neg	10	advmod	_	ref=JOHN_13.16|sub
-8	-δέ	δέ	CCONJ	C-	_	10	cc	_	ref=JOHN_13.16|sub
+8	οὐ	οὐ	ADV	G-	Polarity=Neg	10	advmod	_	ref=JOHN_13.16|Sub=1
+8.1	-δέ	δέ	CCONJ	C-	_	10	cc	_	ref=JOHN_13.16|Sub=2
 9	ἀπόστολος	ἀπόστολος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	ref=JOHN_13.16
 10	μείζων	μέγας	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	4	conj	_	ref=JOHN_13.16
 11	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	12	det	_	ref=JOHN_13.16
@@ -15674,8 +15674,8 @@
 29	οὐ	οὐ	ADV	Df	Polarity=Neg	30	advmod	_	ref=JOHN_14.17
 30	θεωρεῖ	θεωρέω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	advcl	_	ref=JOHN_14.17
 31	αὐτὸ	αὐτός	PRON	Pp	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	30	obj	_	ref=JOHN_14.17
-32	οὐ	οὐ	ADV	Df	Polarity=Neg	33	advmod	_	ref=JOHN_14.17|sub
-32	-δέ	δέ	CCONJ	C-	_	33	cc	_	ref=JOHN_14.17|sub
+32	οὐ	οὐ	ADV	G-	Polarity=Neg	33	advmod	_	ref=JOHN_14.17|Sub=1
+32.1	-δέ	δέ	CCONJ	C-	_	33	cc	_	ref=JOHN_14.17|Sub=2
 33	γινώσκει	γιγνώσκω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	30	conj	_	ref=JOHN_14.17
 34	αὐτό	αὐτός	PRON	Pp	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	33	obj	_	ref=JOHN_14.17
 
@@ -15966,8 +15966,8 @@
 3	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	5	det	_	ref=JOHN_14.27
 4	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	ref=JOHN_14.27
 5	καρδία	καρδία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj:pass	_	ref=JOHN_14.27
-6	μή	μή	ADV	Df	Polarity=Neg	7	advmod	_	ref=JOHN_14.27|sub
-6	-δέ	δέ	CCONJ	C-	_	7	cc	_	ref=JOHN_14.27|sub
+6	μή	μή	ADV	G-	Polarity=Neg	7	advmod	_	ref=JOHN_14.27|Sub=1
+6.1	-δέ	δέ	CCONJ	C-	_	7	cc	_	ref=JOHN_14.27|Sub=2
 7	δειλιάτω	δειλιάω	VERB	V-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	ref=JOHN_14.27
 
 # source = The Greek New Testament, John 14
@@ -16164,8 +16164,8 @@
 14	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	15	det	_	ref=JOHN_15.4
 15	ἀμπέλῳ	ἄμπελος	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	12	obl	_	ref=JOHN_15.4
 16	οὕτως	οὕτω(ς)	ADV	Df	_	18	orphan	_	ref=JOHN_15.4
-17	οὐ	οὐ	ADV	Df	Polarity=Neg	18	advmod	_	ref=JOHN_15.4|sub
-17	-δέ	δέ	CCONJ	C-	_	18	cc	_	ref=JOHN_15.4|sub
+17	οὐ	οὐ	ADV	G-	Polarity=Neg	18	advmod	_	ref=JOHN_15.4|Sub=1
+17.1	-δέ	δέ	CCONJ	C-	_	18	cc	_	ref=JOHN_15.4|Sub=2
 18	ὑμεῖς	ὑμεῖς	PRON	Pp	Case=Nom|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	0	root	_	ref=JOHN_15.4
 19	ἐὰν	ἐάν	SCONJ	G-	_	23	mark	_	ref=JOHN_15.4
 20	μὴ	μή	ADV	Df	Polarity=Neg	23	advmod	_	ref=JOHN_15.4
@@ -16783,8 +16783,8 @@
 6	ἔγνωσαν	γιγνώσκω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	advcl	_	ref=JOHN_16.3
 7	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	ref=JOHN_16.3
 8	πατέρα	πατήρ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	ref=JOHN_16.3
-9	οὐ	οὐ	ADV	Df	Polarity=Neg	10	advmod	_	ref=JOHN_16.3|sub
-9	-δέ	δέ	CCONJ	C-	_	10	cc	_	ref=JOHN_16.3|sub
+9	οὐ	οὐ	ADV	G-	Polarity=Neg	10	advmod	_	ref=JOHN_16.3|Sub=1
+9.1	-δέ	δέ	CCONJ	C-	_	10	cc	_	ref=JOHN_16.3|Sub=2
 10	ἐμέ	ἐγώ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	8	conj	_	ref=JOHN_16.3
 
 # source = The Greek New Testament, John 16
@@ -22189,4 +22189,3 @@
 17	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	18	det	_	ref=JOHN_21.24
 18	μαρτυρία	μαρτυρία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	15	nsubj	_	ref=JOHN_21.24
 19	ἐστίν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	cop	_	ref=JOHN_21.24|LId=1
-
