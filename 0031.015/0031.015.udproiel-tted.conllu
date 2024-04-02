@@ -1,0 +1,2032 @@
+# source = The Greek New Testament, 1 Timothy 1
+# text = Παῦλος ἀπόστολος Χριστοῦ Ἰησοῦ κατ’ ἐπιταγὴν θεοῦ σωτῆρος ἡμῶν καὶ Χριστοῦ Ἰησοῦ τῆς ἐλπίδος ἡμῶν Τιμοθέῳ γνησίῳ τέκνῳ ἐν πίστει
+# sent_id = 30526
+1	Παῦλος	Παῦλος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=1TIM_1.1
+2	ἀπόστολος	ἀπόστολος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	appos	_	ref=1TIM_1.1
+3	Χριστοῦ	Χριστός	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	ref=1TIM_1.1
+4	Ἰησοῦ	Ἰησοῦς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	flat:name	_	ref=1TIM_1.1
+5	κατ’	κατά	ADP	R-	_	6	case	_	ref=1TIM_1.1
+6	ἐπιταγὴν	ἐπιταγή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	nmod	_	ref=1TIM_1.1
+7	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	ref=1TIM_1.1
+8	σωτῆρος	σωτήρ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	appos	_	ref=1TIM_1.1
+9	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	8	nmod	_	ref=1TIM_1.1
+10	καὶ	καί	CCONJ	C-	_	11	cc	_	ref=1TIM_1.1
+11	Χριστοῦ	Χριστός	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	7	conj	_	ref=1TIM_1.1
+12	Ἰησοῦ	Ἰησοῦς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	11	flat:name	_	ref=1TIM_1.1
+13	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	14	det	_	ref=1TIM_1.1
+14	ἐλπίδος	ἐλπίς	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	11	appos	_	ref=1TIM_1.1
+15	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	14	det	_	ref=1TIM_1.1
+16	Τιμοθέῳ	Τιμόθεος	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	1	orphan	_	ref=1TIM_1.2
+17	γνησίῳ	γνήσιος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc,Neut|Number=Sing	18	amod	_	ref=1TIM_1.2
+18	τέκνῳ	τέκνον	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	16	appos	_	ref=1TIM_1.2
+19	ἐν	ἐν	ADP	R-	_	20	case	_	ref=1TIM_1.2
+20	πίστει	πίστις	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	18	nmod	_	ref=1TIM_1.2
+
+# source = The Greek New Testament, 1 Timothy 1
+# text = χάρις ἔλεος εἰρήνη ἀπὸ θεοῦ πατρὸς καὶ Χριστοῦ Ἰησοῦ τοῦ κυρίου ἡμῶν
+# sent_id = 30527
+1	χάρις	χάρις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	ref=1TIM_1.2
+2	ἔλεος	ἔλεος	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	1	conj	_	ref=1TIM_1.2
+3	εἰρήνη	εἰρήνη	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	ref=1TIM_1.2
+4	ἀπὸ	ἀπό	ADP	R-	_	5	case	_	ref=1TIM_1.2
+5	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	orphan	_	ref=1TIM_1.2
+6	πατρὸς	πατήρ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	5	appos	_	ref=1TIM_1.2
+7	καὶ	καί	CCONJ	C-	_	8	cc	_	ref=1TIM_1.2
+8	Χριστοῦ	Χριστός	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	5	conj	_	ref=1TIM_1.2
+9	Ἰησοῦ	Ἰησοῦς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	8	flat:name	_	ref=1TIM_1.2
+10	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	11	det	_	ref=1TIM_1.2
+11	κυρίου	κύριος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	appos	_	ref=1TIM_1.2
+12	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	11	det	_	ref=1TIM_1.2
+
+# source = The Greek New Testament, 1 Timothy 1
+# text = Καθὼς παρεκάλεσά σε προσμεῖναι ἐν Ἐφέσῳ πορευόμενος εἰς Μακεδονίαν ἵνα παραγγείλῃς τισὶν μὴ ἑτεροδιδασκαλεῖν μηδὲ προσέχειν μύθοις καὶ γενεαλογίαις ἀπεράντοις αἵτινες ἐκζητήσεις παρέχουσιν μᾶλλον ἢ οἰκονομίαν θεοῦ τὴν ἐν πίστει
+# sent_id = 30528
+1	Καθὼς	καθώς	ADV	Dq	PronType=Rel	2	advcl	_	ref=1TIM_1.3
+2	παρεκάλεσά	παρακαλέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	11	orphan	_	ref=1TIM_1.3
+3	σε	σύ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	2	obj	_	ref=1TIM_1.3
+4	προσμεῖναι	προσμένω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=1TIM_1.3
+5	ἐν	ἐν	ADP	R-	_	6	case	_	ref=1TIM_1.3
+6	Ἐφέσῳ	Ἔφεσος	PROPN	Ne	Case=Dat|Gender=Fem|Number=Sing	4	obl	_	ref=1TIM_1.3
+7	πορευόμενος	πορεύομαι	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	2	advcl	_	ref=1TIM_1.3
+8	εἰς	εἰς	ADP	R-	_	9	case	_	ref=1TIM_1.3
+9	Μακεδονίαν	Μακεδονία	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	ref=1TIM_1.3
+10	ἵνα	ἵνα	SCONJ	G-	_	11	mark	_	ref=1TIM_1.3
+11	παραγγείλῃς	παραγγέλλω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_1.3
+12	τισὶν	τὶς	PRON	Px	Case=Dat|Gender=Masc|Number=Plur	11	obl:arg	_	ref=1TIM_1.3
+13	μὴ	μή	ADV	Df	Polarity=Neg	14	advmod	_	ref=1TIM_1.3
+14	ἑτεροδιδασκαλεῖν	ἑτεροδιδασκαλέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	11	xcomp	_	ref=1TIM_1.3
+15	μή	μή	ADV	G-	Polarity=Neg	16	advmod	_	ref=1TIM_1.4|Sub=1
+15.1	-δέ	δέ	CCONJ	C-	_	16	cc	_	ref=1TIM_1.4|Sub=2
+16	προσέχειν	προσέχω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	14	conj	_	ref=1TIM_1.4
+17	μύθοις	μῦθος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	16	obl:arg	_	ref=1TIM_1.4
+18	καὶ	καί	CCONJ	C-	_	19	cc	_	ref=1TIM_1.4
+19	γενεαλογίαις	γενεαλογία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	17	conj	_	ref=1TIM_1.4
+20	ἀπεράντοις	ἀπέραντος	ADJ	A-	Case=Dat|Degree=Pos|Number=Plur	19	amod	_	ref=1TIM_1.4
+21	αἵτινες	ὅστις	PRON	Pr	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	23	nsubj	_	ref=1TIM_1.4
+22	ἐκζητήσεις	ζήτησις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	23	obj	_	ref=1TIM_1.4
+23	παρέχουσιν	παρέχω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	acl	_	ref=1TIM_1.4
+24	μᾶλλον	μᾶλλον	ADV	Df	Degree=Cmp	23	advmod	_	ref=1TIM_1.4
+25	ἢ	ἤ	ADV	Df	_	26	mark	_	ref=1TIM_1.4
+26	οἰκονομίαν	οἰκονομία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	24	advcl:cmp	_	ref=1TIM_1.4
+27	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	26	nmod	_	ref=1TIM_1.4
+28	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	30	det	_	ref=1TIM_1.4
+29	ἐν	ἐν	ADP	R-	_	30	case	_	ref=1TIM_1.4
+30	πίστει	πίστις	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	26	nmod	_	ref=1TIM_1.4
+
+# source = The Greek New Testament, 1 Timothy 1
+# text = τὸ δὲ τέλος τῆς παραγγελίας ἐστὶν ἀγάπη ἐκ καθαρᾶς καρδίας καὶ συνειδήσεως ἀγαθῆς καὶ πίστεως ἀνυποκρίτου ὧν τινες ἀστοχήσαντες ἐξετράπησαν εἰς ματαιολογίαν θέλοντες εἶναι νομοδιδάσκαλοι μὴ νοοῦντες μήτε ἃ λέγουσιν μήτε περὶ τίνων διαβεβαιοῦνται
+# sent_id = 30529
+1	τὸ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	ref=1TIM_1.5
+2	δὲ	δέ	ADV	Df	_	7	discourse	_	ref=1TIM_1.5
+3	τέλος	τέλος	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	ref=1TIM_1.5
+4	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	ref=1TIM_1.5
+5	παραγγελίας	παραγγελία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	ref=1TIM_1.5
+6	ἐστὶν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	ref=1TIM_1.5|LId=1
+7	ἀγάπη	ἀγάπη	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	ref=1TIM_1.5
+8	ἐκ	ἐκ	ADP	R-	_	10	case	_	ref=1TIM_1.5
+9	καθαρᾶς	καθαρός	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	ref=1TIM_1.5
+10	καρδίας	καρδία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	ref=1TIM_1.5
+11	καὶ	καί	CCONJ	C-	_	12	cc	_	ref=1TIM_1.5
+12	συνειδήσεως	συνείδησις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	10	conj	_	ref=1TIM_1.5
+13	ἀγαθῆς	ἀγαθός	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	ref=1TIM_1.5
+14	καὶ	καί	CCONJ	C-	_	15	cc	_	ref=1TIM_1.5
+15	πίστεως	πίστις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	10	conj	_	ref=1TIM_1.5
+16	ἀνυποκρίτου	ἀνυπόκριτος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	ref=1TIM_1.5
+17	ὧν	ὅς	PRON	Pr	Case=Gen|Gender=Fem|Number=Plur|PronType=Rel	19	obl:arg	_	ref=1TIM_1.6
+18	τινες	τὶς	PRON	Px	Case=Nom|Gender=Masc|Number=Plur	20	nsubj:pass	_	ref=1TIM_1.6
+19	ἀστοχήσαντες	ἀστοχέω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	20	advcl	_	ref=1TIM_1.6
+20	ἐξετράπησαν	ἐκτρέπω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	10	acl	_	ref=1TIM_1.6
+21	εἰς	εἰς	ADP	R-	_	22	case	_	ref=1TIM_1.6
+22	ματαιολογίαν	ματαιολογία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	20	obl	_	ref=1TIM_1.6
+23	θέλοντες	ἐθέλω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	20	advcl	_	ref=1TIM_1.7
+24	εἶναι	εἰμί	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	25	cop	_	ref=1TIM_1.7|LId=1
+25	νομοδιδάσκαλοι	νομοδιδάσκαλος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	23	xcomp	_	ref=1TIM_1.7
+26	μὴ	μή	ADV	Df	Polarity=Neg	27	advmod	_	ref=1TIM_1.7
+27	νοοῦντες	νοέω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	23	advcl	_	ref=1TIM_1.7
+28	μή	μή	ADV	G-	Polarity=Neg	30	advmod	_	ref=1TIM_1.7|Sub=1
+28.1	-τε	τε	CCONJ	C-	_	30	cc	_	ref=1TIM_1.7|Sub=2
+29	ἃ	ὅς	PRON	Pr	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	30	obj	_	ref=1TIM_1.7
+30	λέγουσιν	λέγω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	obj	_	ref=1TIM_1.7
+31	μή	μή	ADV	G-	Polarity=Neg	30	advmod	_	ref=1TIM_1.7|Sub=1
+31.1	-τε	τε	CCONJ	C-	_	30	cc	_	ref=1TIM_1.7|Sub=2
+32	περὶ	περί	ADP	R-	_	33	case	_	ref=1TIM_1.7
+33	τίνων	τίς	PRON	Pi	Case=Gen|Gender=Neut|Number=Plur|PronType=Int	34	obl	_	ref=1TIM_1.7
+34	διαβεβαιοῦνται	διαβεβαιόομαι	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	30	ccomp	_	ref=1TIM_1.7
+
+# source = The Greek New Testament, 1 Timothy 1
+# text = οἴδαμεν δὲ ὅτι καλὸς ὁ νόμος ἐάν τις αὐτῷ νομίμως χρῆται εἰδὼς τοῦτο ὅτι δικαίῳ νόμος οὐ κεῖται ἀνόμοις δὲ καὶ ἀνυποτάκτοις ἀσεβέσι καὶ ἁμαρτωλοῖς ἀνοσίοις καὶ Βεβήλοις πατρολῴαις καὶ μητρολῴαις ἀνδροφόνοις πόρνοις ἀρσενοκοίταις ἀνδραποδισταῖς ψεύσταις ἐπιόρκοις καὶ εἴ τι ἕτερον τῇ ὑγιαινούσῃ διδασκαλίᾳ ἀντίκειται κατὰ τὸ εὐαγγέλιον τῆς δόξης τοῦ μακαρίου θεοῦ ὃ ἐπιστεύθην ἐγώ
+# sent_id = 30530
+1	οἴδαμεν	οἶδα	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_1.8
+2	δὲ	δέ	ADV	Df	_	1	discourse	_	ref=1TIM_1.8
+3	ὅτι	ὅτι	SCONJ	G-	_	4	mark	_	ref=1TIM_1.8
+4	καλὸς	καλός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	ccomp	_	ref=1TIM_1.8
+5	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	ref=1TIM_1.8
+6	νόμος	νόμος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=1TIM_1.8
+7	ἐάν	ἐάν	SCONJ	G-	_	11	mark	_	ref=1TIM_1.8
+8	τις	τὶς	PRON	Px	Case=Nom|Gender=Fem,Masc|Number=Sing	11	nsubj	_	ref=1TIM_1.8
+9	αὐτῷ	αὐτός	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl:arg	_	ref=1TIM_1.8
+10	νομίμως	νομίμως	ADV	Df	Degree=Pos	11	advmod	_	ref=1TIM_1.8
+11	χρῆται	χράω	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	4	advcl	_	ref=1TIM_1.8
+12	εἰδὼς	οἶδα	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	11	advcl	_	ref=1TIM_1.9
+13	τοῦτο	οὗτος	PRON	Pd	Case=Acc|Gender=Neut|Number=Sing	12	obj	_	ref=1TIM_1.9
+14	ὅτι	ὅτι	SCONJ	G-	_	18	mark	_	ref=1TIM_1.9
+15	δικαίῳ	δίκαιος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	18	obl:arg	_	ref=1TIM_1.9
+16	νόμος	νόμος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	ref=1TIM_1.9
+17	οὐ	οὐ	ADV	Df	Polarity=Neg	15	advmod	_	ref=1TIM_1.9
+18	κεῖται	κεῖμαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	13	acl	_	ref=1TIM_1.9
+19	ἀνόμοις	ἄνομος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	15	conj	_	ref=1TIM_1.9
+20	δὲ	δέ	ADV	Df	_	19	discourse	_	ref=1TIM_1.9
+21	καὶ	καί	CCONJ	C-	_	22	cc	_	ref=1TIM_1.9
+22	ἀνυποτάκτοις	ἀνυπότακτος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	19	conj	_	ref=1TIM_1.9
+23	ἀσεβέσι	ἀσεβής	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	19	conj	_	ref=1TIM_1.9
+24	καὶ	καί	CCONJ	C-	_	25	cc	_	ref=1TIM_1.9
+25	ἁμαρτωλοῖς	ἁμαρτωλός	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	23	conj	_	ref=1TIM_1.9
+26	ἀνοσίοις	ἀνόσιος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	19	conj	_	ref=1TIM_1.9
+27	καὶ	καί	CCONJ	C-	_	28	cc	_	ref=1TIM_1.9
+28	Βεβήλοις	βέβηλος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	26	conj	_	ref=1TIM_1.9
+29	πατρολῴαις	πατρολῴας	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	19	conj	_	ref=1TIM_1.9
+30	καὶ	καί	CCONJ	C-	_	31	cc	_	ref=1TIM_1.9
+31	μητρολῴαις	μητρολῴας	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	29	conj	_	ref=1TIM_1.9
+32	ἀνδροφόνοις	ἀνδροφόνος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	19	conj	_	ref=1TIM_1.9
+33	πόρνοις	πόρνος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	32	conj	_	ref=1TIM_1.10
+34	ἀρσενοκοίταις	ἀρσενοκοίτης	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	32	conj	_	ref=1TIM_1.10
+35	ἀνδραποδισταῖς	ἀνδραποδιστής	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	32	conj	_	ref=1TIM_1.10
+36	ψεύσταις	ψεύστης	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	32	conj	_	ref=1TIM_1.10
+37	ἐπιόρκοις	ἐπίορκος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	32	conj	_	ref=1TIM_1.10
+38	καὶ	καί	CCONJ	C-	_	32	cc	_	ref=1TIM_1.10
+39	εἴ	εἰ	SCONJ	G-	_	45	mark	_	ref=1TIM_1.10
+40	τι	τὶς	DET	Px	Case=Nom|Gender=Neut|Number=Sing	41	det	_	ref=1TIM_1.10
+41	ἕτερον	ἕτερος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	45	nsubj	_	ref=1TIM_1.10
+42	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	44	det	_	ref=1TIM_1.10
+43	ὑγιαινούσῃ	ὑγιαίνω	VERB	V-	Case=Dat|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	44	acl	_	ref=1TIM_1.10
+44	διδασκαλίᾳ	διδασκαλία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	45	obl:arg	_	ref=1TIM_1.10
+45	ἀντίκειται	ἀντίκειμαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	32	advcl	_	ref=1TIM_1.10
+46	κατὰ	κατά	ADP	R-	_	48	case	_	ref=1TIM_1.11
+47	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	48	det	_	ref=1TIM_1.11
+48	εὐαγγέλιον	εὐαγγέλιον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	45	obl	_	ref=1TIM_1.11
+49	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	50	det	_	ref=1TIM_1.11
+50	δόξης	δόξα	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	48	nmod	_	ref=1TIM_1.11
+51	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	53	det	_	ref=1TIM_1.11
+52	μακαρίου	μακάριος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc,Neut|Number=Sing	53	amod	_	ref=1TIM_1.11
+53	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	50	nmod	_	ref=1TIM_1.11
+54	ὃ	ὅς	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	55	advcl	_	ref=1TIM_1.11
+55	ἐπιστεύθην	πιστεύω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	48	acl	_	ref=1TIM_1.11
+56	ἐγώ	ἐγώ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	55	nsubj:pass	_	ref=1TIM_1.11
+
+# source = The Greek New Testament, 1 Timothy 1
+# text = χάριν ἔχω τῷ ἐνδυναμώσαντί με Χριστῷ Ἰησοῦ τῷ κυρίῳ ἡμῶν ὅτι πιστόν με ἡγήσατο θέμενος εἰς διακονίαν τὸ πρότερον ὄντα βλάσφημον καὶ διώκτην καὶ ὑβριστήν
+# sent_id = 30531
+1	χάριν	χάρις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	ref=1TIM_1.12
+2	ἔχω	ἔχω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_1.12
+3	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	4	det	_	ref=1TIM_1.12
+4	ἐνδυναμώσαντί	ἐνδυναμόω	VERB	V-	Aspect=Perf|Case=Dat|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	2	obl	_	ref=1TIM_1.12
+5	με	ἐγώ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	4	obj	_	ref=1TIM_1.12
+6	Χριστῷ	Χριστός	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	4	appos	_	ref=1TIM_1.12
+7	Ἰησοῦ	Ἰησοῦς	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	6	flat:name	_	ref=1TIM_1.12
+8	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	9	det	_	ref=1TIM_1.12
+9	κυρίῳ	κύριος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	6	appos	_	ref=1TIM_1.12
+10	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	9	det	_	ref=1TIM_1.12
+11	ὅτι	ὅτι	SCONJ	G-	_	14	mark	_	ref=1TIM_1.12
+12	πιστόν	πιστός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	14	xcomp	_	ref=1TIM_1.12
+13	με	ἐγώ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	14	obj	_	ref=1TIM_1.12
+14	ἡγήσατο	ἡγέομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	2	advcl	_	ref=1TIM_1.12
+15	θέμενος	τίθημι	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	14	advcl	_	ref=1TIM_1.12
+16	εἰς	εἰς	ADP	R-	_	17	case	_	ref=1TIM_1.12
+17	διακονίαν	διακονία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	15	obl	_	ref=1TIM_1.12
+18	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	19	det	_	ref=1TIM_1.13
+19	πρότερον	πρότερος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	21	advmod	_	ref=1TIM_1.13
+20	ὄντα	εἰμί	AUX	V-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	21	cop	_	ref=1TIM_1.13|LId=1
+21	βλάσφημον	βλάσφημος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	14	advcl	_	ref=1TIM_1.13
+22	καὶ	καί	CCONJ	C-	_	23	cc	_	ref=1TIM_1.13
+23	διώκτην	διώκτης	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	21	conj	_	ref=1TIM_1.13
+24	καὶ	καί	CCONJ	C-	_	25	cc	_	ref=1TIM_1.13
+25	ὑβριστήν	ὑβριστής	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	21	conj	_	ref=1TIM_1.13
+
+# source = The Greek New Testament, 1 Timothy 1
+# text = ἀλλὰ ἠλεήθην ὅτι ἀγνοῶν ἐποίησα ἐν ἀπιστίᾳ
+# sent_id = 49961
+1	ἀλλὰ	ἀλλά	CCONJ	C-	_	2	cc	_	ref=1TIM_1.13
+2	ἠλεήθην	ἐλεέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	ref=1TIM_1.13
+3	ὅτι	ὅτι	SCONJ	G-	_	5	mark	_	ref=1TIM_1.13
+4	ἀγνοῶν	ἀγνοέω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	advcl	_	ref=1TIM_1.13
+5	ἐποίησα	ποιέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	ref=1TIM_1.13
+6	ἐν	ἐν	ADP	R-	_	7	case	_	ref=1TIM_1.13
+7	ἀπιστίᾳ	ἀπιστία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	5	obl	_	ref=1TIM_1.13
+
+# source = The Greek New Testament, 1 Timothy 1
+# text = ὑπερεπλεόνασεν δὲ ἡ χάρις τοῦ κυρίου ἡμῶν μετὰ πίστεως καὶ ἀγάπης τῆς ἐν Χριστῷ Ἰησοῦ
+# sent_id = 49962
+1	ὑπερεπλεόνασεν	ὑπερπλεονάζω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_1.14
+2	δὲ	δέ	ADV	Df	_	1	discourse	_	ref=1TIM_1.14
+3	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	ref=1TIM_1.14
+4	χάρις	χάρις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	ref=1TIM_1.14
+5	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	6	det	_	ref=1TIM_1.14
+6	κυρίου	κύριος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	ref=1TIM_1.14
+7	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	6	det	_	ref=1TIM_1.14
+8	μετὰ	μετά	ADP	R-	_	9	case	_	ref=1TIM_1.14
+9	πίστεως	πίστις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	1	obl	_	ref=1TIM_1.14
+10	καὶ	καί	CCONJ	C-	_	11	cc	_	ref=1TIM_1.14
+11	ἀγάπης	ἀγάπη	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	9	conj	_	ref=1TIM_1.14
+12	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	14	det	_	ref=1TIM_1.14
+13	ἐν	ἐν	ADP	R-	_	14	case	_	ref=1TIM_1.14
+14	Χριστῷ	Χριστός	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	11	nmod	_	ref=1TIM_1.14
+15	Ἰησοῦ	Ἰησοῦς	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	14	flat:name	_	ref=1TIM_1.14
+
+# source = The Greek New Testament, 1 Timothy 1
+# text = πιστὸς ὁ λόγος καὶ πάσης ἀποδοχῆς ἄξιος ὅτι Χριστὸς Ἰησοῦς ἦλθεν εἰς τὸν κόσμον ἁμαρτωλοὺς σῶσαι ὧν πρῶτός εἰμι ἐγώ
+# sent_id = 30533
+1	πιστὸς	πιστός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=1TIM_1.15
+2	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	ref=1TIM_1.15
+3	λόγος	λόγος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=1TIM_1.15
+4	καὶ	καί	CCONJ	C-	_	7	cc	_	ref=1TIM_1.15
+5	πάσης	πᾶς	DET	Px	Case=Gen|Gender=Fem|Number=Sing	6	det	_	ref=1TIM_1.15
+6	ἀποδοχῆς	ἀποδοχή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	obl	_	ref=1TIM_1.15
+7	ἄξιος	ἄξιος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	conj	_	ref=1TIM_1.15
+8	ὅτι	ὅτι	SCONJ	G-	_	11	mark	_	ref=1TIM_1.15
+9	Χριστὸς	Χριστός	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	ref=1TIM_1.15
+10	Ἰησοῦς	Ἰησοῦς	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	9	flat:name	_	ref=1TIM_1.15
+11	ἦλθεν	ἔρχομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	acl	_	ref=1TIM_1.15
+12	εἰς	εἰς	ADP	R-	_	14	case	_	ref=1TIM_1.15
+13	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	14	det	_	ref=1TIM_1.15
+14	κόσμον	κόσμος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	11	obl	_	ref=1TIM_1.15
+15	ἁμαρτωλοὺς	ἁμαρτωλός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	16	obj	_	ref=1TIM_1.15
+16	σῶσαι	σῴζω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	11	advcl	_	ref=1TIM_1.15
+17	ὧν	ὅς	PRON	Pr	Case=Gen|Gender=Masc|Number=Plur|PronType=Rel	18	nmod	_	ref=1TIM_1.15
+18	πρῶτός	πρῶτος	ADJ	Mo	Case=Nom|Gender=Masc|Number=Sing	15	advcl	_	ref=1TIM_1.15
+19	εἰμι	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	18	cop	_	ref=1TIM_1.15|LId=1
+20	ἐγώ	ἐγώ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	18	nsubj	_	ref=1TIM_1.15
+
+# source = The Greek New Testament, 1 Timothy 1
+# text = ἀλλὰ διὰ τοῦτο ἠλεήθην ἵνα ἐν ἐμοὶ πρώτῳ ἐνδείξηται Ἰησοῦς Χριστὸς τὴν ἅπασαν μακροθυμίαν πρὸς ὑποτύπωσιν τῶν μελλόντων πιστεύειν ἐπ’ αὐτῷ εἰς ζωὴν αἰώνιον
+# sent_id = 30534
+1	ἀλλὰ	ἀλλά	CCONJ	C-	_	4	cc	_	ref=1TIM_1.16
+2	διὰ	διά	ADP	R-	_	3	case	_	ref=1TIM_1.16
+3	τοῦτο	οὗτος	PRON	Pd	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	ref=1TIM_1.16
+4	ἠλεήθην	ἐλεέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	ref=1TIM_1.16
+5	ἵνα	ἵνα	SCONJ	G-	_	9	mark	_	ref=1TIM_1.16
+6	ἐν	ἐν	ADP	R-	_	7	case	_	ref=1TIM_1.16
+7	ἐμοὶ	ἐγώ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	9	obl	_	ref=1TIM_1.16
+8	πρώτῳ	πρῶτος	ADJ	Mo	Case=Dat|Gender=Masc|Number=Sing	9	xcomp	_	ref=1TIM_1.16
+9	ἐνδείξηται	ἐνδείκνυμι	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	3	acl	_	ref=1TIM_1.16
+10	Ἰησοῦς	Ἰησοῦς	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	ref=1TIM_1.16
+11	Χριστὸς	Χριστός	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	flat:name	_	ref=1TIM_1.16
+12	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	14	det	_	ref=1TIM_1.16
+13	ἅπασαν	ἅπας	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	ref=1TIM_1.16
+14	μακροθυμίαν	μακροθυμία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	ref=1TIM_1.16
+15	πρὸς	πρός	ADP	R-	_	16	case	_	ref=1TIM_1.16
+16	ὑποτύπωσιν	ὑποτύπωσις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	ref=1TIM_1.16
+17	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	18	det	_	ref=1TIM_1.16
+18	μελλόντων	μέλλω	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	16	nmod	_	ref=1TIM_1.16
+19	πιστεύειν	πιστεύω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	18	xcomp	_	ref=1TIM_1.16
+20	ἐπ’	ἐπί	ADP	R-	_	21	case	_	ref=1TIM_1.16
+21	αὐτῷ	αὐτός	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obl	_	ref=1TIM_1.16
+22	εἰς	εἰς	ADP	R-	_	23	case	_	ref=1TIM_1.16
+23	ζωὴν	ζωή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	19	obl	_	ref=1TIM_1.16
+24	αἰώνιον	αἰώνιος	ADJ	A-	Case=Acc|Degree=Pos|Number=Sing	23	amod	_	ref=1TIM_1.16
+
+# source = The Greek New Testament, 1 Timothy 1
+# text = τῷ δὲ βασιλεῖ τῶν αἰώνων ἀφθάρτῳ ἀοράτῳ μόνῳ θεῷ τιμὴ καὶ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων
+# sent_id = 30535
+1	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	3	det	_	ref=1TIM_1.17
+2	δὲ	δέ	ADV	Df	_	10	discourse	_	ref=1TIM_1.17
+3	βασιλεῖ	βασιλεύς	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	10	orphan	_	ref=1TIM_1.17
+4	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	5	det	_	ref=1TIM_1.17
+5	αἰώνων	αἰών	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	ref=1TIM_1.17
+6	ἀφθάρτῳ	ἄφθαρτος	ADJ	A-	Case=Dat|Degree=Pos|Number=Sing	9	amod	_	ref=1TIM_1.17
+7	ἀοράτῳ	ἀόρατος	ADJ	A-	Case=Dat|Degree=Pos|Number=Sing	9	amod	_	ref=1TIM_1.17
+8	μόνῳ	μόνος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc,Neut|Number=Sing	9	amod	_	ref=1TIM_1.17
+9	θεῷ	θεός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	3	appos	_	ref=1TIM_1.17
+10	τιμὴ	τιμή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	ref=1TIM_1.17
+11	καὶ	καί	CCONJ	C-	_	12	cc	_	ref=1TIM_1.17
+12	δόξα	δόξα	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	10	conj	_	ref=1TIM_1.17
+13	εἰς	εἰς	ADP	R-	_	15	case	_	ref=1TIM_1.17
+14	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	15	det	_	ref=1TIM_1.17
+15	αἰῶνας	αἰών	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	10	orphan	_	ref=1TIM_1.17
+16	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	17	det	_	ref=1TIM_1.17
+17	αἰώνων	αἰών	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	ref=1TIM_1.17
+
+# source = The Greek New Testament, 1 Timothy 1
+# text = ἀμήν
+# sent_id = 30536
+1	ἀμήν	ἀμήν	INTJ	I-	_	0	root	_	ref=1TIM_1.17
+
+# source = The Greek New Testament, 1 Timothy 1
+# text = Ταύτην τὴν παραγγελίαν παρατίθεμαί σοι τέκνον Τιμόθεε κατὰ τὰς προαγούσας ἐπὶ σὲ προφητείας ἵνα στρατεύῃ ἐν αὐταῖς τὴν καλὴν στρατείαν ἔχων πίστιν καὶ ἀγαθὴν συνείδησιν ἥν τινες ἀπωσάμενοι περὶ τὴν πίστιν ἐναυάγησαν
+# sent_id = 30537
+1	Ταύτην	οὗτος	DET	Pd	Case=Acc|Gender=Fem|Number=Sing	3	det	_	ref=1TIM_1.18
+2	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	ref=1TIM_1.18
+3	παραγγελίαν	παραγγελία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	ref=1TIM_1.18
+4	παρατίθεμαί	παρατίθημι	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=1TIM_1.18
+5	σοι	σύ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	obl:arg	_	ref=1TIM_1.18
+6	τέκνον	τέκνον	NOUN	Nb	Case=Voc|Gender=Neut|Number=Sing	4	vocative	_	ref=1TIM_1.18
+7	Τιμόθεε	Τιμόθεος	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	6	appos	_	ref=1TIM_1.18
+8	κατὰ	κατά	ADP	R-	_	13	case	_	ref=1TIM_1.18
+9	τὰς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	13	det	_	ref=1TIM_1.18
+10	προαγούσας	προάγω	VERB	V-	Case=Acc|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	13	acl	_	ref=1TIM_1.18
+11	ἐπὶ	ἐπί	ADP	R-	_	12	case	_	ref=1TIM_1.18
+12	σὲ	σύ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	obl	_	ref=1TIM_1.18
+13	προφητείας	προφητεία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	4	obl	_	ref=1TIM_1.18
+14	ἵνα	ἵνα	SCONJ	G-	_	15	mark	_	ref=1TIM_1.18
+15	στρατεύῃ	στρατεύω	VERB	V-	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	4	advcl	_	ref=1TIM_1.18
+16	ἐν	ἐν	ADP	R-	_	17	case	_	ref=1TIM_1.18
+17	αὐταῖς	αὐτός	PRON	Pp	Case=Dat|Gender=Fem|Number=Plur|Person=3|PronType=Prs	15	obl	_	ref=1TIM_1.18
+18	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	20	det	_	ref=1TIM_1.18
+19	καλὴν	καλός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	20	amod	_	ref=1TIM_1.18
+20	στρατείαν	στρατεία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	15	obj	_	ref=1TIM_1.18
+21	ἔχων	ἔχω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	15	advcl	_	ref=1TIM_1.19
+22	πίστιν	πίστις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	21	obj	_	ref=1TIM_1.19
+23	καὶ	καί	CCONJ	C-	_	25	cc	_	ref=1TIM_1.19
+24	ἀγαθὴν	ἀγαθός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	25	amod	_	ref=1TIM_1.19
+25	συνείδησιν	συνείδησις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	22	conj	_	ref=1TIM_1.19
+26	ἥν	ὅς	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	28	obj	_	ref=1TIM_1.19
+27	τινες	τὶς	PRON	Px	Case=Nom|Gender=Fem,Masc|Number=Plur	32	nsubj	_	ref=1TIM_1.19
+28	ἀπωσάμενοι	ἀπωθέω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	32	advcl	_	ref=1TIM_1.19
+29	περὶ	περί	ADP	R-	_	31	case	_	ref=1TIM_1.19
+30	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	31	det	_	ref=1TIM_1.19
+31	πίστιν	πίστις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	32	obl	_	ref=1TIM_1.19
+32	ἐναυάγησαν	ναυαγέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	25	acl	_	ref=1TIM_1.19
+
+# source = The Greek New Testament, 1 Timothy 1
+# text = ὧν ἐστιν Ὑμέναιος καὶ Ἀλέξανδρος οὓς παρέδωκα τῷ σατανᾷ ἵνα παιδευθῶσιν μὴ βλασφημεῖν
+# sent_id = 30538
+1	ὧν	ὅς	PRON	Pr	Case=Gen|Gender=Masc|Number=Plur|PronType=Rel	0	root	_	ref=1TIM_1.20
+2	ἐστιν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	ref=1TIM_1.20|LId=1
+3	Ὑμέναιος	Ὑμέναιος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=1TIM_1.20
+4	καὶ	καί	CCONJ	C-	_	5	cc	_	ref=1TIM_1.20
+5	Ἀλέξανδρος	Ἀλέξανδρος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	ref=1TIM_1.20
+6	οὓς	ὅς	PRON	Pr	Case=Acc|Gender=Masc|Number=Plur|PronType=Rel	7	obj	_	ref=1TIM_1.20
+7	παρέδωκα	παραδίδωμι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	acl	_	ref=1TIM_1.20
+8	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	9	det	_	ref=1TIM_1.20
+9	σατανᾷ	Σατανᾶς	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	7	obl:arg	_	ref=1TIM_1.20
+10	ἵνα	ἵνα	SCONJ	G-	_	11	mark	_	ref=1TIM_1.20
+11	παιδευθῶσιν	παιδεύω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	7	advcl	_	ref=1TIM_1.20
+12	μὴ	μή	ADV	Df	Polarity=Neg	13	advmod	_	ref=1TIM_1.20
+13	βλασφημεῖν	βλασφημέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	11	xcomp	_	ref=1TIM_1.20
+
+# source = The Greek New Testament, 1 Timothy 2
+# text = Παρακαλῶ οὖν πρῶτον πάντων ποιεῖσθαι δεήσεις προσευχάς ἐντεύξεις εὐχαριστίας ὑπὲρ πάντων ἀνθρώπων
+# sent_id = 30539
+1	Παρακαλῶ	παρακαλέω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_2.1
+2	οὖν	οὖν	ADV	Df	_	1	discourse	_	ref=1TIM_2.1
+3	πρῶτον	πρῶτος	ADJ	Mo	Case=Acc|Gender=Neut|Number=Sing	1	advmod	_	ref=1TIM_2.1
+4	πάντων	πᾶς	PRON	Px	Case=Gen|Gender=Neut|Number=Plur	3	nmod	_	ref=1TIM_2.1
+5	ποιεῖσθαι	ποιέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	1	ccomp	_	ref=1TIM_2.1
+6	δεήσεις	δέησις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	5	nsubj:pass	_	ref=1TIM_2.1
+7	προσευχάς	προσευχή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	6	conj	_	ref=1TIM_2.1
+8	ἐντεύξεις	ἔντευξις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	6	conj	_	ref=1TIM_2.1
+9	εὐχαριστίας	εὐχαριστία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	6	conj	_	ref=1TIM_2.1
+10	ὑπὲρ	ὑπέρ	ADP	R-	_	12	case	_	ref=1TIM_2.1
+11	πάντων	πᾶς	DET	Px	Case=Gen|Gender=Masc,Neut|Number=Plur	12	det	_	ref=1TIM_2.1
+12	ἀνθρώπων	ἄνθρωπος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	5	obl	_	ref=1TIM_2.1
+
+# source = The Greek New Testament, 1 Timothy 2
+# text = ὑπὲρ βασιλέων καὶ πάντων τῶν ἐν ὑπεροχῇ ὄντων ἵνα ἤρεμον καὶ ἡσύχιον βίον διάγωμεν ἐν πάσῃ εὐσεβείᾳ καὶ σεμνότητι
+# sent_id = 64166
+1	ὑπὲρ	ὑπέρ	ADP	R-	_	2	case	_	ref=1TIM_2.2
+2	βασιλέων	βασιλεύς	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	0	root	_	ref=1TIM_2.2
+3	καὶ	καί	CCONJ	C-	_	7	cc	_	ref=1TIM_2.2
+4	πάντων	πᾶς	DET	Px	Case=Gen|Gender=Masc,Neut|Number=Plur	7	det	_	ref=1TIM_2.2
+5	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	7	det	_	ref=1TIM_2.2
+6	ἐν	ἐν	ADP	R-	_	7	case	_	ref=1TIM_2.2
+7	ὑπεροχῇ	ὑπεροχή	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	2	conj	_	ref=1TIM_2.2
+8	ὄντων	εἰμί	AUX	V-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	7	cop	_	ref=1TIM_2.2|LId=1
+9	ἵνα	ἵνα	SCONJ	G-	_	14	mark	_	ref=1TIM_2.2
+10	ἤρεμον	ἤρεμος	ADJ	A-	Case=Acc|Degree=Pos|Number=Sing	13	amod	_	ref=1TIM_2.2
+11	καὶ	καί	CCONJ	C-	_	12	cc	_	ref=1TIM_2.2
+12	ἡσύχιον	ἡσύχιος	ADJ	A-	Case=Acc|Degree=Pos|Number=Sing	10	conj	_	ref=1TIM_2.2
+13	βίον	βίος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	14	obj	_	ref=1TIM_2.2
+14	διάγωμεν	διάγω	VERB	V-	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	orphan	_	ref=1TIM_2.2
+15	ἐν	ἐν	ADP	R-	_	17	case	_	ref=1TIM_2.2
+16	πάσῃ	πᾶς	DET	Px	Case=Dat|Gender=Fem|Number=Sing	17	det	_	ref=1TIM_2.2
+17	εὐσεβείᾳ	εὐσέβεια	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	14	obl	_	ref=1TIM_2.2
+18	καὶ	καί	CCONJ	C-	_	19	cc	_	ref=1TIM_2.2
+19	σεμνότητι	σεμνότης	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	17	conj	_	ref=1TIM_2.2
+
+# source = The Greek New Testament, 1 Timothy 2
+# text = τοῦτο καλὸν καὶ ἀπόδεκτον ἐνώπιον τοῦ σωτῆρος ἡμῶν θεοῦ ὃς πάντας ἀνθρώπους θέλει σωθῆναι καὶ εἰς ἐπίγνωσιν ἀληθείας ἐλθεῖν
+# sent_id = 30540
+1	τοῦτο	οὗτος	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	ref=1TIM_2.3
+2	καλὸν	καλός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	ref=1TIM_2.3
+3	καὶ	καί	CCONJ	C-	_	4	cc	_	ref=1TIM_2.3
+4	ἀπόδεκτον	ἀπόδεκτος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	2	conj	_	ref=1TIM_2.3
+5	ἐνώπιον	ἐνώπιον	ADP	R-	_	7	case	_	ref=1TIM_2.3
+6	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	7	det	_	ref=1TIM_2.3
+7	σωτῆρος	σωτήρ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	2	obl	_	ref=1TIM_2.3
+8	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	7	nmod	_	ref=1TIM_2.3
+9	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	appos	_	ref=1TIM_2.3
+10	ὃς	ὅς	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	13	nsubj	_	ref=1TIM_2.4
+11	πάντας	πᾶς	DET	Px	Case=Acc|Gender=Masc|Number=Plur	12	det	_	ref=1TIM_2.4
+12	ἀνθρώπους	ἄνθρωπος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	14	nsubj:pass	_	ref=1TIM_2.4
+13	θέλει	ἐθέλω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	acl	_	ref=1TIM_2.4
+14	σωθῆναι	σῴζω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	13	ccomp	_	ref=1TIM_2.4
+15	καὶ	καί	CCONJ	C-	_	19	cc	_	ref=1TIM_2.4
+16	εἰς	εἰς	ADP	R-	_	17	case	_	ref=1TIM_2.4
+17	ἐπίγνωσιν	ἐπίγνωσις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	19	obl	_	ref=1TIM_2.4
+18	ἀληθείας	ἀλήθεια	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	ref=1TIM_2.4
+19	ἐλθεῖν	ἔρχομαι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	14	conj	_	ref=1TIM_2.4
+
+# source = The Greek New Testament, 1 Timothy 2
+# text = εἷς γὰρ θεός εἷς καὶ μεσίτης θεοῦ καὶ ἀνθρώπων ἄνθρωπος Χριστὸς Ἰησοῦς ὁ δοὺς ἑαυτὸν ἀντίλυτρον ὑπὲρ πάντων τὸ μαρτύριον καιροῖς ἰδίοις
+# sent_id = 30541
+1	εἷς	εἷς	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=1TIM_2.5
+2	γὰρ	γάρ	ADV	Df	_	1	discourse	_	ref=1TIM_2.5
+3	θεός	θεός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=1TIM_2.5
+4	εἷς	εἷς	NUM	Ma	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	ref=1TIM_2.5
+5	καὶ	καί	CCONJ	C-	_	1	cc	_	ref=1TIM_2.5
+6	μεσίτης	μεσίτης	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	ref=1TIM_2.5
+7	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	ref=1TIM_2.5
+8	καὶ	καί	CCONJ	C-	_	9	cc	_	ref=1TIM_2.5
+9	ἀνθρώπων	ἄνθρωπος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	7	conj	_	ref=1TIM_2.5
+10	ἄνθρωπος	ἄνθρωπος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	appos	_	ref=1TIM_2.5
+11	Χριστὸς	Χριστός	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	6	appos	_	ref=1TIM_2.5
+12	Ἰησοῦς	Ἰησοῦς	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	11	flat:name	_	ref=1TIM_2.5
+13	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	14	det	_	ref=1TIM_2.6
+14	δοὺς	δίδωμι	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	11	nmod	_	ref=1TIM_2.6
+15	ἑαυτὸν	ἑαυτοῦ	PRON	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Reflex=Yes	14	obj	_	ref=1TIM_2.6
+16	ἀντίλυτρον	ἀντίλυτρον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	14	xcomp	_	ref=1TIM_2.6
+17	ὑπὲρ	ὑπέρ	ADP	R-	_	18	case	_	ref=1TIM_2.6
+18	πάντων	πᾶς	PRON	Px	Case=Gen|Gender=Masc|Number=Plur	16	nmod	_	ref=1TIM_2.6
+19	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	20	det	_	ref=1TIM_2.6
+20	μαρτύριον	μαρτύριον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	16	appos	_	ref=1TIM_2.6
+21	καιροῖς	καιρός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	20	nmod	_	ref=1TIM_2.6
+22	ἰδίοις	ἴδιος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc,Neut|Number=Plur	21	amod	_	ref=1TIM_2.6
+
+# source = The Greek New Testament, 1 Timothy 2
+# text = εἰς ὃ ἐτέθην ἐγὼ κῆρυξ καὶ ἀπόστολος ἀλήθειαν λέγω οὐ ψεύδομαι διδάσκαλος ἐθνῶν ἐν πίστει καὶ ἀληθείᾳ
+# sent_id = 30542
+1	εἰς	εἰς	ADP	R-	_	2	case	_	ref=1TIM_2.7
+2	ὃ	ὅς	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	3	advcl	_	ref=1TIM_2.7
+3	ἐτέθην	τίθημι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	ref=1TIM_2.7
+4	ἐγὼ	ἐγώ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	nsubj:pass	_	ref=1TIM_2.7
+5	κῆρυξ	κῆρυξ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	xcomp	_	ref=1TIM_2.7
+6	καὶ	καί	CCONJ	C-	_	7	cc	_	ref=1TIM_2.7
+7	ἀπόστολος	ἀπόστολος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	conj	_	ref=1TIM_2.7
+8	ἀλήθειαν	ἀλήθεια	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	ref=1TIM_2.7
+9	λέγω	λέγω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	ref=1TIM_2.7
+10	οὐ	οὐ	ADV	Df	Polarity=Neg	11	advmod	_	ref=1TIM_2.7
+11	ψεύδομαι	ψεύδομαι	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	3	parataxis	_	ref=1TIM_2.7
+12	διδάσκαλος	διδάσκαλος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	conj	_	ref=1TIM_2.7
+13	ἐθνῶν	ἔθνος	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	12	nmod	_	ref=1TIM_2.7
+14	ἐν	ἐν	ADP	R-	_	15	case	_	ref=1TIM_2.7
+15	πίστει	πίστις	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	12	nmod	_	ref=1TIM_2.7
+16	καὶ	καί	CCONJ	C-	_	17	cc	_	ref=1TIM_2.7
+17	ἀληθείᾳ	ἀλήθεια	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	15	conj	_	ref=1TIM_2.7
+
+# source = The Greek New Testament, 1 Timothy 2
+# text = Βούλομαι οὖν προσεύχεσθαι τοὺς ἄνδρας ἐν παντὶ τόπῳ ἐπαίροντας ὁσίους χεῖρας χωρὶς ὀργῆς καὶ διαλογισμοῦ
+# sent_id = 30543
+1	Βούλομαι	βούλομαι	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=1TIM_2.8
+2	οὖν	οὖν	ADV	Df	_	1	discourse	_	ref=1TIM_2.8
+3	προσεύχεσθαι	προσεύχομαι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	1	ccomp	_	ref=1TIM_2.8
+4	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	5	det	_	ref=1TIM_2.8
+5	ἄνδρας	ἀνήρ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	3	nsubj	_	ref=1TIM_2.8
+6	ἐν	ἐν	ADP	R-	_	8	case	_	ref=1TIM_2.8
+7	παντὶ	πᾶς	DET	Px	Case=Dat|Gender=Masc,Neut|Number=Sing	8	det	_	ref=1TIM_2.8
+8	τόπῳ	τόπος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	3	obl	_	ref=1TIM_2.8
+9	ἐπαίροντας	ἐπαίρω	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	3	advcl	_	ref=1TIM_2.8
+10	ὁσίους	ὅσιος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem,Masc|Number=Plur	11	amod	_	ref=1TIM_2.8
+11	χεῖρας	χείρ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	9	obj	_	ref=1TIM_2.8
+12	χωρὶς	χωρίς	ADP	R-	_	13	case	_	ref=1TIM_2.8
+13	ὀργῆς	ὀργή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	obl	_	ref=1TIM_2.8
+14	καὶ	καί	CCONJ	C-	_	15	cc	_	ref=1TIM_2.8
+15	διαλογισμοῦ	διαλογισμός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	13	conj	_	ref=1TIM_2.8
+
+# source = The Greek New Testament, 1 Timothy 2
+# text = ὡσαύτως καὶ γυναῖκας ἐν καταστολῇ κοσμίῳ μετὰ αἰδοῦς καὶ σωφροσύνης κοσμεῖν ἑαυτάς μὴ ἐν πλέγμασιν καὶ χρυσῷ ἢ μαργαρίταις ἢ ἱματισμῷ πολυτελεῖ ἀλλ’ ὃ πρέπει γυναιξὶν ἐπαγγελλομέναις θεοσέβειαν δι’ ἔργων ἀγαθῶν
+# sent_id = 30544
+1	ὡσαύτως	ὡσαύτως	ADV	Df	_	0	root	_	ref=1TIM_2.9
+2	καὶ	καί	ADV	Df	_	11	advmod	_	ref=1TIM_2.9|LId=1
+3	γυναῖκας	γυνή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	11	nsubj	_	ref=1TIM_2.9
+4	ἐν	ἐν	ADP	R-	_	5	case	_	ref=1TIM_2.9
+5	καταστολῇ	καταστολή	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	11	obl	_	ref=1TIM_2.9
+6	κοσμίῳ	κόσμιος	ADJ	A-	Case=Dat|Degree=Pos|Number=Sing	5	amod	_	ref=1TIM_2.9
+7	μετὰ	μετά	ADP	R-	_	8	case	_	ref=1TIM_2.9
+8	αἰδοῦς	αἰδώς	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	11	obl	_	ref=1TIM_2.9
+9	καὶ	καί	CCONJ	C-	_	10	cc	_	ref=1TIM_2.9
+10	σωφροσύνης	σωφροσύνη	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	conj	_	ref=1TIM_2.9
+11	κοσμεῖν	κοσμέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	orphan	_	ref=1TIM_2.9
+12	ἑαυτάς	ἑαυτοῦ	PRON	Pk	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	11	obj	_	ref=1TIM_2.9
+13	μὴ	μή	ADV	Df	Polarity=Neg	15	advmod	_	ref=1TIM_2.9
+14	ἐν	ἐν	ADP	R-	_	15	case	_	ref=1TIM_2.9
+15	πλέγμασιν	πλέγμα	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	11	obl	_	ref=1TIM_2.9
+16	καὶ	καί	CCONJ	C-	_	17	cc	_	ref=1TIM_2.9
+17	χρυσῷ	χρυσός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	15	conj	_	ref=1TIM_2.9
+18	ἢ	ἤ	CCONJ	C-	_	19	cc	_	ref=1TIM_2.9
+19	μαργαρίταις	μαργαρίτης	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	17	conj	_	ref=1TIM_2.9
+20	ἢ	ἤ	CCONJ	C-	_	21	cc	_	ref=1TIM_2.9
+21	ἱματισμῷ	ἱματισμός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	17	conj	_	ref=1TIM_2.9
+22	πολυτελεῖ	πολυτελής	ADJ	A-	Case=Dat|Degree=Pos|Number=Sing	21	amod	_	ref=1TIM_2.9
+23	ἀλλ’	ἀλλά	CCONJ	C-	_	30	cc	_	ref=1TIM_2.10
+24	ὃ	ὅς	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	25	nsubj	_	ref=1TIM_2.10
+25	πρέπει	πρέπω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	dislocated	_	ref=1TIM_2.10
+26	γυναιξὶν	γυνή	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	25	obl:arg	_	ref=1TIM_2.10
+27	ἐπαγγελλομέναις	ἐπαγγέλλομαι	VERB	V-	Case=Dat|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	26	acl	_	ref=1TIM_2.10
+28	θεοσέβειαν	θεοσέβεια	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	27	obj	_	ref=1TIM_2.10
+29	δι’	διά	ADP	R-	_	30	case	_	ref=1TIM_2.10
+30	ἔργων	ἔργον	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	15	conj	_	ref=1TIM_2.10
+31	ἀγαθῶν	ἀγαθός	ADJ	A-	Case=Gen|Degree=Pos|Number=Plur	30	amod	_	ref=1TIM_2.10
+
+# source = The Greek New Testament, 1 Timothy 2
+# text = Γυνὴ ἐν ἡσυχίᾳ μανθανέτω ἐν πάσῃ ὑποταγῇ
+# sent_id = 30545
+1	Γυνὴ	γυνή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	ref=1TIM_2.11
+2	ἐν	ἐν	ADP	R-	_	3	case	_	ref=1TIM_2.11
+3	ἡσυχίᾳ	ἡσυχία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	4	obl	_	ref=1TIM_2.11
+4	μανθανέτω	μανθάνω	VERB	V-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_2.11
+5	ἐν	ἐν	ADP	R-	_	7	case	_	ref=1TIM_2.11
+6	πάσῃ	πᾶς	DET	Px	Case=Dat|Gender=Fem|Number=Sing	7	det	_	ref=1TIM_2.11
+7	ὑποταγῇ	ὑποταγή	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	4	obl	_	ref=1TIM_2.11
+
+# source = The Greek New Testament, 1 Timothy 2
+# text = διδάσκειν δὲ γυναικὶ οὐκ ἐπιτρέπω οὐδὲ αὐθεντεῖν ἀνδρός ἀλλ’ εἶναι ἐν ἡσυχίᾳ
+# sent_id = 49963
+1	διδάσκειν	διδάσκω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	xcomp	_	ref=1TIM_2.12
+2	δὲ	δέ	ADV	Df	_	5	discourse	_	ref=1TIM_2.12
+3	γυναικὶ	γυνή	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	5	obl:arg	_	ref=1TIM_2.12
+4	οὐκ	οὐ	ADV	Df	Polarity=Neg	1	advmod	_	ref=1TIM_2.12
+5	ἐπιτρέπω	ἐπιτρέπω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_2.12
+6	οὐ	οὐ	ADV	G-	Polarity=Neg	7	advmod	_	ref=1TIM_2.12|Sub=1
+6.1	-δέ	δέ	CCONJ	C-	_	7	cc	_	ref=1TIM_2.12|Sub=2
+7	αὐθεντεῖν	αὐθεντέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	conj	_	ref=1TIM_2.12
+8	ἀνδρός	ἀνήρ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	obl:arg	_	ref=1TIM_2.12
+9	ἀλλ’	ἀλλά	CCONJ	C-	_	12	cc	_	ref=1TIM_2.12
+10	εἶναι	εἰμί	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	12	cop	_	ref=1TIM_2.12|LId=1
+11	ἐν	ἐν	ADP	R-	_	12	case	_	ref=1TIM_2.12
+12	ἡσυχίᾳ	ἡσυχία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	1	conj	_	ref=1TIM_2.12
+
+# source = The Greek New Testament, 1 Timothy 2
+# text = Ἀδὰμ γὰρ πρῶτος ἐπλάσθη
+# sent_id = 30547
+1	Ἀδὰμ	Ἀδάμ	PROPN	Ne	_	4	nsubj:pass	_	ref=1TIM_2.13
+2	γὰρ	γάρ	ADV	Df	_	4	discourse	_	ref=1TIM_2.13
+3	πρῶτος	πρῶτος	ADJ	Mo	Case=Nom|Gender=Masc|Number=Sing	4	xcomp	_	ref=1TIM_2.13
+4	ἐπλάσθη	πλάσσω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	ref=1TIM_2.13
+
+# source = The Greek New Testament, 1 Timothy 2
+# text = εἶτα Εὔα
+# sent_id = 64170
+1	εἶτα	εἶτα	ADV	Df	_	2	orphan	_	ref=1TIM_2.13
+2	Εὔα	Εὕα	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	0	root	_	ref=1TIM_2.13
+
+# source = The Greek New Testament, 1 Timothy 2
+# text = καὶ Ἀδὰμ οὐκ ἠπατήθη
+# sent_id = 49965
+1	καὶ	καί	CCONJ	C-	_	4	cc	_	ref=1TIM_2.14
+2	Ἀδὰμ	Ἀδάμ	PROPN	Ne	_	4	nsubj:pass	_	ref=1TIM_2.14
+3	οὐκ	οὐ	ADV	Df	Polarity=Neg	4	advmod	_	ref=1TIM_2.14
+4	ἠπατήθη	ἀπατάω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	ref=1TIM_2.14
+
+# source = The Greek New Testament, 1 Timothy 2
+# text = ἡ δὲ γυνὴ ἐξαπατηθεῖσα ἐν παραβάσει γέγονεν
+# sent_id = 49966
+1	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	ref=1TIM_2.14
+2	δὲ	δέ	ADV	Df	_	7	discourse	_	ref=1TIM_2.14
+3	γυνὴ	γυνή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	ref=1TIM_2.14
+4	ἐξαπατηθεῖσα	ἐξαπατάω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	advcl	_	ref=1TIM_2.14
+5	ἐν	ἐν	ADP	R-	_	6	case	_	ref=1TIM_2.14
+6	παραβάσει	παράβασις	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	7	xcomp	_	ref=1TIM_2.14
+7	γέγονεν	γίγνομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_2.14
+
+# source = The Greek New Testament, 1 Timothy 2
+# text = σωθήσεται δὲ διὰ τῆς τεκνογονίας ἐὰν μείνωσιν ἐν πίστει καὶ ἀγάπῃ καὶ ἁγιασμῷ μετὰ σωφροσύνης
+# sent_id = 49967
+1	σωθήσεται	σῴζω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	ref=1TIM_2.15
+2	δὲ	δέ	ADV	Df	_	1	discourse	_	ref=1TIM_2.15
+3	διὰ	διά	ADP	R-	_	5	case	_	ref=1TIM_2.15
+4	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	ref=1TIM_2.15
+5	τεκνογονίας	τεκνογονία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	1	obl	_	ref=1TIM_2.15
+6	ἐὰν	ἐάν	SCONJ	G-	_	7	mark	_	ref=1TIM_2.15
+7	μείνωσιν	μένω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	ref=1TIM_2.15
+8	ἐν	ἐν	ADP	R-	_	9	case	_	ref=1TIM_2.15
+9	πίστει	πίστις	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	7	obl	_	ref=1TIM_2.15
+10	καὶ	καί	CCONJ	C-	_	11	cc	_	ref=1TIM_2.15
+11	ἀγάπῃ	ἀγάπη	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	9	conj	_	ref=1TIM_2.15
+12	καὶ	καί	CCONJ	C-	_	13	cc	_	ref=1TIM_2.15
+13	ἁγιασμῷ	ἁγιασμός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	9	conj	_	ref=1TIM_2.15
+14	μετὰ	μετά	ADP	R-	_	15	case	_	ref=1TIM_2.15
+15	σωφροσύνης	σωφροσύνη	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	obl	_	ref=1TIM_2.15
+
+# source = The Greek New Testament, 1 Timothy 3
+# text = Πιστὸς ὁ λόγος
+# sent_id = 30549
+1	Πιστὸς	πιστός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=1TIM_3.1
+2	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	ref=1TIM_3.1
+3	λόγος	λόγος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=1TIM_3.1
+
+# source = The Greek New Testament, 1 Timothy 3
+# text = εἴ τις ἐπισκοπῆς ὀρέγεται καλοῦ ἔργου ἐπιθυμεῖ
+# sent_id = 30550
+1	εἴ	εἰ	SCONJ	G-	_	4	mark	_	ref=1TIM_3.1
+2	τις	τὶς	PRON	Px	Case=Nom|Gender=Fem,Masc|Number=Sing	4	nsubj	_	ref=1TIM_3.1
+3	ἐπισκοπῆς	ἐπισκοπή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	obl:arg	_	ref=1TIM_3.1
+4	ὀρέγεται	ὀρέγω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	7	advcl	_	ref=1TIM_3.1
+5	καλοῦ	καλός	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc,Neut|Number=Sing	6	amod	_	ref=1TIM_3.1
+6	ἔργου	ἔργον	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	7	obl:arg	_	ref=1TIM_3.1
+7	ἐπιθυμεῖ	ἐπιθυμέω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_3.1
+
+# source = The Greek New Testament, 1 Timothy 3
+# text = δεῖ οὖν τὸν ἐπίσκοπον ἀνεπίλημπτον εἶναι μιᾶς γυναικὸς ἄνδρα νηφάλιον σώφρονα κόσμιον φιλόξενον διδακτικόν μὴ πάροινον μὴ πλήκτην ἀλλὰ ἐπιεικῆ ἄμαχον ἀφιλάργυρον τοῦ ἰδίου οἴκου καλῶς προϊστάμενον τέκνα ἔχοντα ἐν ὑποταγῇ μετὰ πάσης σεμνότητος
+# sent_id = 30551
+1	δεῖ	δεῖ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_3.2
+2	οὖν	οὖν	ADV	Df	_	1	discourse	_	ref=1TIM_3.2
+3	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	ref=1TIM_3.2
+4	ἐπίσκοπον	ἐπίσκοπος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	nsubj	_	ref=1TIM_3.2
+5	ἀνεπίλημπτον	ἀνεπίλη(μ)πτος	ADJ	A-	Case=Acc|Degree=Pos|Number=Sing	1	ccomp	_	ref=1TIM_3.2
+6	εἶναι	εἰμί	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	cop	_	ref=1TIM_3.2|LId=1
+7	μιᾶς	εἷς	NUM	Ma	Case=Gen|Gender=Fem|Number=Sing	8	nummod	_	ref=1TIM_3.2
+8	γυναικὸς	γυνή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	ref=1TIM_3.2
+9	ἄνδρα	ἀνήρ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	conj	_	ref=1TIM_3.2
+10	νηφάλιον	νηφάλιος	ADJ	A-	Case=Acc|Degree=Pos|Number=Sing	5	conj	_	ref=1TIM_3.2
+11	σώφρονα	σώφρων	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem,Masc|Number=Sing	5	conj	_	ref=1TIM_3.2
+12	κόσμιον	κόσμιος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	5	conj	_	ref=1TIM_3.2
+13	φιλόξενον	φιλόξενος	ADJ	A-	Case=Acc|Degree=Pos|Number=Sing	5	conj	_	ref=1TIM_3.2
+14	διδακτικόν	διδακτικός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	5	conj	_	ref=1TIM_3.2
+15	μὴ	μή	ADV	Df	Polarity=Neg	16	advmod	_	ref=1TIM_3.3
+16	πάροινον	πάροινος	ADJ	A-	Case=Acc|Degree=Pos|Number=Sing	5	obj	_	ref=1TIM_3.3
+17	μὴ	μή	ADV	Df	Polarity=Neg	18	advmod	_	ref=1TIM_3.3
+18	πλήκτην	πλήκτης	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	conj	_	ref=1TIM_3.3
+19	ἀλλὰ	ἀλλά	CCONJ	C-	_	20	cc	_	ref=1TIM_3.3
+20	ἐπιεικῆ	ἐπιεικής	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem,Masc|Number=Sing	18	conj	_	ref=1TIM_3.3
+21	ἄμαχον	ἄμαχος	ADJ	A-	Case=Acc|Degree=Pos|Number=Sing	5	conj	_	ref=1TIM_3.3
+22	ἀφιλάργυρον	ἀφιλάργυρος	ADJ	A-	Case=Acc|Degree=Pos|Number=Sing	5	conj	_	ref=1TIM_3.3
+23	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	25	det	_	ref=1TIM_3.4
+24	ἰδίου	ἴδιος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc,Neut|Number=Sing	25	amod	_	ref=1TIM_3.4
+25	οἴκου	οἶκος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	27	obl:arg	_	ref=1TIM_3.4
+26	καλῶς	καλῶς	ADV	Df	Degree=Pos	27	advmod	_	ref=1TIM_3.4
+27	προϊστάμενον	προΐστημι	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	5	conj	_	ref=1TIM_3.4
+28	τέκνα	τέκνον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	29	obj	_	ref=1TIM_3.4
+29	ἔχοντα	ἔχω	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	conj	_	ref=1TIM_3.4
+30	ἐν	ἐν	ADP	R-	_	31	case	_	ref=1TIM_3.4
+31	ὑποταγῇ	ὑποταγή	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	29	obl	_	ref=1TIM_3.4
+32	μετὰ	μετά	ADP	R-	_	34	case	_	ref=1TIM_3.4
+33	πάσης	πᾶς	DET	Px	Case=Gen|Gender=Fem|Number=Sing	34	det	_	ref=1TIM_3.4
+34	σεμνότητος	σεμνότης	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	29	obl	_	ref=1TIM_3.4
+
+# source = The Greek New Testament, 1 Timothy 3
+# text = εἰ δέ τις τοῦ ἰδίου οἴκου προστῆναι οὐκ οἶδεν πῶς ἐκκλησίας θεοῦ ἐπιμελήσεται
+# sent_id = 30552
+1	εἰ	εἰ	SCONJ	G-	_	9	mark	_	ref=1TIM_3.5
+2	δέ	δέ	ADV	Df	_	13	discourse	_	ref=1TIM_3.5
+3	τις	τὶς	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	ref=1TIM_3.5
+4	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	6	det	_	ref=1TIM_3.5
+5	ἰδίου	ἴδιος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc,Neut|Number=Sing	6	amod	_	ref=1TIM_3.5
+6	οἴκου	οἶκος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	obl:arg	_	ref=1TIM_3.5
+7	προστῆναι	προΐστημι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	9	xcomp	_	ref=1TIM_3.5
+8	οὐκ	οὐ	ADV	Df	Polarity=Neg	9	advmod	_	ref=1TIM_3.5
+9	οἶδεν	οἶδα	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	advcl	_	ref=1TIM_3.5
+10	πῶς	πῶς	ADV	Du	PronType=Int	13	advmod	_	ref=1TIM_3.5
+11	ἐκκλησίας	ἐκκλησία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	13	obl:arg	_	ref=1TIM_3.5
+12	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	ref=1TIM_3.5
+13	ἐπιμελήσεται	ἐπιμελέομαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	ref=1TIM_3.5
+
+# source = The Greek New Testament, 1 Timothy 3
+# text = μὴ νεόφυτον ἵνα μὴ τυφωθεὶς εἰς κρίμα ἐμπέσῃ τοῦ διαβόλου
+# sent_id = 30553
+1	μὴ	μή	ADV	Df	Polarity=Neg	2	advmod	_	ref=1TIM_3.6
+2	νεόφυτον	νεόφυτος	ADJ	A-	Case=Acc|Degree=Pos|Number=Sing	0	root	_	ref=1TIM_3.6
+3	ἵνα	ἵνα	SCONJ	G-	_	8	mark	_	ref=1TIM_3.6
+4	μὴ	μή	ADV	Df	Polarity=Neg	8	advmod	_	ref=1TIM_3.6
+5	τυφωθεὶς	τυφόω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	8	advcl	_	ref=1TIM_3.6
+6	εἰς	εἰς	ADP	R-	_	7	case	_	ref=1TIM_3.6
+7	κρίμα	κρίμα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	ref=1TIM_3.6
+8	ἐμπέσῃ	ἐμπίπτω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	advcl	_	ref=1TIM_3.6
+9	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	10	det	_	ref=1TIM_3.6
+10	διαβόλου	διάβολος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	ref=1TIM_3.6
+
+# source = The Greek New Testament, 1 Timothy 3
+# text = δεῖ δὲ καὶ μαρτυρίαν καλὴν ἔχειν ἀπὸ τῶν ἔξωθεν ἵνα μὴ εἰς ὀνειδισμὸν ἐμπέσῃ καὶ παγίδα τοῦ διαβόλου
+# sent_id = 30554
+1	δεῖ	δεῖ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_3.7
+2	δὲ	δέ	ADV	Df	_	1	discourse	_	ref=1TIM_3.7
+3	καὶ	καί	CCONJ	C-	_	1	cc	_	ref=1TIM_3.7
+4	μαρτυρίαν	μαρτυρία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	ref=1TIM_3.7
+5	καλὴν	καλός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	ref=1TIM_3.7
+6	ἔχειν	ἔχω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	ccomp	_	ref=1TIM_3.7
+7	ἀπὸ	ἀπό	ADP	R-	_	9	case	_	ref=1TIM_3.7
+8	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	9	det	_	ref=1TIM_3.7
+9	ἔξωθεν	ἔξωθεν	ADV	Df	_	6	advmod	_	ref=1TIM_3.7
+10	ἵνα	ἵνα	SCONJ	G-	_	14	mark	_	ref=1TIM_3.7
+11	μὴ	μή	ADV	Df	Polarity=Neg	14	advmod	_	ref=1TIM_3.7
+12	εἰς	εἰς	ADP	R-	_	13	case	_	ref=1TIM_3.7
+13	ὀνειδισμὸν	ὀνειδισμός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	14	obl	_	ref=1TIM_3.7
+14	ἐμπέσῃ	ἐμπίπτω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	ref=1TIM_3.7
+15	καὶ	καί	CCONJ	C-	_	16	cc	_	ref=1TIM_3.7
+16	παγίδα	παγίς	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	13	conj	_	ref=1TIM_3.7
+17	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	18	det	_	ref=1TIM_3.7
+18	διαβόλου	διάβολος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	ref=1TIM_3.7
+
+# source = The Greek New Testament, 1 Timothy 3
+# text = διακόνους ὡσαύτως σεμνούς μὴ διλόγους μὴ οἴνῳ πολλῷ προσέχοντας μὴ αἰσχροκερδεῖς ἔχοντας τὸ μυστήριον τῆς πίστεως ἐν καθαρᾷ συνειδήσει
+# sent_id = 30555
+1	διακόνους	διάκονος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	3	nsubj	_	ref=1TIM_3.8
+2	ὡσαύτως	ὡσαύτως	ADV	Df	_	0	root	_	ref=1TIM_3.8
+3	σεμνούς	σεμνός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	2	orphan	_	ref=1TIM_3.8
+4	μὴ	μή	ADV	Df	Polarity=Neg	5	advmod	_	ref=1TIM_3.8
+5	διλόγους	δίλογος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem,Masc|Number=Plur	3	conj	_	ref=1TIM_3.8
+6	μὴ	μή	ADV	Df	Polarity=Neg	9	advmod	_	ref=1TIM_3.8
+7	οἴνῳ	οἶνος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	9	obl:arg	_	ref=1TIM_3.8
+8	πολλῷ	πολύς	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc,Neut|Number=Sing	7	amod	_	ref=1TIM_3.8
+9	προσέχοντας	προσέχω	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	3	conj	_	ref=1TIM_3.8
+10	μὴ	μή	ADV	Df	Polarity=Neg	11	advmod	_	ref=1TIM_3.8
+11	αἰσχροκερδεῖς	αἰσχροκερδής	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem,Masc|Number=Plur	3	conj	_	ref=1TIM_3.8
+12	ἔχοντας	ἔχω	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	3	conj	_	ref=1TIM_3.9
+13	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	14	det	_	ref=1TIM_3.9
+14	μυστήριον	μυστήριον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	12	obj	_	ref=1TIM_3.9
+15	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	16	det	_	ref=1TIM_3.9
+16	πίστεως	πίστις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	ref=1TIM_3.9
+17	ἐν	ἐν	ADP	R-	_	19	case	_	ref=1TIM_3.9
+18	καθαρᾷ	καθαρός	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Sing	19	amod	_	ref=1TIM_3.9
+19	συνειδήσει	συνείδησις	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	12	obl	_	ref=1TIM_3.9
+
+# source = The Greek New Testament, 1 Timothy 3
+# text = καὶ οὗτοι δὲ δοκιμαζέσθωσαν πρῶτον
+# sent_id = 30556
+1	καὶ	καί	ADV	Df	_	2	advmod	_	ref=1TIM_3.10|LId=1
+2	οὗτοι	οὗτος	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur	4	nsubj:pass	_	ref=1TIM_3.10
+3	δὲ	δέ	ADV	Df	_	4	discourse	_	ref=1TIM_3.10
+4	δοκιμαζέσθωσαν	δοκιμάζω	VERB	V-	Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	ref=1TIM_3.10
+5	πρῶτον	πρῶτος	ADJ	Mo	Case=Acc|Gender=Neut|Number=Sing	4	advmod	_	ref=1TIM_3.10
+
+# source = The Greek New Testament, 1 Timothy 3
+# text = εἶτα διακονείτωσαν ἀνέγκλητοι ὄντες
+# sent_id = 64171
+1	εἶτα	εἶτα	ADV	Df	_	2	advmod	_	ref=1TIM_3.10
+2	διακονείτωσαν	διακονέω	VERB	V-	Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_3.10
+3	ἀνέγκλητοι	ἀνέγκλητος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem,Masc|Number=Plur	2	advcl	_	ref=1TIM_3.10
+4	ὄντες	εἰμί	AUX	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	3	cop	_	ref=1TIM_3.10|LId=1
+
+# source = The Greek New Testament, 1 Timothy 3
+# text = γυναῖκας ὡσαύτως σεμνάς μὴ διαβόλους νηφαλίους πιστὰς ἐν πᾶσιν
+# sent_id = 30557
+1	γυναῖκας	γυνή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	3	nsubj	_	ref=1TIM_3.11
+2	ὡσαύτως	ὡσαύτως	ADV	Df	_	0	root	_	ref=1TIM_3.11
+3	σεμνάς	σεμνός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	2	orphan	_	ref=1TIM_3.11
+4	μὴ	μή	ADV	Df	Polarity=Neg	5	advmod	_	ref=1TIM_3.11
+5	διαβόλους	διάβολος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem,Masc|Number=Plur	3	conj	_	ref=1TIM_3.11
+6	νηφαλίους	νηφάλιος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem,Masc|Number=Plur	3	conj	_	ref=1TIM_3.11
+7	πιστὰς	πιστός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	3	conj	_	ref=1TIM_3.11
+8	ἐν	ἐν	ADP	R-	_	9	case	_	ref=1TIM_3.11
+9	πᾶσιν	πᾶς	PRON	Px	Case=Dat|Gender=Neut|Number=Plur	7	obl	_	ref=1TIM_3.11
+
+# source = The Greek New Testament, 1 Timothy 3
+# text = διάκονοι ἔστωσαν μιᾶς γυναικὸς ἄνδρες τέκνων καλῶς προϊστάμενοι καὶ τῶν ἰδίων οἴκων
+# sent_id = 30558
+1	διάκονοι	διάκονος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	ref=1TIM_3.12
+2	ἔστωσαν	εἰμί	AUX	V-	Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=1TIM_3.12|LId=1
+3	μιᾶς	εἷς	NUM	Ma	Case=Gen|Gender=Fem|Number=Sing	4	nummod	_	ref=1TIM_3.12
+4	γυναικὸς	γυνή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	ref=1TIM_3.12
+5	ἄνδρες	ἀνήρ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	0	root	_	ref=1TIM_3.12
+6	τέκνων	τέκνον	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	8	obl:arg	_	ref=1TIM_3.12
+7	καλῶς	καλῶς	ADV	Df	Degree=Pos	8	advmod	_	ref=1TIM_3.12
+8	προϊστάμενοι	προΐστημι	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	5	conj	_	ref=1TIM_3.12
+9	καὶ	καί	CCONJ	C-	_	12	cc	_	ref=1TIM_3.12
+10	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	12	det	_	ref=1TIM_3.12
+11	ἰδίων	ἴδιος	ADJ	A-	Case=Gen|Degree=Pos|Number=Plur	12	amod	_	ref=1TIM_3.12
+12	οἴκων	οἶκος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	6	conj	_	ref=1TIM_3.12
+
+# source = The Greek New Testament, 1 Timothy 3
+# text = οἱ γὰρ καλῶς διακονήσαντες βαθμὸν ἑαυτοῖς καλὸν περιποιοῦνται καὶ πολλὴν παρρησίαν ἐν πίστει τῇ ἐν Χριστῷ Ἰησοῦ
+# sent_id = 30559
+1	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	4	det	_	ref=1TIM_3.13
+2	γὰρ	γάρ	ADV	Df	_	8	discourse	_	ref=1TIM_3.13
+3	καλῶς	καλῶς	ADV	Df	Degree=Pos	4	advmod	_	ref=1TIM_3.13
+4	διακονήσαντες	διακονέω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	8	nsubj	_	ref=1TIM_3.13
+5	βαθμὸν	βαθμός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	ref=1TIM_3.13
+6	ἑαυτοῖς	ἑαυτοῦ	PRON	Pk	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	8	obl	_	ref=1TIM_3.13
+7	καλὸν	καλός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	5	amod	_	ref=1TIM_3.13
+8	περιποιοῦνται	περιποιέω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=1TIM_3.13
+9	καὶ	καί	CCONJ	C-	_	11	cc	_	ref=1TIM_3.13
+10	πολλὴν	πολύς	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	ref=1TIM_3.13
+11	παρρησίαν	παρρησία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	conj	_	ref=1TIM_3.13
+12	ἐν	ἐν	ADP	R-	_	13	case	_	ref=1TIM_3.13
+13	πίστει	πίστις	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	11	nmod	_	ref=1TIM_3.13
+14	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	16	det	_	ref=1TIM_3.13
+15	ἐν	ἐν	ADP	R-	_	16	case	_	ref=1TIM_3.13
+16	Χριστῷ	Χριστός	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	13	nmod	_	ref=1TIM_3.13
+17	Ἰησοῦ	Ἰησοῦς	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	16	flat:name	_	ref=1TIM_3.13
+
+# source = The Greek New Testament, 1 Timothy 3
+# text = Ταῦτά σοι γράφω ἐλπίζων ἐλθεῖν πρὸς σὲ τάχιον
+# sent_id = 30560
+1	Ταῦτά	οὗτος	PRON	Pd	Case=Acc|Gender=Neut|Number=Plur	3	obj	_	ref=1TIM_3.14
+2	σοι	σύ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	obl:arg	_	ref=1TIM_3.14
+3	γράφω	γράφω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_3.14
+4	ἐλπίζων	ἐλπίζω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	advcl	_	ref=1TIM_3.14
+5	ἐλθεῖν	ἔρχομαι	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	4	xcomp	_	ref=1TIM_3.14
+6	πρὸς	πρός	ADP	R-	_	7	case	_	ref=1TIM_3.14
+7	σὲ	σύ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	obl	_	ref=1TIM_3.14
+8	τάχιον	ταχέως	ADV	Df	Degree=Cmp	5	advmod	_	ref=1TIM_3.14
+
+# source = The Greek New Testament, 1 Timothy 3
+# text = ἐὰν δὲ βραδύνω ἵνα εἰδῇς πῶς δεῖ ἐν οἴκῳ θεοῦ ἀναστρέφεσθαι ἥτις ἐστὶν ἐκκλησία θεοῦ ζῶντος στῦλος καὶ ἑδραίωμα τῆς ἀληθείας
+# sent_id = 30561
+1	ἐὰν	ἐάν	SCONJ	G-	_	3	mark	_	ref=1TIM_3.15
+2	δὲ	δέ	ADV	Df	_	3	discourse	_	ref=1TIM_3.15
+3	βραδύνω	βραδύνω	VERB	V-	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_3.15
+4	ἵνα	ἵνα	SCONJ	G-	_	5	mark	_	ref=1TIM_3.15
+5	εἰδῇς	οἶδα	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	3	orphan	_	ref=1TIM_3.15
+6	πῶς	πῶς	ADV	Du	PronType=Int	7	advmod	_	ref=1TIM_3.15
+7	δεῖ	δεῖ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	ref=1TIM_3.15
+8	ἐν	ἐν	ADP	R-	_	9	case	_	ref=1TIM_3.15
+9	οἴκῳ	οἶκος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	11	obl	_	ref=1TIM_3.15
+10	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	ref=1TIM_3.15
+11	ἀναστρέφεσθαι	ἀναστρέφω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	7	ccomp	_	ref=1TIM_3.15
+12	ἥτις	ὅστις	PRON	Pr	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	14	nsubj	_	ref=1TIM_3.15
+13	ἐστὶν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	ref=1TIM_3.15|LId=1
+14	ἐκκλησία	ἐκκλησία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	9	acl	_	ref=1TIM_3.15
+15	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	14	nmod	_	ref=1TIM_3.15
+16	ζῶντος	ζῶ	VERB	V-	Case=Gen|Gender=Masc,Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	15	acl	_	ref=1TIM_3.15
+17	στῦλος	στῦλος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	14	appos	_	ref=1TIM_3.15
+18	καὶ	καί	CCONJ	C-	_	19	cc	_	ref=1TIM_3.15
+19	ἑδραίωμα	ἑδραίωμα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	17	conj	_	ref=1TIM_3.15
+20	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	21	det	_	ref=1TIM_3.15
+21	ἀληθείας	ἀλήθεια	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	17	nmod	_	ref=1TIM_3.15
+
+# source = The Greek New Testament, 1 Timothy 3
+# text = καὶ ὁμολογουμένως μέγα ἐστὶν τὸ τῆς εὐσεβείας μυστήριον
+# sent_id = 30562
+1	καὶ	καί	CCONJ	C-	_	3	cc	_	ref=1TIM_3.16
+2	ὁμολογουμένως	ὁμολογουμένως	ADV	Df	Degree=Pos	3	advmod	_	ref=1TIM_3.16
+3	μέγα	μέγας	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	ref=1TIM_3.16
+4	ἐστὶν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=1TIM_3.16|LId=1
+5	τὸ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	8	det	_	ref=1TIM_3.16
+6	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	ref=1TIM_3.16
+7	εὐσεβείας	εὐσέβεια	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	ref=1TIM_3.16
+8	μυστήριον	μυστήριον	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	ref=1TIM_3.16
+
+# source = The Greek New Testament, 1 Timothy 3
+# text = ὃς ἐφανερώθη ἐν σαρκί ἐδικαιώθη ἐν πνεύματι ὤφθη ἀγγέλοις ἐκηρύχθη ἐν ἔθνεσιν ἐπιστεύθη ἐν κόσμῳ ἀνελήμφθη ἐν δόξῃ
+# sent_id = 30563
+1	ὃς	ὅς	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	2	nsubj:pass	_	ref=1TIM_3.16
+2	ἐφανερώθη	φανερόω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	ref=1TIM_3.16
+3	ἐν	ἐν	ADP	R-	_	4	case	_	ref=1TIM_3.16
+4	σαρκί	σάρξ	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	2	obl	_	ref=1TIM_3.16
+5	ἐδικαιώθη	δικαιόω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	2	conj	_	ref=1TIM_3.16
+6	ἐν	ἐν	ADP	R-	_	7	case	_	ref=1TIM_3.16
+7	πνεύματι	πνεῦμα	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	5	obl	_	ref=1TIM_3.16
+8	ὤφθη	ὁράω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	2	conj	_	ref=1TIM_3.16
+9	ἀγγέλοις	ἄγγελος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	8	obl:arg	_	ref=1TIM_3.16
+10	ἐκηρύχθη	κηρύσσω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	2	conj	_	ref=1TIM_3.16
+11	ἐν	ἐν	ADP	R-	_	12	case	_	ref=1TIM_3.16
+12	ἔθνεσιν	ἔθνος	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	10	obl	_	ref=1TIM_3.16
+13	ἐπιστεύθη	πιστεύω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	2	conj	_	ref=1TIM_3.16
+14	ἐν	ἐν	ADP	R-	_	15	case	_	ref=1TIM_3.16
+15	κόσμῳ	κόσμος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	13	obl	_	ref=1TIM_3.16
+16	ἀνελήμφθη	ἀναλαμβάνω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	2	conj	_	ref=1TIM_3.16
+17	ἐν	ἐν	ADP	R-	_	18	case	_	ref=1TIM_3.16
+18	δόξῃ	δόξα	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	16	obl	_	ref=1TIM_3.16
+
+# source = The Greek New Testament, 1 Timothy 4
+# text = Τὸ δὲ πνεῦμα ῥητῶς λέγει ὅτι ἐν ὑστέροις καιροῖς ἀποστήσονταί τινες τῆς πίστεως προσέχοντες πνεύμασιν πλάνοις καὶ διδασκαλίαις δαιμονίων ἐν ὑποκρίσει ψευδολόγων κεκαυστηριασμένων τὴν ἰδίαν συνείδησιν κωλυόντων γαμεῖν ἀπέχεσθαι βρωμάτων ἃ ὁ θεὸς ἔκτισεν εἰς μετάλημψιν μετὰ εὐχαριστίας τοῖς πιστοῖς καὶ ἐπεγνωκόσι τὴν ἀλήθειαν
+# sent_id = 30564
+1	Τὸ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	ref=1TIM_4.1
+2	δὲ	δέ	ADV	Df	_	5	discourse	_	ref=1TIM_4.1
+3	πνεῦμα	πνεῦμα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	ref=1TIM_4.1
+4	ῥητῶς	ῥητῶς	ADV	Df	Degree=Pos	5	advmod	_	ref=1TIM_4.1
+5	λέγει	λέγω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_4.1
+6	ὅτι	ὅτι	SCONJ	G-	_	10	mark	_	ref=1TIM_4.1
+7	ἐν	ἐν	ADP	R-	_	9	case	_	ref=1TIM_4.1
+8	ὑστέροις	ὕστερος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc,Neut|Number=Plur	9	amod	_	ref=1TIM_4.1
+9	καιροῖς	καιρός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	10	obl	_	ref=1TIM_4.1
+10	ἀποστήσονταί	ἀφίστημι	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	5	ccomp	_	ref=1TIM_4.1
+11	τινες	τὶς	PRON	Px	Case=Nom|Gender=Fem,Masc|Number=Plur	10	nsubj	_	ref=1TIM_4.1
+12	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	13	det	_	ref=1TIM_4.1
+13	πίστεως	πίστις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	10	obl:arg	_	ref=1TIM_4.1
+14	προσέχοντες	προσέχω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	10	advcl	_	ref=1TIM_4.1
+15	πνεύμασιν	πνεῦμα	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	14	obl:arg	_	ref=1TIM_4.1
+16	πλάνοις	πλάνος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc,Neut|Number=Plur	15	amod	_	ref=1TIM_4.1
+17	καὶ	καί	CCONJ	C-	_	18	cc	_	ref=1TIM_4.1
+18	διδασκαλίαις	διδασκαλία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	15	conj	_	ref=1TIM_4.1
+19	δαιμονίων	δαιμόνιον	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	18	nmod	_	ref=1TIM_4.1
+20	ἐν	ἐν	ADP	R-	_	21	case	_	ref=1TIM_4.2
+21	ὑποκρίσει	ὑπόκρισις	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	14	obl	_	ref=1TIM_4.2
+22	ψευδολόγων	ψευδολόγος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	21	amod	_	ref=1TIM_4.2
+23	κεκαυστηριασμένων	καυστηριάζω	VERB	V-	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	22	acl	_	ref=1TIM_4.2
+24	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	26	det	_	ref=1TIM_4.2
+25	ἰδίαν	ἴδιος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	26	amod	_	ref=1TIM_4.2
+26	συνείδησιν	συνείδησις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	23	obj	_	ref=1TIM_4.2
+27	κωλυόντων	κωλύω	VERB	V-	Case=Gen|Gender=Masc,Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	22	acl	_	ref=1TIM_4.3
+28	γαμεῖν	γαμέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	27	ccomp	_	ref=1TIM_4.3
+29	ἀπέχεσθαι	ἀπέχω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	28	conj	_	ref=1TIM_4.3
+30	βρωμάτων	βρῶμα	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	29	obl:arg	_	ref=1TIM_4.3
+31	ἃ	ὅς	PRON	Pr	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	34	obj	_	ref=1TIM_4.3
+32	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	33	det	_	ref=1TIM_4.3
+33	θεὸς	θεός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	34	nsubj	_	ref=1TIM_4.3
+34	ἔκτισεν	κτίζω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	30	acl	_	ref=1TIM_4.3
+35	εἰς	εἰς	ADP	R-	_	36	case	_	ref=1TIM_4.3
+36	μετάλημψιν	μετάλημψις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	34	obl	_	ref=1TIM_4.3
+37	μετὰ	μετά	ADP	R-	_	38	case	_	ref=1TIM_4.3
+38	εὐχαριστίας	εὐχαριστία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	36	nmod	_	ref=1TIM_4.3
+39	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	40	det	_	ref=1TIM_4.3
+40	πιστοῖς	πιστός	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	34	advmod	_	ref=1TIM_4.3
+41	καὶ	καί	CCONJ	C-	_	42	cc	_	ref=1TIM_4.3
+42	ἐπεγνωκόσι	ἐπιγιγνώσκω	VERB	V-	Aspect=Perf|Case=Dat|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	40	conj	_	ref=1TIM_4.3
+43	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	44	det	_	ref=1TIM_4.3
+44	ἀλήθειαν	ἀλήθεια	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	42	obj	_	ref=1TIM_4.3
+
+# source = The Greek New Testament, 1 Timothy 4
+# text = ὅτι πᾶν κτίσμα θεοῦ καλόν καὶ οὐδὲν ἀπόβλητον μετὰ εὐχαριστίας λαμβανόμενον
+# sent_id = 49968
+1	ὅτι	ὅτι	ADV	Df	_	5	advmod	_	ref=1TIM_4.4|LId=1
+2	πᾶν	πᾶς	DET	Px	Case=Nom|Gender=Neut|Number=Sing	3	det	_	ref=1TIM_4.4
+3	κτίσμα	κτίσμα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	ref=1TIM_4.4
+4	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	ref=1TIM_4.4
+5	καλόν	καλός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	ref=1TIM_4.4
+6	καὶ	καί	CCONJ	C-	_	8	cc	_	ref=1TIM_4.4
+7	οὐδὲν	οὐδείς	DET	Px	Case=Nom|Gender=Neut|Number=Sing	11	det	_	ref=1TIM_4.4
+8	ἀπόβλητον	ἀπόβλητος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	conj	_	ref=1TIM_4.4
+9	μετὰ	μετά	ADP	R-	_	10	case	_	ref=1TIM_4.4
+10	εὐχαριστίας	εὐχαριστία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	11	obl	_	ref=1TIM_4.4
+11	λαμβανόμενον	λαμβάνω	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	8	nsubj	_	ref=1TIM_4.4
+
+# source = The Greek New Testament, 1 Timothy 4
+# text = ἁγιάζεται γὰρ διὰ λόγου θεοῦ καὶ ἐντεύξεως
+# sent_id = 49969
+1	ἁγιάζεται	ἁγιάζω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	ref=1TIM_4.5
+2	γὰρ	γάρ	ADV	Df	_	1	discourse	_	ref=1TIM_4.5
+3	διὰ	διά	ADP	R-	_	4	case	_	ref=1TIM_4.5
+4	λόγου	λόγος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	ref=1TIM_4.5
+5	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	ref=1TIM_4.5
+6	καὶ	καί	CCONJ	C-	_	7	cc	_	ref=1TIM_4.5
+7	ἐντεύξεως	ἔντευξις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	conj	_	ref=1TIM_4.5
+
+# source = The Greek New Testament, 1 Timothy 4
+# text = ταῦτα ὑποτιθέμενος τοῖς ἀδελφοῖς καλὸς ἔσῃ διάκονος Χριστοῦ Ἰησοῦ ἐντρεφόμενος τοῖς λόγοις τῆς πίστεως καὶ τῆς καλῆς διδασκαλίας ᾗ παρηκολούθηκας
+# sent_id = 30566
+1	ταῦτα	οὗτος	PRON	Pd	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	ref=1TIM_4.6
+2	ὑποτιθέμενος	ὑποτίθημι	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	7	advcl	_	ref=1TIM_4.6
+3	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	4	det	_	ref=1TIM_4.6
+4	ἀδελφοῖς	ἀδελφός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	2	obl:arg	_	ref=1TIM_4.6
+5	καλὸς	καλός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	ref=1TIM_4.6
+6	ἔσῃ	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Mid	7	cop	_	ref=1TIM_4.6|LId=1
+7	διάκονος	διάκονος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=1TIM_4.6
+8	Χριστοῦ	Χριστός	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	ref=1TIM_4.6
+9	Ἰησοῦ	Ἰησοῦς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	8	flat:name	_	ref=1TIM_4.6
+10	ἐντρεφόμενος	ἐντρέφω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	7	advcl	_	ref=1TIM_4.6
+11	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	12	det	_	ref=1TIM_4.6
+12	λόγοις	λόγος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	10	obl	_	ref=1TIM_4.6
+13	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	14	det	_	ref=1TIM_4.6
+14	πίστεως	πίστις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	ref=1TIM_4.6
+15	καὶ	καί	CCONJ	C-	_	18	cc	_	ref=1TIM_4.6
+16	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	18	det	_	ref=1TIM_4.6
+17	καλῆς	καλός	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	ref=1TIM_4.6
+18	διδασκαλίας	διδασκαλία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	14	conj	_	ref=1TIM_4.6
+19	ᾗ	ὅς	PRON	Pr	Case=Dat|Gender=Fem|Number=Sing|PronType=Rel	20	obl:arg	_	ref=1TIM_4.6
+20	παρηκολούθηκας	παρακολουθέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	18	acl	_	ref=1TIM_4.6
+
+# source = The Greek New Testament, 1 Timothy 4
+# text = τοὺς δὲ βεβήλους καὶ γραώδεις μύθους παραιτοῦ
+# sent_id = 30567
+1	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	6	det	_	ref=1TIM_4.7
+2	δὲ	δέ	ADV	Df	_	7	discourse	_	ref=1TIM_4.7
+3	βεβήλους	βέβηλος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem,Masc|Number=Plur	6	amod	_	ref=1TIM_4.7
+4	καὶ	καί	CCONJ	C-	_	5	cc	_	ref=1TIM_4.7
+5	γραώδεις	γραώδης	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem,Masc|Number=Plur	3	conj	_	ref=1TIM_4.7
+6	μύθους	μῦθος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	7	obj	_	ref=1TIM_4.7
+7	παραιτοῦ	παραιτέομαι	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=1TIM_4.7
+
+# source = The Greek New Testament, 1 Timothy 4
+# text = γύμναζε δὲ σεαυτὸν πρὸς εὐσέβειαν
+# sent_id = 30568
+1	γύμναζε	γυμνάζω	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_4.7
+2	δὲ	δέ	ADV	Df	_	1	discourse	_	ref=1TIM_4.7
+3	σεαυτὸν	σεαυτοῦ	PRON	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	1	obj	_	ref=1TIM_4.7
+4	πρὸς	πρός	ADP	R-	_	5	case	_	ref=1TIM_4.7
+5	εὐσέβειαν	εὐσέβεια	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obl	_	ref=1TIM_4.7
+
+# source = The Greek New Testament, 1 Timothy 4
+# text = ἡ γὰρ σωματικὴ γυμνασία πρὸς ὀλίγον ἐστὶν ὠφέλιμος
+# sent_id = 49970
+1	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	ref=1TIM_4.8
+2	γὰρ	γάρ	ADV	Df	_	8	discourse	_	ref=1TIM_4.8
+3	σωματικὴ	σωματικός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	ref=1TIM_4.8
+4	γυμνασία	γυμνασία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	ref=1TIM_4.8
+5	πρὸς	πρός	ADP	R-	_	6	case	_	ref=1TIM_4.8
+6	ὀλίγον	ὀλίγος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	8	obl	_	ref=1TIM_4.8
+7	ἐστὶν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	ref=1TIM_4.8|LId=1
+8	ὠφέλιμος	ὠφέλιμος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=1TIM_4.8
+
+# source = The Greek New Testament, 1 Timothy 4
+# text = ἡ δὲ εὐσέβεια πρὸς πάντα ὠφέλιμός ἐστιν ἐπαγγελίαν ἔχουσα ζωῆς τῆς νῦν καὶ τῆς μελλούσης
+# sent_id = 49971
+1	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	ref=1TIM_4.8
+2	δὲ	δέ	ADV	Df	_	6	discourse	_	ref=1TIM_4.8
+3	εὐσέβεια	εὐσέβεια	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	ref=1TIM_4.8
+4	πρὸς	πρός	ADP	R-	_	5	case	_	ref=1TIM_4.8
+5	πάντα	πᾶς	PRON	Px	Case=Acc|Gender=Neut|Number=Plur	6	obl	_	ref=1TIM_4.8
+6	ὠφέλιμός	ὠφέλιμος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=1TIM_4.8
+7	ἐστιν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	ref=1TIM_4.8|LId=1
+8	ἐπαγγελίαν	ἐπαγγελία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	ref=1TIM_4.8
+9	ἔχουσα	ἔχω	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	ref=1TIM_4.8
+10	ζωῆς	ζωή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	ref=1TIM_4.8
+11	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	12	det	_	ref=1TIM_4.8
+12	νῦν	νῦν	ADV	Df	_	10	nmod	_	ref=1TIM_4.8|LId=1
+13	καὶ	καί	CCONJ	C-	_	15	cc	_	ref=1TIM_4.8
+14	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	15	det	_	ref=1TIM_4.8
+15	μελλούσης	μέλλω	VERB	V-	Case=Gen|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	12	conj	_	ref=1TIM_4.8
+
+# source = The Greek New Testament, 1 Timothy 4
+# text = πιστὸς ὁ λόγος καὶ πάσης ἀποδοχῆς ἄξιος
+# sent_id = 30570
+1	πιστὸς	πιστός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=1TIM_4.9
+2	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	ref=1TIM_4.9
+3	λόγος	λόγος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	ref=1TIM_4.9
+4	καὶ	καί	CCONJ	C-	_	7	cc	_	ref=1TIM_4.9
+5	πάσης	πᾶς	DET	Px	Case=Gen|Gender=Fem|Number=Sing	6	det	_	ref=1TIM_4.9
+6	ἀποδοχῆς	ἀποδοχή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	obl	_	ref=1TIM_4.9
+7	ἄξιος	ἄξιος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	conj	_	ref=1TIM_4.9
+
+# source = The Greek New Testament, 1 Timothy 4
+# text = εἰς τοῦτο γὰρ κοπιῶμεν καὶ ἀγωνιζόμεθα ὅτι ἠλπίκαμεν ἐπὶ θεῷ ζῶντι ὅς ἐστιν σωτὴρ πάντων ἀνθρώπων μάλιστα πιστῶν
+# sent_id = 30571
+1	εἰς	εἰς	ADP	R-	_	2	case	_	ref=1TIM_4.10
+2	τοῦτο	οὗτος	PRON	Pd	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	ref=1TIM_4.10
+3	γὰρ	γάρ	ADV	Df	_	4	discourse	_	ref=1TIM_4.10
+4	κοπιῶμεν	κοπιάω	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_4.10
+5	καὶ	καί	CCONJ	C-	_	6	cc	_	ref=1TIM_4.10
+6	ἀγωνιζόμεθα	ἀγωνίζομαι	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	4	conj	_	ref=1TIM_4.10
+7	ὅτι	ὅτι	SCONJ	G-	_	8	mark	_	ref=1TIM_4.10
+8	ἠλπίκαμεν	ἐλπίζω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	ref=1TIM_4.10
+9	ἐπὶ	ἐπί	ADP	R-	_	10	case	_	ref=1TIM_4.10
+10	θεῷ	θεός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	ref=1TIM_4.10
+11	ζῶντι	ζῶ	VERB	V-	Case=Dat|Gender=Masc,Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	acl	_	ref=1TIM_4.10
+12	ὅς	ὅς	PRON	Pr	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	14	nsubj	_	ref=1TIM_4.10
+13	ἐστιν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	ref=1TIM_4.10|LId=1
+14	σωτὴρ	σωτήρ	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	10	acl	_	ref=1TIM_4.10
+15	πάντων	πᾶς	DET	Px	Case=Gen|Gender=Masc,Neut|Number=Plur	16	det	_	ref=1TIM_4.10
+16	ἀνθρώπων	ἄνθρωπος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	14	nmod	_	ref=1TIM_4.10
+17	μάλιστα	μάλα	ADV	Df	Degree=Sup	18	advmod	_	ref=1TIM_4.10
+18	πιστῶν	πιστός	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	16	appos	_	ref=1TIM_4.10
+
+# source = The Greek New Testament, 1 Timothy 4
+# text = Παράγγελλε ταῦτα καὶ δίδασκε
+# sent_id = 30572
+1	Παράγγελλε	παραγγέλλω	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_4.11
+2	ταῦτα	οὗτος	PRON	Pd	Case=Acc|Gender=Neut|Number=Plur	1	obj	_	ref=1TIM_4.11
+3	καὶ	καί	CCONJ	C-	_	4	cc	_	ref=1TIM_4.11
+4	δίδασκε	διδάσκω	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=1TIM_4.11
+
+# source = The Greek New Testament, 1 Timothy 4
+# text = μηδείς σου τῆς νεότητος καταφρονείτω ἀλλὰ τύπος γίνου τῶν πιστῶν ἐν λόγῳ ἐν ἀναστροφῇ ἐν ἀγάπῃ ἐν πίστει ἐν ἁγνείᾳ
+# sent_id = 30573
+1	μηδείς	μηδείς	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	ref=1TIM_4.12
+2	σου	σύ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	det	_	ref=1TIM_4.12
+3	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	ref=1TIM_4.12
+4	νεότητος	νεότης	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	5	obl:arg	_	ref=1TIM_4.12
+5	καταφρονείτω	καταφρονέω	VERB	V-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_4.12
+6	ἀλλὰ	ἀλλά	CCONJ	C-	_	8	cc	_	ref=1TIM_4.12
+7	τύπος	τύπος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	8	xcomp	_	ref=1TIM_4.12
+8	γίνου	γίγνομαι	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	5	conj	_	ref=1TIM_4.12
+9	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	10	det	_	ref=1TIM_4.12
+10	πιστῶν	πιστός	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	7	nmod	_	ref=1TIM_4.12
+11	ἐν	ἐν	ADP	R-	_	12	case	_	ref=1TIM_4.12
+12	λόγῳ	λόγος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	8	obl	_	ref=1TIM_4.12
+13	ἐν	ἐν	ADP	R-	_	14	case	_	ref=1TIM_4.12
+14	ἀναστροφῇ	ἀναστροφή	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	8	obl	_	ref=1TIM_4.12
+15	ἐν	ἐν	ADP	R-	_	16	case	_	ref=1TIM_4.12
+16	ἀγάπῃ	ἀγάπη	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	8	obl	_	ref=1TIM_4.12
+17	ἐν	ἐν	ADP	R-	_	18	case	_	ref=1TIM_4.12
+18	πίστει	πίστις	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	8	obl	_	ref=1TIM_4.12
+19	ἐν	ἐν	ADP	R-	_	20	case	_	ref=1TIM_4.12
+20	ἁγνείᾳ	ἁγνεία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	8	obl	_	ref=1TIM_4.12
+
+# source = The Greek New Testament, 1 Timothy 4
+# text = ἕως ἔρχομαι πρόσεχε τῇ ἀναγνώσει τῇ παρακλήσει τῇ διδασκαλίᾳ
+# sent_id = 30574
+1	ἕως	ἕως	SCONJ	G-	_	2	mark	_	ref=1TIM_4.13
+2	ἔρχομαι	ἔρχομαι	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	3	advcl	_	ref=1TIM_4.13
+3	πρόσεχε	προσέχω	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_4.13
+4	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	ref=1TIM_4.13
+5	ἀναγνώσει	ἀνάγνωσις	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	3	obl:arg	_	ref=1TIM_4.13
+6	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	ref=1TIM_4.13
+7	παρακλήσει	παράκλησις	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	5	conj	_	ref=1TIM_4.13
+8	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	9	det	_	ref=1TIM_4.13
+9	διδασκαλίᾳ	διδασκαλία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	5	conj	_	ref=1TIM_4.13
+
+# source = The Greek New Testament, 1 Timothy 4
+# text = μὴ ἀμέλει τοῦ ἐν σοὶ χαρίσματος ὃ ἐδόθη σοι διὰ προφητείας μετὰ ἐπιθέσεως τῶν χειρῶν τοῦ πρεσβυτερίου
+# sent_id = 30575
+1	μὴ	μή	ADV	Df	Polarity=Neg	2	advmod	_	ref=1TIM_4.14
+2	ἀμέλει	ἀμελέω	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_4.14
+3	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	6	det	_	ref=1TIM_4.14
+4	ἐν	ἐν	ADP	R-	_	5	case	_	ref=1TIM_4.14
+5	σοὶ	σύ	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Sing|Person=2|PronType=Prs	6	nmod	_	ref=1TIM_4.14
+6	χαρίσματος	χάρισμα	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	2	obl:arg	_	ref=1TIM_4.14
+7	ὃ	ὅς	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	8	nsubj:pass	_	ref=1TIM_4.14
+8	ἐδόθη	δίδωμι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	6	acl	_	ref=1TIM_4.14
+9	σοι	σύ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	obl:arg	_	ref=1TIM_4.14
+10	διὰ	διά	ADP	R-	_	11	case	_	ref=1TIM_4.14
+11	προφητείας	προφητεία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	obl	_	ref=1TIM_4.14
+12	μετὰ	μετά	ADP	R-	_	13	case	_	ref=1TIM_4.14
+13	ἐπιθέσεως	ἐπίθεσις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	obl	_	ref=1TIM_4.14
+14	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	15	det	_	ref=1TIM_4.14
+15	χειρῶν	χείρ	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur	13	nmod	_	ref=1TIM_4.14
+16	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	17	det	_	ref=1TIM_4.14
+17	πρεσβυτερίου	πρεσβυτέριον	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	13	nmod	_	ref=1TIM_4.14
+
+# source = The Greek New Testament, 1 Timothy 4
+# text = ταῦτα μελέτα
+# sent_id = 30576
+1	ταῦτα	οὗτος	PRON	Pd	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	ref=1TIM_4.15
+2	μελέτα	μελετάω	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_4.15
+
+# source = The Greek New Testament, 1 Timothy 4
+# text = ἐν τούτοις ἴσθι ἵνα σου ἡ προκοπὴ φανερὰ ᾖ πᾶσιν
+# sent_id = 64172
+1	ἐν	ἐν	ADP	R-	_	2	case	_	ref=1TIM_4.15
+2	τούτοις	οὗτος	PRON	Pd	Case=Dat|Gender=Neut|Number=Plur	0	root	_	ref=1TIM_4.15
+3	ἴσθι	εἰμί	AUX	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	ref=1TIM_4.15|LId=1
+4	ἵνα	ἵνα	SCONJ	G-	_	8	mark	_	ref=1TIM_4.15
+5	σου	σύ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	det	_	ref=1TIM_4.15
+6	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	ref=1TIM_4.15
+7	προκοπὴ	προκοπή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	ref=1TIM_4.15
+8	φανερὰ	φανερός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2	advcl	_	ref=1TIM_4.15
+9	ᾖ	εἰμί	AUX	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	ref=1TIM_4.15|LId=1
+10	πᾶσιν	πᾶς	PRON	Px	Case=Dat|Gender=Masc|Number=Plur	8	obl	_	ref=1TIM_4.15
+
+# source = The Greek New Testament, 1 Timothy 4
+# text = ἔπεχε σεαυτῷ καὶ τῇ διδασκαλίᾳ
+# sent_id = 30577
+1	ἔπεχε	ἐπέχω	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_4.16
+2	σεαυτῷ	σεαυτοῦ	PRON	Pk	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	1	obl:arg	_	ref=1TIM_4.16
+3	καὶ	καί	CCONJ	C-	_	5	cc	_	ref=1TIM_4.16
+4	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	ref=1TIM_4.16
+5	διδασκαλίᾳ	διδασκαλία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	2	conj	_	ref=1TIM_4.16
+
+# source = The Greek New Testament, 1 Timothy 4
+# text = ἐπίμενε αὐτοῖς
+# sent_id = 30578
+1	ἐπίμενε	ἐπιμένω	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_4.16
+2	αὐτοῖς	αὐτός	PRON	Pp	Case=Dat|Gender=Neut|Number=Plur|Person=3|PronType=Prs	1	obl:arg	_	ref=1TIM_4.16
+
+# source = The Greek New Testament, 1 Timothy 4
+# text = τοῦτο γὰρ ποιῶν καὶ σεαυτὸν σώσεις καὶ τοὺς ἀκούοντάς σου
+# sent_id = 30579
+1	τοῦτο	οὗτος	PRON	Pd	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	ref=1TIM_4.16
+2	γὰρ	γάρ	ADV	Df	_	6	discourse	_	ref=1TIM_4.16
+3	ποιῶν	ποιέω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	ref=1TIM_4.16
+4	καὶ	καί	CCONJ	C-	_	5	cc	_	ref=1TIM_4.16
+5	σεαυτὸν	σεαυτοῦ	PRON	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	6	obj	_	ref=1TIM_4.16
+6	σώσεις	σῴζω	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_4.16
+7	καὶ	καί	CCONJ	C-	_	9	cc	_	ref=1TIM_4.16
+8	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	9	det	_	ref=1TIM_4.16
+9	ἀκούοντάς	ἀκούω	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	5	conj	_	ref=1TIM_4.16
+10	σου	σύ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	obl	_	ref=1TIM_4.16
+
+# source = The Greek New Testament, 1 Timothy 5
+# text = Πρεσβυτέρῳ μὴ ἐπιπλήξῃς ἀλλὰ παρακάλει ὡς πατέρα νεωτέρους ὡς ἀδελφούς πρεσβυτέρας ὡς μητέρας νεωτέρας ὡς ἀδελφὰς ἐν πάσῃ ἁγνείᾳ
+# sent_id = 30580
+1	Πρεσβυτέρῳ	πρέσβυς	ADJ	A-	Case=Dat|Degree=Cmp|Gender=Masc|Number=Sing	3	obl:arg	_	ref=1TIM_5.1
+2	μὴ	μή	ADV	Df	Polarity=Neg	3	advmod	_	ref=1TIM_5.1
+3	ἐπιπλήξῃς	ἐπιπλήσσω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_5.1
+4	ἀλλὰ	ἀλλά	CCONJ	C-	_	5	cc	_	ref=1TIM_5.1
+5	παρακάλει	παρακαλέω	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	ref=1TIM_5.1
+6	ὡς	ὡς	ADV	Df	_	7	mark	_	ref=1TIM_5.1
+7	πατέρα	πατήρ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	advcl:cmp	_	ref=1TIM_5.1
+8	νεωτέρους	νέος	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Masc|Number=Plur	5	conj	_	ref=1TIM_5.1
+9	ὡς	ὡς	ADV	Df	_	10	mark	_	ref=1TIM_5.1
+10	ἀδελφούς	ἀδελφός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	8	orphan	_	ref=1TIM_5.1
+11	πρεσβυτέρας	πρέσβυς	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Fem|Number=Plur	5	conj	_	ref=1TIM_5.2
+12	ὡς	ὡς	ADV	Df	_	13	mark	_	ref=1TIM_5.2
+13	μητέρας	μήτηρ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	11	orphan	_	ref=1TIM_5.2
+14	νεωτέρας	νέος	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Fem|Number=Plur	5	conj	_	ref=1TIM_5.2
+15	ὡς	ὡς	ADV	Df	_	16	mark	_	ref=1TIM_5.2
+16	ἀδελφὰς	ἀδελφή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	14	orphan	_	ref=1TIM_5.2
+17	ἐν	ἐν	ADP	R-	_	19	case	_	ref=1TIM_5.2
+18	πάσῃ	πᾶς	DET	Px	Case=Dat|Gender=Fem|Number=Sing	19	det	_	ref=1TIM_5.2
+19	ἁγνείᾳ	ἁγνεία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	14	orphan	_	ref=1TIM_5.2
+
+# source = The Greek New Testament, 1 Timothy 5
+# text = Χήρας τίμα τὰς ὄντως χήρας
+# sent_id = 30581
+1	Χήρας	χήρα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	2	obj	_	ref=1TIM_5.3
+2	τίμα	τιμάω	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_5.3
+3	τὰς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	5	det	_	ref=1TIM_5.3
+4	ὄντως	ὄντως	ADV	Df	_	5	amod	_	ref=1TIM_5.3
+5	χήρας	χήρα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	1	appos	_	ref=1TIM_5.3
+
+# source = The Greek New Testament, 1 Timothy 5
+# text = εἰ δέ τις χήρα τέκνα ἢ ἔκγονα ἔχει μανθανέτωσαν πρῶτον τὸν ἴδιον οἶκον εὐσεβεῖν καὶ ἀμοιβὰς ἀποδιδόναι τοῖς προγόνοις
+# sent_id = 49972
+1	εἰ	εἰ	SCONJ	G-	_	8	mark	_	ref=1TIM_5.4
+2	δέ	δέ	ADV	Df	_	9	discourse	_	ref=1TIM_5.4
+3	τις	τὶς	DET	Px	Case=Nom|Gender=Fem,Masc|Number=Sing	4	det	_	ref=1TIM_5.4
+4	χήρα	χήρα	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	ref=1TIM_5.4
+5	τέκνα	τέκνον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	8	obj	_	ref=1TIM_5.4
+6	ἢ	ἤ	CCONJ	C-	_	7	cc	_	ref=1TIM_5.4
+7	ἔκγονα	ἔκγονος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	5	conj	_	ref=1TIM_5.4
+8	ἔχει	ἔχω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	ref=1TIM_5.4
+9	μανθανέτωσαν	μανθάνω	VERB	V-	Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_5.4
+10	πρῶτον	πρῶτος	ADJ	Mo	Case=Acc|Gender=Neut|Number=Sing	9	advmod	_	ref=1TIM_5.4
+11	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	13	det	_	ref=1TIM_5.4
+12	ἴδιον	ἴδιος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	13	amod	_	ref=1TIM_5.4
+13	οἶκον	οἶκος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	14	obj	_	ref=1TIM_5.4
+14	εὐσεβεῖν	εὐσεβέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	9	xcomp	_	ref=1TIM_5.4
+15	καὶ	καί	CCONJ	C-	_	17	cc	_	ref=1TIM_5.4
+16	ἀμοιβὰς	ἀμοιβή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	17	obj	_	ref=1TIM_5.4
+17	ἀποδιδόναι	ἀποδίδωμι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	14	conj	_	ref=1TIM_5.4
+18	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	19	det	_	ref=1TIM_5.4
+19	προγόνοις	πρόγονος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	17	obl:arg	_	ref=1TIM_5.4
+
+# source = The Greek New Testament, 1 Timothy 5
+# text = τοῦτο γάρ ἐστιν ἀπόδεκτον ἐνώπιον τοῦ θεοῦ
+# sent_id = 49973
+1	τοῦτο	οὗτος	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	ref=1TIM_5.4
+2	γάρ	γάρ	ADV	Df	_	4	discourse	_	ref=1TIM_5.4
+3	ἐστιν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	ref=1TIM_5.4|LId=1
+4	ἀπόδεκτον	ἀπόδεκτος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	ref=1TIM_5.4
+5	ἐνώπιον	ἐνώπιον	ADP	R-	_	7	case	_	ref=1TIM_5.4
+6	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	7	det	_	ref=1TIM_5.4
+7	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	obl	_	ref=1TIM_5.4
+
+# source = The Greek New Testament, 1 Timothy 5
+# text = ἡ δὲ ὄντως χήρα καὶ μεμονωμένη ἤλπικεν ἐπὶ θεὸν καὶ προσμένει ταῖς δεήσεσιν καὶ ταῖς προσευχαῖς νυκτὸς καὶ ἡμέρας
+# sent_id = 30583
+1	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	ref=1TIM_5.5
+2	δὲ	δέ	ADV	Df	_	7	discourse	_	ref=1TIM_5.5
+3	ὄντως	ὄντως	ADV	Df	_	4	amod	_	ref=1TIM_5.5
+4	χήρα	χήρα	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	ref=1TIM_5.5
+5	καὶ	καί	CCONJ	C-	_	6	cc	_	ref=1TIM_5.5
+6	μεμονωμένη	μονόω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	conj	_	ref=1TIM_5.5
+7	ἤλπικεν	ἐλπίζω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_5.5
+8	ἐπὶ	ἐπί	ADP	R-	_	9	case	_	ref=1TIM_5.5
+9	θεὸν	θεός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	7	obl	_	ref=1TIM_5.5
+10	καὶ	καί	CCONJ	C-	_	11	cc	_	ref=1TIM_5.5
+11	προσμένει	προσμένω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	ref=1TIM_5.5
+12	ταῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	13	det	_	ref=1TIM_5.5
+13	δεήσεσιν	δέησις	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	11	obl:arg	_	ref=1TIM_5.5
+14	καὶ	καί	CCONJ	C-	_	16	cc	_	ref=1TIM_5.5
+15	ταῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	16	det	_	ref=1TIM_5.5
+16	προσευχαῖς	προσευχή	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	13	conj	_	ref=1TIM_5.5
+17	νυκτὸς	νύξ	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	11	obl	_	ref=1TIM_5.5
+18	καὶ	καί	CCONJ	C-	_	19	cc	_	ref=1TIM_5.5
+19	ἡμέρας	ἡμέρα	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	17	conj	_	ref=1TIM_5.5
+
+# source = The Greek New Testament, 1 Timothy 5
+# text = ἡ δὲ σπαταλῶσα ζῶσα τέθνηκεν
+# sent_id = 30584
+1	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	ref=1TIM_5.6
+2	δὲ	δέ	ADV	Df	_	5	discourse	_	ref=1TIM_5.6
+3	σπαταλῶσα	σπαταλάω	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	nsubj	_	ref=1TIM_5.6
+4	ζῶσα	ζῶ	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	advcl	_	ref=1TIM_5.6
+5	τέθνηκεν	θνῄσκω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_5.6
+
+# source = The Greek New Testament, 1 Timothy 5
+# text = καὶ ταῦτα παράγγελλε ἵνα ἀνεπίλημπτοι ὦσιν
+# sent_id = 30585
+1	καὶ	καί	CCONJ	C-	_	3	cc	_	ref=1TIM_5.7
+2	ταῦτα	οὗτος	PRON	Pd	Case=Acc|Gender=Neut|Number=Plur	3	obj	_	ref=1TIM_5.7
+3	παράγγελλε	παραγγέλλω	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_5.7
+4	ἵνα	ἵνα	SCONJ	G-	_	5	mark	_	ref=1TIM_5.7
+5	ἀνεπίλημπτοι	ἀνεπίλη(μ)πτος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	3	ccomp	_	ref=1TIM_5.7
+6	ὦσιν	εἰμί	AUX	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=1TIM_5.7|LId=1
+
+# source = The Greek New Testament, 1 Timothy 5
+# text = εἰ δέ τις τῶν ἰδίων καὶ μάλιστα οἰκείων οὐ προνοεῖται τὴν πίστιν ἤρνηται καὶ ἔστιν ἀπίστου χείρων
+# sent_id = 30586
+1	εἰ	εἰ	SCONJ	G-	_	10	mark	_	ref=1TIM_5.8
+2	δέ	δέ	ADV	Df	_	13	discourse	_	ref=1TIM_5.8
+3	τις	τὶς	PRON	Px	Case=Nom|Gender=Fem,Masc|Number=Sing	10	nsubj	_	ref=1TIM_5.8
+4	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	5	det	_	ref=1TIM_5.8
+5	ἰδίων	ἴδιος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	10	obl:arg	_	ref=1TIM_5.8
+6	καὶ	καί	ADV	Df	_	8	advmod	_	ref=1TIM_5.8|LId=1
+7	μάλιστα	μάλα	ADV	Df	Degree=Sup	8	advmod	_	ref=1TIM_5.8
+8	οἰκείων	οἰκεῖος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	5	appos	_	ref=1TIM_5.8
+9	οὐ	οὐ	ADV	Df	Polarity=Neg	10	advmod	_	ref=1TIM_5.8
+10	προνοεῖται	προνοέω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	13	advcl	_	ref=1TIM_5.8
+11	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	12	det	_	ref=1TIM_5.8
+12	πίστιν	πίστις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	13	obj	_	ref=1TIM_5.8
+13	ἤρνηται	ἀρνέομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	ref=1TIM_5.8
+14	καὶ	καί	CCONJ	C-	_	15	cc	_	ref=1TIM_5.8
+15	ἔστιν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	ref=1TIM_5.8|LId=1
+16	ἀπίστου	ἄπιστος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	17	obl	_	ref=1TIM_5.8
+17	χείρων	χείρων	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Fem,Masc|Number=Sing	15	advmod	_	ref=1TIM_5.8
+
+# source = The Greek New Testament, 1 Timothy 5
+# text = χήρα καταλεγέσθω μὴ ἔλαττον ἐτῶν ἑξήκοντα γεγονυῖα ἑνὸς ἀνδρὸς γυνή ἐν ἔργοις καλοῖς μαρτυρουμένη εἰ ἐτεκνοτρόφησεν εἰ ἐξενοδόχησεν εἰ ἁγίων πόδας ἔνιψεν εἰ θλιβομένοις ἐπήρκεσεν εἰ παντὶ ἔργῳ ἀγαθῷ ἐπηκολούθησεν
+# sent_id = 30587
+1	χήρα	χήρα	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	xcomp	_	ref=1TIM_5.9
+2	καταλεγέσθω	καταλέγω	VERB	V-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	ref=1TIM_5.9
+3	μὴ	μή	ADV	Df	Polarity=Neg	4	advmod	_	ref=1TIM_5.9
+4	ἔλαττον	ἐλάσσων	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing	7	xcomp	_	ref=1TIM_5.9
+5	ἐτῶν	ἔτος	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	4	nmod	_	ref=1TIM_5.9
+6	ἑξήκοντα	ἑξήκοντα	NUM	Ma	_	4	obl	_	ref=1TIM_5.9
+7	γεγονυῖα	γίγνομαι	VERB	V-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	2	nsubj:pass	_	ref=1TIM_5.9
+8	ἑνὸς	εἷς	NUM	Ma	Case=Gen|Gender=Masc,Neut|Number=Sing	9	nummod	_	ref=1TIM_5.9
+9	ἀνδρὸς	ἀνήρ	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	ref=1TIM_5.9
+10	γυνή	γυνή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	7	conj	_	ref=1TIM_5.9
+11	ἐν	ἐν	ADP	R-	_	12	case	_	ref=1TIM_5.10
+12	ἔργοις	ἔργον	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	14	obl	_	ref=1TIM_5.10
+13	καλοῖς	καλός	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc,Neut|Number=Plur	12	amod	_	ref=1TIM_5.10
+14	μαρτυρουμένη	μαρτυρέω	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	7	conj	_	ref=1TIM_5.10
+15	εἰ	εἰ	SCONJ	G-	_	16	mark	_	ref=1TIM_5.10
+16	ἐτεκνοτρόφησεν	τεκνοτροφέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	acl	_	ref=1TIM_5.10
+17	εἰ	εἰ	SCONJ	G-	_	18	mark	_	ref=1TIM_5.10
+18	ἐξενοδόχησεν	ξενοδοχέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	acl	_	ref=1TIM_5.10
+19	εἰ	εἰ	SCONJ	G-	_	22	mark	_	ref=1TIM_5.10
+20	ἁγίων	ἅγιος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	21	amod	_	ref=1TIM_5.10
+21	πόδας	πούς	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	22	obj	_	ref=1TIM_5.10
+22	ἔνιψεν	νίπτω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	acl	_	ref=1TIM_5.10
+23	εἰ	εἰ	SCONJ	G-	_	25	mark	_	ref=1TIM_5.10
+24	θλιβομένοις	θλίβω	VERB	V-	Case=Dat|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	25	advcl	_	ref=1TIM_5.10
+25	ἐπήρκεσεν	ἐπαρκέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	acl	_	ref=1TIM_5.10
+26	εἰ	εἰ	SCONJ	G-	_	30	mark	_	ref=1TIM_5.10
+27	παντὶ	πᾶς	DET	Px	Case=Dat|Gender=Masc,Neut|Number=Sing	28	det	_	ref=1TIM_5.10
+28	ἔργῳ	ἔργον	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	30	obl:arg	_	ref=1TIM_5.10
+29	ἀγαθῷ	ἀγαθός	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc,Neut|Number=Sing	28	amod	_	ref=1TIM_5.10
+30	ἐπηκολούθησεν	ἐπακολουθέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	acl	_	ref=1TIM_5.10
+
+# source = The Greek New Testament, 1 Timothy 5
+# text = νεωτέρας δὲ χήρας παραιτοῦ
+# sent_id = 30588
+1	νεωτέρας	νέος	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Fem|Number=Plur	3	amod	_	ref=1TIM_5.11
+2	δὲ	δέ	ADV	Df	_	4	discourse	_	ref=1TIM_5.11
+3	χήρας	χήρα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	4	obj	_	ref=1TIM_5.11
+4	παραιτοῦ	παραιτέομαι	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=1TIM_5.11
+
+# source = The Greek New Testament, 1 Timothy 5
+# text = ὅταν γὰρ καταστρηνιάσωσιν τοῦ Χριστοῦ γαμεῖν θέλουσιν ἔχουσαι κρίμα ὅτι τὴν πρώτην πίστιν ἠθέτησαν
+# sent_id = 30589
+1	ὅταν	ὅταν	ADV	Dq	PronType=Rel	3	advcl	_	ref=1TIM_5.11
+2	γὰρ	γάρ	ADV	Df	_	7	discourse	_	ref=1TIM_5.11
+3	καταστρηνιάσωσιν	καταστρηνιάω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	advcl	_	ref=1TIM_5.11
+4	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	5	det	_	ref=1TIM_5.11
+5	Χριστοῦ	Χριστός	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	obl:arg	_	ref=1TIM_5.11
+6	γαμεῖν	γαμέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	xcomp	_	ref=1TIM_5.11
+7	θέλουσιν	ἐθέλω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_5.11
+8	ἔχουσαι	ἔχω	VERB	V-	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	7	advcl	_	ref=1TIM_5.12
+9	κρίμα	κρίμα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	ref=1TIM_5.12
+10	ὅτι	ὅτι	SCONJ	G-	_	14	mark	_	ref=1TIM_5.12
+11	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	13	det	_	ref=1TIM_5.12
+12	πρώτην	πρῶτος	ADJ	Mo	Case=Acc|Gender=Fem|Number=Sing	13	nmod	_	ref=1TIM_5.12
+13	πίστιν	πίστις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	14	obj	_	ref=1TIM_5.12
+14	ἠθέτησαν	ἀθετέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	ref=1TIM_5.12
+
+# source = The Greek New Testament, 1 Timothy 5
+# text = ἅμα δὲ καὶ ἀργαὶ μανθάνουσιν περιερχόμεναι τὰς οἰκίας οὐ μόνον δὲ ἀργαὶ ἀλλὰ καὶ φλύαροι καὶ περίεργοι λαλοῦσαι τὰ μὴ δέοντα
+# sent_id = 30590
+1	ἅμα	ἅμα	ADV	Df	_	5	advmod	_	ref=1TIM_5.13
+2	δὲ	δέ	ADV	Df	_	5	discourse	_	ref=1TIM_5.13
+3	καὶ	καί	ADV	Df	_	5	advmod	_	ref=1TIM_5.13|LId=1
+4	ἀργαὶ	ἀργός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	5	advmod	_	ref=1TIM_5.13
+5	μανθάνουσιν	μανθάνω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_5.13
+6	περιερχόμεναι	περιέρχομαι	VERB	V-	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	5	xcomp	_	ref=1TIM_5.13
+7	τὰς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	8	det	_	ref=1TIM_5.13
+8	οἰκίας	οἰκία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	6	obj	_	ref=1TIM_5.13
+9	οὐ	οὐ	ADV	Df	Polarity=Neg	10	advmod	_	ref=1TIM_5.13
+10	μόνον	μόνος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	12	advmod	_	ref=1TIM_5.13
+11	δὲ	δέ	ADV	Df	_	12	discourse	_	ref=1TIM_5.13
+12	ἀργαὶ	ἀργός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	5	advmod	_	ref=1TIM_5.13
+13	ἀλλὰ	ἀλλά	CCONJ	C-	_	15	cc	_	ref=1TIM_5.13
+14	καὶ	καί	ADV	Df	_	15	advmod	_	ref=1TIM_5.13|LId=1
+15	φλύαροι	φλύαρος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	12	conj	_	ref=1TIM_5.13
+16	καὶ	καί	CCONJ	C-	_	17	cc	_	ref=1TIM_5.13
+17	περίεργοι	περίεργος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	15	conj	_	ref=1TIM_5.13
+18	λαλοῦσαι	λαλέω	VERB	V-	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	6	advcl	_	ref=1TIM_5.13
+19	τὰ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	21	det	_	ref=1TIM_5.13
+20	μὴ	μή	ADV	Df	Polarity=Neg	21	advmod	_	ref=1TIM_5.13
+21	δέοντα	δεῖ	VERB	V-	Case=Acc|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	18	obj	_	ref=1TIM_5.13
+
+# source = The Greek New Testament, 1 Timothy 5
+# text = βούλομαι οὖν νεωτέρας γαμεῖν τεκνογονεῖν οἰκοδεσποτεῖν μηδεμίαν ἀφορμὴν διδόναι τῷ ἀντικειμένῳ λοιδορίας χάριν
+# sent_id = 30591
+1	βούλομαι	βούλομαι	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=1TIM_5.14
+2	οὖν	οὖν	ADV	Df	_	1	discourse	_	ref=1TIM_5.14
+3	νεωτέρας	νέος	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Fem|Number=Plur	4	nsubj	_	ref=1TIM_5.14
+4	γαμεῖν	γαμέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	ccomp	_	ref=1TIM_5.14
+5	τεκνογονεῖν	τεκνογονέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	conj	_	ref=1TIM_5.14
+6	οἰκοδεσποτεῖν	οἰκοδεσποτέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	conj	_	ref=1TIM_5.14
+7	μηδεμίαν	μηδείς	DET	Px	Case=Acc|Gender=Fem|Number=Sing	8	det	_	ref=1TIM_5.14
+8	ἀφορμὴν	ἀφορμή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	ref=1TIM_5.14
+9	διδόναι	δίδωμι	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	conj	_	ref=1TIM_5.14
+10	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	11	det	_	ref=1TIM_5.14
+11	ἀντικειμένῳ	ἀντίκειμαι	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	9	obl:arg	_	ref=1TIM_5.14
+12	λοιδορίας	λοιδορία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	9	obl	_	ref=1TIM_5.14
+13	χάριν	χάριν	ADP	R-	_	12	case	_	ref=1TIM_5.14
+
+# source = The Greek New Testament, 1 Timothy 5
+# text = ἤδη γάρ τινες ἐξετράπησαν ὀπίσω τοῦ σατανᾶ
+# sent_id = 30592
+1	ἤδη	ἤδη	ADV	Df	_	4	advmod	_	ref=1TIM_5.15
+2	γάρ	γάρ	ADV	Df	_	4	discourse	_	ref=1TIM_5.15
+3	τινες	τὶς	PRON	Px	Case=Nom|Gender=Fem|Number=Plur	4	nsubj:pass	_	ref=1TIM_5.15
+4	ἐξετράπησαν	ἐκτρέπω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	ref=1TIM_5.15
+5	ὀπίσω	ὀπίσω	ADP	R-	_	7	case	_	ref=1TIM_5.15
+6	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	7	det	_	ref=1TIM_5.15
+7	σατανᾶ	Σατανᾶς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	obl	_	ref=1TIM_5.15
+
+# source = The Greek New Testament, 1 Timothy 5
+# text = εἴ τις πιστὴ ἔχει χήρας ἐπαρκείσθω αὐταῖς καὶ μὴ βαρείσθω ἡ ἐκκλησία ἵνα ταῖς ὄντως χήραις ἐπαρκέσῃ
+# sent_id = 30593
+1	εἴ	εἰ	SCONJ	G-	_	4	mark	_	ref=1TIM_5.16
+2	τις	τὶς	DET	Px	Case=Nom|Gender=Fem,Masc|Number=Sing	3	det	_	ref=1TIM_5.16
+3	πιστὴ	πιστός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	nsubj	_	ref=1TIM_5.16
+4	ἔχει	ἔχω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	ref=1TIM_5.16
+5	χήρας	χήρα	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	4	obj	_	ref=1TIM_5.16
+6	ἐπαρκείσθω	ἐπαρκέω	VERB	V-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	ref=1TIM_5.16
+7	αὐταῖς	αὐτός	PRON	Pp	Case=Dat|Gender=Fem|Number=Plur|Person=3|PronType=Prs	6	obl:arg	_	ref=1TIM_5.16
+8	καὶ	καί	CCONJ	C-	_	10	cc	_	ref=1TIM_5.16
+9	μὴ	μή	ADV	Df	Polarity=Neg	10	advmod	_	ref=1TIM_5.16
+10	βαρείσθω	βαρέω	VERB	V-	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	6	conj	_	ref=1TIM_5.16
+11	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	12	det	_	ref=1TIM_5.16
+12	ἐκκλησία	ἐκκλησία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	10	nsubj:pass	_	ref=1TIM_5.16
+13	ἵνα	ἵνα	SCONJ	G-	_	17	mark	_	ref=1TIM_5.16
+14	ταῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	16	det	_	ref=1TIM_5.16
+15	ὄντως	ὄντως	ADV	Df	_	16	amod	_	ref=1TIM_5.16
+16	χήραις	χήρα	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	17	obl:arg	_	ref=1TIM_5.16
+17	ἐπαρκέσῃ	ἐπαρκέω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	advcl	_	ref=1TIM_5.16
+
+# source = The Greek New Testament, 1 Timothy 5
+# text = Οἱ καλῶς προεστῶτες πρεσβύτεροι διπλῆς τιμῆς ἀξιούσθωσαν μάλιστα οἱ κοπιῶντες ἐν λόγῳ καὶ διδασκαλίᾳ
+# sent_id = 30594
+1	Οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	4	det	_	ref=1TIM_5.17
+2	καλῶς	καλῶς	ADV	Df	Degree=Pos	3	advmod	_	ref=1TIM_5.17
+3	προεστῶτες	προΐστημι	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	4	acl	_	ref=1TIM_5.17
+4	πρεσβύτεροι	πρέσβυς	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Masc|Number=Plur	7	nsubj:pass	_	ref=1TIM_5.17
+5	διπλῆς	διπλόος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	ref=1TIM_5.17
+6	τιμῆς	τιμή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	7	obl:arg	_	ref=1TIM_5.17
+7	ἀξιούσθωσαν	ἀξιόω	VERB	V-	Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	ref=1TIM_5.17
+8	μάλιστα	μάλα	ADV	Df	Degree=Sup	10	advmod	_	ref=1TIM_5.17
+9	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	10	det	_	ref=1TIM_5.17
+10	κοπιῶντες	κοπιάω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	appos	_	ref=1TIM_5.17
+11	ἐν	ἐν	ADP	R-	_	12	case	_	ref=1TIM_5.17
+12	λόγῳ	λόγος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	10	obl	_	ref=1TIM_5.17
+13	καὶ	καί	CCONJ	C-	_	14	cc	_	ref=1TIM_5.17
+14	διδασκαλίᾳ	διδασκαλία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	12	conj	_	ref=1TIM_5.17
+
+# source = The Greek New Testament, 1 Timothy 5
+# text = λέγει γὰρ ἡ γραφή βοῦν ἀλοῶντα οὐ φιμώσεις καί ἄξιος ὁ ἐργάτης τοῦ μισθοῦ αὐτοῦ
+# sent_id = 49974
+1	λέγει	λέγω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_5.18
+2	γὰρ	γάρ	ADV	Df	_	1	discourse	_	ref=1TIM_5.18
+3	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	ref=1TIM_5.18
+4	γραφή	γραφή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	ref=1TIM_5.18
+5	βοῦν	βοῦς	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	ref=1TIM_5.18
+6	ἀλοῶντα	ἀλοάω	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	advcl	_	ref=1TIM_5.18
+7	οὐ	οὐ	ADV	Df	Polarity=Neg	8	advmod	_	ref=1TIM_5.18
+8	φιμώσεις	φιμόω	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	1	parataxis	_	ref=1TIM_5.18
+9	καί	καί	CCONJ	C-	_	1	ccomp	_	ref=1TIM_5.18
+10	ἄξιος	ἄξιος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	1	parataxis	_	ref=1TIM_5.18
+11	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	12	det	_	ref=1TIM_5.18
+12	ἐργάτης	ἐργάτης	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	ref=1TIM_5.18
+13	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	14	det	_	ref=1TIM_5.18
+14	μισθοῦ	μισθός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	10	obl:arg	_	ref=1TIM_5.18
+15	αὐτοῦ	αὐτός	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	det	_	ref=1TIM_5.18
+
+# source = The Greek New Testament, 1 Timothy 5
+# text = κατὰ πρεσβυτέρου κατηγορίαν μὴ παραδέχου ἐκτὸς εἰ μὴ ἐπὶ δύο ἢ τριῶν μαρτύρων
+# sent_id = 30597
+1	κατὰ	κατά	ADP	R-	_	2	case	_	ref=1TIM_5.19
+2	πρεσβυτέρου	πρέσβυς	ADJ	A-	Case=Gen|Degree=Cmp|Gender=Masc|Number=Sing	3	nmod	_	ref=1TIM_5.19
+3	κατηγορίαν	κατηγορία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	ref=1TIM_5.19
+4	μὴ	μή	ADV	Df	Polarity=Neg	5	advmod	_	ref=1TIM_5.19
+5	παραδέχου	παραδέχομαι	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=1TIM_5.19
+6	ἐκτὸς	ἐκτός	ADV	Df	_	5	advmod	_	ref=1TIM_5.19
+7	εἰ	εἰ	ADV	Df	_	6	advmod	_	ref=1TIM_5.19|LId=1
+8	μὴ	μή	ADV	Df	Polarity=Neg	7	advmod	_	ref=1TIM_5.19
+9	ἐπὶ	ἐπί	ADP	R-	_	13	case	_	ref=1TIM_5.19
+10	δύο	δύο	NUM	Ma	_	13	nummod	_	ref=1TIM_5.19
+11	ἢ	ἤ	CCONJ	C-	_	12	cc	_	ref=1TIM_5.19
+12	τριῶν	τρεῖς	NUM	Ma	Case=Gen|Number=Plur	10	conj	_	ref=1TIM_5.19
+13	μαρτύρων	μάρτυς	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	7	obl	_	ref=1TIM_5.19
+
+# source = The Greek New Testament, 1 Timothy 5
+# text = Τοὺς ἁμαρτάνοντας ἐνώπιον πάντων ἔλεγχε ἵνα καὶ οἱ λοιποὶ φόβον ἔχωσιν
+# sent_id = 30598
+1	Τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	2	det	_	ref=1TIM_5.20
+2	ἁμαρτάνοντας	ἁμαρτάνω	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	5	obj	_	ref=1TIM_5.20
+3	ἐνώπιον	ἐνώπιον	ADP	R-	_	4	case	_	ref=1TIM_5.20
+4	πάντων	πᾶς	PRON	Px	Case=Gen|Gender=Masc|Number=Plur	5	obl	_	ref=1TIM_5.20
+5	ἔλεγχε	ἐλέγχω	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_5.20
+6	ἵνα	ἵνα	SCONJ	G-	_	11	mark	_	ref=1TIM_5.20
+7	καὶ	καί	ADV	Df	_	9	advmod	_	ref=1TIM_5.20|LId=1
+8	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	9	det	_	ref=1TIM_5.20
+9	λοιποὶ	λοιπός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	11	nsubj	_	ref=1TIM_5.20
+10	φόβον	φόβος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	ref=1TIM_5.20
+11	ἔχωσιν	ἔχω	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	ref=1TIM_5.20
+
+# source = The Greek New Testament, 1 Timothy 5
+# text = Διαμαρτύρομαι ἐνώπιον τοῦ θεοῦ καὶ Χριστοῦ Ἰησοῦ καὶ τῶν ἐκλεκτῶν ἀγγέλων ἵνα ταῦτα φυλάξῃς χωρὶς προκρίματος μηδὲν ποιῶν κατὰ πρόσκλισιν
+# sent_id = 30599
+1	Διαμαρτύρομαι	διαμαρτύρομαι	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=1TIM_5.21
+2	ἐνώπιον	ἐνώπιον	ADP	R-	_	4	case	_	ref=1TIM_5.21
+3	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	4	det	_	ref=1TIM_5.21
+4	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	ref=1TIM_5.21
+5	καὶ	καί	CCONJ	C-	_	6	cc	_	ref=1TIM_5.21
+6	Χριστοῦ	Χριστός	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	4	conj	_	ref=1TIM_5.21
+7	Ἰησοῦ	Ἰησοῦς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	6	flat:name	_	ref=1TIM_5.21
+8	καὶ	καί	CCONJ	C-	_	11	cc	_	ref=1TIM_5.21
+9	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	11	det	_	ref=1TIM_5.21
+10	ἐκλεκτῶν	ἐκλεκτός	ADJ	A-	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	ref=1TIM_5.21
+11	ἀγγέλων	ἄγγελος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	4	conj	_	ref=1TIM_5.21
+12	ἵνα	ἵνα	SCONJ	G-	_	14	mark	_	ref=1TIM_5.21
+13	ταῦτα	οὗτος	PRON	Pd	Case=Acc|Gender=Neut|Number=Plur	14	obj	_	ref=1TIM_5.21
+14	φυλάξῃς	φυλάσσω	VERB	V-	Aspect=Perf|Mood=Sub|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	ref=1TIM_5.21
+15	χωρὶς	χωρίς	ADP	R-	_	16	case	_	ref=1TIM_5.21
+16	προκρίματος	πρόκριμα	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing	14	obl	_	ref=1TIM_5.21
+17	μηδὲν	μηδείς	PRON	Px	Case=Acc|Gender=Neut|Number=Sing	18	obj	_	ref=1TIM_5.21
+18	ποιῶν	ποιέω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	14	advcl	_	ref=1TIM_5.21
+19	κατὰ	κατά	ADP	R-	_	20	case	_	ref=1TIM_5.21
+20	πρόσκλισιν	πρόσκλισις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	18	obl	_	ref=1TIM_5.21
+
+# source = The Greek New Testament, 1 Timothy 5
+# text = Χεῖρας ταχέως μηδενὶ ἐπιτίθει μηδὲ κοινώνει ἁμαρτίαις ἀλλοτρίαις
+# sent_id = 30600
+1	Χεῖρας	χείρ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	4	obj	_	ref=1TIM_5.22
+2	ταχέως	ταχέως	ADV	Df	Degree=Pos	4	advmod	_	ref=1TIM_5.22
+3	μηδενὶ	μηδείς	PRON	Px	Case=Dat|Gender=Masc|Number=Sing	4	obl:arg	_	ref=1TIM_5.22
+4	ἐπιτίθει	ἐπιτίθημι	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_5.22
+5	μή	μή	ADV	G-	Polarity=Neg	6	advmod	_	ref=1TIM_5.22|Sub=1
+5.1	-δέ	δέ	CCONJ	C-	_	6	cc	_	ref=1TIM_5.22|Sub=2
+6	κοινώνει	κοινωνέω	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	ref=1TIM_5.22
+7	ἁμαρτίαις	ἁμαρτία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	6	obl:arg	_	ref=1TIM_5.22
+8	ἀλλοτρίαις	ἀλλότριος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	7	amod	_	ref=1TIM_5.22
+
+# source = The Greek New Testament, 1 Timothy 5
+# text = σεαυτὸν ἁγνὸν τήρει
+# sent_id = 30601
+1	σεαυτὸν	σεαυτοῦ	PRON	Pk	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	3	obj	_	ref=1TIM_5.22
+2	ἁγνὸν	ἁγνός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	3	xcomp	_	ref=1TIM_5.22
+3	τήρει	τηρέω	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_5.22
+
+# source = The Greek New Testament, 1 Timothy 5
+# text = μηκέτι ὑδροπότει ἀλλὰ οἴνῳ ὀλίγῳ χρῶ διὰ τὸν στόμαχον καὶ τὰς πυκνάς σου ἀσθενείας
+# sent_id = 30602
+1	μηκέτι	μηκέτι	ADV	Df	Polarity=Neg	2	advmod	_	ref=1TIM_5.23
+2	ὑδροπότει	ὑδροποτέω	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_5.23
+3	ἀλλὰ	ἀλλά	CCONJ	C-	_	6	cc	_	ref=1TIM_5.23
+4	οἴνῳ	οἶνος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	6	obl:arg	_	ref=1TIM_5.23
+5	ὀλίγῳ	ὀλίγος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc,Neut|Number=Sing	4	amod	_	ref=1TIM_5.23
+6	χρῶ	χράω	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	2	conj	_	ref=1TIM_5.23
+7	διὰ	διά	ADP	R-	_	9	case	_	ref=1TIM_5.23
+8	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	ref=1TIM_5.23
+9	στόμαχον	στόμαχος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	6	obl	_	ref=1TIM_5.23
+10	καὶ	καί	CCONJ	C-	_	14	cc	_	ref=1TIM_5.23
+11	τὰς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	14	det	_	ref=1TIM_5.23
+12	πυκνάς	πυκνός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	14	amod	_	ref=1TIM_5.23
+13	σου	σύ	PRON	Pp	Case=Gen|Gender=Masc|Number=Sing|Person=2|PronType=Prs	14	det	_	ref=1TIM_5.23
+14	ἀσθενείας	ἀσθένεια	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	9	conj	_	ref=1TIM_5.23
+
+# source = The Greek New Testament, 1 Timothy 5
+# text = τινῶν ἀνθρώπων αἱ ἁμαρτίαι πρόδηλοί εἰσιν προάγουσαι εἰς κρίσιν
+# sent_id = 30603
+1	τινῶν	τὶς	DET	Px	Case=Gen|Number=Plur	2	det	_	ref=1TIM_5.24
+2	ἀνθρώπων	ἄνθρωπος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	ref=1TIM_5.24
+3	αἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	4	det	_	ref=1TIM_5.24
+4	ἁμαρτίαι	ἁμαρτία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	ref=1TIM_5.24
+5	πρόδηλοί	πρόδηλος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem,Masc|Number=Plur	0	root	_	ref=1TIM_5.24
+6	εἰσιν	εἰμί	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=1TIM_5.24|LId=1
+7	προάγουσαι	προάγω	VERB	V-	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	5	advcl	_	ref=1TIM_5.24
+8	εἰς	εἰς	ADP	R-	_	9	case	_	ref=1TIM_5.24
+9	κρίσιν	κρίσις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	ref=1TIM_5.24
+
+# source = The Greek New Testament, 1 Timothy 5
+# text = τισὶν δὲ καὶ ἐπακολουθοῦσιν
+# sent_id = 64174
+1	τισὶν	τὶς	PRON	Px	Case=Dat|Gender=Masc|Number=Plur	4	obl:arg	_	ref=1TIM_5.24
+2	δὲ	δέ	ADV	Df	_	4	discourse	_	ref=1TIM_5.24
+3	καὶ	καί	ADV	Df	_	4	advmod	_	ref=1TIM_5.24|LId=1
+4	ἐπακολουθοῦσιν	ἐπακολουθέω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_5.24
+
+# source = The Greek New Testament, 1 Timothy 5
+# text = ὡσαύτως καὶ τὰ ἔργα τὰ καλὰ πρόδηλα καὶ τὰ ἄλλως ἔχοντα κρυβῆναι οὐ δύνανται
+# sent_id = 30604
+1	ὡσαύτως	ὡσαύτως	ADV	Df	_	7	advmod	_	ref=1TIM_5.25
+2	καὶ	καί	ADV	Df	_	4	advmod	_	ref=1TIM_5.25|LId=1
+3	τὰ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	4	det	_	ref=1TIM_5.25
+4	ἔργα	ἔργον	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	7	nsubj	_	ref=1TIM_5.25
+5	τὰ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	6	det	_	ref=1TIM_5.25
+6	καλὰ	καλός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	4	nmod	_	ref=1TIM_5.25
+7	πρόδηλα	πρόδηλος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	0	root	_	ref=1TIM_5.25
+8	καὶ	καί	CCONJ	C-	_	14	cc	_	ref=1TIM_5.25
+9	τὰ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	11	det	_	ref=1TIM_5.25
+10	ἄλλως	ἄλλως	ADV	Df	Degree=Pos	11	advmod	_	ref=1TIM_5.25
+11	ἔχοντα	ἔχω	VERB	V-	Case=Nom|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	14	nsubj	_	ref=1TIM_5.25
+12	κρυβῆναι	κρύπτω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Pass	14	xcomp	_	ref=1TIM_5.25
+13	οὐ	οὐ	ADV	Df	Polarity=Neg	14	advmod	_	ref=1TIM_5.25
+14	δύνανται	δύναμαι	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	7	conj	_	ref=1TIM_5.25
+
+# source = The Greek New Testament, 1 Timothy 6
+# text = Ὅσοι εἰσὶν ὑπὸ ζυγὸν δοῦλοι τοὺς ἰδίους δεσπότας πάσης τιμῆς ἀξίους ἡγείσθωσαν ἵνα μὴ τὸ ὄνομα τοῦ θεοῦ καὶ ἡ διδασκαλία βλασφημῆται
+# sent_id = 30605
+1	Ὅσοι	ὅσος	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	5	nsubj	_	ref=1TIM_6.1
+2	εἰσὶν	εἰμί	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=1TIM_6.1|LId=1
+3	ὑπὸ	ὑπό	ADP	R-	_	4	case	_	ref=1TIM_6.1
+4	ζυγὸν	ζυγόν	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	nmod	_	ref=1TIM_6.1
+5	δοῦλοι	δοῦλος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	ref=1TIM_6.1
+6	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	8	det	_	ref=1TIM_6.1
+7	ἰδίους	ἴδιος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	8	amod	_	ref=1TIM_6.1
+8	δεσπότας	δεσπότης	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	12	obj	_	ref=1TIM_6.1
+9	πάσης	πᾶς	DET	Px	Case=Gen|Gender=Fem|Number=Sing	10	det	_	ref=1TIM_6.1
+10	τιμῆς	τιμή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	11	obl	_	ref=1TIM_6.1
+11	ἀξίους	ἄξιος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	12	xcomp	_	ref=1TIM_6.1
+12	ἡγείσθωσαν	ἡγέομαι	VERB	V-	Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=1TIM_6.1
+13	ἵνα	ἵνα	SCONJ	G-	_	22	mark	_	ref=1TIM_6.1
+14	μὴ	μή	ADV	Df	Polarity=Neg	22	advmod	_	ref=1TIM_6.1
+15	τὸ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	16	det	_	ref=1TIM_6.1
+16	ὄνομα	ὄνομα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	22	nsubj:pass	_	ref=1TIM_6.1
+17	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	18	det	_	ref=1TIM_6.1
+18	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	ref=1TIM_6.1
+19	καὶ	καί	CCONJ	C-	_	21	cc	_	ref=1TIM_6.1
+20	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	21	det	_	ref=1TIM_6.1
+21	διδασκαλία	διδασκαλία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	16	conj	_	ref=1TIM_6.1
+22	βλασφημῆται	βλασφημέω	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	12	advcl	_	ref=1TIM_6.1
+
+# source = The Greek New Testament, 1 Timothy 6
+# text = οἱ δὲ πιστοὺς ἔχοντες δεσπότας μὴ καταφρονείτωσαν ὅτι ἀδελφοί εἰσιν
+# sent_id = 30606
+1	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	4	det	_	ref=1TIM_6.2
+2	δὲ	δέ	ADV	Df	_	7	discourse	_	ref=1TIM_6.2
+3	πιστοὺς	πιστός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	5	amod	_	ref=1TIM_6.2
+4	ἔχοντες	ἔχω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	7	nsubj	_	ref=1TIM_6.2
+5	δεσπότας	δεσπότης	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	4	obj	_	ref=1TIM_6.2
+6	μὴ	μή	ADV	Df	Polarity=Neg	7	advmod	_	ref=1TIM_6.2
+7	καταφρονείτωσαν	καταφρονέω	VERB	V-	Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_6.2
+8	ὅτι	ὅτι	SCONJ	G-	_	9	mark	_	ref=1TIM_6.2
+9	ἀδελφοί	ἀδελφός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	7	advcl	_	ref=1TIM_6.2
+10	εἰσιν	εἰμί	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	ref=1TIM_6.2|LId=1
+
+# source = The Greek New Testament, 1 Timothy 6
+# text = ἀλλὰ μᾶλλον δουλευέτωσαν ὅτι πιστοί εἰσιν καὶ ἀγαπητοὶ οἱ τῆς εὐεργεσίας ἀντιλαμβανόμενοι
+# sent_id = 30607
+1	ἀλλὰ	ἀλλά	CCONJ	C-	_	3	cc	_	ref=1TIM_6.2
+2	μᾶλλον	μᾶλλον	ADV	Df	Degree=Cmp	3	advmod	_	ref=1TIM_6.2
+3	δουλευέτωσαν	δουλεύω	VERB	V-	Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_6.2
+4	ὅτι	ὅτι	SCONJ	G-	_	5	mark	_	ref=1TIM_6.2
+5	πιστοί	πιστός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	3	advcl	_	ref=1TIM_6.2
+6	εἰσιν	εἰμί	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=1TIM_6.2|LId=1
+7	καὶ	καί	CCONJ	C-	_	8	cc	_	ref=1TIM_6.2
+8	ἀγαπητοὶ	ἀγαπητός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	5	conj	_	ref=1TIM_6.2
+9	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	12	det	_	ref=1TIM_6.2
+10	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	11	det	_	ref=1TIM_6.2
+11	εὐεργεσίας	εὐεργεσία	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	12	obl	_	ref=1TIM_6.2
+12	ἀντιλαμβανόμενοι	ἀντιλαμβάνω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	5	nsubj	_	ref=1TIM_6.2
+
+# source = The Greek New Testament, 1 Timothy 6
+# text = Ταῦτα δίδασκε καὶ παρακάλει
+# sent_id = 30608
+1	Ταῦτα	οὗτος	PRON	Pd	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	ref=1TIM_6.2
+2	δίδασκε	διδάσκω	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_6.2
+3	καὶ	καί	CCONJ	C-	_	4	cc	_	ref=1TIM_6.2
+4	παρακάλει	παρακαλέω	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	ref=1TIM_6.2
+
+# source = The Greek New Testament, 1 Timothy 6
+# text = εἴ τις ἑτεροδιδασκαλεῖ καὶ μὴ προσέρχεται ὑγιαίνουσιν λόγοις τοῖς τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ καὶ τῇ κατ’ εὐσέβειαν διδασκαλίᾳ τετύφωται μηδὲν ἐπιστάμενος ἀλλὰ νοσῶν περὶ ζητήσεις καὶ λογομαχίας ἐξ ὧν γίνεται φθόνος ἔρις βλασφημίαι ὑπόνοιαι πονηραί διαπαρατριβαὶ διεφθαρμένων ἀνθρώπων τὸν νοῦν καὶ ἀπεστερημένων τῆς ἀληθείας νομιζόντων πορισμὸν εἶναι τὴν εὐσέβειαν
+# sent_id = 30609
+1	εἴ	εἰ	SCONJ	G-	_	3	mark	_	ref=1TIM_6.3
+2	τις	τὶς	PRON	Px	Case=Nom|Gender=Fem,Masc|Number=Sing	3	nsubj	_	ref=1TIM_6.3
+3	ἑτεροδιδασκαλεῖ	ἑτεροδιδασκαλέω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	advcl	_	ref=1TIM_6.3
+4	καὶ	καί	CCONJ	C-	_	6	cc	_	ref=1TIM_6.3
+5	μὴ	μή	ADV	Df	Polarity=Neg	6	advmod	_	ref=1TIM_6.3
+6	προσέρχεται	προσέρχομαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	3	conj	_	ref=1TIM_6.3
+7	ὑγιαίνουσιν	ὑγιαίνω	VERB	V-	Case=Dat|Gender=Masc,Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	8	acl	_	ref=1TIM_6.3
+8	λόγοις	λόγος	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	6	obl:arg	_	ref=1TIM_6.3
+9	τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	11	det	_	ref=1TIM_6.3
+10	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	11	det	_	ref=1TIM_6.3
+11	κυρίου	κύριος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	ref=1TIM_6.3
+12	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	11	det	_	ref=1TIM_6.3
+13	Ἰησοῦ	Ἰησοῦς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	11	appos	_	ref=1TIM_6.3
+14	Χριστοῦ	Χριστός	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	13	flat:name	_	ref=1TIM_6.3
+15	καὶ	καί	CCONJ	C-	_	19	cc	_	ref=1TIM_6.3
+16	τῇ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	19	det	_	ref=1TIM_6.3
+17	κατ’	κατά	ADP	R-	_	18	case	_	ref=1TIM_6.3
+18	εὐσέβειαν	εὐσέβεια	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	19	nmod	_	ref=1TIM_6.3
+19	διδασκαλίᾳ	διδασκαλία	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	8	conj	_	ref=1TIM_6.3
+20	τετύφωται	τυφόω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	ref=1TIM_6.4
+21	μηδὲν	μηδείς	PRON	Px	Case=Acc|Gender=Neut|Number=Sing	22	obj	_	ref=1TIM_6.4
+22	ἐπιστάμενος	ἐπίσταμαι	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	20	advcl	_	ref=1TIM_6.4
+23	ἀλλὰ	ἀλλά	CCONJ	C-	_	24	cc	_	ref=1TIM_6.4
+24	νοσῶν	νοσέω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	22	conj	_	ref=1TIM_6.4
+25	περὶ	περί	ADP	R-	_	26	case	_	ref=1TIM_6.4
+26	ζητήσεις	ζήτησις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	24	obl	_	ref=1TIM_6.4
+27	καὶ	καί	CCONJ	C-	_	28	cc	_	ref=1TIM_6.4
+28	λογομαχίας	λογομαχία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	26	conj	_	ref=1TIM_6.4
+29	ἐξ	ἐκ	ADP	R-	_	30	case	_	ref=1TIM_6.4
+30	ὧν	ὅς	PRON	Pr	Case=Gen|Gender=Fem|Number=Plur|PronType=Rel	31	obl	_	ref=1TIM_6.4
+31	γίνεται	γίγνομαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	26	acl	_	ref=1TIM_6.4
+32	φθόνος	φθόνος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	31	nsubj	_	ref=1TIM_6.4
+33	ἔρις	ἔρις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	32	conj	_	ref=1TIM_6.4
+34	βλασφημίαι	βλασφημία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	32	conj	_	ref=1TIM_6.4
+35	ὑπόνοιαι	ὑπόνοια	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	32	conj	_	ref=1TIM_6.4
+36	πονηραί	πονηρός	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	37	amod	_	ref=1TIM_6.4
+37	διαπαρατριβαὶ	διαπαρατριβή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	32	conj	_	ref=1TIM_6.5
+38	διεφθαρμένων	διαφθείρω	VERB	V-	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	39	acl	_	ref=1TIM_6.5
+39	ἀνθρώπων	ἄνθρωπος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	37	nmod	_	ref=1TIM_6.5
+40	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	41	det	_	ref=1TIM_6.5
+41	νοῦν	νόος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	38	obl	_	ref=1TIM_6.5
+42	καὶ	καί	CCONJ	C-	_	43	cc	_	ref=1TIM_6.5
+43	ἀπεστερημένων	ἀποστερέω	VERB	V-	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	38	conj	_	ref=1TIM_6.5
+44	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	45	det	_	ref=1TIM_6.5
+45	ἀληθείας	ἀλήθεια	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	43	obl:arg	_	ref=1TIM_6.5
+46	νομιζόντων	νομίζω	VERB	V-	Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	39	acl	_	ref=1TIM_6.5
+47	πορισμὸν	πορισμός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	46	ccomp	_	ref=1TIM_6.5
+48	εἶναι	εἰμί	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	47	cop	_	ref=1TIM_6.5|LId=1
+49	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	50	det	_	ref=1TIM_6.5
+50	εὐσέβειαν	εὐσέβεια	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	47	nsubj	_	ref=1TIM_6.5
+
+# source = The Greek New Testament, 1 Timothy 6
+# text = ἔστιν δὲ πορισμὸς μέγας ἡ εὐσέβεια μετὰ αὐταρκείας
+# sent_id = 30610
+1	ἔστιν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=1TIM_6.6|LId=1
+2	δὲ	δέ	ADV	Df	_	3	discourse	_	ref=1TIM_6.6
+3	πορισμὸς	πορισμός	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	0	root	_	ref=1TIM_6.6
+4	μέγας	μέγας	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	ref=1TIM_6.6
+5	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	ref=1TIM_6.6
+6	εὐσέβεια	εὐσέβεια	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	ref=1TIM_6.6
+7	μετὰ	μετά	ADP	R-	_	8	case	_	ref=1TIM_6.6
+8	αὐταρκείας	αὐτάρκεια	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	ref=1TIM_6.6
+
+# source = The Greek New Testament, 1 Timothy 6
+# text = οὐδὲν γὰρ εἰσηνέγκαμεν εἰς τὸν κόσμον ὅτι οὐδὲ ἐξενεγκεῖν τι δυνάμεθα
+# sent_id = 30611
+1	οὐδὲν	οὐδείς	PRON	Px	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	ref=1TIM_6.7
+2	γὰρ	γάρ	ADV	Df	_	3	discourse	_	ref=1TIM_6.7
+3	εἰσηνέγκαμεν	εἰσφέρω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_6.7
+4	εἰς	εἰς	ADP	R-	_	6	case	_	ref=1TIM_6.7
+5	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	ref=1TIM_6.7
+6	κόσμον	κόσμος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obl	_	ref=1TIM_6.7
+7	ὅτι	ὅτι	SCONJ	G-	_	11	mark	_	ref=1TIM_6.7
+8	οὐ	οὐ	ADV	G-	Polarity=Neg	11	advmod	_	ref=1TIM_6.7|Sub=1
+8.1	-δέ	δέ	CCONJ	C-	_	11	cc	_	ref=1TIM_6.7|Sub=2
+9	ἐξενεγκεῖν	ἐκφέρω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	11	xcomp	_	ref=1TIM_6.7
+10	τι	τὶς	PRON	Px	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	ref=1TIM_6.7
+11	δυνάμεθα	δύναμαι	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	3	advcl	_	ref=1TIM_6.7
+
+# source = The Greek New Testament, 1 Timothy 6
+# text = ἔχοντες δὲ διατροφὰς καὶ σκεπάσματα τούτοις ἀρκεσθησόμεθα
+# sent_id = 30612
+1	ἔχοντες	ἔχω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	7	advcl	_	ref=1TIM_6.8
+2	δὲ	δέ	ADV	Df	_	7	discourse	_	ref=1TIM_6.8
+3	διατροφὰς	διατροφή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	1	obj	_	ref=1TIM_6.8
+4	καὶ	καί	CCONJ	C-	_	5	cc	_	ref=1TIM_6.8
+5	σκεπάσματα	σκέπασμα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	3	conj	_	ref=1TIM_6.8
+6	τούτοις	οὗτος	PRON	Pd	Case=Dat|Gender=Neut|Number=Plur	7	obl:arg	_	ref=1TIM_6.8
+7	ἀρκεσθησόμεθα	ἀρκέω	VERB	V-	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Pass	0	root	_	ref=1TIM_6.8
+
+# source = The Greek New Testament, 1 Timothy 6
+# text = οἱ δὲ βουλόμενοι πλουτεῖν ἐμπίπτουσιν εἰς πειρασμὸν καὶ παγίδα καὶ ἐπιθυμίας πολλὰς ἀνοήτους καὶ βλαβεράς αἵτινες βυθίζουσιν τοὺς ἀνθρώπους εἰς ὄλεθρον καὶ ἀπώλειαν
+# sent_id = 30613
+1	οἱ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	3	det	_	ref=1TIM_6.9
+2	δὲ	δέ	ADV	Df	_	5	discourse	_	ref=1TIM_6.9
+3	βουλόμενοι	βούλομαι	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	5	nsubj	_	ref=1TIM_6.9
+4	πλουτεῖν	πλουτέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=1TIM_6.9
+5	ἐμπίπτουσιν	ἐμπίπτω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_6.9
+6	εἰς	εἰς	ADP	R-	_	7	case	_	ref=1TIM_6.9
+7	πειρασμὸν	πειρασμός	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	5	obl	_	ref=1TIM_6.9
+8	καὶ	καί	CCONJ	C-	_	9	cc	_	ref=1TIM_6.9
+9	παγίδα	παγίς	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	conj	_	ref=1TIM_6.9
+10	καὶ	καί	CCONJ	C-	_	11	cc	_	ref=1TIM_6.9
+11	ἐπιθυμίας	ἐπιθυμία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	7	conj	_	ref=1TIM_6.9
+12	πολλὰς	πολύς	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	11	amod	_	ref=1TIM_6.9
+13	ἀνοήτους	ἀνόητος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem,Masc|Number=Plur	11	amod	_	ref=1TIM_6.9
+14	καὶ	καί	CCONJ	C-	_	15	cc	_	ref=1TIM_6.9
+15	βλαβεράς	βλαβερός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	13	conj	_	ref=1TIM_6.9
+16	αἵτινες	ὅστις	PRON	Pr	Case=Nom|Gender=Fem|Number=Plur|PronType=Rel	17	nsubj	_	ref=1TIM_6.9
+17	βυθίζουσιν	βυθίζω	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl	_	ref=1TIM_6.9
+18	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	19	det	_	ref=1TIM_6.9
+19	ἀνθρώπους	ἄνθρωπος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	17	obj	_	ref=1TIM_6.9
+20	εἰς	εἰς	ADP	R-	_	21	case	_	ref=1TIM_6.9
+21	ὄλεθρον	ὄλεθρος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	17	obl	_	ref=1TIM_6.9
+22	καὶ	καί	CCONJ	C-	_	23	cc	_	ref=1TIM_6.9
+23	ἀπώλειαν	ἀπώλεια	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	21	conj	_	ref=1TIM_6.9
+
+# source = The Greek New Testament, 1 Timothy 6
+# text = ῥίζα γὰρ πάντων τῶν κακῶν ἐστιν ἡ φιλαργυρία ἧς τινες ὀρεγόμενοι ἀπεπλανήθησαν ἀπὸ τῆς πίστεως καὶ ἑαυτοὺς περιέπειραν ὀδύναις πολλαῖς
+# sent_id = 30614
+1	ῥίζα	ῥίζα	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	ref=1TIM_6.10
+2	γὰρ	γάρ	ADV	Df	_	1	discourse	_	ref=1TIM_6.10
+3	πάντων	πᾶς	DET	Px	Case=Gen|Gender=Masc,Neut|Number=Plur	5	det	_	ref=1TIM_6.10
+4	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Number=Plur|PronType=Dem	5	det	_	ref=1TIM_6.10
+5	κακῶν	κακός	ADJ	A-	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	1	nmod	_	ref=1TIM_6.10
+6	ἐστιν	εἰμί	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	ref=1TIM_6.10|LId=1
+7	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	ref=1TIM_6.10
+8	φιλαργυρία	φιλαργυρία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	ref=1TIM_6.10
+9	ἧς	ὅς	PRON	Pr	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	11	obl:arg	_	ref=1TIM_6.10
+10	τινες	τὶς	PRON	Px	Case=Nom|Gender=Fem,Masc|Number=Plur	12	nsubj:pass	_	ref=1TIM_6.10
+11	ὀρεγόμενοι	ὀρέγω	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	12	advcl	_	ref=1TIM_6.10
+12	ἀπεπλανήθησαν	ἀποπλανάω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	8	acl	_	ref=1TIM_6.10
+13	ἀπὸ	ἀπό	ADP	R-	_	15	case	_	ref=1TIM_6.10
+14	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	15	det	_	ref=1TIM_6.10
+15	πίστεως	πίστις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	12	obl	_	ref=1TIM_6.10
+16	καὶ	καί	CCONJ	C-	_	18	cc	_	ref=1TIM_6.10
+17	ἑαυτοὺς	ἑαυτοῦ	PRON	Pk	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	18	obj	_	ref=1TIM_6.10
+18	περιέπειραν	περιπείρω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	ref=1TIM_6.10
+19	ὀδύναις	ὀδύνη	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	18	obl	_	ref=1TIM_6.10
+20	πολλαῖς	πολύς	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	19	amod	_	ref=1TIM_6.10
+
+# source = The Greek New Testament, 1 Timothy 6
+# text = Σὺ δέ ὦ ἄνθρωπε θεοῦ ταῦτα φεῦγε
+# sent_id = 30615
+1	Σὺ	σύ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	ref=1TIM_6.11
+2	δέ	δέ	ADV	Df	_	7	discourse	_	ref=1TIM_6.11
+3	ὦ	ὦ	INTJ	I-	_	4	discourse	_	ref=1TIM_6.11
+4	ἄνθρωπε	ἄνθρωπος	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	7	vocative	_	ref=1TIM_6.11
+5	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	ref=1TIM_6.11
+6	ταῦτα	οὗτος	PRON	Pd	Case=Acc|Gender=Neut|Number=Plur	7	obj	_	ref=1TIM_6.11
+7	φεῦγε	φεύγω	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_6.11
+
+# source = The Greek New Testament, 1 Timothy 6
+# text = δίωκε δὲ δικαιοσύνην εὐσέβειαν πίστιν ἀγάπην ὑπομονήν πραϋπαθίαν
+# sent_id = 30616
+1	δίωκε	διώκω	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_6.11
+2	δὲ	δέ	ADV	Df	_	1	discourse	_	ref=1TIM_6.11
+3	δικαιοσύνην	δικαιοσύνη	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	1	obj	_	ref=1TIM_6.11
+4	εὐσέβειαν	εὐσέβεια	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	conj	_	ref=1TIM_6.11
+5	πίστιν	πίστις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	conj	_	ref=1TIM_6.11
+6	ἀγάπην	ἀγάπη	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	conj	_	ref=1TIM_6.11
+7	ὑπομονήν	ὑπομονή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	conj	_	ref=1TIM_6.11
+8	πραϋπαθίαν	πραΰτης	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	conj	_	ref=1TIM_6.11
+
+# source = The Greek New Testament, 1 Timothy 6
+# text = ἀγωνίζου τὸν καλὸν ἀγῶνα τῆς πίστεως
+# sent_id = 30617
+1	ἀγωνίζου	ἀγωνίζομαι	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=1TIM_6.12
+2	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	ref=1TIM_6.12
+3	καλὸν	καλός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	4	amod	_	ref=1TIM_6.12
+4	ἀγῶνα	ἀγών	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	ref=1TIM_6.12
+5	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	ref=1TIM_6.12
+6	πίστεως	πίστις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	ref=1TIM_6.12
+
+# source = The Greek New Testament, 1 Timothy 6
+# text = ἐπιλαβοῦ τῆς αἰωνίου ζωῆς εἰς ἣν ἐκλήθης καὶ ὡμολόγησας τὴν καλὴν ὁμολογίαν ἐνώπιον πολλῶν μαρτύρων
+# sent_id = 64175
+1	ἐπιλαβοῦ	ἐπιλαμβάνομαι	VERB	V-	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	ref=1TIM_6.12
+2	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	ref=1TIM_6.12
+3	αἰωνίου	αἰώνιος	ADJ	A-	Case=Gen|Degree=Pos|Number=Sing	4	amod	_	ref=1TIM_6.12
+4	ζωῆς	ζωή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	1	obl:arg	_	ref=1TIM_6.12
+5	εἰς	εἰς	ADP	R-	_	6	case	_	ref=1TIM_6.12
+6	ἣν	ὅς	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	7	obl	_	ref=1TIM_6.12
+7	ἐκλήθης	καλέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Pass	4	acl	_	ref=1TIM_6.12
+8	καὶ	καί	CCONJ	C-	_	9	cc	_	ref=1TIM_6.12
+9	ὡμολόγησας	ὁμολογέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	7	conj	_	ref=1TIM_6.12
+10	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	12	det	_	ref=1TIM_6.12
+11	καλὴν	καλός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	ref=1TIM_6.12
+12	ὁμολογίαν	ὁμολογία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	ref=1TIM_6.12
+13	ἐνώπιον	ἐνώπιον	ADP	R-	_	15	case	_	ref=1TIM_6.12
+14	πολλῶν	πολύς	ADJ	A-	Case=Gen|Degree=Pos|Number=Plur	15	amod	_	ref=1TIM_6.12
+15	μαρτύρων	μάρτυς	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	9	obl	_	ref=1TIM_6.12
+
+# source = The Greek New Testament, 1 Timothy 6
+# text = παραγγέλλω ἐνώπιον θεοῦ τοῦ ζῳογονοῦντος τὰ πάντα καὶ Χριστοῦ Ἰησοῦ τοῦ μαρτυρήσαντος ἐπὶ Ποντίου Πειλάτου τὴν καλὴν ὁμολογίαν τηρῆσαί σε τὴν ἐντολὴν ἄσπιλον ἀνεπίλημπτον μέχρι τῆς ἐπιφανείας τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ ἣν καιροῖς ἰδίοις δείξει ὁ μακάριος καὶ μόνος δυνάστης ὁ βασιλεὺς τῶν βασιλευόντων καὶ κύριος τῶν κυριευόντων ὁ μόνος ἔχων ἀθανασίαν φῶς οἰκῶν ἀπρόσιτον ὃν εἶδεν οὐδεὶς ἀνθρώπων οὐδὲ ἰδεῖν δύναται
+# sent_id = 30618
+1	παραγγέλλω	παραγγέλλω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_6.13
+2	ἐνώπιον	ἐνώπιον	ADP	R-	_	3	case	_	ref=1TIM_6.13
+3	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	1	obl	_	ref=1TIM_6.13
+4	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	ref=1TIM_6.13
+5	ζῳογονοῦντος	ζῳογονέω	VERB	V-	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	nmod	_	ref=1TIM_6.13
+6	τὰ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	7	det	_	ref=1TIM_6.13
+7	πάντα	πᾶς	PRON	Px	Case=Acc|Gender=Neut|Number=Plur	5	obj	_	ref=1TIM_6.13
+8	καὶ	καί	CCONJ	C-	_	9	cc	_	ref=1TIM_6.13
+9	Χριστοῦ	Χριστός	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	3	conj	_	ref=1TIM_6.13
+10	Ἰησοῦ	Ἰησοῦς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	9	flat:name	_	ref=1TIM_6.13
+11	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	12	det	_	ref=1TIM_6.13
+12	μαρτυρήσαντος	μαρτυρέω	VERB	V-	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	10	nmod	_	ref=1TIM_6.13
+13	ἐπὶ	ἐπί	ADP	R-	_	14	case	_	ref=1TIM_6.13
+14	Ποντίου	Πόντιος	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	12	obl	_	ref=1TIM_6.13
+15	Πειλάτου	Πιλᾶτος	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	14	flat:name	_	ref=1TIM_6.13
+16	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	18	det	_	ref=1TIM_6.13
+17	καλὴν	καλός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	18	amod	_	ref=1TIM_6.13
+18	ὁμολογίαν	ὁμολογία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	12	obj	_	ref=1TIM_6.13
+19	τηρῆσαί	τηρέω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	1	ccomp	_	ref=1TIM_6.14
+20	σε	σύ	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Sing|Person=2|PronType=Prs	19	nsubj	_	ref=1TIM_6.14
+21	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	22	det	_	ref=1TIM_6.14
+22	ἐντολὴν	ἐντολή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	19	obj	_	ref=1TIM_6.14
+23	ἄσπιλον	ἄσπιλος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	ref=1TIM_6.14
+24	ἀνεπίλημπτον	ἀνεπίλη(μ)πτος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	ref=1TIM_6.14
+25	μέχρι	μέχρι	ADP	R-	_	27	case	_	ref=1TIM_6.14
+26	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	27	det	_	ref=1TIM_6.14
+27	ἐπιφανείας	ἐπιφάνεια	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	19	obl	_	ref=1TIM_6.14
+28	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	29	det	_	ref=1TIM_6.14
+29	κυρίου	κύριος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	27	nmod	_	ref=1TIM_6.14
+30	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs	29	det	_	ref=1TIM_6.14
+31	Ἰησοῦ	Ἰησοῦς	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	29	appos	_	ref=1TIM_6.14
+32	Χριστοῦ	Χριστός	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	31	flat:name	_	ref=1TIM_6.14
+33	ἣν	ὅς	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	36	obj	_	ref=1TIM_6.15
+34	καιροῖς	καιρός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	36	obl	_	ref=1TIM_6.15
+35	ἰδίοις	ἴδιος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	34	amod	_	ref=1TIM_6.15
+36	δείξει	δείκνυμι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	27	acl	_	ref=1TIM_6.15
+37	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	41	det	_	ref=1TIM_6.15
+38	μακάριος	μακάριος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	41	amod	_	ref=1TIM_6.15
+39	καὶ	καί	CCONJ	C-	_	40	cc	_	ref=1TIM_6.15
+40	μόνος	μόνος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	38	conj	_	ref=1TIM_6.15
+41	δυνάστης	δυνάστης	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	36	nsubj	_	ref=1TIM_6.15
+42	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	43	det	_	ref=1TIM_6.15
+43	βασιλεὺς	βασιλεύς	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	41	appos	_	ref=1TIM_6.15
+44	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	45	det	_	ref=1TIM_6.15
+45	βασιλευόντων	βασιλεύω	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	43	nmod	_	ref=1TIM_6.15
+46	καὶ	καί	CCONJ	C-	_	47	cc	_	ref=1TIM_6.15
+47	κύριος	κύριος	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	43	conj	_	ref=1TIM_6.15
+48	τῶν	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	49	det	_	ref=1TIM_6.15
+49	κυριευόντων	κυριεύω	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	47	nmod	_	ref=1TIM_6.15
+50	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	52	det	_	ref=1TIM_6.16
+51	μόνος	μόνος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	52	amod	_	ref=1TIM_6.16
+52	ἔχων	ἔχω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	41	nmod	_	ref=1TIM_6.16
+53	ἀθανασίαν	ἀθανασία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	52	obj	_	ref=1TIM_6.16
+54	φῶς	φῶς	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	55	obj	_	ref=1TIM_6.16
+55	οἰκῶν	οἰκέω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	41	acl	_	ref=1TIM_6.16
+56	ἀπρόσιτον	ἀπρόσιτος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	54	amod	_	ref=1TIM_6.16
+57	ὃν	ὅς	PRON	Pr	Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	58	obj	_	ref=1TIM_6.16
+58	εἶδεν	ὁράω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	41	acl	_	ref=1TIM_6.16
+59	οὐδεὶς	οὐδείς	PRON	Px	Case=Nom|Gender=Masc|Number=Sing	58	nsubj	_	ref=1TIM_6.16
+60	ἀνθρώπων	ἄνθρωπος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	59	nmod	_	ref=1TIM_6.16
+61	οὐ	οὐ	ADV	G-	Polarity=Neg	63	advmod	_	ref=1TIM_6.16|Sub=1
+61.1	-δέ	δέ	CCONJ	C-	_	63	cc	_	ref=1TIM_6.16|Sub=2
+62	ἰδεῖν	ὁράω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	63	xcomp	_	ref=1TIM_6.16
+63	δύναται	δύναμαι	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	58	conj	_	ref=1TIM_6.16
+
+# source = The Greek New Testament, 1 Timothy 6
+# text = ᾧ τιμὴ καὶ κράτος αἰώνιον
+# sent_id = 30619
+1	ᾧ	ὅς	PRON	Pr	Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	2	orphan	_	ref=1TIM_6.16
+2	τιμὴ	τιμή	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	0	root	_	ref=1TIM_6.16
+3	καὶ	καί	CCONJ	C-	_	4	cc	_	ref=1TIM_6.16
+4	κράτος	κράτος	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	2	conj	_	ref=1TIM_6.16
+5	αἰώνιον	αἰώνιος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	ref=1TIM_6.16
+
+# source = The Greek New Testament, 1 Timothy 6
+# text = ἀμήν
+# sent_id = 30620
+1	ἀμήν	ἀμήν	INTJ	I-	_	0	root	_	ref=1TIM_6.16
+
+# source = The Greek New Testament, 1 Timothy 6
+# text = Τοῖς πλουσίοις ἐν τῷ νῦν αἰῶνι παράγγελλε μὴ ὑψηλὰ φρονεῖν μηδὲ ἠλπικέναι ἐπὶ πλούτου ἀδηλότητι ἀλλ’ ἐπὶ θεῷ τῷ παρέχοντι ἡμῖν πάντα πλουσίως εἰς ἀπόλαυσιν ἀγαθοεργεῖν πλουτεῖν ἐν ἔργοις καλοῖς εὐμεταδότους εἶναι κοινωνικούς ἀποθησαυρίζοντας ἑαυτοῖς θεμέλιον καλὸν εἰς τὸ μέλλον ἵνα ἐπιλάβωνται τῆς ὄντως ζωῆς
+# sent_id = 30621
+1	Τοῖς	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Plur|PronType=Dem	2	det	_	ref=1TIM_6.17
+2	πλουσίοις	πλούσιος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	7	obl:arg	_	ref=1TIM_6.17
+3	ἐν	ἐν	ADP	R-	_	6	case	_	ref=1TIM_6.17
+4	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	6	det	_	ref=1TIM_6.17
+5	νῦν	νῦν	ADV	Df	_	6	amod	_	ref=1TIM_6.17|LId=1
+6	αἰῶνι	αἰών	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	2	nmod	_	ref=1TIM_6.17
+7	παράγγελλε	παραγγέλλω	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_6.17
+8	μὴ	μή	ADV	Df	Polarity=Neg	10	advmod	_	ref=1TIM_6.17
+9	ὑψηλὰ	ὑψηλός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	10	obj	_	ref=1TIM_6.17
+10	φρονεῖν	φρονέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	xcomp	_	ref=1TIM_6.17
+11	μή	μή	ADV	G-	Polarity=Neg	12	advmod	_	ref=1TIM_6.17|Sub=1
+11.1	-δέ	δέ	CCONJ	C-	_	12	cc	_	ref=1TIM_6.17|Sub=2
+12	ἠλπικέναι	ἐλπίζω	VERB	V-	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Act	10	conj	_	ref=1TIM_6.17
+13	ἐπὶ	ἐπί	ADP	R-	_	15	case	_	ref=1TIM_6.17
+14	πλούτου	πλοῦτος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	ref=1TIM_6.17
+15	ἀδηλότητι	ἀδηλότης	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	12	obl	_	ref=1TIM_6.17
+16	ἀλλ’	ἀλλά	CCONJ	C-	_	18	cc	_	ref=1TIM_6.17
+17	ἐπὶ	ἐπί	ADP	R-	_	18	case	_	ref=1TIM_6.17
+18	θεῷ	θεός	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	15	conj	_	ref=1TIM_6.17
+19	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	20	det	_	ref=1TIM_6.17
+20	παρέχοντι	παρέχω	VERB	V-	Case=Dat|Gender=Masc,Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	18	nmod	_	ref=1TIM_6.17
+21	ἡμῖν	ἡμεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	20	obl	_	ref=1TIM_6.17
+22	πάντα	πᾶς	PRON	Px	Case=Acc|Gender=Neut|Number=Plur	20	obj	_	ref=1TIM_6.17
+23	πλουσίως	πλουσίως	ADV	Df	Degree=Pos	20	advmod	_	ref=1TIM_6.17
+24	εἰς	εἰς	ADP	R-	_	25	case	_	ref=1TIM_6.17
+25	ἀπόλαυσιν	ἀπόλαυσις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	20	obl	_	ref=1TIM_6.17
+26	ἀγαθοεργεῖν	ἀγαθοεργέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	conj	_	ref=1TIM_6.18
+27	πλουτεῖν	πλουτέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	conj	_	ref=1TIM_6.18
+28	ἐν	ἐν	ADP	R-	_	29	case	_	ref=1TIM_6.18
+29	ἔργοις	ἔργον	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	27	obl	_	ref=1TIM_6.18
+30	καλοῖς	καλός	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc,Neut|Number=Plur	29	amod	_	ref=1TIM_6.18
+31	εὐμεταδότους	εὐμετάδοτος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem,Masc|Number=Plur	10	conj	_	ref=1TIM_6.18
+32	εἶναι	εἰμί	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	31	cop	_	ref=1TIM_6.18|LId=1
+33	κοινωνικούς	κοινωνικός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	31	conj	_	ref=1TIM_6.18
+34	ἀποθησαυρίζοντας	ἀποθησαυρίζω	VERB	V-	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	31	advcl	_	ref=1TIM_6.19
+35	ἑαυτοῖς	ἑαυτοῦ	PRON	Pk	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	34	obl	_	ref=1TIM_6.19
+36	θεμέλιον	θεμέλιος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	34	obj	_	ref=1TIM_6.19
+37	καλὸν	καλός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc,Neut|Number=Sing	36	amod	_	ref=1TIM_6.19
+38	εἰς	εἰς	ADP	R-	_	40	case	_	ref=1TIM_6.19
+39	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	40	det	_	ref=1TIM_6.19
+40	μέλλον	μέλλω	VERB	V-	Case=Acc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	34	obl	_	ref=1TIM_6.19
+41	ἵνα	ἵνα	SCONJ	G-	_	42	mark	_	ref=1TIM_6.19
+42	ἐπιλάβωνται	ἐπιλαμβάνομαι	VERB	V-	Aspect=Perf|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	34	advcl	_	ref=1TIM_6.19
+43	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	45	det	_	ref=1TIM_6.19
+44	ὄντως	ὄντως	ADV	Df	_	45	amod	_	ref=1TIM_6.19
+45	ζωῆς	ζωή	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	42	obl:arg	_	ref=1TIM_6.19
+
+# source = The Greek New Testament, 1 Timothy 6
+# text = Ὦ Τιμόθεε τὴν παραθήκην φύλαξον ἐκτρεπόμενος τὰς βεβήλους κενοφωνίας καὶ ἀντιθέσεις τῆς ψευδωνύμου γνώσεως ἥν τινες ἐπαγγελλόμενοι περὶ τὴν πίστιν ἠστόχησαν
+# sent_id = 30622
+1	Ὦ	ὦ	INTJ	I-	_	2	discourse	_	ref=1TIM_6.20
+2	Τιμόθεε	Τιμόθεος	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	ref=1TIM_6.20
+3	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	ref=1TIM_6.20
+4	παραθήκην	παραθήκη	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	ref=1TIM_6.20
+5	φύλαξον	φυλάσσω	VERB	V-	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1TIM_6.20
+6	ἐκτρεπόμενος	ἐκτρέπω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	5	advcl	_	ref=1TIM_6.20
+7	τὰς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	9	det	_	ref=1TIM_6.20
+8	βεβήλους	βέβηλος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem,Masc|Number=Plur	9	amod	_	ref=1TIM_6.20
+9	κενοφωνίας	κενοφωνία	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	6	obj	_	ref=1TIM_6.20
+10	καὶ	καί	CCONJ	C-	_	11	cc	_	ref=1TIM_6.20
+11	ἀντιθέσεις	ἀντίθεσις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	9	conj	_	ref=1TIM_6.20
+12	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	14	det	_	ref=1TIM_6.20
+13	ψευδωνύμου	ψευδώνυμος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	ref=1TIM_6.20
+14	γνώσεως	γνῶσις	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	ref=1TIM_6.20
+15	ἥν	ὅς	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	17	obj	_	ref=1TIM_6.21
+16	τινες	τὶς	PRON	Px	Case=Nom|Gender=Fem,Masc|Number=Plur	21	nsubj	_	ref=1TIM_6.21
+17	ἐπαγγελλόμενοι	ἐπαγγέλλομαι	VERB	V-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	21	advcl	_	ref=1TIM_6.21
+18	περὶ	περί	ADP	R-	_	20	case	_	ref=1TIM_6.21
+19	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	20	det	_	ref=1TIM_6.21
+20	πίστιν	πίστις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	21	obl	_	ref=1TIM_6.21
+21	ἠστόχησαν	ἀστοχέω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	acl	_	ref=1TIM_6.21
+
+# source = The Greek New Testament, 1 Timothy 6
+# text = Ἡ χάρις μεθ’ ὑμῶν
+# sent_id = 30623
+1	Ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	ref=1TIM_6.21
+2	χάρις	χάρις	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	ref=1TIM_6.21
+3	μεθ’	μετά	ADP	R-	_	4	case	_	ref=1TIM_6.21
+4	ὑμῶν	ὑμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	0	root	_	ref=1TIM_6.21
